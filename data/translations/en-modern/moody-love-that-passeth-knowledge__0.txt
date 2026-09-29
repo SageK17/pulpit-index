@@ -54,12 +54,12 @@
 0.54	“Greater love has no man than this, that a man lay down his life for his friends.”
 0.55	Christ laid down His life for His enemies; Christ laid down His life for His murderers; Christ laid down His life for those who hated Him; and the spirit of the cross, the spirit of Calvary, is love.
 0.56	When they were mocking Him and deriding Him, what did He say?
-0.57	“Father, forgive them; they do not know what they do.”
+0.57	“Father, forgive them, for they do not know what they do.”
 0.58	That is love. He did not call down fire from heaven to consume them; there was nothing but love in His heart.
 0.59	If you study the Bible, you will find that the love of God is unchangeable.
 0.60	Many who once loved you have perhaps grown cold in their affection and turned away from you; it may be that their love has changed to hatred.
 0.61	It is not so with God.
-0.62	It is recorded of Jesus Christ, just when He was about to be parted from His disciples and led away to Calvary, that “having loved His own who were in the world, He loved them to the very end” (John 13:1).
+0.62	It is recorded of Jesus Christ, just when He was about to be parted from His disciples and led away to Calvary, that “having loved His own who were in the world, He loved them to the end” (John 13:1).
 0.63	He knew that one of His disciples would betray Him; yet He loved Judas.
 0.64	He knew that another disciple would deny Him and swear that he never knew Him; and yet He loved Peter.
 0.65	It was the love that Christ had for Peter that broke his heart and brought him back in repentance to the feet of his Lord.
@@ -89,7 +89,7 @@
 0.89	He hates sin because it mars human life.
 0.90	It is precisely because God loves the sinner that He hates sin.
 0.91	God’s love is not only unchangeable, but unfailing.
-0.92	In Isaiah 49:15–16 we read: “Can a woman forget the child at her breast, so that she has no compassion on the son of her womb? Yes, they may forget; yet I will not forget you.
+0.92	In Isaiah 49:15–16 we read: “Can a woman forget her nursing child, so that she has no compassion on the son of her womb? Yes, they may forget; yet I will not forget you.
 0.93	Look, I have engraved you on the palms of My hands; your walls are always before Me.”
 0.94	Now the strongest human love that we know of is a mother’s love.
 0.95	Many things will separate a man from his wife.
@@ -147,13 +147,13 @@
 0.147	It “passes knowledge” (Ephesians 3:19).
 0.148	Nothing speaks to us of the love of God like the cross of Christ.
 0.149	Come with me to Calvary and look upon the Son of God as He hangs there.
-0.150	Can you hear that piercing cry from His dying lips, “Father, forgive them; they do not know what they do!” and say that He does not love you?
+0.150	Can you hear that piercing cry from His dying lips, “Father, forgive them, for they do not know what they do!” and say that He does not love you?
 0.151	“Greater love has no man than this, that a man lay down his life for his friends” (John 15:13).
 0.152	But Jesus Christ laid down His life for His enemies.
 0.153	Another thought is this: He loved us long before we ever thought of Him.
 0.154	The idea that He does not love us until we first love Him is not to be found in Scripture.
-0.155	In 1 John 4:10 it is written:
-0.156	“Here is love: not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.”
+0.155	In 1 John 4:10
+0.156	it is written: “Here is love: not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.”
 0.157	He loved us before we ever thought of loving Him.
 0.158	You loved your children before they knew anything about your love.
 0.159	And so, long before we ever thought of God, we were in His thoughts.
@@ -193,8 +193,8 @@
 0.193	“God commends His love toward us in that, while we were still sinners, Christ died for us” (Romans 5:8).
 0.194	God sent Him to die for the sins of the whole world.
 0.195	If you belong to the world, then you have a part and a share in this love that has been displayed in the cross of Christ.
-0.196	There is a passage in Revelation 1:5 that I think a great deal of—
-0.197	“To Him who loved us, and washed us.”
+0.196	There is a passage in Revelation 1:5
+0.197	that I think a great deal of—“To Him who loved us, and washed us.”
 0.198	One might think that God would first wash us and then love us.
 0.199	But no, He loved us first.
 0.200	About eight years ago the whole country was intensely stirred over Charlie Ross, a child four years old, who was stolen.

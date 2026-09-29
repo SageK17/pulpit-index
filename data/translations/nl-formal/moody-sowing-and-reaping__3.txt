@@ -55,7 +55,7 @@ T:7	Waarschuwing
 7.50	Wij spinnen ons eigen lot, goed of kwaad, en het kan nooit meer ongedaan worden gemaakt.
 7.51	Elke kleinste daad van deugd of van ondeugd laat haar litteken na, hoe klein ook.
 7.52	De dronken Rip Van Winkle in het toneelstuk van Jefferson verontschuldigt zich voor elke nieuwe misstap met de woorden: ‘Deze keer tel ik niet mee.’
-7.53	Nu, hij mag het niet meetellen, en een goedgunstige hemel mag het niet meetellen, maar het wordt niettemin wel degelijk geteld.
+7.53	Welnu, hij telt het misschien niet mee, en een goedgunstige hemel telt het misschien niet mee, maar het wordt niettemin wel degelijk geteld.
 7.54	Diep in zijn zenuwcellen en vezels tellen de moleculen het, registreren het en slaan het op, om het tegen hem te gebruiken wanneer de volgende verzoeking komt.
 7.55	Niets wat wij ooit doen, wordt, in strikt wetenschappelijke zin, uitgewist.
 7.56	Natuurlijk heeft dit zowel een goede als een slechte kant.
@@ -129,7 +129,7 @@ T:7	Waarschuwing
 7.124	Want ik heb naar de innerlijke mens vreugde in de wet van God; maar ik zie een andere wet in mijn leden, die strijd voert tegen de wet van mijn verstand, en mij gevangen neemt onder de wet van de zonde die in mijn leden is.
 7.125	Ik, ellendig mens! Wie zal mij verlossen uit het lichaam van deze dood?”
 7.126	Geloofd zij God, hij kon eraan toevoegen: “Ik dank God door Jezus Christus, onze Heere.”
-7.127	De keuze die God ons heeft voorgelegd, is glashelder: “Wie in de Zoon gelooft, heeft eeuwig leven; maar wie de Zoon niet gelooft, zal het leven niet zien, maar de toorn van God blijft op hem.”
+7.127	De keuze die God ons heeft voorgelegd, is glashelder: “Wie in de Zoon gelooft, heeft eeuwig leven; en wie de Zoon niet gelooft, zal het leven niet zien, maar de toorn van God blijft op hem.”
 7.128	Er is geen middenweg—“wie gelooft”—“wie niet gelooft.”
 7.129	Hij laat ons de keuze, en de verantwoordelijkheid rust op onszelf.
 7.130	Het kan u menig offer kosten en menige hartensnaar verscheuren om de juiste keuze te maken, maar ik smeek u de beslissende stap nu te zetten.

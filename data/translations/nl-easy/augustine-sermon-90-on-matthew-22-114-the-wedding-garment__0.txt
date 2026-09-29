@@ -72,7 +72,7 @@
 0.72	“Want velen zijn geroepen, maar weinigen uitgekozen.”
 0.73	Laat de weinigen met rust. Gooi de velen eruit.
 0.74	Het is waar: het was maar één man.
-0.75	Toch was die ene man zeker niet alleen velen. Die velen waren ook veel talrijker dan de goeden.
+0.75	Toch was die ene man zonder twijfel velen. En meer nog: die velen waren veel talrijker dan de goeden.
 0.76	Want de goeden zijn ook met veel. Maar vergeleken met de slechten zijn ze met weinig.
 0.77	In de oogst zit veel tarwe. Maar vergelijk het met het kaf, en de graankorrels zijn weinig.
 0.78	Dezelfde mensen zijn op zichzelf met veel. Vergeleken met de slechten zijn ze met weinig.

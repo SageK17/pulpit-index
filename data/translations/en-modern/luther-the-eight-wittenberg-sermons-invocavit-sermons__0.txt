@@ -13,7 +13,7 @@ T:0	The First Sermon (Invocavit Sunday)
 0.12	With respect to these two points nothing seems to be lacking or amiss; they have been rightly preached to you, and I would be very sorry if it were otherwise.
 0.13	No, I am well aware, and I dare say, that you are more learned in this than I am, and that there are not only one, two, three, or four, but perhaps ten or more, who have this wisdom and enlightenment.
 0.14	Thirdly, there must also be love, and through love we must do to one another as God has done to us through faith.
-0.15	For without love faith is nothing, as St. Paul says in 1 Corinthians 13: "If I could speak with the tongues of angels, and of the highest things in faith, and have not love, I am nothing."
+0.15	For without love faith is nothing, as St. Paul says in 1 Corinthians 2: "If I could speak with the tongues of angels, and of the highest things in faith, and have not love, I am nothing."
 0.16	[1 Cor. 13:1] And here, dear friends, have you not failed grievously?
 0.17	I see no signs of love among you, and I observe that you have not been grateful to God for His rich gifts and treasures.
 0.18	Let us beware that Wittenberg does not become Capernaum.

@@ -18,7 +18,7 @@
 0.18	“Voorwaar, Ik zeg u: Zij hebben hun loon.”
 0.19	Hun loon was de toejuiching van hun medemensen.
 0.20	Een armzalige, ellendige vergelding.
-0.21	“Maar u, wanneer u bidt, ga in uw binnenkamer.”
+0.21	“Maar wanneer u bidt, ga in uw binnenkamer.”
 0.22	Het grote punt hier is de verborgenheid met betrekking tot het gebed.
 0.23	Niet iedereen verkeert in een zodanige positie dat hij een kamertje heeft waarin hij zich kan terugtrekken en de deur op slot kan doen.
 0.24	Maar als het kan, dan moet het ook gebeuren.
@@ -97,7 +97,7 @@
 0.97	“Geef ons heden ons dagelijks brood.”
 0.98	Op deze bede mogen wij schrijven: kleding, huishuur, belastingen, voorziening in alles wat ons gezin nodig heeft.
 0.99	Dit alles ligt besloten in de bede om het dagelijks brood.
-0.100	En hoe kostbaar is het tot een liefdevolle Vader te mogen gaan, Wiens hoogste vreugde en verlustiging het is de beden van Zijn kinderen te verhoren.
+0.100	En hoe kostbaar is het dat wij tot een liefdevolle Vader moeten gaan, Wiens hoogste vreugde en verlustiging het is de beden van Zijn kinderen te verhoren.
 0.101	Hij is geen harde Meester, geen streng Wezen, maar een oneindig liefdevolle Vader.
 0.102	Och, mocht het toch steeds meer ieder van de kinderen van God gegeven worden Hem te zien als een oneindig liefdevol Wezen; want wanneer wij tot die staat gebracht zijn, zijn wij te allen tijde en onder alle omstandigheden volkomen tevreden met Zijn handelingen met ons.
 0.103	Of die nu pijnlijk zijn of niet, wij zijn tevreden in de overtuiging dat Hij alle dingen goed doet.

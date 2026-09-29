@@ -6,7 +6,7 @@
 0.6	IV. What does the command “Pray for one another” mean?
 H:0.6	I. What does the command “Confess your faults to one another” mean?
 0.7	1. There is no reason to think that this verse supports the Roman Catholic teaching that people must confess their sins to priests.
-0.8	You know the teaching that has been common in that church for so long. It is called “auricular confession,” which means confession into the ear, because it was spoken privately into the priest’s ear.
+0.8	You know the teaching that has been common in that church for so long. It is called “auricular confession,” because it was spoken privately into the priest’s ear.
 0.9	This teaching says that everyone must privately confess every action and every thought that troubles their conscience at all.
 0.10	So this system turns the priest into a storehouse for all the sins of the church. He holds all the most private sins of every member, man or woman. And they must confess them, or else face damnation.
 0.11	Anyone who knows what this system has led to knows that it has naturally done great harm to the purity and morals of both the priests and the people.
@@ -156,7 +156,7 @@ H:0.28	III. Why are we told, “Confess your faults to one another”?
 0.153	You may remember a story I told not long ago about Dr. Hopkins. His deep and wholehearted confessions led to the conversion of his wicked brother-in-law.
 0.154	Confessions will often do what nothing else can do.
 0.155	They often show wicked people that Christians are completely different from them in spirit.
-0.156	Wicked people know they do not confess their faults like that. They know nothing about that kind of broken, humble spirit.
+0.156	Wicked people know they do not confess their faults like that. They know nothing about that kind of broken spirit.
 0.157	That is why the confessions of a humble Christian reach their conscience like nothing else can.
 0.158	I have often seen people spread conviction of sin like fire through a whole congregation just by simply confessing their own sins.
 0.159	I remember right now the story of a minister whose confession to his church started a wonderful revival.
@@ -219,7 +219,7 @@ H:0.28	III. Why are we told, “Confess your faults to one another”?
 0.216	V. Obeying this command means having a real spirit of forgiveness. It means wanting God to forgive, and showing that wish through real prayer to God.
 0.217	This is too obvious to need an example.
 0.218	When people confess the sins they keep falling into, it means we should care about their becoming holy and pray hard to God for this great result.
-H:0.52	Closing remarks.
+H:0.52	Remarks.
 0.219	1. Wrongs done against the public should be confessed in public.
 0.220	No one can have any doubt about this.
 0.221	If a confession should be made at all, it should be made to the people who were sinned against.
@@ -267,7 +267,7 @@ H:0.52	Closing remarks.
 0.263	That is how it was with Job and his three friends.
 0.264	They had spoken unkindly about him, and they had good reason to ask him to forgive them.
 0.265	God was angry with them. What did He say?
-0.266	“Go to My servant Job,” He said. “My servant Job will pray for you, and I will accept him.”
+0.266	“Go to My servant Job,” He said. “My servant Job will pray for you, because I will accept him.”
 0.267	They had accused Job of being a hypocrite.
 0.268	Now let them make things right with Job and get him to pray to the Lord for them. Then they can be forgiven.
 0.269	He, more than anyone else, is the right man to pray for them.

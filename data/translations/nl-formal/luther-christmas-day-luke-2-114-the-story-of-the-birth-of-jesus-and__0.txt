@@ -58,7 +58,7 @@ H:0.3	Het verhaal van de geboorte van Jezus.
 0.56	Dit is niet juist.
 0.57	De evangelist wil laten zien dat Jozef en Maria een stal moesten betrekken, omdat er voor haar geen plaats was in de herberg, op de plaats waar de reizende gasten gewoonlijk verbleven.
 0.58	Alle gasten werden in de herberg of karavanserai verzorgd met kamer, spijs en bed, behalve deze arme mensen, die in een stal moesten kruipen waar men gewoonlijk het vee onderbracht.
-0.59	Dit woord "diversorium", dat bij Lukas "katalyma" heet, betekent niets anders dan een plaats voor gasten, wat bewezen wordt door de woorden van Christus in Lukas 22:11, waar Hij de discipelen zond om het avondmaal voor te bereiden: "Gaat heen en zegt tegen de eigenaar van het huis: De Meester laat u vragen: Waar is de gastenkamer waarin Ik met Mijn discipelen het Pascha zal eten?"
+0.59	Dit woord "diversorium", dat bij Lukas "katalyma" heet, betekent niets anders dan een plaats voor gasten, wat bewezen wordt door de woorden van Christus in Lukas 22:11, waar Hij de discipelen zond om het avondmaal voor te bereiden: "Ga heen en zeg tegen de heer van het huis: De Meester zegt tegen u: Waar is de gastenkamer, waar Ik met Mijn discipelen het Pascha zal eten?"
 0.60	Zo hadden ook hier Jozef en Maria geen plaats in de katalyma, de herberg, maar alleen in de stal die bij de waard hoorde, die niet waardig zou zijn geweest om zo'n Gast onderdak te geven.
 0.61	Zij hadden geld noch invloed om een kamer in de herberg te verkrijgen; daarom moesten zij in een stal overnachten.
 0.62	O wereld, hoe dwaas!

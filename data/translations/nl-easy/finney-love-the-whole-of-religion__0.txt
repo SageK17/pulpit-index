@@ -12,7 +12,7 @@ H:0.7	I. Eerst wil ik iets zeggen over wat liefde is.
 0.11	Het betekent: het goede willen voor iemand, of verlangen dat die ander gelukkig wordt.
 0.12	Waardering is respect, of goedkeuring voor het karakter van de ander.
 0.13	Welwillendheid moet je tonen aan iedereen, of hij nu goed of slecht leeft.
-0.14	Waardering verdienen alleen mensen die goed en heilig zijn.
+0.14	Waardering verdient alleen wie goed en heilig is.
 0.15	2. Liefde kan bestaan als genegenheid, maar ook als gevoel.
 0.16	Als liefde een genegenheid is, kies je er zelf voor. Dan is het een daad van je wil.
 0.17	Als liefde een gevoel is, komt het vanzelf.
@@ -60,7 +60,7 @@ H:0.17	II. Nu wil ik laten zien dat liefde het hele geloof is.
 0.58	Zo is het ook bij de mens.
 0.59	Alles wat goed is in een mens, is een vorm van liefde.
 0.60	Haat tegen de zonde is gewoon liefde voor het goede. Die liefde laat zich zien door zich te verzetten tegen alles wat tegen het goede ingaat.
-0.61	Zo zit er in echt geloof ook altijd liefde. Een geloof zonder liefde, dat niet door liefde werkt, hoort niet bij het echte geloofsleven.
+0.61	Zo zit er in echt geloof ook altijd liefde. Een geloof zonder liefde, of dat niet door liefde werkt, hoort niet bij het echte geloofsleven.
 0.62	Het geloof dat erbij hoort, is een liefdevol vertrouwen op God.
 0.63	Er bestaat een soort geloof in God waar geen liefde in zit.
 0.64	De duivel heeft dat soort geloof.
@@ -89,7 +89,7 @@ H:0.24	III. Nu noem ik een paar dingen die niet nodig zijn voor volmaakte liefde
 0.86	Als we kijken hoe de geest werkt, zien we dat het zo kan zijn met alle gelovigen in de hemelse heerlijkheid. Hun liefde zal tot in eeuwigheid groeien, en toch is het altijd volmaakte liefde.
 0.87	3. Voor volmaakte liefde is het niet nodig dat je altijd van iedereen evenveel houdt.
 0.88	We kunnen niet aan iedereen tegelijk denken.
-0.89	Jullie kunnen zelfs niet tegelijk denken aan iedereen die je kent.
+0.89	Jullie kunnen zelfs niet tegelijk denken aan iedereen die jullie kennen.
 0.90	Hoeveel liefde je voor iemand voelt, hangt ervan af of je op dat moment aan die persoon denkt.
 0.91	4. Voor volmaakte liefde is het niet nodig dat je voor iedereen even sterk de geest van gebed hebt, of voor dezelfde persoon altijd even sterk.
 0.92	De geest van gebed is niet altijd nodig voor zuivere en volmaakte liefde.
@@ -218,7 +218,7 @@ H:0.45	V. Nu noem ik een paar gevolgen van volmaakte liefde.
 0.213	Liefde „gelooft alles”. Ze is niet moeilijk te overtuigen van iets goeds over een ander, maar is altijd bereid het goede te geloven, zodra er maar het kleinste bewijs voor is.
 0.214	Liefde „hoopt alles”. Zelfs als er reden is om iets slechts te vermoeden, blijft ze hopen zolang dat kan, door de zaak zo positief mogelijk uit te leggen.
 0.215	Zie je iemand die deze houding niet heeft? Weet dan zeker dat hij helemaal niet volmaakt is in liefde.
-0.216	Nee, hij heeft helemaal geen liefde.
+0.216	Sterker nog: hij heeft helemaal geen liefde.
 0.217	Ik zou hier nog langer over kunnen doorgaan, maar ik heb geen tijd.
 0.218	„Liefde doet een ander nooit kwaad.”
 0.219	Let daarop: NOOIT KWAAD!
@@ -234,8 +234,8 @@ H:0.45	V. Nu noem ik een paar gevolgen van volmaakte liefde.
 0.229	Volmaakte liefde laat zich altijd zien in grote inzet om de kerk heilig te maken en mensen te redden.
 0.230	Als iemand op een van die twee punten nalatig is of tekortschiet, is hij helemaal niet volmaakt in liefde, wat hij ook beweert.
 H:0.60	WAT WE HIERUIT LEREN.
-0.231	I. Jullie zien waarom het klopt wat de apostel Jakobus zegt: „Als iemand van jullie denkt dat hij gelovig is, maar zijn tong niet in bedwang houdt, dan bedriegt hij zichzelf. Zijn geloof is niets waard.”
-0.232	Iemand die zegt dat hij gelovig is, maar zich toestaat om ongeremd kwaad te spreken over zijn naaste en hem schade te doen, bedriegt zichzelf als hij denkt dat hij zijn naaste liefheeft zoals zichzelf. Vreemde liefde!
+0.231	I. Jullie zien waarom het klopt wat de apostel Jakobus zegt: „Als iemand van jullie gelovig lijkt, maar zijn tong niet in toom houdt en zijn eigen hart bedriegt, dan is zijn geloof niets waard.”
+0.232	Iemand zegt misschien dat hij gelovig is, maar laat zijn tong de vrije loop. Hij spreekt kwaad over zijn naaste en doet hem schade. Als hij denkt dat hij zijn naaste liefheeft zoals zichzelf, bedriegt hij zichzelf. Vreemde liefde!
 0.233	II. Iemand kan veel weten over het geloof, zonder liefde.
 0.234	Je ziet vaak mensen die met hun verstand heel veel van het geloof begrijpen en het goed aan anderen kunnen uitleggen. Maar het is duidelijk dat ze niet door liefde gedreven worden.
 0.235	De wet van de vriendelijkheid is niet op hun lippen te vinden.

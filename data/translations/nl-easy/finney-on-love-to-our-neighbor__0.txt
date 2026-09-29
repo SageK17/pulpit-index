@@ -84,7 +84,7 @@ H:0.11	II. Nu noem ik een paar dingen die bij deze liefde horen.
 0.83	IV. Niets minder dan dit is echte moraal.
 0.84	Ons verstand en ons geweten vragen niets minder.
 0.85	Het is geen echte moraal om extra nadruk te leggen op je eigen belangen, alleen omdat het je eigen belangen zijn.
-0.86	Dat is het ook niet als we eerlijk proberen het goede te zoeken voor bepaalde mensen.
+0.86	Dat is het zelfs niet als we eerlijk proberen het goede te zoeken voor bepaalde mensen.
 0.87	Als we alleen van bepaalde mensen houden, is dat partijdigheid.
 0.88	Verder houdt niemand van zijn vrienden op een manier die God blij maakt, als hij niet ook echt van zijn vijanden houdt.
 0.89	Stel dat iemand wel van zijn vrienden houdt.
@@ -105,7 +105,7 @@ H:0.11	II. Nu noem ik een paar dingen die bij deze liefde horen.
 0.104	Niemand doet echt goed als hij niet handelt uit liefde voor iedereen, liefde zonder eigenbelang.
 0.105	Op elke andere basis kan het geen moment aanvaardbaar zijn.
 0.106	Neem een moeder die haar baby de borst geeft. God rekent haar dat niet als verdienste aan als ze het doet om geen hogere reden dan een dier.
-0.107	Ze moet wel van haar eigen kinderen houden, want God heeft haar juist in die relatie geplaatst.
+0.107	Ze heeft de plicht om van haar eigen kinderen te houden, want God heeft haar juist in die relatie geplaatst.
 0.108	Maar ze moet zeker niet denken dat God het haar als verdienste aanrekent als ze alleen maar haar dierlijke instincten volgt.
 0.109	Haar ziel moet hoger reiken dan alleen het dierlijke.
 0.110	Ze moet haar best doen om God te behagen.
@@ -140,7 +140,7 @@ H:0.31	OPMERKINGEN.
 0.138	Maar laten we eerlijk zijn: ik kan goed zien dat de verhouding, puur in wettelijke zin, kan bestaan zonder dat de wet van de liefde wordt overtreden.
 0.139	Deze gouden regel geldt overal en in alle omstandigheden.
 0.140	Hij is goed als je hem toepast bij het vragen om een gunst.
-0.141	We moeten niemand om een gunst vragen als dat niet kan. Dat merken we als we zijn situatie kennen en echt om zijn welzijn geven, zoals we willen dat hij om het onze geeft.
+0.141	We moeten niemand om een gunst vragen als dat niet kan, gezien zijn situatie en uit echte zorg voor zijn welzijn. Zulke zorg willen we ook dat hij voor ons welzijn heeft.
 0.142	Hetzelfde geldt voor het aannemen van gunsten.
 0.143	Als we deze wet eerlijk toepassen, zien we welke gunsten we anderen voor ons mogen laten doen.
 0.144	Soms is het niet goed om anderen een gunst voor ons te laten doen.
@@ -151,7 +151,7 @@ H:0.31	OPMERKINGEN.
 0.149	Het is in geen enkele echte zin moraal.
 0.150	Al hun moraal is alleen maar zonde.
 0.151	Je kunt ook zien hoe God persoonlijk tegenover egoïsme staat.
-0.152	Elk beetje egoïsme is persoonlijk vijandig tegenover God, en hij vindt het hatelijk.
+0.152	Elk beetje egoïsme is persoonlijk vijandig tegenover God, en hij haat het.
 0.153	Het lijkt totaal niet op zijn hart. Het staat helemaal tegenover al zijn principes en al zijn daden. Hij kan er niets mee te maken hebben.
 0.154	Hij moet er voor altijd een diepe afkeer van hebben.
 0.155	Je kunt ook zien hoe God als regeerder tegenover de zonde staat.

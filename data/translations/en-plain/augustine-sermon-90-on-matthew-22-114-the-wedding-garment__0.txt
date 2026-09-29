@@ -72,13 +72,13 @@
 0.72	“For many are called, but few are chosen.”
 0.73	Leave the few alone. Throw out the many.
 0.74	It is true that there was only one man.
-0.75	But surely that one man was not only many. Those many were also far more in number than the good.
+0.75	Yet without a doubt that one man was many. And more than that, those many far outnumbered the good.
 0.76	The good are many too. But compared with the bad, they are few.
 0.77	In a harvest there is a lot of wheat. But compare it with the chaff, and the grains are few.
 0.78	The same people are many when you look at them by themselves. Compared with the bad, they are few.
 0.79	How can we prove that by themselves they are many?
 0.80	“Many will come from the east and from the west.”
-0.81	Where will they come?
+0.81	Where will they come to?
 0.82	To that feast which both good and bad people enter.
 0.83	But then He spoke of another feast and added, “and will sit down with Abraham, Isaac, and Jacob in the kingdom of heaven.”
 0.84	That is the feast the bad will not come near.
@@ -114,7 +114,7 @@
 0.114	This is the wedding garment. The Apostle says, “The goal of the commandment is love that comes from a pure heart, a good conscience, and faith that is real.”
 0.115	This is “the wedding garment.”
 0.116	Not just any kind of love. Very often people who share a guilty conscience seem to love one another.
-0.117	Some people rob together. They both love the harmful arts of sorcery and the theater. They shout together at the chariot races or the wild-beast fights. Such people often love one another. But they do not have “love that comes from a pure heart, a good conscience, and faith that is real.
+0.117	Some people rob together. Together they love the harmful arts of sorcery and the theater. They shout together at the chariot races or the wild-beast fights. Such people often love one another. But they do not have “love that comes from a pure heart, a good conscience, and faith that is real.
 0.118	The wedding garment” is love like this.
 0.119	“If I speak in the tongues of men and of angels but do not have love, I have become like sounding brass and a tinkling cymbal.”
 0.120	Tongues have come in alone, and they are told, “How did you get in here without a wedding garment?”

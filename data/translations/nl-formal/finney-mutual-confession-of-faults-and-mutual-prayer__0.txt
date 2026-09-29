@@ -180,7 +180,7 @@ H:0.28	III. Redenen voor het gebod: "Belijd elkaar uw fouten."
 0.177	Zij zouden deze grote vergissing niet kunnen begaan als zij niet "duisternis voor licht en licht voor duisternis stelden."
 0.178	Is het niet hoogst eervol voor iemand die verkeerd heeft gedaan om het te vergoeden, voor iemand die gezondigd heeft om een volledige en vrijwillige belijdenis af te leggen?
 0.179	Hoe vreemd dat mensen bang zouden zijn om te belijden!
-0.180	Zij zouden zich net zo goed kunnen schamen hun eerlijkheid te tonen, zich schamen de wereld te laten zien dat zij het goede hoger achten dan een onverdiende reputatie, een reputatie te zijn wat zij niet zijn.
+0.180	Zij zouden zich net zo goed kunnen schamen hun eerlijkheid te tonen, zich schamen de wereld te laten zien dat zij het goede hoger achten dan een onverdiende reputatie, een reputatie van iets te zijn wat zij niet zijn.
 0.181	Belijdenissen dienen om het gemoed van de benadeelde man te ontlasten, en brengen hem ertoe vergeving te schenken.
 0.182	Onrecht dat vooral door belijdende christenen wordt aangedaan, wordt vaak tot grote strikken en verzoekingen.
 0.183	Velen worden erdoor overwonnen en vervallen in een slechte gemoedstoestand, waarin goddelijke waarheid en genade geen goede invloed op hun hart lijken te hebben.
@@ -211,7 +211,7 @@ H:0.28	III. Redenen voor het gebod: "Belijd elkaar uw fouten."
 0.208	Het houdt in dat wij ons diep bekommeren om het geestelijk welzijn van hen die hun fouten belijden, en onze invloed bij God aanwenden om hun vergeving te verkrijgen.
 0.209	Het is alsof wij een verzoekschrift zouden ondertekenen voor hun vrijspraak van het vonnis van een overtreden wet.
 0.210	Stel dat uw naaste de wet van de staat heeft overtreden en, na zijn veroordeling, voor het leven naar de staatsgevangenis is gestuurd; maar hij heeft zeer diep berouw, geeft blijk dat hij een veranderd mens is, en nu wordt u een verzoekschrift om zijn gratie voorgelegd om uw naam eronder te zetten.
-0.211	Zult u zich bij dit verzoek aansluiten?
+0.211	Zult u zich bij deze bede aansluiten?
 0.212	Zult u zeggen: Belijdt hij zijn zonde?
 0.213	Als hij dat doet, kan ik om zijn gratie bidden.
 0.214	Zo moet u, wanneer mensen hun zonden aan God en aan mensen belijden, God bidden hun te vergeven.

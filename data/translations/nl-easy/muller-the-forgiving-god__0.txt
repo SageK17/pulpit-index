@@ -36,7 +36,7 @@
 0.36	Zijn we allemaal zondaars die vergeven zijn?
 0.37	Hebben we allemaal vergeving van onze zonden gekregen?
 0.38	Daar gaat het om!
-0.39	Ik twijfel er niet aan dat vele honderden mensen hier die vergeving hebben. Maar ik kan ook het gevoel niet van me afzetten dat velen haar niet hebben.
+0.39	Ik twijfel er niet aan dat vele honderden mensen hier die vergeving hebben. Maar ik kan ook het gevoel niet van me afzetten dat velen die niet hebben.
 0.40	Dit is dus de allerbelangrijkste vraag: Bij welke van de twee groepen horen wij?
 0.41	Horen we bij de zondaars die vergeven zijn, van wie de last van schuld is weggenomen? Of bij de zondaars die niet vergeven zijn, die niet rustig en met vrede naar God kunnen opkijken door de verzoening van de Heer Jezus Christus?
 0.42	Vraag jezelf eens af voor God: Bij welke groep hoor ik?
@@ -116,7 +116,7 @@
 0.116	Die gezegende Dokter neemt hem op in Zijn eigen ziekenhuis, Zijn eigen ziekenzaal. En Hij laat hem niet gaan voordat hij helemaal genezen is.
 0.117	En zoals jullie allemaal weten, word je uit dat ziekenhuis nooit weggestuurd omdat je ziekte ongeneeslijk is, zoals bij mensen vaak gebeurt. Nee, de patiënt wordt verzorgd totdat hij helemaal vrij is van geestelijke ziekte.
 0.118	Zodra we daar zijn, is de genezing al bezig.
-0.119	Ook deze samenkomst is bedoeld om, met de zegen van Jezus, iets bij te dragen aan die genezing. Ze moet ons helpen om uit onze zieke toestand te komen.
+0.119	Juist deze samenkomst is bedoeld om, met de zegen van Jezus, iets bij te dragen aan die genezing. Ze moet ons helpen om uit onze zieke toestand te komen.
 0.120	En dit is wat zelfs de zwakste gelovige te wachten staat. Zo zeker als hij in Jezus gelooft, en zo zeker als hij niet bewust in zonde leeft, zo zeker zal hij uiteindelijk helemaal vrij van zonde worden.
 0.121	God heeft ons vastgepakt om ons gelijk te maken aan het beeld van Zijn Zoon. Uiteindelijk zullen we helemaal zijn zoals Hij: helemaal heilig, helemaal vrij van geestelijke ziekte.
 0.122	Trots zal helemaal verdwenen zijn. Prikkelbaarheid, hebzucht en liefde voor de wereld zullen allemaal weg zijn.

@@ -48,7 +48,7 @@
 0.48	God will not hear you if you put clothes, money, or pride in your family connections ahead of him.
 0.49	You know there is sin in your life.
 0.50	Many people know there is sin in their lives, but they still ask God to bless them.
-0.51	They should first get down on their knees and pray, "God, have mercy on me, a sinner."
+0.51	They should first get down on their knees and pray, "God, be merciful to me, a sinner."
 0.52	Some people are so shamefully stingy that God won't hear them.
 0.53	God won't hear you if you close your ears to the cries of the poor.
 0.54	You drag along here for three weeks and raise a tiny amount of money. A circus would take that much out of town in two hours.
@@ -83,7 +83,7 @@ H:0.11	Learning from Christ
 0.82	The song moved her to tears.
 0.83	She ran over and hugged and kissed the little girl. She sat her down on the couch and said, "Now you sit here, and I'll go over there and sing."
 0.84	She stood where the child had stood. Then she lifted her magnificent voice and sang "Home, Sweet Home" and "The Last Rose of Summer." She sang them for that little girl!
-0.85	And Patti used to get a thousand dollars for one song!
+0.85	And Patti used to get a thousand dollars for one song, too!
 0.86	She always knew how many songs she was supposed to sing, because she got a check before she went on stage.
 0.87	That little daughter of the railroad engineer had a great privilege. But it's an even greater privilege to learn from Jesus Christ how to pray.
 0.88	A friend told me he went to hear Paganini play. The great violinist broke one string on his violin, then another, then another, until only one was left. And on that one string he played so wonderfully that the audience burst into thunderous applause.
@@ -153,9 +153,9 @@ H:0.23	Praying in Secret
 0.150	And it will come as surely as two plus two make four.
 0.151	When people serve in such opposite ways, they cannot get the same results.
 0.152	Suppose two men were on top of a tall building. One jumps off, and the other comes down the fire escape. They can't expect to be equally safe!
-0.153	The Pharisee said, "Thank God I am not like other people." And the tax collector said, "God, have mercy on me, a sinner."
+0.153	The Pharisee said, "Thank God I am not like other people." And the tax collector said, "God, be merciful to me, a sinner."
 0.154	The first man went home the same as he was when he left.
-0.155	"God, have mercy on me, a sinner."
+0.155	"God, be merciful to me, a sinner."
 0.156	That man was made right with God.
 0.157	I am made right with God through my faith in Jesus Christ.
 0.158	I am not a sinner anymore.
@@ -165,7 +165,7 @@ H:0.27	Praying Humbly
 0.161	How many people really pray?
 0.162	How many people pray humbly and truly?
 0.163	Some men pray for humility when what they really want is pride.
-0.164	Many a man kneels down and says, "Our Father in heaven, may your name be kept holy. May your kingdom come—" But that isn't true. They don't want God's kingdom to come.
+0.164	Many a man kneels down and says, "Our Father, who is in heaven, may your name be honored as holy. May your kingdom come—" But that isn't true. They don't want God's kingdom to come.
 0.165	It isn't true for half the people who pray.
 0.166	I tell you, when you pray that in the church pew, it doesn't count for a snap of my fingers if you don't live it.
 0.167	You pray, "May your kingdom come," and then you go out and do something that keeps that kingdom from coming.
@@ -188,7 +188,7 @@ H:0.27	Praying Humbly
 0.184	If a man truly prays "May your kingdom come," he can't have one kind of religion on his knees and another behind the counter. He can't have one kind of religion in the pew and another in politics.
 0.185	When a man truly prays "May your kingdom come," he means it in everything, or he means it in nothing.
 0.186	A lot of church members are praying the wrong way.
-0.187	First you should pray, "God, have mercy on me, a sinner." Then pray, "May your kingdom come."
+0.187	First you should pray, "God, be merciful to me, a sinner." Then pray, "May your kingdom come."
 0.188	Saying a prayer is one thing. Doing God's will is another.
 0.189	The two should mean the same thing.
 0.190	Angels are angels because they do God's will.

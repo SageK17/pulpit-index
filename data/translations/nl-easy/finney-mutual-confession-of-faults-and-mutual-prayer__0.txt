@@ -45,7 +45,7 @@ H:0.12	II. Wat is er nodig om dit gebod te gehoorzamen?
 0.43	Doe het met een vrij, volledig en eerlijk hart. Doe het met zo'n houding en op zo'n manier dat het voldoet aan wat de benadeelde redelijkerwijs mag verwachten.
 0.44	Hoe kunnen we denken dat God met iets minder tevreden zal zijn?
 0.45	Stel dat je iemand onrecht hebt gedaan, en hij weet het en voelt het.
-0.46	Je komt bij hem en belijdt het half en half. Maar in plaats van alles volledig en eerlijk te belijden, geef je alleen een hint over je verkeerde daden.
+0.46	Je komt bij hem en belijdt het half en half. Maar in plaats van een volledige belijdenis te doen waar hij genoegen mee kan nemen, geef je alleen een hint over je verkeerde daden.
 0.47	Hij weet dat je geen eerlijk mens bent. Hij weet dat je zelfs niet hebt gedaan wat je eigen geweten van je vraagt.
 0.48	Zo'n belijdenis helpt jou niet en je naaste ook niet.
 0.49	Een belijdenis moet dus vrij stromen als water, volledig en grondig.
@@ -219,7 +219,7 @@ H:0.28	III. Waarom krijgen we het gebod: „Belijd elkaar je fouten”?
 0.216	V. Als we dit gebod gehoorzamen, betekent dat dat we echt bereid zijn te vergeven. We willen dan dat God vergeeft, en dat laten we zien door echt tot God te bidden.
 0.217	Dit is te duidelijk om er een voorbeeld bij te geven.
 0.218	Als mensen de zonden belijden waar ze steeds weer in vallen, betekent het dat we ons bekommeren om hun heiliging en vurig tot God bidden om dit grote resultaat.
-H:0.52	OPMERKINGEN.
+H:0.52	Opmerkingen.
 0.219	1. Onrecht tegen het publiek moet in het openbaar beleden worden.
 0.220	Daar kan niemand aan twijfelen.
 0.221	Als er al beleden moet worden, dan moet dat gebeuren tegenover de mensen tegen wie de zonde gedaan is.

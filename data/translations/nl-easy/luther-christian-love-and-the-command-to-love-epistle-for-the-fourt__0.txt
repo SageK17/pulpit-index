@@ -1,6 +1,6 @@
 0.1	Bijbeltekst: Romeinen 13:8-10.
 0.2	8 Blijf niemand iets schuldig, behalve dat jullie elkaar liefhebben. Want wie van zijn naaste houdt, heeft de wet vervuld.
-0.3	9 Want deze geboden: Pleeg geen overspel, pleeg geen moord, steel niet, verlang niet naar wat van een ander is, en welk ander gebod er ook is, ze komen allemaal samen in dit ene woord: Heb je naaste lief zoals jezelf.
+0.3	9 Want er zijn deze geboden: Pleeg geen overspel. Pleeg geen moord. Steel niet. Verlang niet naar wat van een ander is. En welk ander gebod er ook is, het komt samen in dit ene woord: Heb je naaste lief zoals jezelf.
 0.4	10 Liefde doet de naaste geen kwaad. Liefde is dus de vervulling van de wet.
 0.5	1. Deze lezing uit de brieven is, net als de twee lezingen hiervoor, een oproep. Ze wijst ons op de vruchten van het geloof.
 0.6	Maar hier vat Paulus alle vruchten van het geloof kort samen in de liefde.
@@ -14,9 +14,9 @@
 0.14	Plichten volgens de wet maken ons schuldenaars van mensen. Denk bijvoorbeeld aan iemand die bij een ander nog geld tegoed heeft.
 0.15	Ook de belastingen en heffingen, de gehoorzaamheid en de eer die we aan de overheid verschuldigd zijn, horen bij dit soort wettelijke plichten.
 0.16	Voor de christen zelf zijn deze dingen niet het belangrijkste. Ze zorgen er niet voor dat God hem rechtvaardig verklaart, en ze maken hem ook niet rechtvaardiger. Maar hij moet hier op aarde leven. Daarom moet hij zich in zijn gedrag naar buiten toe op deze punten gelijkstellen met andere mensen. En hij moet in het algemeen helpen om orde en vrede in de samenleving te bewaren.
-0.17	Christus betaalde belasting alsof het een schuld was (Matteüs 17:27). Toch had Hij tegen Petrus gezegd dat Hij dat niet hoefde. Als Hij het niet had gedaan, was dat voor God geen zonde geweest.
+0.17	Christus betaalde de belasting als een schuld (Matteüs 17:27). Toch had Hij tegen Petrus gezegd dat Hij dat niet hoefde. Als Hij het niet had gedaan, was dat voor God geen zonde geweest.
 0.18	3. De andere plicht is de liefde. Dan maakt een christen zich uit vrije wil dienaar van alle mensen.
-0.19	Paulus zegt (1 Korintiërs 9:19): "Ik was vrij en van niemand afhankelijk, maar toch heb ik mezelf de slaaf van iedereen gemaakt."
+0.19	Paulus zegt (1 Korintiërs 9:19): "Ik was vrij van iedereen, en toch heb ik mezelf de slaaf van iedereen gemaakt."
 0.20	Dit wordt niet geëist door menselijke wetten. Wie deze plicht niet nakomt, krijgt geen berisping of straf, alsof hij een wettelijke plicht had verzuimd.
 0.21	De wereld kent het gebod van de liefde niet. Ze weet niet dat je verplicht bent je aan een ander te onderwerpen en hem te dienen.
 0.22	Dat is heel goed te zien.
@@ -94,7 +94,7 @@ H:0.9	DE LIEFDE VERVULT DE WET.
 0.93	Hier zou echt gelden: "summum jus, summa injustitia": het strengste recht zou het grootste onrecht zijn geweest.
 0.94	En als je in het hart zou kijken van zo'n dwaze priester, zou je daar de ergste gruwel vinden. Hij maakt zonde waar geen zonde is. En hij maakt een gewetensprobleem waar daar helemaal geen reden voor is.
 0.95	Want hij vindt het zonde om het brood te eten, terwijl het in werkelijkheid een daad van liefde en gerechtigheid is.
-0.96	En tegelijk vindt hij zijn moord geen zonde, want hij laat David van honger sterven. Hij vindt het juist een goed werk en een dienst aan God.
+0.96	Ook vindt hij zijn moord, dat hij David van honger laat sterven, geen zonde. Hij vindt het juist een goed werk en een dienst aan God.
 0.97	11. Maar wie kan deze blinde, verdraaide, afschuwelijke dwaasheid helemaal beschrijven?
 0.98	Het is een kwaad dat zelfs de duivel niet kan overtreffen.
 0.99	Want het maakt zonde waar geen zonde is, en een gewetensprobleem zonder reden.
@@ -161,7 +161,7 @@ H:0.9	DE LIEFDE VERVULT DE WET.
 0.160	Een voorbeeld: een koetsier houdt de teugels vast en stuurt de paarden en de wagen waar hij wil.
 0.161	Stel dat hij alleen de teugels vasthoudt en het hem niet kan schelen of de paarden de weg volgen. Dan gaat het hele span al snel mis: paarden, wagen, teugels en koetsier. De koetsier ligt dan verdronken in een sloot of een plas, of hij breekt zijn nek op boomstronken en rotsen.
 0.162	Maar stel dat hij de paarden handig stuurt, zoals de weg het vraagt, en goed kijkt waar het veilig is en waar niet. Dan komt hij veilig vooruit, omdat hij verstandig rijdt.
-0.163	Maar als hij in zijn eigenwijsheid recht vooruit zou rijden, en zou proberen de weg naar zijn zin aan te passen aan de wagen, dan zou hij snel zien hoe prachtig zijn plan werkt.
+0.163	Maar stel dat hij in zijn eigenwijsheid recht vooruit rijdt. Hij probeert de weg naar zijn zin aan te passen aan de wagen. Dan zal hij snel zien hoe prachtig zijn plan werkt.
 0.164	19. Zo gaat het ook als mensen geregeerd worden met wetten en werken, terwijl de wetten niet worden aangepast aan de mensen.
 0.165	Het is net als met de koetsier die de weg wil laten lopen zoals de wagen rijdt.
 0.166	Het is waar dat de weg vaak goed past bij de rechte koers van de wagen.
@@ -257,7 +257,7 @@ H:0.9	DE LIEFDE VERVULT DE WET.
 0.256	Want Christus heeft Zijn goddelijkheid afgelegd en is als een dienaar geworden. Hij deed dat juist om de liefde die we Hem geven, naar beneden te halen en op onze naaste te richten.
 0.257	Toch laten we de Heer hier in Zijn vernedering liggen. Ondertussen staren we met open mond naar de hemel en doen we heel groots over onze liefde en dienst aan God.
 H:0.37	ALLE GEBODEN SAMENGEVAT IN DE LIEFDE.
-0.258	"Want deze geboden: Pleeg geen overspel, pleeg geen moord, steel niet, verlang niet naar wat van een ander is, en welk ander gebod er ook is, ze komen allemaal kort samen in dit ene woord: Heb je naaste lief zoals jezelf."
+0.258	"Want er zijn deze geboden: Pleeg geen overspel. Pleeg geen moord. Steel niet. Verlang niet naar wat van een ander is. En welk ander gebod er ook is, het komt kort samen in dit ene woord: Heb je naaste lief zoals jezelf."
 0.259	29. De liefde is het belangrijkste deel van elke wet. Daarom omvat ze alle geboden, zoals nu wel duidelijk is.
 0.260	Het enige waar de liefde om geeft, is mensen helpen en hen geen schade doen. Daarom vindt ze makkelijk de weg.
 0.261	De liefde ziet dat de mens, uit vurige liefde voor zichzelf, zijn eigen belang zoekt en probeert te voorkomen dat hij zelf schade lijdt. Daarom probeert de liefde op dezelfde manier met anderen om te gaan.
@@ -266,7 +266,7 @@ H:0.37	ALLE GEBODEN SAMENGEVAT IN DE LIEFDE.
 0.264	Ten eerste zegt het wie de plicht heeft om lief te hebben: jij. Jij bent de dichtstbijzijnde, edelste en beste persoon over wie we kunnen beschikken.
 0.265	Niemand kan Gods Wet voor een ander vervullen. Ieder moet dat voor zichzelf doen.
 0.266	Zo zegt Paulus (Galaten 6:5): "Iedereen zal zijn eigen last dragen."
-0.267	En (2 Korintiërs 5:10): "Want wij moeten allemaal verschijnen voor de rechterstoel van Christus. Daar zal ieder krijgen wat hij verdient voor wat hij in zijn lichaam heeft gedaan, of het goed was of slecht."
+0.267	En (2 Korintiërs 5:10): "Want wij moeten allemaal openbaar worden voor de rechterstoel van Christus. Dan krijgt ieder terug wat hij in zijn lichaam heeft gedaan, naar wat hij gedaan heeft, of het goed was of slecht."
 0.268	Daarom staat er: "Jij, jijzelf, moet liefhebben." Er staat niet: "Laat een ander maar voor jou liefhebben."
 0.269	Je kunt en moet bidden dat God genadig is voor een ander en hem helpt. Maar toch wordt niemand gered, tenzij hij zelf Gods gebod vervult.
 0.270	Het is niet genoeg om alleen te bidden dat een ander aan de straf ontkomt, zoals de aflaatverkopers leren. We moeten veel liever bidden dat hij rechtvaardig wordt en doet wat God zegt.

@@ -46,7 +46,7 @@
 0.318	Dat mag u doen, als het moet.
 0.319	Broeder, de prachtigste wraak die u ooit kunt hebben, is goed te doen aan hen die u kwaad doen, en goed te spreken van hen die kwaad van u spreken.
 0.320	Zij zullen zich schamen u aan te zien; zij zullen u nooit meer kwaad doen als zij zien dat u tot niets geprikkeld kunt worden, tenzij tot grotere liefde en ruimere vriendelijkheid.
-0.321	Dit behoort het kenmerk van christenen te zijn; niet: “Ik zal het recht tegen u laten gelden,” of: “Ik zal mijzelf wreken,” maar: “Ik zal verdragen en mij inhouden, tot het einde toe.”
+0.321	Dit behoort het kenmerk van christenen te zijn; niet: “Ik zal u voor het gerecht dagen,” of: “Ik zal mijzelf wreken,” maar: “Ik zal verdragen en mij inhouden, tot het einde toe.”
 0.322	“De wraak is Mijn; Ik zal het vergelden, zegt de Heere.”
 0.323	Neem niet in uw hand wat God zegt dat Hem toebehoort, maar zoals Hij u om Christus’ wil vergeven heeft, vergeef zo ook allen die u onrecht aandoen.
 0.324	“Hoe lang moet ik dat doen?” zegt iemand.

@@ -1,7 +1,7 @@
 0.1	Text: Romans 13:8-10.
 0.2	8 Do not owe anyone anything, except to love one another. Whoever loves his neighbor has done all that the law requires.
-0.3	9 The commandments say, Do not commit adultery. Do not kill. Do not steal. Do not covet. These, and any other commandment there may be, are summed up in this one saying: Love your neighbor as yourself.
-0.4	10 Love never does anything bad to a neighbor. That is why love is the fulfilling of the law.
+0.3	9 Take these commands: Do not commit adultery. Do not kill. Do not steal. Do not covet. If there is any other command, it is summed up in this one word: Love your neighbor as yourself.
+0.4	10 Love does nothing bad to a neighbor. That is why love is the fulfilling of the law.
 0.5	1. This reading, like the two epistle readings before it, is a word of warning and encouragement. It turns our attention to the fruits that faith produces.
 0.6	But here Paul sums up all the fruits of faith in one short word: love.
 0.7	In the verses just before this, he told us to obey the government. We are to pay taxes and duties, and give respect and honor wherever they are owed, because all power to govern is set in place by God.
@@ -80,7 +80,7 @@ H:0.9	Love Keeps the Whole Law.
 0.79	8. If laws were made and carried out in love, it would not matter much how many laws there were.
 0.80	A person might not hear or learn all of them. But from the one or two he did know, he would learn the rule of love that all of them teach.
 0.81	And even if he knew every law, he would not find the rule of love any more easily than in just one.
-0.82	Paul teaches this way of understanding and mastering the law when he says: “Do not owe anyone anything, except to love one another.” “Whoever loves another has done all that the law requires.” “Whatever other commandment there may be, it is summed up in this saying: Love your neighbor as yourself.” “Love never does anything bad to a neighbor.” “Love is the fulfilling of the law.”
+0.82	Paul teaches this way of understanding and mastering the law when he says: “Do not owe anyone anything, except to love one another.” “Whoever loves another has done all that the law requires.” “If there is any other commandment, it is summed up in short in this saying: Love your neighbor as yourself.” “Love does nothing bad to a neighbor.” “Love is the fulfilling of the law.”
 0.83	Every word in this epistle reading proves that Love rules over all law.
 0.84	9. What is more, there is no greater disaster, wrong and misery on earth than teaching and enforcing laws without love.
 0.85	When that happens, laws are nothing but a curse that ruins people. They prove these sayings true: “summum jus, summa injustitia,” which means, “The strictest justice is the worst injustice.” And Solomon’s words (Ecclesiastes 7:17), “Noli nimium esse justus,” which means, “Do not be more righteous than you should be.”
@@ -182,7 +182,7 @@ H:0.9	Love Keeps the Whole Law.
 0.181	That is enough on this point.
 0.182	21. But here a question comes up. How can love fulfill the Law, when love is only one of the fruits of faith? We have often said that only faith in Christ takes away our sins, makes us right with God and meets every demand of the Law.
 0.183	How can both of these be true?
-0.184	Christ also says (Matthew 7:12): “So in everything, treat other people the way you want them to treat you. This is what the law and the prophets are all about.”
+0.184	Christ also says (Matthew 7:12): “So whatever you want people to do for you, do the same for them. For this is the law and the prophets.”
 0.185	In this way he shows that loving your neighbor fulfills both the Law and the prophets.
 0.186	He also says (Matthew 22:37-40): “Love the Lord your God ... your neighbor as yourself.
 0.187	The whole law and the prophets hang on these two.”
@@ -253,11 +253,11 @@ H:0.9	Love Keeps the Whole Law.
 0.252	28. These facts hold back those slippery, high-flying spirits who look for God only in great and glorious projects.
 0.253	This shuts the mouths of people who try to be great like him, who want to force their way into heaven, and who think they can serve and love him with their dazzling works.
 0.254	But they miss him, because they walk right past him in their neighbor here on earth, the very one in whom God wants to be loved and honored.
-0.255	So on the last day they will hear the sentence (Matthew 25:42), “I was hungry, and you gave me nothing to eat,” and so on.
+0.255	So on the last day they will hear the sentence (Matthew 25:42), “I was hungry, and you did not give me anything to eat,” and so on.
 0.256	For Christ set aside his divine nature and took on the form of a servant. He did this for the very purpose of bringing our love for him down to earth and pointing it toward our neighbor.
 0.257	And yet we leave the Lord lying here in his lowliness, while we stare up into heaven with our mouths hanging open and make a big show of loving and serving God.
 H:0.37	Every Commandment Summed Up in Love.
-0.258	“The commandments say, Do not commit adultery. Do not kill. Do not steal. Do not covet. These, and any other commandment there may be, are summed up in short in this one saying: Love your neighbor as yourself.”
+0.258	“Take these commands: Do not commit adultery. Do not kill. Do not steal. Do not covet. If there is any other command, it is summed up in short in this one word: Love your neighbor as yourself.”
 0.259	29. Love is the main thing in every law. So, as we have shown clearly enough, it includes all the commandments.
 0.260	Its only concern is to help people and not to hurt them. That is why it easily finds the way.
 0.261	Love sees that people, because they love themselves so much, try to look after their own interests and avoid anything that would harm them. So love tries to do the same for others.
@@ -265,7 +265,7 @@ H:0.37	Every Commandment Summed Up in Love.
 0.263	It brings out four ideas.
 0.264	First, it tells us who has the duty to love: you. That is the nearest, noblest and best person any of us can command.
 0.265	No one can keep God’s Law for someone else. Each person must do it for himself.
-0.266	As Paul says (Galatians 6:5), “Each person must carry his own load.”
+0.266	As Paul says (Galatians 6:5), “Each person will carry his own burden.”
 0.267	And (2 Corinthians 5:10): “All of us must be shown for what we are before the judgment seat of Christ. Then each one will receive back what he did while in the body, according to what he has done, whether good or bad.”
 0.268	So it says, “You, you yourself, must love.” It does not say, “Let someone else love for you.”
 0.269	We can and should pray that God will be kind to someone else and help him. But no one will be saved unless he himself keeps God’s command.

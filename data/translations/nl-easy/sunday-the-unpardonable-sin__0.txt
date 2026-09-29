@@ -56,10 +56,10 @@ H:0.7	Wat het is
 0.55	Jaren geleden was een man daar ook mee bezig. Het touw onder zijn armen raakte los. Omdat de rots ver uitstak, hing het touw een heel eind buiten zijn bereik.
 0.56	De man wachtte op hulp, maar er kwam niemand.
 0.57	Het werd donker, en daarna weer licht. Hij had zich er al bij neergelegd dat hij zou verhongeren. Dat leek hem onvermijdelijk. Maar toen stak er een briesje op, en het touw dat daar hing begon te bewegen.
-0.58	Hoe harder het ging waaien, hoe meer het touw heen en weer zwaaide. Toen het naar hem toe zwaaide, zei hij: "Als ik het mis, ga ik dood. Als ik het grijp, is dat mijn enige kans." Hij bad tot God. Toen het touw weer naar hem toe zwaaide, sprong hij over de afgrond en greep het vast. Hand voor hand trok hij zich omhoog naar boven. Toen hij boven kwam, was zijn haar zo wit als sneeuw.
+0.58	Hoe harder het ging waaien, hoe meer het touw heen en weer zwaaide. Toen het naar hem toe zwaaide, zei hij: "Als ik het mis, ga ik dood. Als ik het grijp, is dat mijn enige kans." Hij bad tot God. Toen het touw weer naar hem toe zwaaide, sprong hij over de afgrond en greep het vast. Hand voor hand trok hij zich op tot aan de top. Toen hij boven kwam, was zijn haar zo wit als sneeuw.
 0.59	Er is één touw dat vandaag door deze oude wereld zwaait: de Heilige Geest.
 0.60	Bij elke uitnodiging zwaait het verder weg.
-0.61	We leven in de laatste tijd, de tijd van de Heilige Geest. En God spreekt vandaag tot de wereld door de Heilige Geest.
+0.61	We leven in het laatste tijdperk, het tijdperk van de Heilige Geest. En God spreekt vandaag tot de wereld door de Heilige Geest.
 H:0.26	Verzet tegen de waarheid
 0.62	Volgens elke bekende wet van ons denken komt bekering tot stand doordat de waarheid invloed heeft op je verstand.
 0.63	Elke keer dat je je verzet tegen de waarheid, heeft ze de volgende keer dat je haar hoort minder kracht.
@@ -105,7 +105,7 @@ H:0.30	"Te laat"
 0.102	Je naam kan hetzelfde betekenen als deugd en zuiverheid. Maar laat God maar eens proberen in je hart te komen. Laat Hem maar eens proberen om je door het middenpad naar voren te laten lopen, zodat je openlijk voor Jezus Christus uitkomt. Dan zitten je hart en je lippen zo dicht als een bankkluis. En God is er niet in geslaagd je overeind te trekken.
 0.103	En God blijft je niet eindeloos smeken om het te doen.
 0.104	Misschien zegt iets tegen je: "Ik zou christen moeten zijn."
-0.105	Dit is de tijd van de Heilige Geest.
+0.105	Dit is het tijdperk van de Heilige Geest.
 0.106	God heeft in drie tijdperken gesproken.
 0.107	Eerst door de oude wet van Mozes.
 0.108	Toen kwam Jezus Christus naar deze aarde en leefde hier. En de Joden en de heidenen spanden samen om Hem te doden.

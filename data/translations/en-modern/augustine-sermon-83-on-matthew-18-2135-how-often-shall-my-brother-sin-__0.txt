@@ -34,7 +34,7 @@
 0.34	What does the beggar ask of you?
 0.35	Bread. And what do you ask of God, but Christ, who says, “I am the living Bread which came down from heaven”?
 0.36	Do you want to be forgiven?
-0.37	Forgive. “Forgive, and you shall be forgiven.”
+0.37	Forgive. “Forgive, and it shall be forgiven you.”
 0.38	Do you want to receive? “Give, and it shall be given to you.”
 0.39	3. But now hear what difficulty I may raise in so plain a precept.
 0.40	In this question of forgiveness, when pardon is asked and it is due from the one who should grant it, it may be a difficulty to us as it was to Peter.
@@ -147,7 +147,7 @@
 0.147	The one who is to be cut cries out, yet he is cut; the one who is to be cauterized cries out, yet he is cauterized.
 0.148	This is not cruelty; on no account let that surgeon’s treatment be called cruelty.
 0.149	He is cruel to the wounded part so that the patient may be cured; for if the wound is treated softly, the man is lost.
-0.150	So this is my advice, my brothers: that we love our brothers, however they may have sinned against us; that we do not let affection toward them depart from our hearts; and that when there is need, we exercise discipline toward them; lest through the relaxing of discipline wickedness increase, and we begin to be accused before God, for it has been read to us, “Rebuke those who sin in the presence of all, that others also may fear.”
+0.150	So this is my advice, my brothers: that we love our brothers, however they may have sinned against us; that we do not let affection toward them depart from our hearts; and that when there is need, we exercise discipline toward them; lest through the relaxing of discipline wickedness increase, and we begin to be accused on God’s behalf, for it has been read to us, “Rebuke those who sin in the presence of all, that others also may fear.”
 0.151	Certainly, if one distinguishes the times, which is the only true way, and so solves the question, all is true.
 0.152	If the sin is in secret, rebuke it in secret.
 0.153	If the sin is public and open, rebuke it publicly, that the sinner may be reformed, and “that others also may fear.”

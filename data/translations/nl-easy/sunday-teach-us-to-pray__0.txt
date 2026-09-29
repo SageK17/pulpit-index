@@ -23,7 +23,7 @@
 0.23	Pak de oorzaak aan, dan komt het goed.
 0.24	Als je ziek bent en de dokter laat komen, let hij niet op de ziekte zelf. Hij kijkt naar wat de ziekte veroorzaakt heeft.
 0.25	Als je hoofdpijn hebt, moet je niet over je voorhoofd wrijven.
-0.26	In Matteüs staat: ‘Vraag, en het zal je gegeven worden. Zoek, en je zult vinden. Klop, en de deur zal voor je opengaan.’
+0.26	In Matteüs staat: ‘Vraag, en het zal je gegeven worden. Zoek, en je zult vinden. Klop, en er zal voor je opengedaan worden.’
 0.27	Als je gebeden niet verhoord worden, zit het niet goed tussen jou en God.
 0.28	Als je geen geloof hebt, of als je met een verkeerde bedoeling bidt, dan heeft je gebed geen zin.
 0.29	Vaak zijn mensen egoïstisch als ze bidden.
@@ -37,7 +37,7 @@
 0.37	Elk kerkgenootschap past bij een ander soort karakter.
 0.38	Een man met warme gevoelens zou geen goed lid van de Episcopaalse Kerk zijn. Maar hij zou wel een geweldige methodist zijn.
 0.39	O, wat een vloek is egoïsme!
-0.40	De kerk sterft van verlangen naar echte godsdienst, naar zuivere, onbevlekte godsdienst.
+0.40	De kerk sterft van verlangen naar godsdienst, naar zuivere, onbevlekte godsdienst.
 0.41	Zuivere, onbevlekte godsdienst is: weduwen en wezen bezoeken, en Gods wil doen zonder zoveel aan jezelf te denken.
 0.42	Ik zeg jullie: heel wat mensen komen op de dag van het oordeel bedrogen uit.
 0.43	Jesaja zegt dat Gods hand niet te kort is, en dat Zijn oor niet doof is.
@@ -101,7 +101,7 @@ H:0.11	Leren van Christus
 0.100	Hij zamelde geld in om een stoomjacht te kopen dat de zee op kon. Zijn werk bracht hem van eiland naar eiland, en hij moest een roeiboot gebruiken. Bij slecht weer was dat soms gevaarlijk. Daarom wilde hij het jacht.
 0.101	Hij was een week bij ons, en ik had het voorrecht om met hem te gaan lunchen.
 0.102	's Middags gingen we naar een restaurant, en dan praatte hij met ons.
-0.103	Soms waren er wel vijftien of twintig dominees bij. En soms waren we zo geboeid door wat hij vertelde over het werk voor Jezus op die verre eilanden, dat we vergaten te eten.
+0.103	Soms waren er wel vijftien of twintig dominees bij. En soms waren sommigen van ons zo geboeid door wat hij vertelde over het werk voor Jezus op die verre eilanden, dat we vergaten te eten.
 0.104	Ik weet nog dat hij op een dag zei: ‘Alles wat ik ben, heb ik te danken aan mijn christelijke vader en moeder.
 0.105	Mijn vader was een van de meest biddende mannen die ik ooit heb gekend.
 0.106	Vaak ging hij overdag stilletjes zijn kamertje in. Dan liet hij een zakdoek vallen buiten de deur. Als wij kinderen die witte wachtpost zagen, wisten we dat vader met zijn God praatte. Dan liepen we stilletjes weg.
@@ -117,7 +117,7 @@ H:0.11	Leren van Christus
 0.116	Probeer gewoon te bedenken waar je allemaal dankbaar voor kunt zijn, en vertel Hem dat.
 H:0.17	Trots staat het gebed in de weg
 0.117	Trots houdt ons tegen om goed te bidden.
-0.118	Verwaand en eigenwijs zijn is de oorzaak van meer mislukkingen dan wat ook in de wereld.
+0.118	Opgeblazen en verwaand zijn is de oorzaak van meer mislukkingen dan wat ook in de wereld.
 0.119	Het heeft al veel dominees bedorven, net zoals het veel werknemers bedorven heeft.
 0.120	Sommige jongens krijgen een baan, en na een week of twee denken ze dat ze meer van het bedrijf weten dan de baas.
 0.121	Ze vinden dat hij alles fout doet.
@@ -128,7 +128,7 @@ H:0.17	Trots staat het gebed in de weg
 0.126	Als we goed zouden bidden, zouden we mensen uit de zonde laten opstaan. We zouden ze naar buiten brengen, in het licht van de gerechtigheid.
 0.127	‘En terwijl Hij bad, veranderde Zijn gezicht.’
 0.128	Dames, willen jullie er mooi uitzien?
-0.129	Sommigen van jullie zouden minder moeten uitgeven aan smeerseltjes en coldcream, en op je knieën moeten gaan om te bidden. Dan zou God je mooier maken.
+0.129	Sommigen van jullie vrouwen zouden minder moeten uitgeven aan smeerseltjes en coldcream, en op hun knieën moeten gaan om te bidden. Dan zou God jullie mooier maken.
 0.130	Ik kan aan jullie gezichten zien wat voor leven jullie leiden.
 0.131	Als je al je tijd en gedachten aan de chique wereld geeft, dan zie je dat aan je gezicht.
 0.132	Als je bidt, kan ik dat zien.
@@ -206,7 +206,7 @@ H:0.35	Mannen die baden
 0.201	John Knox was de man voor wie zijn koningin banger was dan voor wie ook. Hij worstelde zo in gebed dat hij de straat op rende, op zijn gezicht viel en riep: ‘O God, geef mij Schotland, of ik sterf!’
 0.202	En God gaf hem Schotland. En niet alleen dat: Hij gaf Engeland er nog gratis bij.
 0.203	Jonathan Edwards ging zijn grootste preek houden: ‘Zondaars in de handen van een boze God’. Daarvoor bad hij dagenlang. Toen hij voor de gemeente stond en de preek hield, grepen mannen zich doodsbang vast aan de banken. Sommigen vielen op de grond. De mensen riepen angstig: ‘Meneer Edwards, zeg ons hoe we gered kunnen worden!’
-0.204	De meest kritieke tijd in de Amerikaanse geschiedenis was tussen 1784 en 1789.
+0.204	De kritieke periode in de Amerikaanse geschiedenis lag tussen 1784 en 1789.
 0.205	Er was geen gezamenlijk geld en geen gezamenlijke verdediging.
 0.206	De koloniën stuurden mannen naar een vergadering om een grondwet te maken. Toen stond Benjamin Franklin op, met het gewicht van zijn tachtig jaar. Hij vroeg of de vergadering met gebed kon beginnen. En daar bezegelde George Washington de afspraak met God.
 0.207	In die winter in Valley Forge ging Washington zijn mannen voor in gebed. En daarvoor ging hij op zijn knieën.

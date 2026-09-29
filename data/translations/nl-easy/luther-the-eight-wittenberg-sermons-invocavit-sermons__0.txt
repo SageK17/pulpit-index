@@ -5,8 +5,8 @@ T:0	De eerste preek (zondag Invocavit)
 0.4	Dan ben ik niet bij jullie, en jullie zijn niet bij mij.
 0.5	Daarom moet iedereen zelf weten wat de belangrijkste dingen van het christelijk geloof zijn. En daarmee moet hij gewapend zijn.
 0.6	Het zijn dezelfde dingen die jullie, mijn geliefden, al lang geleden van mij gehoord hebben.
-0.7	Ten eerste: we moeten weten dat we kinderen zijn die Gods toorn verdienen. Al onze daden, bedoelingen en gedachten stellen helemaal niets voor.
-0.8	Om dat te bewijzen, hebben we een duidelijke, sterke Bijbeltekst nodig. Er staan er veel van in de Bijbel, maar ik wil jullie er niet mee overladen. Let alleen op deze ene tekst: „We zijn allemaal kinderen die Gods toorn verdienen.”
+0.7	Ten eerste: we moeten weten dat we kinderen van de toorn zijn. Al onze daden, bedoelingen en gedachten stellen helemaal niets voor.
+0.8	Om dat te bewijzen, hebben we een duidelijke, sterke Bijbeltekst nodig. Er staan er veel van in de Bijbel, maar ik wil jullie er niet mee overladen. Let alleen op deze ene tekst: „We zijn allemaal kinderen van de toorn.”
 0.9	[Efeze 2:3] En gaan jullie alsjeblieft niet opscheppen met het antwoord: Ik heb een altaar gebouwd, ik heb geld gegeven om missen te laten houden, enzovoort.
 0.10	Ten tweede: God heeft ons Zijn enige Zoon gestuurd, zodat we in Hem geloven. Wie op Hem vertrouwt, wordt vrij van de zonde en wordt een kind van God. Dat zegt Johannes in het eerste hoofdstuk: „Hij gaf hun de macht om zonen van God te worden: aan iedereen die in Zijn naam gelooft.”
 0.11	[Johannes 1:12] Hier moeten we allemaal goed thuis zijn in de Bijbel. We moeten veel Bijbelteksten klaar hebben om de duivel mee te lijf te gaan.
@@ -135,7 +135,7 @@ T:1	De tweede preek (maandag na Invocavit)
 1.43	Neem mij maar als voorbeeld.
 1.44	Ik ben ingegaan tegen de aflaten en tegen alle aanhangers van de paus, maar nooit met geweld.
 1.45	Ik heb alleen Gods Woord geleerd, gepreekt en geschreven. Verder heb ik niets gedaan.
-1.46	En terwijl ik sliep, of met mijn Philip en met Amsdorf Wittenbergs bier dronk, heeft het Woord het pausdom zo erg verzwakt als geen vorst of keizer het ooit heeft kunnen beschadigen.
+1.46	En terwijl ik sliep, of met mijn Philippus en met Amsdorf Wittenbergs bier dronk, heeft het Woord het pausdom zo erg verzwakt als geen vorst of keizer het ooit heeft kunnen beschadigen.
 1.47	Ik heb niets gedaan. Het Woord heeft alles gedaan.
 1.48	Als ik onrust had willen stoken, had ik Duitsland in een groot bloedbad kunnen storten. Ja, ik had in Worms zo’n spelletje kunnen beginnen dat zelfs de keizer niet veilig was geweest.
 1.49	Maar wat zou dat geweest zijn?
@@ -242,12 +242,12 @@ T:3	De vierde preek (woensdag na Invocavit)
 3.1	Beste vrienden, we hebben gehoord wat noodzakelijk is. Bijvoorbeeld dat de mis als een offer wordt gezien.
 3.2	Daarna hebben we gekeken naar de dingen die aan onze vrijheid zijn overgelaten, zoals het huwelijk, het kloosterleven en het afschaffen van de beelden.
 3.3	Deze vier onderwerpen hebben we behandeld. En we hebben gezegd dat in al deze zaken de liefde de leiding heeft.
-3.4	Over de beelden in het bijzonder zagen we dat ze moeten worden afgeschaft als ze aanbeden gaan worden, anders niet. Toch zou ik willen dat ze overal waren afgeschaft, omdat ze misbruikt worden. Dat heeft geen zin om te ontkennen.
+3.4	Over de beelden in het bijzonder zagen we dat ze moeten worden afgeschaft als ze aanbeden gaan worden, anders niet. Toch zou ik willen dat ze overal waren afgeschaft, omdat ze misbruikt worden. Het heeft geen zin om dat te ontkennen.
 3.5	Want wie een beeld in een kerk zet, denkt dat hij God een dienst heeft bewezen en een goed werk heeft gedaan. En dat is pure afgoderij.
 3.6	En dit is de grootste, belangrijkste en hoogste reden om de beelden af te schaffen. Maar die hebben jullie links laten liggen, en jullie hebben juist de allerlaagste reden gekozen.
 3.7	Want ik denk dat er bijna niemand is die niet begrijpt dat dat kruisbeeld daar niet mijn God is. Mijn God is in de hemel. Dit is gewoon een teken.
 3.8	Maar de wereld zit vol met dat andere misbruik. Want wie zou een beeld van zilver of hout in een kerk zetten, als hij niet dacht dat hij daarmee God een dienst bewees?
-3.9	Denken jullie dat hertog Frederick, de bisschop van Halle en de anderen zoveel zilveren beelden in de kerken hadden gezet, als ze dachten dat het voor God niets betekende?
+3.9	Denken jullie dat hertog Frederik, de bisschop van Halle en de anderen zoveel zilveren beelden in de kerken hadden gezet, als ze dachten dat het voor God niets betekende?
 3.10	Nee, dan hadden ze het niet gedaan.
 3.11	Maar dit is geen goede reden om alle beelden af te schaffen, te vernielen en te verbranden. Waarom niet?
 3.12	Omdat we moeten toegeven dat er nog mensen zijn die er niet verkeerd over denken, en voor wie ze nuttig kunnen zijn.
@@ -275,7 +275,7 @@ T:3	De vierde preek (woensdag na Invocavit)
 3.34	Daarom geef ik eerlijk toe: beelden doen er niet toe. Ze zijn niet slecht en niet goed. We mogen ze hebben of niet, net wat we willen.
 3.35	Deze problemen hebben jullie veroorzaakt. Bij mij had de duivel dit niet voor elkaar gekregen. Want ik kan niet ontkennen dat je iemand kunt vinden voor wie beelden nuttig zijn.
 3.36	En als iemand het me vroeg, zou ik eerlijk zeggen dat geen van deze dingen mij aanstoot geeft. En als er maar één mens op aarde was die de beelden op de juiste manier gebruikte, zou de duivel al snel tegen mij zeggen: Waarom veroordeel jij iets wat nog nuttig is voor de eredienst?
-3.37	Op die uitdaging zou ik geen antwoord hebben. Hij zou mij met succes hebben uitgedaagd.
+3.37	Op die uitdaging zou ik geen antwoord hebben. Hij zou het van mij gewonnen hebben.
 3.38	Als ik hier was geweest, was hij lang niet zo ver gekomen.
 3.39	Hij heeft een gewaagd spel gespeeld en gewonnen, al doet het het Woord van God geen kwaad.
 3.40	Jullie wilden de duivel zwart maken, maar jullie vergaten de houtskool en gebruikten krijt.

@@ -6,7 +6,7 @@
 0.6	8 De liefde houdt nooit op. Profetieën zullen verdwijnen. Talen zullen ophouden. Kennis zal verdwijnen.
 0.7	9 Want we kennen maar voor een deel, en we profeteren maar voor een deel. 10 Maar als het volmaakte komt, verdwijnt wat maar voor een deel is.
 0.8	11 Toen ik een kind was, praatte ik als een kind, voelde ik als een kind en dacht ik als een kind. Nu ik volwassen ben, heb ik de kinderlijke dingen achter me gelaten.
-0.9	12 Want nu zien we in een spiegel, en het beeld is vaag. Maar dan zien we oog in oog. Nu ken ik maar voor een deel. Maar dan zal ik alles volledig kennen, zoals ik ook volledig gekend werd.
+0.9	12 Want nu zien we in een spiegel, en het beeld is vaag. Maar dan zien we oog in oog. Nu ken ik maar voor een deel. Maar dan zal ik volledig kennen, zoals ik ook volledig gekend werd.
 0.10	13 Nu blijven dus geloof, hoop en liefde, deze drie. En de grootste daarvan is de liefde.
 0.11	1. In dit hoofdstuk wil Paulus trotse christenen het zwijgen opleggen en nederig maken. Hij heeft het vooral over leraars en predikers.
 0.12	Het Evangelie geeft veel kennis over God en over Christus. Het brengt ook veel prachtige gaven mee, zoals Paulus opsomt in Romeinen 12 en in 1 Korinthe 12.
@@ -208,7 +208,7 @@ H:0.21	WAT CHRISTELIJKE LIEFDE IS.
 0.206	Een duister raadsel wijst naar iets wat meer is dan het zegt. Zo laat het geloof ook iets vermoeden wat helderder is dan wat het ziet.
 0.207	Maar in het leven hierna zijn de spiegel en het raadsel, het geloof en het bewijs ervan, allemaal verdwenen.
 0.208	Dan zullen Gods gezicht en ons gezicht duidelijk aan elkaar getoond worden.
-0.209	Paulus zegt: „Nu ken ik maar voor een deel. Maar dan zal ik alles volledig kennen, zoals ik ook volledig gekend werd [kennen zoals ik gekend word].”
+0.209	Paulus zegt: „Nu ken ik maar voor een deel. Maar dan zal ik volledig kennen, zoals ik ook volledig gekend werd [kennen zoals ik gekend word].”
 0.210	Dat betekent: God kent mij nu volmaakt, helder en duidelijk. Er ligt geen donkere sluier over mij.
 0.211	Maar bij Hem ligt het anders: een donkere sluier verbergt Hem voor mij.
 0.212	Dan zal ik Hem net zo volmaakt en helder kennen als Hij mij nu kent – zonder sluier.

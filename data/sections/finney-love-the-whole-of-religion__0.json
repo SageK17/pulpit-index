@@ -1,10 +1,42 @@
 [
-  {"at": "0.1", "en": "The Text and Nature of Love", "nl": "De tekst en het wezen van de liefde"},
-  {"at": "0.50", "en": "Love Is the Whole of Religion", "nl": "Liefde is de hele godsdienst"},
-  {"at": "0.72", "en": "What Perfect Love Does Not Require", "nl": "Wat volmaakte liefde niet vereist"},
-  {"at": "0.111", "en": "What Perfect Love Requires", "nl": "Wat volmaakte liefde wel vereist"},
-  {"at": "0.120", "en": "Joyful Self-Denial and Willing Obedience", "nl": "Blije zelfverloochening en gewillige gehoorzaamheid"},
-  {"at": "0.149", "en": "Dead to the World", "nl": "Dood voor de wereld"},
-  {"at": "0.181", "en": "The Marks of Love", "nl": "De kenmerken van de liefde"},
-  {"at": "0.231", "en": "Concluding Remarks", "nl": "Slotopmerkingen"}
+  {
+    "at": "0.1",
+    "en": "The Text and Nature of Love",
+    "nl": "Tekst en wezen van de liefde"
+  },
+  {
+    "at": "0.50",
+    "en": "Love Is the Whole of Religion",
+    "nl": "Liefde is de hele godsdienst"
+  },
+  {
+    "at": "0.72",
+    "en": "What Perfect Love Does Not Require",
+    "nl": "Wat volmaakte liefde niet vereist"
+  },
+  {
+    "at": "0.111",
+    "en": "What Perfect Love Requires",
+    "nl": "Wat volmaakte liefde wel vereist"
+  },
+  {
+    "at": "0.120",
+    "en": "Joyful Self-Denial and Willing Obedience",
+    "nl": "Blije zelfverloochening en gewillige gehoorzaamheid"
+  },
+  {
+    "at": "0.149",
+    "en": "Dead to the World",
+    "nl": "Dood voor de wereld"
+  },
+  {
+    "at": "0.181",
+    "en": "The Marks of Love",
+    "nl": "De kenmerken van de liefde"
+  },
+  {
+    "at": "0.231",
+    "en": "Concluding Remarks",
+    "nl": "Opmerkingen tot besluit"
+  }
 ]

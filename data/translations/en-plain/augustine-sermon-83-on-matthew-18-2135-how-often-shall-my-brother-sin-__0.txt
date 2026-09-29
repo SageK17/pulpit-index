@@ -147,7 +147,7 @@
 0.147	The person who is to be cut cries out, but he is cut. The person who is to be cauterized cries out, but he is cauterized.
 0.148	This is not cruelty. That surgeon’s treatment must never be called cruelty.
 0.149	He is cruel to the wounded part so that the patient can be healed. If the wound is handled softly, the man is lost.
-0.150	So this is my advice, my brothers and sisters. Let us love our brothers and sisters, no matter how they have sinned against us. Let us not let our love for them leave our hearts. And when it is needed, let us discipline them. Otherwise, if discipline becomes slack, wickedness will grow, and we will begin to be accused before God. For we have heard it read: “Rebuke those who sin in front of everyone, so that others also may fear.”
+0.150	So this is my advice, my brothers and sisters. Let us love our brothers and sisters, no matter how they have sinned against us. Let us not let our love for them leave our hearts. And when it is needed, let us discipline them. Otherwise, if discipline becomes slack, wickedness will grow, and we will begin to be accused on God’s behalf. For we have heard it read: “Rebuke those who sin in front of everyone, so that others also may fear.”
 0.151	Certainly, if you tell the different times apart, which is the only right way, and solve the question like that, then everything is true.
 0.152	If the sin is secret, rebuke it in secret.
 0.153	If the sin is public and open, rebuke it in public so that the sinner may be changed, and “so that others also may fear.”

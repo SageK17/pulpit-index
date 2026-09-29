@@ -48,7 +48,7 @@ H:0.7	Wat het is
 0.47	Ten slotte zal God ophouden u de waarheid toe te werpen, en dan zult u de onvergeeflijke zonde hebben begaan.
 0.48	"Er is een lijn, door ons niet gezien; / zij kruist elk pad; / zij is Gods grens tussen / Zijn geduld en Zijn toorn.
 0.49	"Die grens over te gaan is sterven, / sterven als in het verborgene. / Het hoeft uw oog niet te verduisteren, / noch de gloed van gezondheid te doen verbleken,
-0.50	"Uw geweten mag nog gerust zijn; / uw gemoed licht en vrolijk; / wat behaagt, mag nog behagen, / en zorg worde weggeworpen;
+0.50	"Uw geweten mag nog gerust zijn; / uw gemoed licht en vrolijk; / wat behaagt, mag nog behagen, / en zorg mag worden weggeworpen;
 0.51	"Maar op dat voorhoofd heeft God / onuitwisbaar een teken gezet, / door de mens niet gezien; want de mens is nog / blind en in het duister.
 0.52	"Ja, het pad hier beneden van hem die gedoemd is, / mag bloeien zoals Eden bloeit; / hij weet het niet, wil het niet weten, / en gelooft niet dat hij gedoemd is."
 0.53	In Schotland zijn er mannen die hun brood verdienen met het verzamelen van vogeleieren, die gelegd zijn op richels in de rotsen ver beneden de top van de klif.
@@ -56,7 +56,7 @@ H:0.7	Wat het is
 0.55	Toen een man jaren geleden precies hetzelfde deed, raakte het touw onder zijn armen los, en door de vooruitstekende rots hing het touw vele voet buiten zijn bereik.
 0.56	De man wachtte tot er hulp zou komen, maar die kwam niet.
 0.57	De duisternis viel, het licht brak aan, en hij gaf zich over aan de hongerdood, die hem naar zijn gevoel onvermijdelijk wachtte, toen er een bries opstak en het bengelende touw begon te trillen.
-0.58	Naarmate de wind in snelheid toenam, nam ook het trillen van het touw toe, en toen het naar binnen zwaaide, zei hij: "Als ik het mis, sterf ik; als ik het grijp, is het mijn enige kans," en met een gebed tot God, terwijl het touw naar binnen zwaaide, sprong hij uit over de afgrond en greep het, en hij werkte zich hand over hand omhoog naar de top, en toen hij die bereikte, was zijn haar zo wit als gedreven sneeuw.
+0.58	Naarmate de wind in snelheid toenam, nam ook het trillen van het touw toe, en toen het naar binnen zwaaide, zei hij: "Als ik het mis, sterf ik; als ik het grijp, is het mijn enige kans," en met een gebed tot God, terwijl het touw naar binnen zwaaide, sprong hij uit over de afgrond en greep het, en hij werkte zich hand over hand omhoog naar de top, en toen hij die bereikte, was zijn haar zo wit als verse sneeuw.
 0.59	Er is één koord dat vandaag door deze oude wereld zwaait: de Heilige Geest.
 0.60	Met iedere uitnodiging zwaait het verder weg.
 0.61	Wij leven in de laatste bedeling, de bedeling van de Heilige Geest, en God spreekt vandaag tot de wereld door de Heilige Geest.
@@ -144,7 +144,7 @@ H:0.38	Vertegenwoordiger van de Drie-eenheid
 0.140	Sommigen kunnen iedere preek en ieder lied horen zonder bewogen te worden.
 0.141	Ik durf te beweren dat sommigen van u al vijfentwintig jaar niet meer van zonde overtuigd zijn geweest.
 0.142	Lang geleden heeft de Geest van God u overtuigd, en u hebt niet toegegeven.
-0.143	De eerste plaats waar ik ooit preekte, in het stadje Garner, in Hancock County, Iowa, kwam een man door het middenpad naar voren.
+0.143	In het eerste stadje waar ik ooit preekte, Garner, in Hancock County, Iowa, kwam een man door het middenpad naar voren.
 0.144	Ik zei: "Wie is dat?" en iemand vertelde mij dat hij een van de rijkste mannen van het district was.
 0.145	Ik vroeg hem wat ik had gezegd dat hem had geholpen, en hij zei: niets.
 0.146	Toen vertelde hij mij dat hij eenentwintig jaar geleden naar Chicago was gegaan en zijn vee had verkocht, vier uur voordat hij een trein moest halen.

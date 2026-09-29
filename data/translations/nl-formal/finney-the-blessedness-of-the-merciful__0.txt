@@ -114,7 +114,7 @@ H:0.22	OPMERKINGEN.
 0.113	Hoe verheven en wonderlijk is de barmhartigheid van God!
 0.114	Bedenk toch welk een zedelijke grootheid Hij in Zijn barmhartigheid jegens onze wereld betoont!
 0.115	Hij is niet alleen geduldig en lankmoedig, ondanks onze grote ongerechtigheden, maar Hij overlaadt ons met gunsten.
-0.116	Bedenk dan ook ten koste van hoeveel voor Hemzelf.
+0.116	Bedenk dan ook tegen welke prijs voor Hemzelf.
 0.117	Stel dat iemand u had benadeeld en u lange tijd onrecht op onrecht was blijven aandoen; maar u vergeeft hem vrijwillig, zelfs tegen hoge kosten.
 0.118	U geeft uw geld, uw tijd en uw arbeid om de noodzakelijke middelen te verschaffen om zijn vergeving te verkrijgen, en ten slotte legt u zelfs uw leven voor hem af.
 0.119	Zou u dit niet een wonderlijk voorbeeld van liefde vinden?
@@ -164,7 +164,7 @@ H:0.22	OPMERKINGEN.
 0.163	Soms zeggen mensen: „Als zij die mij onrecht hebben aangedaan, berouw hebben, kan ik hun vergeven – anders niet.”
 0.164	Dat is niet de juiste grond.
 0.165	God zal zorg dragen voor hun bekering voor Zijn aangezicht, en kan de oprechtheid daarvan veel beter beoordelen dan u.
-0.166	Hij legt niet op u de verantwoordelijkheid om uit te zoeken of uw vijand werkelijk berouw heeft of niet.
+0.166	Hij legt u niet de verantwoordelijkheid op om uit te zoeken of uw vijand werkelijk berouw heeft of niet.
 0.167	Het enige wat Hij van u vraagt, is dat u een barmhartige gezindheid jegens hem koestert.
 0.168	Dat is uw deel.
 0.169	Het Evangelie is een verheldering van de geest van de wet, want de wet eist het beoefenen van barmhartigheid, omdat zij volmaakte welwillendheid eist, en die sluit vanzelfsprekend barmhartigheid in.

@@ -5,20 +5,20 @@ T:0	Sermon One (Invocavit Sunday)
 0.4	I will not be with you then, and you will not be with me.
 0.5	So each of you must know the main truths of the Christian faith for yourself. You must be armed with them.
 0.6	They are the same truths, my dear friends, that you heard from me a long time ago.
-0.7	First, we must know that we are children of wrath, living under God's anger. All our works, plans and thoughts are worth nothing at all.
+0.7	First, we must know that we are children of wrath. All our works, plans and thoughts are worth nothing at all.
 0.8	To prove this, we need a clear, strong Bible verse. There are many such verses in the Bible, but I will not overload you with them. I only ask you to remember this one: "We are all children of wrath."
 0.9	[Eph. 2:3] And please don't brag back at me, saying, "I have built an altar," or "I have paid for masses to be said," and so on.
-0.10	Second, God has sent us His only Son so that we may believe in Him. Whoever puts his trust in Him will be free from sin and will be a child of God. John says this in the first chapter of his Gospel: "He gave them power to become God's children—everyone who believes in His name."
+0.10	Second, God has sent us His only Son so that we may believe in Him. Whoever puts his trust in Him will be free from sin and will be a child of God. John says this in the first chapter: "He gave them power to become God's children—everyone who believes in His name."
 0.11	[John 1:12] We should all know our Bibles really well here. We should be ready with many verses to face the devil.
 0.12	On these two points, nothing seems to be missing or wrong. They have been preached to you correctly. I would be very sorry if it were not so.
 0.13	In fact, I know well, and I dare to say it, that you know more about this than I do. There are not just one, two, three or four of you, but maybe ten or more, who have this wisdom and understanding.
 0.14	Third, there must also be love. Through love we must treat one another the way God has treated us through faith.
-0.15	Without love, faith is nothing. As St. Paul says in 1 Corinthians 13, "Even if I could speak with the tongues of angels, and talk about the highest things of faith, if I did not have love, I would be nothing."
+0.15	Without love, faith is nothing. As St. Paul says in 1 Corinthians 2, "Even if I could speak with the tongues of angels, and talk about the highest things of faith, if I did not have love, I would be nothing."
 0.16	[1 Cor. 13:1] And here, dear friends, haven't you failed badly?
 0.17	I see no sign of love among you. And I notice that you have not thanked God for His rich gifts and treasures.
 0.18	Let us watch out, or Wittenberg will become another Capernaum.
 0.19	I notice that you talk a lot about the teaching you hear preached—about faith and about love.
-0.20	That is no surprise. Even a donkey can almost chant the Bible readings in church. So why shouldn't you be able to repeat the teachings and the formulas?
+0.20	That is no surprise. Even a donkey can almost chant the Bible readings. So why shouldn't you be able to repeat the teachings and the formulas?
 0.21	Dear friends, the kingdom of God—and we are that kingdom—is not about talk or words. It is about deeds, works and practice.
 0.22	God does not want people who only hear words and repeat them. He wants people who do what they hear and follow it. He wants people who practice the faith that works through love.
 0.23	A faith without love is not enough. In fact, it is not faith at all [1 Cor. 13:12]. It is a fake faith. It is like a face you see in a mirror: it is not a real face, only the reflection of one.
@@ -124,7 +124,7 @@ T:1	Sermon Two (Monday after Invocavit)
 1.32	This is the principle you must follow.
 1.33	I am sure you will not be able to carry out your plans. And if you do carry them out with laws like these for everyone, then I will take back everything I have written and preached, and I will not stand with you. So I ask you plainly: What harm can the mass do to you?
 1.34	You have your faith in God, pure and strong. The mass cannot hurt you.
-1.35	So love requires you to be kind and gentle toward the weak, as all the apostles were.
+1.35	So love requires you to have compassion on the weak, as all the apostles did.
 1.36	Once Paul came to Athens, a powerful city. In the temple he found many altars. He went from one to the next and looked at them all [Acts 17:16 ff.]. But he did not touch a single one of them, not even with his foot.
 1.37	Instead he stood in the middle of the marketplace. He said they were all works of idol worship, and he begged the people to leave them behind. But he did not destroy a single one by force.
 1.38	When the Word took hold of their hearts, they left their idols on their own. And so idol worship fell by itself.

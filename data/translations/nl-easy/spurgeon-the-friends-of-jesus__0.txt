@@ -4,7 +4,7 @@
 0.4	In het hart van onze Heer Jezus brandt zo'n sterke vriendschap voor ons, dat alle andere vriendschap daarbij lijkt op een zwak kaarsje naast de zon.
 0.5	“Niemand heeft meer liefde dan iemand die zijn leven geeft voor zijn vriend.”
 0.6	Een gewoon mens kan niet verder gaan dan sterven voor zijn vriend. Maar hij zou toch al een keer doodgaan. Als hij voor zijn vriend sterft, betaalt hij dus alleen wat eerder een schuld die hij een tijdje later hoe dan ook had moeten betalen.
-0.7	Christus hoefde helemaal niet te sterven. Daarom staan Zijn liefde en Zijn vriendschap helemaal alleen. Niets komt erbij in de buurt.
+0.7	Christus hoefde helemaal niet te sterven. Daarom staan Zijn liefde en Zijn vriendschap helemaal op zichzelf.
 0.8	Hij stierf, terwijl Hij niet hoefde te sterven. Hij stierf in vreselijke pijn, terwijl Hij in heerlijkheid had kunnen leven. Nooit heeft iemand zo'n groot bewijs van vriendschap gegeven.
 0.9	Laat de vriendschap van onze Heer voor ons het voorbeeld zijn voor onze vriendschap voor Hem.
 0.10	Dat kan niet in alles precies hetzelfde zijn, want onze positie is heel anders. Zijn liefde is altijd de liefde van de grotere voor de kleinere. Het is de liefde van iemand die geeft, voor iemand die hulp nodig heeft. Het is de liefde van de Verlosser voor mensen die Hij voor een hoge prijs heeft gekocht. Maar als je dat even buiten beschouwing laat, geldt dit: hoe beter we de toon en de sfeer van Zijn vriendschap kunnen nadoen, hoe beter.
@@ -198,7 +198,7 @@
 0.198	Jullie zijn Zijn vrienden niet – of in elk geval niet zo dat jullie van die vriendschap genieten – als jullie niet vastbesloten proberen Hem in alles blij te maken.
 0.199	De zonde verstoort de nauwe band tussen jullie en Christus. Je kunt je hoofd niet tegen Zijn borst leggen en zeggen: “Heer, ik weet wat U wilt, maar ik ben niet van plan het te doen.”
 0.200	Zou je omhoog kunnen kijken naar dat lieve gezicht – dat gezicht dat ooit zo toegetakeld was en nu mooier is dan de hemel zelf – en zeggen: “Mijn Heer, ik houd van U, maar ik ga niet in alles doen wat U wilt”?
-0.201	Juist omdat Hij zoveel van je houdt, zal Hij je streng corrigeren voor die opstandige houding, als je daaraan toegeeft.
+0.201	Juist omdat Hij zoveel van je houdt, zal Hij je corrigeren voor die opstandige houding, als je daaraan toegeeft.
 0.202	Het is een verschrikkelijk kwaad. Heilige ogen kunnen het niet verdragen.
 0.203	Zijn liefde is jaloers. Hij duldt de zonde niet, want die is Zijn rivaal.
 0.204	“Jullie zijn Mijn vrienden als jullie alles doen wat Ik jullie opdraag.”
@@ -238,7 +238,7 @@
 0.238	IV. Ten vierde leert onze tekst ons: HET MEEST VRIENDSCHAPPELIJKE WAT JE VOOR JEZUS KUNT DOEN, IS HEM GEHOORZAMEN: “Jullie zijn Mijn vrienden als jullie alles doen wat Ik jullie opdraag.”
 0.239	Rijke mensen hebben gedacht dat ze het meest vriendschappelijke voor Christus deden als ze een enorm bedrag gaven om een kerk te bouwen, of om huizen voor arme mensen of scholen te stichten.
 0.240	Als ze gelovig zijn en dit gedaan hebben om Christus te gehoorzamen, omdat Hij wil dat we goed beheren wat Hij ons geeft, dan hebben ze het goed gedaan. Hoe meer van zulke gulheid, hoe beter. Maar als mensen prachtige giften geven om ermee te pronken, of omdat ze denken dat ze iets verdienen door veel geld aan God te geven, dan wordt het allemaal niet aangenomen.
-0.241	“Als iemand al zijn bezit zou geven om liefde te kopen, zou dat helemaal worden afgewezen.”
+0.241	Als iemand al zijn bezit zou geven om liefde te kopen, zou dat helemaal worden afgewezen.
 0.242	Jezus vraagt niet om veel geld, maar om onszelf.
 0.243	Hij heeft dit tot het teken van echte liefde gemaakt: “Als jullie alles doen wat Ik jullie opdraag.”
 0.244	“Gehoorzamen is beter dan offers brengen, en luisteren is beter dan het vet van rammen.”
@@ -271,7 +271,7 @@
 0.271	We moeten God aanbidden zoals Hij dat wil, niet zoals wij dat willen. Stel dat ik me helemaal zou wijden aan wat de aanhangers van de paus het ‘religieuze leven’ noemden. Stel dat ik weg zou gaan van gewone mensen en al mijn tijd in eenzaamheid zou doorbrengen met nadenken. Dan zou dat toch niets betekenen, omdat de Heer Jezus dat nooit van mij gevraagd heeft.
 0.272	Wat Hij wel vraagt, is dat we alles doen wat Hij ons opdraagt.
 0.273	Waarom proberen mensen iets te doen wat Hij nooit heeft opgedragen?
-0.274	Een schoolmeester zal het goedvinden als ik hem hierbij als voorbeeld gebruik.
+0.274	Een schoolmeester zal het goedvinden als ik hem hierover om zijn oordeel vraag.
 0.275	Stel dat hij tegen een jongen in de klas zegt: “Nu is het tijd om je lei te pakken en te gaan rekenen.” Maar de jongen pakt in plaats daarvan zijn schrijfschrift. Zou de meester dan niet vragen of hij hem wel goed begrepen heeft?
 0.276	En als hij na een paar minuten ziet dat de jongen zit te schrijven, zegt hij dan: “Wat heb je die regel mooi geschreven”?
 0.277	Helemaal niet. Het maakt weinig uit of hij goed of slecht schrijft. Want schrijven terwijl hij moest rekenen, is gewoon grove ongehoorzaamheid.

@@ -140,7 +140,7 @@ H:0.31	REMARKS.
 0.138	Still, let us be fair. I can easily see that the merely legal relationship could exist without breaking the law of love.
 0.139	This golden rule works equally well everywhere and in every situation.
 0.140	It is good to use when we ask for favors.
-0.141	We should not ask anyone for a favor if knowing his situation would rule it out. The same is true if proper care for his welfare would rule it out. That is the kind of care we would want him to have for ours.
+0.141	We should not ask anyone for a favor if knowing his situation and properly caring about his welfare would rule it out. That is the kind of care we would want him to have for ours.
 0.142	The same is true of receiving favors.
 0.143	If we apply this law honestly, it will show us which favors we should let others do for us.
 0.144	Sometimes it is not right for us to let others do us favors.

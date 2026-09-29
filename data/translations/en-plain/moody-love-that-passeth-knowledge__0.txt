@@ -24,7 +24,7 @@
 0.24	For more than six thousand years he has been trying to convince people that God does not love them.
 0.25	He got the first man and woman to believe this lie. And far too often he gets their children to believe it too.
 0.26	The idea that God doesn’t love us often comes from wrong teaching.
-0.27	Some mothers make a mistake. They teach their children that God doesn’t love them when they do wrong, but only when they do right.
+0.27	Mothers make a mistake when they teach their children this: God doesn’t love them when they do wrong, but only when they do right.
 0.28	The Bible doesn’t teach that.
 0.29	You don’t teach your children that you hate them when they do wrong.
 0.30	Their bad behavior doesn’t turn your love into hate. If it did, your love would change a great many times!
@@ -133,7 +133,7 @@
 0.133	She became truly sorry for her sins. With a heart full of sorrow and shame, she went back to the home she had left. Mother and daughter were together again.
 0.134	But let me tell you, no mother’s love can compare with God’s love. It can’t even measure how high or how deep God’s love is.
 0.135	No mother in this world ever loved her child the way God loves you and me.
-0.136	Think how much God must have loved us when He gave His Son to die for the world.
+0.136	Think how much love God must have had when He gave His Son to die for the world.
 0.137	I used to think much more highly of Christ than I did of the Father.
 0.138	For some reason I had the idea that God was a harsh judge. I thought Christ had come between me and God to calm God’s anger.
 0.139	But then I became a father, and for years I had only one son. As I looked at my boy, I thought about the Father giving His Son to die. It seemed to me that it took more love for the Father to give His Son than for the Son to die.
@@ -152,8 +152,8 @@
 0.152	But Jesus Christ gave up His life for His enemies.
 0.153	Here is another thought: He loved us long before we ever thought about Him.
 0.154	The Bible never says that He won’t love us until we love Him first.
-0.155	In 1 John 4:10 it says:
-0.156	“This is what love really is: not that we loved God, but that He loved us and sent His Son to be the sacrifice that turns away God’s anger over our sins.”
+0.155	In 1 John 4:10
+0.156	it says: “This is love: not that we loved God, but that He loved us and sent His Son to be the sacrifice for our sins.”
 0.157	He loved us before we ever thought of loving Him.
 0.158	You loved your children before they knew anything about your love.
 0.159	In the same way, long before we ever thought about God, He was thinking about us.
@@ -193,8 +193,8 @@
 0.193	“God shows how much He loves us by this: Christ died for us while we were still sinners” (Romans 5:8).
 0.194	God sent Him to die for the sins of the whole world.
 0.195	If you are part of the world, then you have a share in this love that was shown on the cross of Christ.
-0.196	There is a verse in Revelation 1:5 that means a great deal to me:
-0.197	“To Him who loved us and washed us.”
+0.196	There is a verse in Revelation 1:5
+0.197	that means a great deal to me: “To Him who loved us and washed us.”
 0.198	You might think God would wash us first and then love us.
 0.199	But no, He loved us first.
 0.200	About eight years ago the whole country was deeply upset about Charlie Ross, a four-year-old boy who was kidnapped.

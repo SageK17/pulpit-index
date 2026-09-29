@@ -6,7 +6,7 @@
 0.6	I. De liefde die jegens onze naaste wordt geëist, is zeker geen welbehagen in zijn karakter.
 0.7	Welbehagen is goedkeuring van en vreugde in iemands karakter; maar onze Heere maakt geen onderscheid tussen goeden en kwaden, en daarom eist Hij van ons dat wij hen allen liefhebben.
 0.8	Het kan echter niet zo zijn dat Hij van ons eist het karakter van slechte mensen goed te keuren en daarin vreugde te scheppen; daarom moeten wij concluderen dat de liefde van welbehagen niet in Zijn gedachten is, en niet datgene is wat Hij eist.
-0.9	Welbehagen te hebben in het karakter van goddeloze mensen als goddelozen, is even slecht zijn als zij.
+0.9	Welbehagen te hebben in het karakter van goddeloze mensen als goddelozen, is even slecht te zijn als zij.
 0.10	Geen redelijk mens kan menen dat dit is wat de Heiland eist, of wat naar Zijn uitleg de wet van God eist.
 0.11	Verder is het niet de liefde van genegenheid die wij soms voor bepaalde personen voelen.
 0.12	Sommige personen zijn van nature aangenaam voor bepaalde anderen; sommigen zijn dat voor allen, omdat zij van nature beminnelijk zijn en geschikt om aangename gevoelens op te wekken.
@@ -60,7 +60,7 @@ H:0.11	II. Ik ga nu over tot het noemen van enkele dingen die in deze liefde bes
 0.59	Hebt u, met dit alles voor ogen, enig recht om te zeggen: „Geen enkel woord van erkentelijkheid, geen enkel dankoffer zal Hij ooit van mij krijgen!”
 0.60	Wat bent u Hem niet verschuldigd!
 0.61	Is het ooit bij u opgekomen hoezeer u Hem werkelijk uw eigen bestaan verschuldigd bent, aangezien u zonder Zijn zending van barmhartigheid nooit zou hebben geleefd?
-0.62	Zonder dat offer en die offerande op Golgotha zou geen van ons ooit enig bestaan hebben kunnen hebben.
+0.62	Zonder dat offer en die offerande op Golgotha had geen van ons ooit enig bestaan kunnen hebben.
 0.63	Zonder dat zouden Adam en Eva terstond in hun zonde zijn weggemaaid, en zou de wet haar loop van rechtvaardig oordeel hebben genomen: „Op de dag dat u daarvan eet, zult u zeker sterven.”
 0.64	U leeft dus alleen omdat God Zich over ons geslacht heeft ontfermd.
 0.65	Kom nu, treed terstond naar voren om aan de eisen van deze grote waarheid te voldoen.
@@ -127,7 +127,7 @@ H:0.31	OPMERKINGEN.
 0.125	Maar dit is waar, dat de zedelijkheid volmaakt zou zijn; er zou geen oorlog en twist meer zijn.
 0.126	Ieder gezin zou een klein zinnebeeld van de hemel zijn.
 0.127	Iedere gemeenschap zou het beeld van de hemel dragen.
-0.128	De vleugels van engelen zouden zo dichtbij neerdalen dat zij zulke liefdevolle harten zouden toewaaien; en de deuren van de hemel zouden de hele dag openstaan voor zo’n volk.
+0.128	De vleugels van engelen zouden zo dichtbij neerdalen dat zij zulke liefdevolle harten koelte zouden toewaaien; en de deuren van de hemel zouden de hele dag openstaan voor zo’n volk.
 0.129	Wij zien hoe wij hen moeten behandelen die onderdrukt worden en in slavernij zijn.
 0.130	Wij moeten ons in hun positie verplaatsen en nagaan wat wij, in hun omstandigheden, hun zouden vragen voor ons te doen.
 0.131	Stel dat ik en mijn gezin in slavernij zijn.
@@ -148,10 +148,10 @@ H:0.31	OPMERKINGEN.
 0.146	Een gepaste achting voor zijn omstandigheden dwingt mij zo’n groot geschenk van hem te weigeren.
 0.147	Hij kan het zich niet veroorloven het te geven; daarom kan ik het mij niet veroorloven het aan te nemen.
 0.148	U kunt uit dit onderwerp zien wat de zedelijkheid van onwedergeboren mensen is.
-0.149	Het is in geen enkele rechtmatige zin zedelijkheid.
+0.149	Het is in het geheel geen zedelijkheid, in welke juiste zin ook.
 0.150	Al hun zedelijkheid is slechts zonde.
 0.151	U kunt ook Gods persoonlijke verhouding tot de zelfzucht zien.
-0.152	Ieder deeltje zelfzucht is God persoonlijk vijandig en hatelijk.
+0.152	Ieder deeltje zelfzucht staat God persoonlijk vijandig tegenover en is Hem verfoeilijk.
 0.153	Zij is Zijn hart zo volstrekt ongelijk, zo geheel tegengesteld aan al Zijn beginselen en aan al Zijn daden, dat Hij geen gemeenschap met haar kan hebben.
 0.154	Hij moet haar voor eeuwig met volstrekte afschuw bejegenen.
 0.155	U kunt ook zien hoe Hij Zich als Regeerder tot de zonde verhoudt.
@@ -165,7 +165,7 @@ H:0.31	OPMERKINGEN.
 0.163	Alle ogen zijn naar Hem opgeheven.
 0.164	Wat zegt de Rechter van de hele aarde hiervan!
 0.165	Ach, hierop moet antwoord komen!
-0.166	Gods verhouding tot Zijn regering maakt het tot iets ontzaglijks dat de mens de zelfzucht liefheeft.
+0.166	Gods verhouding tot Zijn regering maakt het tot iets huiveringwekkends dat de mens de zelfzucht liefheeft.
 0.167	Iedere zelfzuchtige zondaar verkeert in zeker gevaar van de eeuwige dood.
 0.168	De mensen weten dit en kunnen niet anders dan het weten.
 0.169	Gods barmhartigheid stroomt aan uw voeten, een diepe, brede, heerlijke stroom; en toch slaat u er geen acht op!

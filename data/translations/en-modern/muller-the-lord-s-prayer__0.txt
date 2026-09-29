@@ -97,7 +97,7 @@
 0.97	“Give us this day our daily bread.”
 0.98	On this petition we may write clothes, house rent, taxes, supplies for everything our family requires.
 0.99	All this is implied in the petition for daily bread.
-0.100	And how precious it is to be able to go to a loving Father, whose very joy and delight it is to answer the petitions of His children.
+0.100	And how precious it is to have to go to a loving Father, whose very joy and delight it is to answer the petitions of His children.
 0.101	He is not a hard Master, an austere Being, but an infinitely loving Father.
 0.102	Oh, that it might increasingly come to every one of the children of God to look at Him as an infinitely loving Being; for when we are brought to this state, we are perfectly satisfied at all times and under all circumstances with His dealings with us.
 0.103	Whether they are painful or otherwise, we are satisfied that He does all things well.
