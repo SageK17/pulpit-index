@@ -407,7 +407,8 @@ a.tile { background: var(--tb); }
 .mark.note q { display: block; font-family: var(--f-read); color: var(--ink-3); font-size: 13.5px; margin-top: 4px; quotes: none; }
 .empty { padding: 36px 24px; text-align: center; border: 1.5px dashed var(--line-2); border-radius: var(--r-md); color: var(--ink-3); }
 .empty b { display: block; color: var(--ink); font-size: 16px; margin-bottom: 4px; }
-.method { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 22px; }
+.method { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 22px; }
+@media (max-width: 1100px) { .method { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .method .panel h4 { font-size: 16px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.01em; }
 .method .panel p { color: var(--ink-2); margin: 0; }
 .legend { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 13.5px; color: var(--ink-2); margin-top: 8px; }
@@ -619,6 +620,27 @@ body[data-vnum="off"] .vn { display: none; }
 .fn-head span { font-size: 12.5px; color: var(--ink-3); }
 .fn-text { font-size: 15.5px; line-height: 1.55; white-space: pre-wrap; margin: 0; }
 
+/* ================= VERSIONS + SECTIONS ================= */
+.verbtn { display: inline-flex; align-items: center; gap: 5px; height: 34px; padding: 0 11px; border-radius: 10px; background: var(--r-card); color: var(--r-ink); font-size: 13px; font-weight: 600; white-space: nowrap; flex: none; }
+.verbtn:hover { box-shadow: inset 0 0 0 1px var(--r-line); }
+.verbtn svg { width: 14px; height: 14px; }
+.vermenu { position: fixed; z-index: 46; right: max(12px, calc(50vw - 420px)); top: calc(60px + env(safe-area-inset-top, 0px)); width: min(360px, calc(100vw - 24px)); background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow-2); padding: 8px; animation: pop .18s cubic-bezier(.2,.8,.2,1); }
+.vermenu p { margin: 6px 10px 8px; font-size: 12px; color: var(--ink-3); line-height: 1.45; }
+.veropt { display: grid; grid-template-columns: 34px minmax(0, 1fr) auto; gap: 10px; align-items: center; width: 100%; text-align: left; padding: 9px 10px; border-radius: 12px; }
+.veropt:hover { background: var(--surface-2); }
+.veropt[aria-checked="true"] { background: var(--surface-2); }
+.veropt .lg { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; font-size: 11px; font-weight: 700; background: var(--surface-3); color: var(--ink-2); letter-spacing: .03em; }
+.veropt[aria-checked="true"] .lg { background: var(--ink); color: var(--bg); }
+.veropt b { display: block; font-size: 14px; font-weight: 600; }
+.veropt span.d { display: block; font-size: 12.5px; color: var(--ink-3); line-height: 1.35; }
+.veropt .tick { color: var(--ok); opacity: 0; }
+.veropt[aria-checked="true"] .tick { opacity: 1; }
+.r-body h3.sec-h { font-family: var(--f-ui); font-size: 0.8em; font-weight: 650; letter-spacing: 0.01em; margin: 2em 0 0.75em; color: var(--r-ink); display: flex; align-items: center; gap: 0.5em; }
+.r-body h3.sec-h::after { content: ""; flex: 1; height: 1px; background: var(--r-line); }
+.r-body h3.sec-h:first-child { margin-top: 0.2em; }
+.vnote { margin: 0 0 1.4em; padding: 10px 12px; border-radius: 12px; background: var(--r-card); font-family: var(--f-ui); font-size: 13px; color: var(--r-ink-2); line-height: 1.5; }
+.vnote b { color: var(--r-ink); }
+
 /* ================= LISTEN ================= */
 .listen { display: inline-flex; align-items: center; gap: 7px; padding: 5px 13px 5px 6px; border-radius: 999px; background: var(--r-ink); color: var(--r-bg); font-weight: 600; font-size: 13.5px; }
 .listen .ic { width: 22px; height: 22px; border-radius: 50%; background: var(--r-bg); color: var(--r-ink); display: grid; place-items: center; }
@@ -652,7 +674,7 @@ body[data-vnum="off"] .vn { display: none; }
 .v.speaking { background-color: color-mix(in srgb, var(--r-accent) 15%, transparent); box-shadow: inset 0 -2px 0 color-mix(in srgb, var(--r-accent) 70%, transparent); transition: background-color .25s, box-shadow .25s; }
 body.listening .rcol { padding-bottom: 200px; }
 .rp-row select { width: 100%; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--line-2); background: var(--bg); color: var(--ink); font: inherit; font-size: 14px; }
-@media (max-width: 600px) { .pl-rate { min-width: 38px; } .player { gap: 2px; } .pl-btn { width: 34px; } }
+@media (max-width: 600px) { .pl-rate { min-width: 38px; } .player { gap: 2px; } .pl-btn { width: 34px; } .rbar-t { visibility: hidden; } }
 
 /* ================= MOTION ================= */
 ::view-transition-old(root) { animation: vt-out .18s ease both; }
@@ -813,6 +835,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
       <button class="iconbtn" type="button" id="r-back" aria-label="Back"><svg class="i"><use href="#i-left"/></svg></button>
       <div class="rbar-t" id="r-bar-t"></div>
       <select class="rchap" id="r-chapter" aria-label="Part" hidden></select>
+      <button class="verbtn" type="button" id="r-ver" aria-haspopup="true" aria-expanded="false" hidden><span id="r-ver-l">Original</span><svg class="i" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></button>
       <button class="iconbtn" type="button" id="r-bookmark" aria-label="Bookmark" aria-pressed="false"><svg class="i"><use href="#i-saved"/></svg></button>
       <button class="iconbtn" type="button" id="r-settings" aria-label="Reading settings" aria-expanded="false"><span class="aa">Aa</span></button>
     </div>
@@ -850,6 +873,8 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   </div>
   <button class="rp-toggle" type="button" id="r-vnum" role="switch" aria-checked="true">Verse numbers <span class="switch"></span></button>
 </div>
+
+<div class="vermenu" id="r-vermenu" hidden role="menu" aria-label="Translation"></div>
 
 <div class="player" id="player" hidden role="region" aria-label="Audio player">
   <div class="pl-prog"><i id="pl-bar"></i></div>
@@ -1192,6 +1217,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
       ["Gaps are shown, never filled", "When history does not record a detail, the entry says “not recorded” instead of guessing. Stories that rest on one witness are attributed to that witness. Sermons whose authorship could not be established were removed."],
       ["Where the preacher was in life", "Every preacher has a sourced timeline of life stages and dated events, checked the same way. Ages come from the recorded birth and sermon dates; when either is known only to the year, the age is shown as a range."],
       ["Full texts, word for word", "Full texts appear only where the sermon and its English translation are in the public domain. They were copied from the named archive without editing; only the layout changed. Verses are the text’s own sentences, numbered so you can mark and cite them."],
+      ["Translations and headings", "Full-text sermons can be read in four extra versions: Modern and Plain English, and Nauwkeurig and Eenvoudig Dutch. They are our own AI-assisted translations, made verse by verse from the public-domain text and reviewed against it. They follow the style of the NKJV, NLT, HSV and Het Boek but are not those Bibles, and Bible quotations are translated fresh. Section headings inside the sermons are added by the editors. The Original is always one tap away."],
       ["Listening", "The Listen button reads a full text aloud with your device’s own voices, highlighting each verse as it is read; choose the voice and speed in the Aa menu. Where a genuine recording exists (a public-domain reading, or the preacher’s own voice), a Recording button opens it at its source."],
       ["Sermons still in copyright", "Sermons by Lewis, King, Graham, Lloyd-Jones and modern translations of Bonhoeffer, Luther and Augustine are summarised in our own words, with links to the authorised publisher, archive or recording."],
       ["Your notes and friends", "Highlights, bookmarks and notes are saved in your own browser. Only notes you switch to “Share with friends” are stored with the page, where your friends see them in their reader; people who can open the page could see them too."],
@@ -1289,6 +1315,49 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   /* ================= READER ================= */
   var R = { id: null, text: null, chap: 0, sel: [], pendingKey: null, resume: false };
   var textCache = {}, bundleCache = {};
+  var VERS = {
+    "original": { label: "Original", tag: "EN", lang: "en", desc: "As printed, word for word" },
+    "en-modern": { label: "Modern", tag: "MOD", lang: "en", desc: "Close to the original, old words updated (in the spirit of the NKJV)" },
+    "en-plain": { label: "Plain", tag: "PLN", lang: "en", desc: "Easy modern English (in the spirit of the NLT)" },
+    "nl-formal": { label: "NL · Nauwkeurig", tag: "NL", lang: "nl", desc: "Nauwkeurig Nederlands (in de geest van de HSV)" },
+    "nl-easy": { label: "NL · Eenvoudig", tag: "NL·E", lang: "nl", desc: "Eenvoudig Nederlands (in de geest van Het Boek)" }
+  };
+  var VORDER = ["original", "en-modern", "en-plain", "nl-formal", "nl-easy"];
+  var verCache = {}, verBundle = {};
+  function loadVersion(id, ver) {
+    if (ver === "original") return loadText(id);
+    var ck = ver + "|" + id;
+    if (verCache[ck]) return Promise.resolve(verCache[ck]);
+    if (INLINE && INLINE.__versions && INLINE.__versions[ver] && INLINE.__versions[ver][id]) return Promise.resolve(verCache[ck] = INLINE.__versions[ver][id]);
+    var pid = sermonById[id].preacher_id, bk = pid + "." + ver;
+    if (!verBundle[bk]) verBundle[bk] = fetch("texts/" + encodeURIComponent(bk) + ".json").then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
+    return verBundle[bk].then(function (b) { if (!b[id]) throw new Error("missing"); return (verCache[ck] = b[id]); }, function (e) { delete verBundle[bk]; throw e; });
+  }
+  function versionsOf(s) { return ["original"].concat((s.versions || []).filter(function (v) { return VERS[v]; })); }
+  function setVersion(ver, key) {
+    var id = R.id, s = sermonById[id];
+    if (versionsOf(s).indexOf(ver) < 0) ver = "original";
+    return loadVersion(id, ver).then(function (v) {
+      if (R.id !== id) return;
+      R.ver = ver;
+      R.text = ver === "original" ? R.base : { chapters: v.chapters, edition: R.base.edition, source_label: R.base.source_label, source_url: R.base.source_url, note: R.base.note, sections: R.base.sections };
+      R.verses = verseTable(R.text);
+      var chs = R.text.chapters || [], sel = document.getElementById("r-chapter");
+      if (chs.length > 1) { sel.innerHTML = chs.map(function (c, i) { return '<option value="' + i + '">' + esc(c.title || "Part " + (i + 1)) + '</option>'; }).join(""); sel.hidden = false; }
+      var vb = document.getElementById("r-ver");
+      vb.hidden = versionsOf(s).length < 2;
+      document.getElementById("r-ver-l").textContent = VERS[ver].label;
+      document.getElementById("r-article").setAttribute("lang", VERS[ver].lang);
+      renderChapter(key ? +String(key).split(".")[0] || 0 : 0, key);
+      renderVoices();
+    }).catch(function () { if (ver !== "original") { toast("That translation couldn’t be loaded"); return setVersion("original", key); } });
+  }
+  function renderVerMenu() {
+    var s = sermonById[R.id], vs = versionsOf(s);
+    document.getElementById("r-vermenu").innerHTML = vs.map(function (v) {
+      return '<button class="veropt" type="button" role="menuitemradio" data-ver="' + v + '" aria-checked="' + (v === R.ver) + '"><span class="lg">' + esc(VERS[v].tag) + '</span><span><b>' + esc(VERS[v].label) + '</b><span class="d">' + esc(VERS[v].desc) + '</span></span><svg class="i tick"><use href="#i-check"/></svg></button>';
+    }).join("") + '<p>Translations are our own AI-assisted renderings, reviewed against the original. They are not the NKJV, NLT, HSV or Het Boek. Verse numbers match the original, so your highlights and notes follow you.</p>';
+  }
   function loadText(id) {
     if (textCache[id]) return Promise.resolve(textCache[id]);
     if (INLINE && INLINE[id]) return Promise.resolve(textCache[id] = INLINE[id]);
@@ -1338,7 +1407,8 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   function openReader(id) {
     var s = sermonById[id], p = preacherById[s.preacher_id];
     stopListening();
-    R.id = id; R.text = null; R.sel = []; hideSheet(); closePanel();
+    R.id = id; R.text = null; R.base = null; R.ver = "original"; R.sel = []; hideSheet(); closePanel();
+    document.getElementById("r-ver").hidden = true; document.getElementById("r-vermenu").hidden = true;
     document.body.classList.add("reading");
     document.getElementById("reader").hidden = false;
     document.getElementById("r-bar-t").innerHTML = esc(s.title) + ' <span>· ' + esc(p.short) + '</span>';
@@ -1371,12 +1441,10 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     if (s.has_text) {
       loadText(id).then(function (t) {
         if (R.id !== id) return;
-        R.text = t; R.verses = verseTable(t);
-        var chs = t.chapters || [], sel = document.getElementById("r-chapter");
-        if (chs.length > 1) { sel.innerHTML = chs.map(function (c, i) { return '<option value="' + i + '">' + esc(c.title || "Part " + (i + 1)) + '</option>'; }).join(""); sel.hidden = false; }
+        R.base = t;
         var key = R.pendingKey || (R.resume && progress[id] && progress[id].k) || null;
-        renderChapter(key ? +String(key).split(".")[0] || 0 : 0, key);
         R.pendingKey = null; R.resume = false;
+        setVersion(rs.version || "original", key);
       }).catch(function () {
         if (R.id !== id) return;
         document.getElementById("r-body").innerHTML = '<div class="locked"><h3>The text could not be loaded</h3><p>Open this page through its published link or the local server to read it here.</p>' +
@@ -1413,7 +1481,10 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         (noteAt[k] ? '<button class="nmark" type="button" data-note="' + noteAt[k] + '" aria-label="Open note">' + icon("note") + '</button>' : '') + ' ';
     }
     var html = chs.length > 1 && ch.title ? '<h2 class="chap">' + esc(ch.title) + '</h2>' : '';
+    var secAt = {}, nl = VERS[R.ver || "original"].lang === "nl";
+    ((R.base && R.base.sections) || []).forEach(function (sc) { if (+sc.at.split(".")[0] === ci) secAt[sc.at] = nl ? sc.nl : sc.en; });
     ch.blocks.forEach(function (b) {
+      if (b.t !== "h") { var fk = ci + "." + (vn + 1); if (secAt[fk]) html += '<h3 class="sec-h" title="Heading added by the editors">' + esc(secAt[fk]) + '</h3>'; }
       if (b.t === "h") html += '<h3>' + esc(b.x) + '</h3>';
       else if (b.t === "v") html += '<p class="poem">' + verse(b.x) + '</p>';
       else html += '<p' + (b.t === "q" ? ' class="q"' : '') + '>' + (b.s || [b.x]).map(verse).join("") + '</p>';
@@ -1433,8 +1504,9 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
 
   function renderFoot(s, t) {
     var out = "";
-    if (t) out += '<div class="r-src">Text: ' + esc(t.edition || "") + (safeUrl(t.source_url) ? ', from <a href="' + esc(t.source_url) + '" target="_blank" rel="noopener">' + esc(t.source_label || "the source") + '</a>' : '') +
-      '. Public domain, reproduced word for word; only the layout is ours. Verse numbers mark the text’s own sentences.' + (t.note ? ' ' + esc(t.note) : '') + '</div>';
+    if (t && R.ver && R.ver !== "original") out += '<div class="r-src"><b>' + esc(VERS[R.ver].label) + '</b>: an AI-assisted translation by The Pulpit Index of the public-domain text (' + esc(t.edition || "") + '), reviewed against the original. It is not the NKJV, NLT, HSV or Het Boek. Section headings are added by the editors. Switch to Original for the exact words.</div>';
+    else if (t) out += '<div class="r-src">Text: ' + esc(t.edition || "") + (safeUrl(t.source_url) ? ', from <a href="' + esc(t.source_url) + '" target="_blank" rel="noopener">' + esc(t.source_label || "the source") + '</a>' : '') +
+      '. Public domain, reproduced word for word; only the layout is ours. Verse numbers mark the text’s own sentences; section headings are added by the editors.' + (t.note ? ' ' + esc(t.note) : '') + '</div>';
     var q = queue.indexOf(s.id) >= 0 ? queue : SERMONS.filter(function (x) { return x.preacher_id === s.preacher_id; }).sort(byDate).map(function (x) { return x.id; });
     var i = q.indexOf(s.id), prev = i > 0 ? sermonById[q[i - 1]] : null, next = i >= 0 && i < q.length - 1 ? sermonById[q[i + 1]] : null;
     function nb(x, d, cls) {
@@ -1512,7 +1584,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   }
   function copySel() {
     var s = sermonById[R.id], p = preacherById[s.preacher_id];
-    var txt = selText() + "\n— " + p.name + ", “" + s.title + "”" + (s.date_text ? " (" + s.date_text + ")" : "") + ", v. " + refLabel(R.sel);
+    var txt = selText() + "\n— " + p.name + ", “" + s.title + "”" + (s.date_text ? " (" + s.date_text + ")" : "") + ", v. " + refLabel(R.sel) + (R.ver && R.ver !== "original" ? " · " + VERS[R.ver].label + " (Pulpit Index translation)" : "");
     function fallback() {
       var ta = document.createElement("textarea"); ta.value = txt; ta.setAttribute("readonly", ""); ta.style.cssText = "position:fixed;top:0;opacity:0";
       document.body.appendChild(ta); ta.select(); var ok = false; try { ok = document.execCommand("copy"); } catch (e) {}
@@ -1682,6 +1754,8 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
 
     var panel = document.getElementById("r-panel");
     if (!panel.hidden && !t.closest("#r-panel") && !t.closest("#r-settings")) closePanel();
+    var vm = document.getElementById("r-vermenu");
+    if (!vm.hidden && !t.closest("#r-vermenu") && !t.closest("#r-ver")) vm.hidden = true;
   });
   document.getElementById("r-back").addEventListener("click", leaveReader);
   document.getElementById("pl-play").addEventListener("click", function () { if (Lx.playing) pauseListening(); else speakKey(Lx.key || firstVisibleKey()); });
@@ -1692,7 +1766,20 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     var i = RATES.indexOf(rs.rate || 1); rs.rate = RATES[(i + 1) % RATES.length]; applyRs();
     if (Lx.playing) speakKey(Lx.key); else updatePlayer();
   });
-  document.getElementById("r-voice").addEventListener("change", function () { rs.voice = this.value; applyRs(); if (Lx.playing) speakKey(Lx.key); });
+  document.getElementById("r-voice").addEventListener("change", function () { if (curLang() === "nl") rs.voiceNl = this.value; else rs.voice = this.value; applyRs(); if (Lx.playing) speakKey(Lx.key); });
+  document.getElementById("r-ver").addEventListener("click", function () {
+    var m = document.getElementById("r-vermenu"); closePanel();
+    if (m.hidden) { renderVerMenu(); m.hidden = false; this.setAttribute("aria-expanded", "true"); } else { m.hidden = true; this.setAttribute("aria-expanded", "false"); }
+  });
+  document.getElementById("r-vermenu").addEventListener("click", function (e) {
+    var b = e.target.closest("[data-ver]"); if (!b) return;
+    var ver = b.getAttribute("data-ver"), key = firstVisibleKey();
+    this.hidden = true; document.getElementById("r-ver").setAttribute("aria-expanded", "false");
+    if (ver === R.ver) return;
+    var wasPlaying = Lx.playing; if (Lx.on) pauseListening();
+    rs.version = ver; applyRs();
+    setVersion(ver, key).then(function () { toast(VERS[ver].label); if (wasPlaying) speakKey(Lx.key || key); });
+  });
   document.getElementById("act-listen").addEventListener("click", function () { var k = R.sel.slice().sort(keyCmp)[0]; hideSheet(); listenFrom(k); });
   document.getElementById("r-bookmark").addEventListener("click", toggleBookmark);
   document.getElementById("r-settings").addEventListener("click", function () {
@@ -1724,6 +1811,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
       if (!document.getElementById("note-modal").hidden) { closeNote(); return; }
       if (!document.getElementById("fnote-modal").hidden) { document.getElementById("fnote-modal").hidden = true; return; }
       if (!document.getElementById("r-panel").hidden) { closePanel(); return; }
+      if (!document.getElementById("r-vermenu").hidden) { document.getElementById("r-vermenu").hidden = true; return; }
       if (R.sel.length) { hideSheet(); return; }
       if (R.id) leaveReader();
     }
@@ -1740,12 +1828,14 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
       return out;
     });
   }
-  function enVoices() { return TTS ? TTS.getVoices().filter(function (v) { return /^en([-_]|$)/i.test(v.lang); }) : []; }
+  function curLang() { return (R && R.ver && VERS[R.ver]) ? VERS[R.ver].lang : "en"; }
+  function enVoices() { var re = curLang() === "nl" ? /^nl([-_]|$)/i : /^en([-_]|$)/i; return TTS ? TTS.getVoices().filter(function (v) { return re.test(v.lang); }) : []; }
   function pickVoice() {
     var vs = enVoices(); if (!vs.length) return null;
-    return vs.filter(function (v) { return v.voiceURI === rs.voice; })[0] ||
+    var want = curLang() === "nl" ? rs.voiceNl : rs.voice;
+    return vs.filter(function (v) { return v.voiceURI === want; })[0] ||
       vs.filter(function (v) { return /premium|enhanced|natural|neural/i.test(v.name); })[0] ||
-      vs.filter(function (v) { return v.default; })[0] || vs.filter(function (v) { return /GB/i.test(v.lang); })[0] || vs[0];
+      vs.filter(function (v) { return v.default; })[0] || vs.filter(function (v) { return /GB|NL/i.test(v.lang); })[0] || vs[0];
   }
   function renderVoices() {
     var row = document.getElementById("r-voice-row"), sel = document.getElementById("r-voice"), vs = enVoices();

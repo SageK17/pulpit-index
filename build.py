@@ -295,6 +295,82 @@ def prepare_text(tx):
     return out
 
 
+VERSIONS = ["en-modern", "en-plain", "nl-formal", "nl-easy"]
+
+
+def read_keyed(path):
+    out = {}
+    for line in open(path, encoding="utf-8"):
+        line = line.rstrip("\n")
+        if "\t" in line:
+            k, v = line.split("\t", 1)
+            out[k.strip()] = v.strip()
+    return out
+
+
+def paragraph_starts(tx):
+    starts, first = {}, None
+    for ci, ch in enumerate(tx["chapters"]):
+        vn = 0
+        for b in ch["blocks"]:
+            if b["t"] == "h":
+                continue
+            n = len(b.get("s") or [1])
+            starts[f"{ci}.{vn + 1}"] = True
+            vn += n
+    return starts
+
+
+def verse_keys(tx):
+    keys = []
+    for ci, ch in enumerate(tx["chapters"]):
+        vn = 0
+        for b in ch["blocks"]:
+            if b["t"] == "h":
+                continue
+            for _ in (b.get("s") or [1]):
+                vn += 1
+                keys.append(f"{ci}.{vn}")
+    return keys
+
+
+def apply_translation(tx, tr):
+    """Rebuild tx's chapters with translated text; returns None if any unit is missing."""
+    chapters = []
+    multi = len(tx["chapters"]) > 1
+    for ci, ch in enumerate(tx["chapters"]):
+        title = ch.get("title", "")
+        if multi and title:
+            title = tr.get(f"T:{ci}")
+            if not title:
+                return None
+        vn, blocks = 0, []
+        for bi, b in enumerate(ch["blocks"]):
+            if b["t"] == "h":
+                x = tr.get(f"H:{ci}.{bi}")
+                if not x:
+                    return None
+                blocks.append({"t": "h", "x": x})
+                continue
+            if b["t"] == "v":
+                vn += 1
+                x = tr.get(f"{ci}.{vn}")
+                if not x:
+                    return None
+                blocks.append({"t": "v", "x": x.replace(" / ", "\n")})
+                continue
+            ss = []
+            for _ in b["s"]:
+                vn += 1
+                x = tr.get(f"{ci}.{vn}")
+                if not x:
+                    return None
+                ss.append(x)
+            blocks.append({"t": b["t"], "s": ss})
+        chapters.append({"title": title, "blocks": blocks})
+    return chapters
+
+
 ERAS = [(500, "4th–5th century"), (1600, "16th century"), (1800, "18th century"), (1900, "19th century"), (2100, "20th century")]
 
 
@@ -461,6 +537,65 @@ def main():
         t["has_text"], t["words"] = True, words
         texts[t["id"]] = tx
 
+    # translations (data/translations/<version>/<sermon>__<n>.txt) and added section headings
+    chunk_list = {}
+    rf = os.path.join(data_dir, "translations", "reviewed.json")
+    reviewed = set(json.load(open(rf))) if os.path.exists(rf) else None
+    cf = os.path.join(data_dir, "translations", "chunks.json")
+    if os.path.exists(cf):
+        for c in json.load(open(cf)):
+            chunk_list.setdefault(c["sid"], []).append(c["id"])
+    versions = {}
+    for t in sermons:
+        t["versions"] = []
+        tx = texts.get(t["id"])
+        if not tx or t["id"] not in chunk_list:
+            continue
+        for ver in VERSIONS:
+            if reviewed is not None and not all(cid in reviewed for cid in chunk_list[t["id"]]):
+                continue
+            files = [os.path.join(data_dir, "translations", ver, cid + ".txt") for cid in chunk_list[t["id"]]]
+            if not all(os.path.exists(f) for f in files):
+                continue
+            tr = {}
+            for f in files:
+                tr.update(read_keyed(f))
+            chs = apply_translation(tx, tr)
+            if chs is None:
+                warnings.append(f"translation {ver} incomplete for {t['id']}")
+                continue
+            versions.setdefault(ver, {})[t["id"]] = {"chapters": chs}
+            t["versions"].append(ver)
+        sec_files = [os.path.join(data_dir, "sections", cid + ".json") for cid in chunk_list[t["id"]]
+                     if reviewed is None or cid in reviewed]
+        secs, valid, starts = [], set(verse_keys(tx)), paragraph_starts(tx)
+        order = {k: i for i, k in enumerate(verse_keys(tx))}
+        for f in sec_files:
+            if not os.path.exists(f):
+                continue
+            try:
+                items = json.load(open(f))
+            except Exception:
+                warnings.append(f"bad sections file {os.path.basename(f)}")
+                continue
+            for it in items if isinstance(items, list) else []:
+                at, en, nl = str(it.get("at", "")), str(it.get("en", "")).strip(), str(it.get("nl", "")).strip()
+                if at not in valid or not en:
+                    continue
+                if at not in starts:  # snap to the start of its paragraph
+                    i = order[at]
+                    while i > 0 and verse_keys(tx)[i] not in starts:
+                        i -= 1
+                    at = verse_keys(tx)[i]
+                secs.append({"at": at, "en": en[:80], "nl": (nl or en)[:80]})
+        if secs:
+            seen, uniq_secs = set(), []
+            for sc in sorted(secs, key=lambda x: order[x["at"]]):
+                if sc["at"] not in seen:
+                    seen.add(sc["at"])
+                    uniq_secs.append(sc)
+            tx["sections"] = uniq_secs
+
     plist = sorted(preachers.values(), key=lambda p: p["sort_year"])
     data = {
         "generated": datetime.date.today().strftime("%-d %B %Y"),
@@ -490,8 +625,17 @@ def main():
             bundles.setdefault(t["preacher_id"], {})[t["id"]] = texts[t["id"]]
     for pid, b in bundles.items():
         json.dump(b, open(os.path.join(tdist, pid + ".json"), "w"), ensure_ascii=False, separators=(",", ":"))
+    vbundles = {}
+    for ver, by in versions.items():
+        for sid, v in by.items():
+            pid = next(t["preacher_id"] for t in sermons if t["id"] == sid)
+            vbundles.setdefault((pid, ver), {})[sid] = v
+    for (pid, ver), b in vbundles.items():
+        json.dump(b, open(os.path.join(tdist, f"{pid}.{ver}.json"), "w"), ensure_ascii=False, separators=(",", ":"))
 
-    inline = json.dumps(texts, ensure_ascii=False).replace("</", "<\\/")
+    inline_obj = {"__versions": {ver: by for ver, by in versions.items()}}
+    inline_obj.update(texts)
+    inline = json.dumps(inline_obj, ensure_ascii=False).replace("</", "<\\/")
     standalone = (
         '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
@@ -509,8 +653,8 @@ def main():
         if os.path.isdir(os.path.join(docs, "texts")):
             shutil.rmtree(os.path.join(docs, "texts"))
         os.makedirs(os.path.join(docs, "texts"), exist_ok=True)
-        for pid, b in bundles.items():
-            json.dump(b, open(os.path.join(docs, "texts", pid + ".json"), "w"), ensure_ascii=False, separators=(",", ":"))
+        for f in glob.glob(os.path.join(tdist, "*.json")):
+            shutil.copy(f, os.path.join(docs, "texts", os.path.basename(f)))
         desc = ("Sermons of 15 great preachers, from Augustine to Billy Graham, sorted by subject, with sourced context, "
                 "where the preacher was in life, and full public-domain texts to read, mark and listen to.")
         head = (
@@ -534,6 +678,7 @@ def main():
     for t in sermons:
         for c in t["categories"]:
             counts[c] += 1
+    print("translations:", {ver: len(by) for ver, by in versions.items()}, "| with sections:", sum(1 for x in texts.values() if x.get("sections")))
     print(f"preachers={len(plist)} sermons={len(sermons)} texts={len(texts)} "
           f"lives={sum(1 for p in plist if p.get('life'))} -> {args.out} ({len(standalone)//1024} KB standalone, {len(page)//1024} KB artifact)")
     print("by preacher:", {p["id"]: sum(1 for t in sermons if t["preacher_id"] == p["id"]) for p in plist})

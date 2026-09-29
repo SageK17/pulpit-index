@@ -1,0 +1,974 @@
+[
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__0",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 5793,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__1",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6240,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__2",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 5985,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__3",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6073,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__4",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6230,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__5",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6428,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__6",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6428,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__7",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6202,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__8",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 6094,
+"priority": true
+},
+{
+"id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan__9",
+"sid": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+"words": 2217,
+"priority": true
+},
+{
+"id": "augustine-sermon-90-on-matthew-22-114-the-wedding-garment__0",
+"sid": "augustine-sermon-90-on-matthew-22-114-the-wedding-garment",
+"words": 5132,
+"priority": true
+},
+{
+"id": "augustine-sermon-56-on-the-lord-s-prayer-matthew-6-913-to-the-competen__0",
+"sid": "augustine-sermon-56-on-the-lord-s-prayer-matthew-6-913-to-the-competen",
+"words": 6106,
+"priority": true
+},
+{
+"id": "augustine-sermon-83-on-matthew-18-2135-how-often-shall-my-brother-sin-__0",
+"sid": "augustine-sermon-83-on-matthew-18-2135-how-often-shall-my-brother-sin-",
+"words": 2866,
+"priority": true
+},
+{
+"id": "augustine-sermon-114-on-luke-17-34-on-the-forgiveness-of-sins__0",
+"sid": "augustine-sermon-114-on-luke-17-34-on-the-forgiveness-of-sins",
+"words": 1613,
+"priority": true
+},
+{
+"id": "augustine-sermon-81-on-matthew-18-7-the-offences-of-the-world__0",
+"sid": "augustine-sermon-81-on-matthew-18-7-the-offences-of-the-world",
+"words": 4624,
+"priority": true
+},
+{
+"id": "augustine-sermon-105-on-luke-11-513-the-friend-at-midnight__0",
+"sid": "augustine-sermon-105-on-luke-11-513-the-friend-at-midnight",
+"words": 4351,
+"priority": false
+},
+{
+"id": "augustine-sermon-113-on-luke-16-9-make-to-yourselves-friends-of-the-ma__0",
+"sid": "augustine-sermon-113-on-luke-16-9-make-to-yourselves-friends-of-the-ma",
+"words": 2619,
+"priority": false
+},
+{
+"id": "edwards-god-glorified-in-the-work-of-redemption-by-the-greatness-of-__0",
+"sid": "edwards-god-glorified-in-the-work-of-redemption-by-the-greatness-of-",
+"words": 6485,
+"priority": false
+},
+{
+"id": "edwards-god-glorified-in-the-work-of-redemption-by-the-greatness-of-__1",
+"sid": "edwards-god-glorified-in-the-work-of-redemption-by-the-greatness-of-",
+"words": 564,
+"priority": false
+},
+{
+"id": "edwards-a-divine-and-supernatural-light-immediately-imparted-to-the-__0",
+"sid": "edwards-a-divine-and-supernatural-light-immediately-imparted-to-the-",
+"words": 6456,
+"priority": false
+},
+{
+"id": "edwards-a-divine-and-supernatural-light-immediately-imparted-to-the-__1",
+"sid": "edwards-a-divine-and-supernatural-light-immediately-imparted-to-the-",
+"words": 1965,
+"priority": false
+},
+{
+"id": "edwards-sinners-in-the-hands-of-an-angry-god__0",
+"sid": "edwards-sinners-in-the-hands-of-an-angry-god",
+"words": 6431,
+"priority": false
+},
+{
+"id": "edwards-sinners-in-the-hands-of-an-angry-god__1",
+"sid": "edwards-sinners-in-the-hands-of-an-angry-god",
+"words": 800,
+"priority": false
+},
+{
+"id": "edwards-a-farewell-sermon-preached-at-the-first-precinct-in-northamp__0",
+"sid": "edwards-a-farewell-sermon-preached-at-the-first-precinct-in-northamp",
+"words": 6406,
+"priority": true
+},
+{
+"id": "edwards-a-farewell-sermon-preached-at-the-first-precinct-in-northamp__1",
+"sid": "edwards-a-farewell-sermon-preached-at-the-first-precinct-in-northamp",
+"words": 6048,
+"priority": true
+},
+{
+"id": "finney-sinners-bound-to-change-their-own-hearts__0",
+"sid": "finney-sinners-bound-to-change-their-own-hearts",
+"words": 6485,
+"priority": false
+},
+{
+"id": "finney-sinners-bound-to-change-their-own-hearts__1",
+"sid": "finney-sinners-bound-to-change-their-own-hearts",
+"words": 5994,
+"priority": false
+},
+{
+"id": "finney-sinners-bound-to-change-their-own-hearts__2",
+"sid": "finney-sinners-bound-to-change-their-own-hearts",
+"words": 2212,
+"priority": false
+},
+{
+"id": "finney-prevailing-prayer-lecture-iv__0",
+"sid": "finney-prevailing-prayer-lecture-iv",
+"words": 6479,
+"priority": false
+},
+{
+"id": "finney-prevailing-prayer-lecture-iv__1",
+"sid": "finney-prevailing-prayer-lecture-iv",
+"words": 2344,
+"priority": false
+},
+{
+"id": "finney-why-sinners-hate-god__0",
+"sid": "finney-why-sinners-hate-god",
+"words": 6446,
+"priority": true
+},
+{
+"id": "finney-why-sinners-hate-god__1",
+"sid": "finney-why-sinners-hate-god",
+"words": 735,
+"priority": true
+},
+{
+"id": "finney-christian-affinity__0",
+"sid": "finney-christian-affinity",
+"words": 6112,
+"priority": true
+},
+{
+"id": "finney-stewardship__0",
+"sid": "finney-stewardship",
+"words": 4845,
+"priority": false
+},
+{
+"id": "finney-selfishness-not-true-religion__0",
+"sid": "finney-selfishness-not-true-religion",
+"words": 6326,
+"priority": true
+},
+{
+"id": "finney-love-the-whole-of-religion__0",
+"sid": "finney-love-the-whole-of-religion",
+"words": 6000,
+"priority": true
+},
+{
+"id": "finney-mutual-confession-of-faults-and-mutual-prayer__0",
+"sid": "finney-mutual-confession-of-faults-and-mutual-prayer",
+"words": 5807,
+"priority": true
+},
+{
+"id": "finney-the-wonderful-love-of-god__0",
+"sid": "finney-the-wonderful-love-of-god",
+"words": 5217,
+"priority": true
+},
+{
+"id": "finney-repentance-before-prayer-for-forgiveness__0",
+"sid": "finney-repentance-before-prayer-for-forgiveness",
+"words": 5474,
+"priority": true
+},
+{
+"id": "finney-god-s-love-for-a-sinning-world__0",
+"sid": "finney-god-s-love-for-a-sinning-world",
+"words": 6154,
+"priority": true
+},
+{
+"id": "finney-the-blessedness-of-the-merciful__0",
+"sid": "finney-the-blessedness-of-the-merciful",
+"words": 4575,
+"priority": true
+},
+{
+"id": "finney-on-love-to-our-neighbor__0",
+"sid": "finney-on-love-to-our-neighbor",
+"words": 3004,
+"priority": true
+},
+{
+"id": "luther-a-sermon-on-how-to-contemplate-christ-s-holy-sufferings-ein-__0",
+"sid": "luther-a-sermon-on-how-to-contemplate-christ-s-holy-sufferings-ein-",
+"words": 3122,
+"priority": true
+},
+{
+"id": "luther-a-treatise-concerning-the-blessed-sacrament-of-the-holy-and-__0",
+"sid": "luther-a-treatise-concerning-the-blessed-sacrament-of-the-holy-and-",
+"words": 6376,
+"priority": true
+},
+{
+"id": "luther-a-treatise-concerning-the-blessed-sacrament-of-the-holy-and-__1",
+"sid": "luther-a-treatise-concerning-the-blessed-sacrament-of-the-holy-and-",
+"words": 1800,
+"priority": true
+},
+{
+"id": "luther-christmas-day-luke-2-114-the-story-of-the-birth-of-jesus-and__0",
+"sid": "luther-christmas-day-luke-2-114-the-story-of-the-birth-of-jesus-and",
+"words": 6457,
+"priority": true
+},
+{
+"id": "luther-christmas-day-luke-2-114-the-story-of-the-birth-of-jesus-and__1",
+"sid": "luther-christmas-day-luke-2-114-the-story-of-the-birth-of-jesus-and",
+"words": 3901,
+"priority": true
+},
+{
+"id": "luther-the-eight-wittenberg-sermons-invocavit-sermons__0",
+"sid": "luther-the-eight-wittenberg-sermons-invocavit-sermons",
+"words": 6494,
+"priority": true
+},
+{
+"id": "luther-the-eight-wittenberg-sermons-invocavit-sermons__1",
+"sid": "luther-the-eight-wittenberg-sermons-invocavit-sermons",
+"words": 5321,
+"priority": true
+},
+{
+"id": "luther-christian-revenge-epistle-for-the-third-sunday-after-epiphan__0",
+"sid": "luther-christian-revenge-epistle-for-the-third-sunday-after-epiphan",
+"words": 1455,
+"priority": true
+},
+{
+"id": "luther-christian-love-and-the-command-to-love-epistle-for-the-fourt__0",
+"sid": "luther-christian-love-and-the-command-to-love-epistle-for-the-fourt",
+"words": 6409,
+"priority": true
+},
+{
+"id": "luther-christian-love-and-the-command-to-love-epistle-for-the-fourt__1",
+"sid": "luther-christian-love-and-the-command-to-love-epistle-for-the-fourt",
+"words": 1078,
+"priority": true
+},
+{
+"id": "luther-the-glorious-adornment-of-christians-epistle-for-the-fifth-s__0",
+"sid": "luther-the-glorious-adornment-of-christians-epistle-for-the-fifth-s",
+"words": 6122,
+"priority": true
+},
+{
+"id": "luther-paul-s-praise-of-christian-love-epistle-for-the-sunday-befor__0",
+"sid": "luther-paul-s-praise-of-christian-love-epistle-for-the-sunday-befor",
+"words": 5137,
+"priority": true
+},
+{
+"id": "luther-exhortation-to-brotherly-love-epistle-for-the-second-sunday-__0",
+"sid": "luther-exhortation-to-brotherly-love-epistle-for-the-second-sunday-",
+"words": 5842,
+"priority": true
+},
+{
+"id": "moody-what-shall-i-do-with-jesus-the-fire-sermon__0",
+"sid": "moody-what-shall-i-do-with-jesus-the-fire-sermon",
+"words": 2941,
+"priority": false
+},
+{
+"id": "moody-sermon-on-the-death-of-mr-p-p-bliss__0",
+"sid": "moody-sermon-on-the-death-of-mr-p-p-bliss",
+"words": 3662,
+"priority": false
+},
+{
+"id": "moody-that-gospel-sermon-on-the-blessed-hope__0",
+"sid": "moody-that-gospel-sermon-on-the-blessed-hope",
+"words": 3637,
+"priority": false
+},
+{
+"id": "moody-what-think-ye-of-christ__0",
+"sid": "moody-what-think-ye-of-christ",
+"words": 3491,
+"priority": false
+},
+{
+"id": "moody-where-art-thou__0",
+"sid": "moody-where-art-thou",
+"words": 6071,
+"priority": false
+},
+{
+"id": "moody-excuses__0",
+"sid": "moody-excuses",
+"words": 6265,
+"priority": false
+},
+{
+"id": "moody-excuses__1",
+"sid": "moody-excuses",
+"words": 4067,
+"priority": false
+},
+{
+"id": "moody-the-prodigal-son__0",
+"sid": "moody-the-prodigal-son",
+"words": 3967,
+"priority": true
+},
+{
+"id": "moody-true-friendship__0",
+"sid": "moody-true-friendship",
+"words": 283,
+"priority": true
+},
+{
+"id": "moody-love-that-passeth-knowledge__0",
+"sid": "moody-love-that-passeth-knowledge",
+"words": 5369,
+"priority": true
+},
+{
+"id": "moody-forgiveness__0",
+"sid": "moody-forgiveness",
+"words": 3074,
+"priority": true
+},
+{
+"id": "moody-who-is-my-neighbor__0",
+"sid": "moody-who-is-my-neighbor",
+"words": 4963,
+"priority": true
+},
+{
+"id": "moody-sowing-and-reaping__0",
+"sid": "moody-sowing-and-reaping",
+"words": 6367,
+"priority": true
+},
+{
+"id": "moody-sowing-and-reaping__1",
+"sid": "moody-sowing-and-reaping",
+"words": 6485,
+"priority": true
+},
+{
+"id": "moody-sowing-and-reaping__2",
+"sid": "moody-sowing-and-reaping",
+"words": 6485,
+"priority": true
+},
+{
+"id": "moody-sowing-and-reaping__3",
+"sid": "moody-sowing-and-reaping",
+"words": 4926,
+"priority": true
+},
+{
+"id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments__0",
+"sid": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+"words": 6436,
+"priority": false
+},
+{
+"id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments__1",
+"sid": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+"words": 6486,
+"priority": false
+},
+{
+"id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments__2",
+"sid": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+"words": 6467,
+"priority": false
+},
+{
+"id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments__3",
+"sid": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+"words": 6294,
+"priority": false
+},
+{
+"id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments__4",
+"sid": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+"words": 6008,
+"priority": false
+},
+{
+"id": "moody-the-blood__0",
+"sid": "moody-the-blood",
+"words": 6450,
+"priority": false
+},
+{
+"id": "moody-the-blood__1",
+"sid": "moody-the-blood",
+"words": 1928,
+"priority": false
+},
+{
+"id": "muller-love-one-another__0",
+"sid": "muller-love-one-another",
+"words": 2783,
+"priority": true
+},
+{
+"id": "muller-on-the-late-mr-henry-craik__0",
+"sid": "muller-on-the-late-mr-henry-craik",
+"words": 2170,
+"priority": true
+},
+{
+"id": "muller-paul-s-letter-to-philemon__0",
+"sid": "muller-paul-s-letter-to-philemon",
+"words": 2924,
+"priority": true
+},
+{
+"id": "muller-account-of-a-preaching-tour__0",
+"sid": "muller-account-of-a-preaching-tour",
+"words": 2307,
+"priority": false
+},
+{
+"id": "muller-the-forgiving-god__0",
+"sid": "muller-the-forgiving-god",
+"words": 4639,
+"priority": true
+},
+{
+"id": "muller-the-lord-s-prayer__0",
+"sid": "muller-the-lord-s-prayer",
+"words": 4355,
+"priority": true
+},
+{
+"id": "muller-behold-what-manner-of-love__0",
+"sid": "muller-behold-what-manner-of-love",
+"words": 4572,
+"priority": true
+},
+{
+"id": "muller-trust-in-the-lord__0",
+"sid": "muller-trust-in-the-lord",
+"words": 4777,
+"priority": false
+},
+{
+"id": "muller-the-resurrection-of-the-body__0",
+"sid": "muller-the-resurrection-of-the-body",
+"words": 2631,
+"priority": false
+},
+{
+"id": "spurgeon-the-immutability-of-god__0",
+"sid": "spurgeon-the-immutability-of-god",
+"words": 6325,
+"priority": false
+},
+{
+"id": "spurgeon-the-immutability-of-god__1",
+"sid": "spurgeon-the-immutability-of-god",
+"words": 210,
+"priority": false
+},
+{
+"id": "spurgeon-sovereignty-and-salvation__0",
+"sid": "spurgeon-sovereignty-and-salvation",
+"words": 5984,
+"priority": false
+},
+{
+"id": "spurgeon-sovereignty-and-salvation__1",
+"sid": "spurgeon-sovereignty-and-salvation",
+"words": 1022,
+"priority": false
+},
+{
+"id": "spurgeon-hatred-without-cause__0",
+"sid": "spurgeon-hatred-without-cause",
+"words": 5759,
+"priority": true
+},
+{
+"id": "spurgeon-the-exaltation-of-christ__0",
+"sid": "spurgeon-the-exaltation-of-christ",
+"words": 6270,
+"priority": true
+},
+{
+"id": "spurgeon-a-faithful-friend__0",
+"sid": "spurgeon-a-faithful-friend",
+"words": 6388,
+"priority": true
+},
+{
+"id": "spurgeon-fast-day-service__0",
+"sid": "spurgeon-fast-day-service",
+"words": 5991,
+"priority": false
+},
+{
+"id": "spurgeon-fast-day-service__1",
+"sid": "spurgeon-fast-day-service",
+"words": 1195,
+"priority": false
+},
+{
+"id": "spurgeon-compel-them-to-come-in__0",
+"sid": "spurgeon-compel-them-to-come-in",
+"words": 6356,
+"priority": false
+},
+{
+"id": "spurgeon-compel-them-to-come-in__1",
+"sid": "spurgeon-compel-them-to-come-in",
+"words": 520,
+"priority": false
+},
+{
+"id": "spurgeon-love__0",
+"sid": "spurgeon-love",
+"words": 6089,
+"priority": true
+},
+{
+"id": "spurgeon-love__1",
+"sid": "spurgeon-love",
+"words": 776,
+"priority": true
+},
+{
+"id": "spurgeon-the-first-sermon-in-the-tabernacle__0",
+"sid": "spurgeon-the-first-sermon-in-the-tabernacle",
+"words": 6368,
+"priority": false
+},
+{
+"id": "spurgeon-the-first-sermon-in-the-tabernacle__1",
+"sid": "spurgeon-the-first-sermon-in-the-tabernacle",
+"words": 743,
+"priority": false
+},
+{
+"id": "spurgeon-accidents-not-punishments__0",
+"sid": "spurgeon-accidents-not-punishments",
+"words": 6265,
+"priority": false
+},
+{
+"id": "spurgeon-accidents-not-punishments__1",
+"sid": "spurgeon-accidents-not-punishments",
+"words": 659,
+"priority": false
+},
+{
+"id": "spurgeon-the-peacemaker__0",
+"sid": "spurgeon-the-peacemaker",
+"words": 6359,
+"priority": true
+},
+{
+"id": "spurgeon-the-peacemaker__1",
+"sid": "spurgeon-the-peacemaker",
+"words": 1282,
+"priority": true
+},
+{
+"id": "spurgeon-baptismal-regeneration__0",
+"sid": "spurgeon-baptismal-regeneration",
+"words": 6491,
+"priority": false
+},
+{
+"id": "spurgeon-baptismal-regeneration__1",
+"sid": "spurgeon-baptismal-regeneration",
+"words": 3249,
+"priority": false
+},
+{
+"id": "spurgeon-the-first-cry-from-the-cross__0",
+"sid": "spurgeon-the-first-cry-from-the-cross",
+"words": 6386,
+"priority": true
+},
+{
+"id": "spurgeon-the-first-cry-from-the-cross__1",
+"sid": "spurgeon-the-first-cry-from-the-cross",
+"words": 175,
+"priority": true
+},
+{
+"id": "spurgeon-forgiveness-made-easy__0",
+"sid": "spurgeon-forgiveness-made-easy",
+"words": 6432,
+"priority": true
+},
+{
+"id": "spurgeon-forgiveness-made-easy__1",
+"sid": "spurgeon-forgiveness-made-easy",
+"words": 1067,
+"priority": true
+},
+{
+"id": "spurgeon-the-friends-of-jesus__0",
+"sid": "spurgeon-the-friends-of-jesus",
+"words": 6362,
+"priority": true
+},
+{
+"id": "spurgeon-the-friends-of-jesus__1",
+"sid": "spurgeon-the-friends-of-jesus",
+"words": 803,
+"priority": true
+},
+{
+"id": "spurgeon-the-friend-of-god__0",
+"sid": "spurgeon-the-friend-of-god",
+"words": 6311,
+"priority": true
+},
+{
+"id": "spurgeon-the-friend-of-god__1",
+"sid": "spurgeon-the-friend-of-god",
+"words": 728,
+"priority": true
+},
+{
+"id": "spurgeon-the-statute-of-david-for-the-sharing-of-the-spoil__0",
+"sid": "spurgeon-the-statute-of-david-for-the-sharing-of-the-spoil",
+"words": 6473,
+"priority": false
+},
+{
+"id": "spurgeon-the-statute-of-david-for-the-sharing-of-the-spoil__1",
+"sid": "spurgeon-the-statute-of-david-for-the-sharing-of-the-spoil",
+"words": 326,
+"priority": false
+},
+{
+"id": "sunday-booze-also-published-as-get-on-the-water-wagon__0",
+"sid": "sunday-booze-also-published-as-get-on-the-water-wagon",
+"words": 6448,
+"priority": false
+},
+{
+"id": "sunday-booze-also-published-as-get-on-the-water-wagon__1",
+"sid": "sunday-booze-also-published-as-get-on-the-water-wagon",
+"words": 5918,
+"priority": false
+},
+{
+"id": "sunday-mother__0",
+"sid": "sunday-mother",
+"words": 6064,
+"priority": true
+},
+{
+"id": "sunday-the-unpardonable-sin__0",
+"sid": "sunday-the-unpardonable-sin",
+"words": 4204,
+"priority": true
+},
+{
+"id": "sunday-the-three-groups__0",
+"sid": "sunday-the-three-groups",
+"words": 6002,
+"priority": true
+},
+{
+"id": "sunday-atonement__0",
+"sid": "sunday-atonement",
+"words": 3059,
+"priority": false
+},
+{
+"id": "sunday-teach-us-to-pray__0",
+"sid": "sunday-teach-us-to-pray",
+"words": 3600,
+"priority": true
+},
+{
+"id": "sunday-heaven__0",
+"sid": "sunday-heaven",
+"words": 6496,
+"priority": false
+},
+{
+"id": "sunday-heaven__1",
+"sid": "sunday-heaven",
+"words": 441,
+"priority": false
+},
+{
+"id": "wesley-the-circumcision-of-the-heart__0",
+"sid": "wesley-the-circumcision-of-the-heart",
+"words": 4588,
+"priority": true
+},
+{
+"id": "wesley-on-love__0",
+"sid": "wesley-on-love",
+"words": 3190,
+"priority": true
+},
+{
+"id": "wesley-salvation-by-faith__0",
+"sid": "wesley-salvation-by-faith",
+"words": 4153,
+"priority": false
+},
+{
+"id": "wesley-free-grace__0",
+"sid": "wesley-free-grace",
+"words": 5887,
+"priority": true
+},
+{
+"id": "wesley-the-almost-christian__0",
+"sid": "wesley-the-almost-christian",
+"words": 3456,
+"priority": true
+},
+{
+"id": "wesley-scriptural-christianity__0",
+"sid": "wesley-scriptural-christianity",
+"words": 6390,
+"priority": false
+},
+{
+"id": "wesley-scriptural-christianity__1",
+"sid": "wesley-scriptural-christianity",
+"words": 470,
+"priority": false
+},
+{
+"id": "wesley-justification-by-faith__0",
+"sid": "wesley-justification-by-faith",
+"words": 5071,
+"priority": true
+},
+{
+"id": "wesley-upon-our-lord-s-sermon-on-the-mount-discourse-vi__0",
+"sid": "wesley-upon-our-lord-s-sermon-on-the-mount-discourse-vi",
+"words": 6480,
+"priority": true
+},
+{
+"id": "wesley-upon-our-lord-s-sermon-on-the-mount-discourse-vi__1",
+"sid": "wesley-upon-our-lord-s-sermon-on-the-mount-discourse-vi",
+"words": 529,
+"priority": true
+},
+{
+"id": "wesley-catholic-spirit__0",
+"sid": "wesley-catholic-spirit",
+"words": 5694,
+"priority": true
+},
+{
+"id": "wesley-the-great-assize__0",
+"sid": "wesley-the-great-assize",
+"words": 6066,
+"priority": false
+},
+{
+"id": "wesley-the-cure-of-evil-speaking__0",
+"sid": "wesley-the-cure-of-evil-speaking",
+"words": 4466,
+"priority": true
+},
+{
+"id": "wesley-the-use-of-money__0",
+"sid": "wesley-the-use-of-money",
+"words": 5183,
+"priority": false
+},
+{
+"id": "wesley-the-scripture-way-of-salvation__0",
+"sid": "wesley-the-scripture-way-of-salvation",
+"words": 4662,
+"priority": false
+},
+{
+"id": "wesley-on-the-death-of-the-rev-mr-george-whitefield__0",
+"sid": "wesley-on-the-death-of-the-rev-mr-george-whitefield",
+"words": 6496,
+"priority": true
+},
+{
+"id": "wesley-on-charity__0",
+"sid": "wesley-on-charity",
+"words": 5027,
+"priority": true
+},
+{
+"id": "wesley-on-friendship-with-the-world__0",
+"sid": "wesley-on-friendship-with-the-world",
+"words": 5044,
+"priority": true
+},
+{
+"id": "wesley-the-duty-of-reproving-our-neighbour__0",
+"sid": "wesley-the-duty-of-reproving-our-neighbour",
+"words": 3393,
+"priority": true
+},
+{
+"id": "whitefield-the-nature-and-necessity-of-society-in-general-and-of-religi__0",
+"sid": "whitefield-the-nature-and-necessity-of-society-in-general-and-of-religi",
+"words": 6061,
+"priority": true
+},
+{
+"id": "whitefield-the-nature-and-necessity-of-our-new-birth-in-christ-jesus-in__0",
+"sid": "whitefield-the-nature-and-necessity-of-our-new-birth-in-christ-jesus-in",
+"words": 4955,
+"priority": false
+},
+{
+"id": "whitefield-intercession-every-christian-s-duty__0",
+"sid": "whitefield-intercession-every-christian-s-duty",
+"words": 4258,
+"priority": true
+},
+{
+"id": "whitefield-of-justification-by-christ__0",
+"sid": "whitefield-of-justification-by-christ",
+"words": 4288,
+"priority": true
+},
+{
+"id": "whitefield-thankfulness-for-mercies-received-a-necessary-duty__0",
+"sid": "whitefield-thankfulness-for-mercies-received-a-necessary-duty",
+"words": 5003,
+"priority": false
+},
+{
+"id": "whitefield-the-eternity-of-hell-torments__0",
+"sid": "whitefield-the-eternity-of-hell-torments",
+"words": 4298,
+"priority": false
+},
+{
+"id": "whitefield-christ-the-best-husband-or-an-earnest-invitation-to-young-wo__0",
+"sid": "whitefield-christ-the-best-husband-or-an-earnest-invitation-to-young-wo",
+"words": 5431,
+"priority": true
+},
+{
+"id": "whitefield-the-great-duty-of-charity-recommended__0",
+"sid": "whitefield-the-great-duty-of-charity-recommended",
+"words": 4635,
+"priority": true
+},
+{
+"id": "whitefield-the-method-of-grace__0",
+"sid": "whitefield-the-method-of-grace",
+"words": 5254,
+"priority": false
+},
+{
+"id": "whitefield-the-method-of-grace__1",
+"sid": "whitefield-the-method-of-grace",
+"words": 2088,
+"priority": false
+},
+{
+"id": "whitefield-britain-s-mercies-and-britain-s-duty__0",
+"sid": "whitefield-britain-s-mercies-and-britain-s-duty",
+"words": 5627,
+"priority": false
+},
+{
+"id": "whitefield-the-seed-of-the-woman-and-the-seed-of-the-serpent__0",
+"sid": "whitefield-the-seed-of-the-woman-and-the-seed-of-the-serpent",
+"words": 6094,
+"priority": true
+},
+{
+"id": "whitefield-the-seed-of-the-woman-and-the-seed-of-the-serpent__1",
+"sid": "whitefield-the-seed-of-the-woman-and-the-seed-of-the-serpent",
+"words": 1380,
+"priority": true
+},
+{
+"id": "whitefield-the-good-shepherd-a-farewell-sermon__0",
+"sid": "whitefield-the-good-shepherd-a-farewell-sermon",
+"words": 5914,
+"priority": false
+},
+{
+"id": "whitefield-preached-before-the-governor-and-council-and-the-house-of-as__0",
+"sid": "whitefield-preached-before-the-governor-and-council-and-the-house-of-as",
+"words": 6491,
+"priority": false
+},
+{
+"id": "whitefield-preached-before-the-governor-and-council-and-the-house-of-as__1",
+"sid": "whitefield-preached-before-the-governor-and-council-and-the-house-of-as",
+"words": 238,
+"priority": false
+}
+]

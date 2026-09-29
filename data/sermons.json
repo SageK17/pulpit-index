@@ -10163,7 +10163,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 57625
+   "words": 57625,
+   "versions": []
   },
   {
    "title": "Sermon 90 (on Matthew 22:1–14, the wedding garment)",
@@ -10206,7 +10207,8 @@
    "age_text": "Aged 56–57",
    "life_context": "Bishop of Hippo, he preached this in the Basilica Restituta at Carthage. Most proposed dates (411–416) fall in or after the year of the Conference of Carthage (June 411), where he was one of seven Catholic spokesmen against the Donatists; the NPNF heading describes the sermon as against the Donatists. From 412 he was also writing against Pelagian teaching.",
    "has_text": true,
-   "words": 5132
+   "words": 5132,
+   "versions": []
   },
   {
    "title": "Sermon 56 (on the Lord's Prayer, Matthew 6:9–13, to the competentes)",
@@ -10249,7 +10251,13 @@
    "age_text": "Aged 55–56",
    "life_context": "Bishop of Hippo Regius since c. 396, he gave this at Hippo in the week before Easter, instructing candidates for baptism. The proposed dates (before 410 to 410–412) fall before or around the Conference of Carthage in 411, the culmination of his opposition to the Donatist church.",
    "has_text": true,
-   "words": 6106
+   "words": 6106,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Sermon 211 (In Quadragesima – for Lent, on brotherly concord)",
@@ -10294,7 +10302,8 @@
    "listen_label": "Catholic Culture Audiobooks reading",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon 83 (on Matthew 18:21–35, 'How often shall my brother sin against me?')",
@@ -10336,7 +10345,8 @@
    "age_text": "Aged 53–54",
    "life_context": "Bishop of Hippo Regius since c. 396, he was opposing the Donatist church in the years before the Conference of Carthage (411). The Augustinus.it table places this sermon, and Sermon 82 preached the day before, at Milevis, with a question mark.",
    "has_text": true,
-   "words": 2866
+   "words": 2866,
+   "versions": []
   },
   {
    "title": "Sermon 114 (on Luke 17:3–4, on the forgiveness of sins)",
@@ -10379,7 +10389,8 @@
    "age_text": "Aged 68–69",
    "life_context": "Still bishop of Hippo, he was at Carthage, where according to the NPNF heading he preached at the Table of St Cyprian with Count Boniface present. The City of God, begun in 413, was not finished until 426, and the Pelagian teaching he had opposed since 412 had been condemned at Carthage in 418.",
    "has_text": true,
-   "words": 1613
+   "words": 1613,
+   "versions": []
   },
   {
    "title": "Sermon 81 (on Matthew 18:7, the offences of the world)",
@@ -10426,7 +10437,8 @@
    "age_text": "Aged 55–56",
    "life_context": "Bishop of Hippo Regius since c. 396, he preached this at Hippo in the period after the sack of Rome in 410. The sermon itself takes up the complaint that Rome was falling in Christian times, a charge he later answered at length in The City of God (begun 413), and urges hospitality to the many strangers and needy people then present.",
    "has_text": true,
-   "words": 4621
+   "words": 4621,
+   "versions": []
   },
   {
    "title": "Sermon 105 (on Luke 11:5–13, the friend at midnight)",
@@ -10473,7 +10485,8 @@
    "age_text": "Aged 55–56",
    "life_context": "Bishop of Hippo Regius since c. 396, he preached this at Carthage in the period after the sack of Rome in 410. In the sermon he reports that some critics wished he would keep silent about Rome. In 413 he began The City of God, answering pagans who blamed Christianity for the sack.",
    "has_text": true,
-   "words": 4350
+   "words": 4350,
+   "versions": []
   },
   {
    "title": "De excidio urbis Romae (Sermon on the Destruction of the City of Rome)",
@@ -10520,7 +10533,8 @@
    "age_text": "",
    "life_context": "Bishop of Hippo Regius since c. 396, he preached this soon after the sack of Rome in 410; a Les Enluminures manuscript catalogue entry dates it to 410. James O'Donnell counts it among the sermons that make up his public reaction to the sack, a subject he took up at length in The City of God (begun 413). No place is recorded.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon 272 (In die Pentecostes ad infantes, de sacramento – to the newly baptized, on the sacrament)",
@@ -10561,7 +10575,8 @@
    "age_text": "Aged 50–51",
    "life_context": "Bishop of Hippo Regius since c. 396, he was then opposing the Donatist church, a struggle that culminated in the Conference of Carthage in 411. The feast is disputed: the Maurist title assigns the sermon to Pentecost, while Kunzelmann placed it at Easter.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon 43 (on Isaiah 7:9, 'Unless you believe, you will not understand', and 2 Peter 1:17–19)",
@@ -10602,7 +10617,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon 113 (on Luke 16:9, 'Make to yourselves friends of the mammon of iniquity')",
@@ -10643,7 +10659,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 2619
+   "words": 2619,
+   "versions": []
   },
   {
    "title": "God Is with Us",
@@ -10686,7 +10703,8 @@
    "age_text": "Aged 22",
    "life_context": "Two months earlier, on 15 February 1928, he had arrived in Barcelona to begin a one-year vicariate with the German Protestant congregation under Pastor Fritz Olbricht. He had received his doctorate in 1927 for the dissertation Sanctorum Communio and had passed his first theological examination that January.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Staying Grounded in Turbulent Times (Sermon on 2 Chronicles 20:12)",
@@ -10733,7 +10751,8 @@
    "age_text": "Aged 26",
    "life_context": "He had returned from New York in June 1931 and had lectured in theology at Berlin University since that August. He was ordained in November 1931 and also taught a confirmation class in the Zion parish.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Things That Are Above (Sermon on Colossians 3:1–4)",
@@ -10784,7 +10803,8 @@
    "age_text": "Aged 26",
    "life_context": "He had lectured in theology at Berlin University since August 1931 and was ordained that November. He was also student chaplain at the Technical College in Charlottenburg and taught a confirmation class in the Zion parish.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "… In the Eleventh Hour of Our Church (Sermon on Revelation 2:4–5, 7)",
@@ -10835,7 +10855,8 @@
    "age_text": "Aged 26",
    "life_context": "He was still lecturing in theology at Berlin University and serving as student chaplain at the Technical College in Charlottenburg. He had been ordained almost a year earlier, on 15 November 1931, at St Matthias Church in Berlin.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Overcoming Fear",
@@ -10885,7 +10906,8 @@
    "age_text": "Aged 26",
    "life_context": "He was still lecturing in theology at Berlin University, where he had taught since August 1931, and serving as student chaplain at the Technical College in Charlottenburg. He had been ordained in November 1931.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Gideon: God Is My Lord",
@@ -10935,7 +10957,8 @@
    "age_text": "Aged 27",
    "life_context": "He was still a lecturer and student chaplain in Berlin. On 1 February 1933, two days after Hitler became chancellor, he had given a radio address warning against making the leader an idol, and one chronology records that the broadcast was cut off.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Of Priests and Prophets in the New Germany (Sermon on Exodus 32)",
@@ -10978,7 +11001,8 @@
    "age_text": "Aged 27",
    "life_context": "He was still based in Berlin as a university lecturer and, since Hitler came to power, had been speaking and writing against Nazi church policy. On 1 February 1933 he had given a radio address warning against making the leader an idol.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Who Do You Say That I Am?",
@@ -11025,7 +11049,8 @@
    "age_text": "Aged 27",
    "life_context": "He was still a lecturer at Berlin University and, since Hitler came to power, had been speaking and writing against Nazi church policy. On 1 February 1933 he had given a radio address warning against making the leader an idol.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Kirche und Völkerwelt ('The Church and the Peoples of the World')",
@@ -11075,7 +11100,8 @@
    "age_text": "Aged 28",
    "life_context": "Since 17 October 1933 he had been pastor of two German-speaking congregations in London, at Sydenham and St Paul's in the East End, living at the parish house at 23 Manor Mount, Forest Hill. During the London years he built ties with Bishop George Bell of Chichester.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermons on 1 Corinthians 13 ('… and Have Not Love'; 'What Love Wants'; 'Must I Be Perfect?'; 'A Church That Believes, Hopes, and Loves')",
@@ -11130,7 +11156,8 @@
    "age_text": "Aged 27–28",
    "life_context": "These fall around the first anniversary of his London pastorate, which began on 17 October 1933. He served the German-speaking congregations at St Paul's in the East End and at Sydenham, living in the parish house in Forest Hill. The series began about two months after he spoke at the Fanø ecumenical conference in August 1934.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Betrayer",
@@ -11177,7 +11204,8 @@
    "age_text": "Aged 31",
    "life_context": "He had directed the Confessing Church's preachers' seminary since April 1935, first at Zingst and at Finkenwalde near Stettin since June 1935. His authorization to teach at Berlin University had been withdrawn in August 1936.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Predigt über einen Rachepsalm ('Sermon on a Psalm of Vengeance')",
@@ -11224,7 +11252,8 @@
    "age_text": "Aged 31",
    "life_context": "He had directed the Confessing Church's preachers' seminary since April 1935, at Finkenwalde near Stettin since June 1935. His authorization to teach at Berlin University had been withdrawn in August 1936.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Loving Our Enemies",
@@ -11279,7 +11308,8 @@
    "age_text": "Aged 31",
    "life_context": "Twelve days earlier, on 11 January 1938, he had been banned from living or working in Berlin. Discipleship had been published in November 1937, and the collective pastorates at Köslin and Gross-Schlönwitz had begun in December 1937.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Peace of God in Affliction (Sermon on Romans 5:1–5)",
@@ -11330,7 +11360,8 @@
    "age_text": "Aged 32",
    "life_context": "He had been training Confessing Church ordinands in the collective pastorates at Köslin and Gross-Schlönwitz since December 1937, and on 11 January 1938 he had been banned from living or working in Berlin. Discipleship had been published in November 1937.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Death Is Swallowed Up in Victory",
@@ -11381,7 +11412,8 @@
    "age_text": "Aged 33",
    "life_context": "The collective pastorate had moved to Sigurdshof in April 1939. He had written Life Together in September 1938, and in June–July 1939 he had made a brief trip to the United States, returning to Germany by the end of July.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Lazarus and the Rich Man",
@@ -11431,7 +11463,8 @@
    "age_text": "Aged 26",
    "life_context": "He had returned from New York in June 1931, had lectured in theology at Berlin University since that August and was ordained at St Matthias Church in Berlin on 15 November 1931. He also served as student chaplain at the Technical College in Charlottenburg.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Living Peaceably One with Another",
@@ -11478,7 +11511,8 @@
    "age_text": "Aged 19–20",
    "life_context": "Newly engaged as pastor at Bolton, Connecticut, having agreed on 11 November 1723 to settle there, two months after receiving his M.A. at New Haven; his New York City pulpit had ended that April. The WJE editor suggests the sermon's references to 'this town' may reflect quarrels during Bolton's several-year search for a minister. He left Bolton in May 1724 to become a Yale tutor.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Envious Men",
@@ -11521,7 +11555,8 @@
    "age_text": "Aged 26",
    "life_context": "Senior pastor at Northampton, Massachusetts, since his grandfather Solomon Stoddard died in February 1729, after which he fell ill that spring and suffered a physical collapse in June. He had married Sarah Pierpont in July 1727, and their first children were born from 1728. The WJE editor links the sermon to Northampton's factional rivalry over land and town offices such as selectman.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "God Glorified in the Work of Redemption, by the Greatness of Man's Dependence upon Him, in the Whole of It",
@@ -11565,7 +11600,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 7047
+   "words": 7047,
+   "versions": []
   },
   {
    "title": "The Duty of Charity to the Poor, Explained and Enforced",
@@ -11610,7 +11646,8 @@
    "listen_label": "SermonAudio reading (Digital Puritan)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Divine and Supernatural Light, Immediately Imparted to the Soul by the Spirit of God, Shown to Be Both a Scriptural and Rational Doctrine",
@@ -11655,7 +11692,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 8419
+   "words": 8419,
+   "versions": []
   },
   {
    "title": "Justification by Faith Alone",
@@ -11695,7 +11733,8 @@
    "listen_label": "SermonAudio reading (Digital Puritan)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Pressing into the Kingdom of God",
@@ -11735,7 +11774,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Excellency of Christ",
@@ -11775,7 +11815,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Peaceable and Faithful Amid Division and Strife",
@@ -11817,7 +11858,8 @@
    "age_text": "Aged 33",
    "life_context": "Pastor at Northampton in the year A Faithful Narrative, his account of the town's revival, was published in London. The WJE editor ties the sermon to a divisive debate over the new meetinghouse and the town's response to the collapse of the meetinghouse galleries, and sees in it a possible early sign of the rift that later divided him from his church, which dismissed him in 1750.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Charity and Its Fruits",
@@ -11870,7 +11912,8 @@
    "listen_label": "SermonAudio reading (The Narrated Puritan)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Children Ought to Love the Lord Jesus Christ Above All",
@@ -11916,7 +11959,8 @@
    "age_text": "Aged 36",
    "life_context": "Pastor at Northampton in 1740, the first year of the awakening of 1740–42; two months later, in October 1740, he hosted George Whitefield there for three days. The sermon followed a special meeting for young people in July, and in a 1743 letter Edwards reported that by mid-December 1740 a considerable work had appeared among the very young.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sinners in the Hands of an Angry God",
@@ -11968,7 +12012,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 7230
+   "words": 7230,
+   "versions": []
   },
   {
    "title": "The Distinguishing Marks of a Work of the Spirit of God",
@@ -12016,7 +12061,8 @@
    "listen_label": "SermonAudio reading (Harbor Reformed Baptist Church)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "True Saints, When Absent from the Body, Are Present with the Lord",
@@ -12060,7 +12106,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Farewell Sermon Preached at the First Precinct in Northampton, after the People's Public Rejection of Their Minister",
@@ -12105,7 +12152,13 @@
    "listen_label": "SermonAudio reading (The Narrated Puritan)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 12452
+   "words": 12452,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Sinners Bound to Change Their Own Hearts",
@@ -12159,7 +12212,8 @@
    "age_text": "Aged 41–42",
    "life_context": "In 1834 Finney was pastor of the Second Free Presbyterian Church at Chatham Street Chapel, New York. By his own account he had fallen ill with cholera during his installation there in 1832. In 1834 he also sailed to the Mediterranean for his health, spending weeks at Malta and Sicily, and he recalled being away about six months.",
    "has_text": true,
-   "words": 14691
+   "words": 14691,
+   "versions": []
   },
   {
    "title": "Lectures on Revivals of Religion",
@@ -12220,7 +12274,8 @@
    "listen_label": "Gospel Truth Ministries reading (Dennis Carlson)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Prevailing Prayer (Lecture IV)",
@@ -12272,7 +12327,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 8813
+   "words": 8813,
+   "versions": []
   },
   {
    "title": "Why Sinners Hate God",
@@ -12319,7 +12375,8 @@
    "age_text": "Aged 43–44",
    "life_context": "The volume does not say when this sermon was first preached. In 1836, the year the collection appeared, Finney became pastor of New York's Broadway Tabernacle (from 10 April). He also left the Presbytery that year and from then on identified as a Congregationalist. He had held Oberlin's professorship of theology since 1835.",
    "has_text": true,
-   "words": 7168
+   "words": 7168,
+   "versions": []
   },
   {
    "title": "Christian Affinity",
@@ -12370,7 +12427,13 @@
    "age_text": "Aged 34",
    "life_context": "Finney was then an itinerant revivalist, ordained in 1824 and married to Lydia Andrews since October that year. In January 1826 he had begun his Oneida County revivals at Rome, followed by work in Utica through 1826 and early 1827. Later, in July 1827, Nathan Beman and Lyman Beecher convened a ministers' conference at New Lebanon to debate his 'new measures'; it ended without agreement.",
    "has_text": true,
-   "words": 6112
+   "words": 6112,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Stewardship",
@@ -12413,7 +12476,8 @@
    "age_text": "Aged 43–44",
    "life_context": "No date or place of delivery is recorded for this sermon. It was published in 1836, the year Finney moved from the Chatham Street Chapel pastorate to the Broadway Tabernacle (April 1836). That year he also left the Presbytery, and from then on he identified as a Congregationalist. He had also been Oberlin's professor of theology since 1835.",
    "has_text": true,
-   "words": 4845
+   "words": 4845,
+   "versions": []
   },
   {
    "title": "Selfishness Not True Religion",
@@ -12461,7 +12525,13 @@
    "listen_label": "Internet Archive reading (Peter-John Parisis)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6282
+   "words": 6282,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Love the Whole of Religion",
@@ -12505,7 +12575,8 @@
    "listen_label": "Internet Archive reading (Peter-John Parisis)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5943
+   "words": 5943,
+   "versions": []
   },
   {
    "title": "Mutual Confession of Faults, and Mutual Prayer",
@@ -12548,7 +12619,8 @@
    "age_text": "Aged 56",
    "life_context": "No delivery date is recorded for this sermon. When it was printed in January 1849, Finney was pastor of Oberlin's First Congregational Church and professor of theology there. His first wife, Lydia, had died in December 1847. In November 1848 he married Elizabeth Ford Atkinson, a widow.",
    "has_text": true,
-   "words": 5774
+   "words": 5774,
+   "versions": []
   },
   {
    "title": "The Wonderful Love of God",
@@ -12595,7 +12667,8 @@
    "age_text": "Aged 58",
    "life_context": "Finney was then in London, more than a year into a British preaching tour. He and his second wife, Elizabeth, had arrived at Southampton in November 1849, and the tour began at Houghton, Huntingdonshire. He was still pastor of Oberlin's First Congregational Church, and the tour lasted until early 1851.",
    "has_text": true,
-   "words": 5211
+   "words": 5211,
+   "versions": []
   },
   {
    "title": "Repentance Before Prayer for Forgiveness",
@@ -12637,7 +12710,8 @@
    "age_text": "Aged 59",
    "life_context": "When this sermon was printed in November 1851, Finney had recently returned from his 1849–51 British preaching tour. On 26 August he had been elected president of Oberlin College. He took on the presidency while keeping his pastorate of the First Congregational Church and his theology teaching.",
    "has_text": true,
-   "words": 5426
+   "words": 5426,
+   "versions": []
   },
   {
    "title": "God's Love for a Sinning World",
@@ -12680,7 +12754,13 @@
    "age_text": "Aged 60",
    "life_context": "When the sermon was printed in June 1853, Finney was in his second year as president of Oberlin College. He was also pastor of Oberlin's First Congregational Church and taught theology. His daughter Delia had died in 1852.",
    "has_text": true,
-   "words": 6150
+   "words": 6150,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Blessedness of the Merciful",
@@ -12727,7 +12807,8 @@
    "age_text": "Aged 65",
    "life_context": "When this sermon was printed in August 1858, Finney was president of Oberlin College, pastor of Oberlin's First Congregational Church and professor of theology. His second preaching tour of Britain came soon after. Christian History dates its start to December 1858, while Oberlin's archives date the visit 1859–60.",
    "has_text": true,
-   "words": 4574
+   "words": 4574,
+   "versions": []
   },
   {
    "title": "On Love to Our Neighbor",
@@ -12778,7 +12859,8 @@
    "age_text": "Aged 67",
    "life_context": "When the Oberlin Evangelist printed this sermon in July 1860, Finney was on his second British preaching tour. Christian History dates that tour from December 1858 to August 1860, and in 1860 the paper reported him preaching at Bolton and Manchester. The sermon speaks to 'this Institution' and its students, so it was evidently preached earlier, on a date that is not recorded.",
    "has_text": true,
-   "words": 2991
+   "words": 2991,
+   "versions": []
   },
   {
    "title": "We Need Revival",
@@ -12825,7 +12907,8 @@
    "age_text": "Aged 30",
    "life_context": "He was president of Northwestern Schools in Minneapolis (from 1948) and a vice president of Youth for Christ International, with his family based in Montreat, North Carolina. This opening meeting began the campaign that first brought him national media attention; the BGEA was incorporated a year later.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon at Yankee Stadium, New York Crusade (untitled; named by occasion)",
@@ -12877,7 +12960,8 @@
    "listen_label": "BGEA video",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Easter Sunday sermon at Legion Field, Birmingham (untitled; named by occasion)",
@@ -12922,7 +13006,8 @@
    "listen_label": "BGEA video (Facebook)",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon on social injustice, The Hour of Decision (descriptive title)",
@@ -12965,7 +13050,8 @@
    "age_text": "Aged 48–49",
    "life_context": "Based at Montreat, North Carolina, he was holding crusades around the world, and The Hour of Decision, the BGEA's weekly radio programme, had been on the air since November 1950.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Sermon at Yoido Plaza, Seoul (published by BGEA as 'Billy Graham: The love of God')",
@@ -13010,7 +13096,8 @@
    "listen_label": "BGEA audio archive",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Cradle, the Cross and the Crown",
@@ -13054,7 +13141,8 @@
    "listen_label": "BGEA audio archive",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Building Relationships",
@@ -13102,7 +13190,8 @@
    "listen_label": "BGEA Classics video",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Loneliness",
@@ -13150,7 +13239,8 @@
    "listen_label": "BGEA Classics video",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Love of God",
@@ -13193,7 +13283,8 @@
    "age_text": "Aged 73–74",
    "life_context": "Still based at Montreat and holding crusades, he was in the year his illness became public: in July 1992 his spokesman announced he had been in the early stages of Parkinson's disease for three years, with mild tremors and some difficulty walking. He also visited North Korea in 1992.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Power of Forgiveness",
@@ -13241,7 +13332,8 @@
    "listen_label": "BGEA Classics video",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Address at the Oklahoma City prayer service (untitled; named by occasion)",
@@ -13293,7 +13385,8 @@
    "listen_label": "BGEA video clip (excerpt)",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Address at the National Day of Prayer and Remembrance (published by BGEA as 'Billy Graham's 9/11 Message From Washington National Cathedral')",
@@ -13346,7 +13439,8 @@
    "listen_label": "BGEA audio archive",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Friday evening sermon, Greater New York Crusade (untitled; named by occasion)",
@@ -13394,7 +13488,8 @@
    "listen_label": "BGEA audio archive (Part 1 of 2)",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Cross",
@@ -13447,7 +13542,8 @@
    "listen_label": "BGEA video",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Learning in War-Time",
@@ -13498,7 +13594,8 @@
    "age_text": "Aged 40",
    "life_context": "He was Fellow and Tutor in English at Magdalen College, Oxford, and lived at The Kilns in Headington Quarry, a household he shared with Janie Moore and, from 1932, his brother Warren. He had come to Christian belief in September 1931. This was his first sermon, preached about seven weeks after Britain declared war on Germany, when students and teachers were asking whether study was worth continuing (cslewis.com).",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Weight of Glory",
@@ -13550,7 +13647,8 @@
    "listen_label": "HarperAudio excerpt (read by Julian Rhind-Tutt)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Right and Wrong: A Clue to the Meaning of the Universe",
@@ -13602,7 +13700,8 @@
    "listen_label": "HarperAudio excerpt, Mere Christianity Book 1 (read by Julian Rhind-Tutt)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "What Christians Believe",
@@ -13649,7 +13748,8 @@
    "age_text": "Aged 43–44",
    "life_context": "A Magdalen tutor living at The Kilns, he gave these Sunday talks from London in the same weeks that the new Oxford University Socratic Club held its first meeting (26 January 1942), with him as its first president. He was also speaking at RAF stations (1941–1943), and The Screwtape Letters came out as a book in 1942.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Miracles",
@@ -13695,7 +13795,8 @@
    "age_text": "Aged 43",
    "life_context": "Still a Magdalen tutor living at The Kilns, he gave this lay talk in London during his third BBC series, Christian Behaviour, and broadcast on social morality the same day (Heck). Earlier in 1942 he had become first president of the Oxford University Socratic Club, and The Screwtape Letters was published as a book that year.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Christian Behaviour",
@@ -13746,7 +13847,8 @@
    "age_text": "Aged 43–44",
    "life_context": "While teaching at Magdalen and living at The Kilns, he gave this third BBC series from London in autumn 1942, the year he became first president of the Oxford University Socratic Club and The Screwtape Letters appeared as a book. Early in the run, on 27 September, he also gave a lay talk at St Jude on the Hill, Hampstead (Heck).",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Beyond Personality",
@@ -13793,7 +13895,8 @@
    "age_text": "Aged 45–46",
    "life_context": "Still a Magdalen tutor living at The Kilns, he gave this fourth and final series of BBC talks in early 1944, recording some of them in advance (Heck). His visits to speak at RAF stations, begun in 1941, had run through 1943.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Inner Ring",
@@ -13844,7 +13947,8 @@
    "age_text": "Aged 46",
    "life_context": "Still Fellow and Tutor in English at Magdalen and living at The Kilns in Oxford, he travelled to London for this college oration in the last full year of the war, about eight months after his fourth and final BBC series ended in April 1944.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Membership",
@@ -13894,7 +13998,8 @@
    "age_text": "Aged 46",
    "life_context": "A Magdalen tutor living at The Kilns, he read this paper in Oxford in the final months of the war in Europe, which ended on 8 May 1945. His four series of BBC talks had concluded in April 1944. Heck records that Anne Spalding invited him.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Grand Miracle",
@@ -13944,7 +14049,8 @@
    "age_text": "Aged 46",
    "life_context": "Still a Magdalen tutor living at The Kilns, he gave this London talk about three weeks before the war in Europe ended on 8 May 1945, and two days after The Guardian printed the last instalment of The Great Divorce. Brenton Dickieson places it among pieces written while he was developing his book Miracles (1947).",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Miserable Offenders: An Interpretation of Prayer Book Language",
@@ -13995,7 +14101,8 @@
    "age_text": "Aged 47",
    "life_context": "He was still Fellow and Tutor in English at Magdalen and living at The Kilns in Headington Quarry. A week earlier, on 31 March 1946, he had preached what Heck takes to be a version of this sermon at Evensong at Holy Trinity, Headington Quarry; cslewis.com says the message was the same on both occasions.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Transposition",
@@ -14045,7 +14152,8 @@
    "age_text": "",
    "life_context": "The year is disputed. If it was 28 May 1944, he was a Magdalen tutor living at The Kilns, weeks after his fourth and final BBC series ended in April. If it was 9 June 1946 (Heck's date), he was still at Magdalen, two months after preaching 'Miserable Offenders' at Headington Quarry and Northampton.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Slip of the Tongue",
@@ -14095,7 +14203,8 @@
    "age_text": "Aged 57",
    "life_context": "A year into his Cambridge chair of Medieval and Renaissance English, with a fellowship at Magdalene College, he spent term weeks in Cambridge and went home to The Kilns in Oxford between terms. Less than three months later, on 23 April 1956, he married Joy Davidman in a civil ceremony in Oxford that secured her right to remain in Britain.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Four Loves",
@@ -14151,7 +14260,8 @@
    "listen_label": "Lewis's own voice, excerpt on the Official C.S. Lewis Substack (HarperOne)",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Studies in the Sermon on the Mount",
@@ -14201,7 +14311,8 @@
    "age_text": "Aged 50–52",
    "life_context": "He had been sole minister of Westminster Chapel in London since G. Campbell Morgan retired in 1943. In 1950 he also started the annual Puritan Conference at the chapel with J. I. Packer and O. Raymond Johnston.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Spiritual Depression: Its Causes and Cure",
@@ -14258,7 +14369,8 @@
    "listen_label": "MLJ Trust recordings",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Ephesians sermon series",
@@ -14315,7 +14427,8 @@
    "listen_label": "MLJ Trust recordings",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Romans sermon series",
@@ -14372,7 +14485,8 @@
    "listen_label": "MLJ Trust recordings",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Revival",
@@ -14424,7 +14538,8 @@
    "listen_label": "MLJ Trust recordings",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Cross: God's Way of Salvation",
@@ -14489,7 +14604,8 @@
    "listen_label": "MLJ Trust recording (first sermon of the series)",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Preaching and Preachers",
@@ -14542,7 +14658,8 @@
    "listen_label": "MLJ Trust recordings",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "True Love",
@@ -14586,7 +14703,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Love Your Neighbour",
@@ -14638,7 +14756,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Because He First Loved Us",
@@ -14683,7 +14802,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Overcoming Evil",
@@ -14731,7 +14851,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "He is Our Peace",
@@ -14780,7 +14901,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Fellowship of Believers",
@@ -14825,7 +14947,8 @@
    "listen_label": "MLJ Trust recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Address to the National Assembly of Evangelicals",
@@ -14871,7 +14994,8 @@
    "age_text": "Aged 66–67",
    "life_context": "He gave the address on 18 October 1966 at Westminster Central Hall. At the time he was sole minister of Westminster Chapel, preaching Romans on Friday evenings and Acts on Sunday evenings.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Sermon on How to Contemplate Christ's Holy Sufferings (Ein Sermon von der Betrachtung des heiligen Leidens Christi)",
@@ -14914,7 +15038,8 @@
    "age_text": "Aged 35–36",
    "life_context": "Luther was professor of biblical exegesis at Wittenberg and had preached at the town church since 1514. His 1517 theses on indulgences had drawn him into open controversy. He refused to recant before Cardinal Cajetan at Augsburg in October 1518, and in July 1519 he debated Johann Eck at Leipzig, where he questioned papal primacy.",
    "has_text": true,
-   "words": 3102
+   "words": 3102,
+   "versions": []
   },
   {
    "title": "A Treatise Concerning the Blessed Sacrament of the Holy and True Body of Christ and Concerning the Brotherhoods (German: Ein Sermon von dem hochwirdigen Sacrament ... und von den Bruderschafften)",
@@ -14957,7 +15082,8 @@
    "age_text": "Aged 35–36",
    "life_context": "Luther was professor of biblical exegesis and a preacher at Wittenberg. The sermon appeared in the second half of 1519, the year of his Leipzig debate with Johann Eck (July), where he questioned papal primacy. According to J. J. Schindel, Duke George of Saxony complained about it on 27 December 1519 to Elector Frederick and two bishops, chiefly because it called for communion in both kinds.",
    "has_text": true,
-   "words": 8173
+   "words": 8173,
+   "versions": []
   },
   {
    "title": "Christmas Day (Luke 2:1–14): The Story of the Birth of Jesus; and the Angels' Song",
@@ -15000,7 +15126,8 @@
    "age_text": "Aged 37–38",
    "life_context": "Luther had been hiding at the Wartburg near Eisenach since May 1521 as 'Junker Jörg', under Elector Frederick's protection, and wrote this model sermon there that year. Earlier in 1521 he had been excommunicated, had refused to recant at the Diet of Worms and had been placed under the imperial ban. He signed the dedication of this part of the postil 'in the desert'.",
    "has_text": true,
-   "words": 10298
+   "words": 10298,
+   "versions": []
   },
   {
    "title": "The Eight Wittenberg Sermons (Invocavit Sermons)",
@@ -15055,7 +15182,8 @@
    "age_text": "Aged 38",
    "life_context": "Luther had just returned to Wittenberg, arriving on 6 March 1522 after leaving his Wartburg hiding place on 1 March against the Elector's instruction. At the Wartburg he had translated the New Testament into German. While he was away, Karlstadt, Gabriel Zwilling and others had pushed through rapid changes amid disturbances in which images were torn from the parish church.",
    "has_text": true,
-   "words": 11749
+   "words": 11749,
+   "versions": []
   },
   {
    "title": "Christian Revenge (Epistle for the Third Sunday after Epiphany)",
@@ -15099,7 +15227,8 @@
    "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 4)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 1455
+   "words": 1455,
+   "versions": []
   },
   {
    "title": "Christian Love and the Command to Love (Epistle for the Fourth Sunday after Epiphany)",
@@ -15143,7 +15272,8 @@
    "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 5)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 7470
+   "words": 7470,
+   "versions": []
   },
   {
    "title": "The Glorious Adornment of Christians (Epistle for the Fifth Sunday after Epiphany)",
@@ -15188,7 +15318,13 @@
    "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 6)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 6122
+   "words": 6122,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Paul's Praise of Christian Love (Epistle for the Sunday before Lent)",
@@ -15232,7 +15368,8 @@
    "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 9)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5119
+   "words": 5119,
+   "versions": []
   },
   {
    "title": "Sermon on the Cross and Suffering",
@@ -15283,7 +15420,8 @@
    "age_text": "Aged 46",
    "life_context": "Luther was travelling with Elector John's party toward the Diet of Augsburg and had reached Coburg, where he stayed from April to October 1530. German Wikipedia, citing Brecht, says he moved up to the Veste Coburg only on the night of 23–24 April. The Weimar editors say he chose the cross as his theme because his followers were accused of teaching nothing but faith.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Sermon on Keeping Children in School",
@@ -15330,7 +15468,8 @@
    "age_text": "Aged 46",
    "life_context": "Luther was living at the Veste Coburg, where he stayed from April to October 1530 during the Diet of Augsburg, while Melanchthon was in Augsburg. A letter of 5 June had brought him news of his father's death on 29 May. On 5 July he wrote to Melanchthon that he was meditating an exhortation for schools.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Commentary on the Sermon on the Mount (sermons on Matthew 5–7)",
@@ -15377,7 +15516,8 @@
    "age_text": "Aged 46",
    "life_context": "Luther was back in Wittenberg after spending April to October 1530 at Coburg Castle during the Diet of Augsburg. While at Coburg, in June, he had learned of his father's death. From 9 November 1530, while Johannes Bugenhagen was away from Wittenberg, he took on regular weekday preaching on Matthew and John.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Exhortation to Brotherly Love (Epistle for the Second Sunday after Trinity)",
@@ -15419,7 +15559,13 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 5825
+   "words": 5825,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Fourth Sermon at Eisleben, on the Gospel for St. Matthias' Day (Luther's last sermon), with 'An Admonition against the Jews'",
@@ -15474,7 +15620,8 @@
    "age_text": "Aged 62",
    "life_context": "In January 1546 Luther travelled to Eisleben, his birthplace, to help settle inheritance and legal disputes among the counts of Mansfeld, and he preached at Halle and Eisleben on this last journey. He had lectured at Wittenberg until 17 November 1545 and was troubled more and more by kidney stones and other illnesses. He died in Eisleben on 18 February 1546, days after this sermon.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Dimensions of a Complete Life",
@@ -15534,7 +15681,8 @@
    "listen_label": "King Institute (Stanford) recording – Pasadena, 28 Feb 1960 delivery",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Rediscovering Lost Values",
@@ -15586,7 +15734,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Death of Evil upon the Seashore",
@@ -15632,7 +15781,8 @@
    "age_text": "Aged 27",
    "life_context": "He was pastor of Dexter Avenue Baptist Church in Montgomery and, as president of the Montgomery Improvement Association, was leading the city's bus boycott, which was still under way. His home had been bombed that January, with his family unharmed; his first child, Yolanda, had been born in November 1955.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Paul's Letter to American Christians",
@@ -15683,7 +15833,8 @@
    "age_text": "Aged 27",
    "life_context": "He was pastor of Dexter Avenue Baptist Church in Montgomery and president of the Montgomery Improvement Association, whose bus boycott was still continuing; it ended the next month, and on 21 December 1956 he rode an integrated bus. His home had been bombed in January 1956, with his family unharmed.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Birth of a New Nation",
@@ -15731,7 +15882,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Loving Your Enemies",
@@ -15784,7 +15936,8 @@
    "listen_label": "King Institute (Stanford) recording – full service tape",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "A Knock at Midnight",
@@ -15833,7 +15986,8 @@
    "listen_label": "King Institute (Stanford) recording – Cincinnati, 11 Jun 1967 delivery",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Levels of Love",
@@ -15878,7 +16032,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Love in Action",
@@ -15925,7 +16080,8 @@
    "age_text": "Aged 33–34",
    "life_context": "The 1963 text is the Strength to Love chapter he revised between July 1962 and March 1963, while co-pastor of Ebenezer in Atlanta and president of the Southern Christian Leadership Conference. In that period he was jailed in Albany, Georgia, where he worked on sermon drafts later published in the book, and his daughter Bernice was born in March 1963.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Antidotes for Fear",
@@ -15972,7 +16128,8 @@
    "age_text": "Aged 33–34",
    "life_context": "The 1963 text is the Strength to Love chapter he drafted between July 1962 and March 1963, while co-pastor of Ebenezer in Atlanta and president of the Southern Christian Leadership Conference; in summer 1962 he was jailed in Albany, Georgia, where he worked on sermon drafts for the book. Its draft title links it to 'The Mastery of Fear', preached at Dexter on 21 July 1957.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Eulogy for the Martyred Children",
@@ -16021,7 +16178,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Why Jesus Called a Man a Fool",
@@ -16070,7 +16228,8 @@
    "listen_label": "King Institute (Stanford) recording – sermon starts at about 14:10",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Drum Major Instinct",
@@ -16119,7 +16278,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Remaining Awake Through a Great Revolution",
@@ -16171,7 +16331,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "I've Been to the Mountaintop",
@@ -16216,7 +16377,8 @@
    "listen_label": "King Institute (Stanford) recording",
    "listen_kind": "preacher-voice",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "What Shall I Do with Jesus? (\"The Fire Sermon\")",
@@ -16259,7 +16421,8 @@
    "age_text": "Aged 34",
    "life_context": "Moody was an unpaid city missionary in Chicago. He was active in the Illinois Street Church, which grew out of his mission, and had become the city's YMCA president in 1866. The year before, he had met the singer Ira Sankey at a YMCA convention in Indianapolis. The Great Chicago Fire that began that night destroyed Farwell Hall, the church and his home.",
    "has_text": true,
-   "words": 2941
+   "words": 2941,
+   "versions": []
   },
   {
    "title": "Sermon on the Death of Mr. P. P. Bliss",
@@ -16310,7 +16473,8 @@
    "age_text": "Aged 39",
    "life_context": "Moody was leading his Chicago campaign, which began in October 1876 after missions in Brooklyn, Philadelphia and New York. When he came back from Britain in August 1875 he had bought a small farm near his mother's home in Northfield. Two days earlier the singer P. P. Bliss and his wife had died in the Ashtabula bridge disaster while travelling to join this mission.",
    "has_text": true,
-   "words": 3662
+   "words": 3662,
+   "versions": []
   },
   {
    "title": "That Gospel Sermon on the Blessed Hope",
@@ -16348,7 +16512,8 @@
    "age_text": "Aged 39",
    "life_context": "Moody was still leading his Chicago campaign, which began in October 1876. A week earlier the singer P. P. Bliss and his wife had died in the Ashtabula bridge disaster while travelling to join it. His Boston campaign followed in 1877, and the tract's heading says he repeated this sermon at the Boston Tabernacle on 29 April.",
    "has_text": true,
-   "words": 3613
+   "words": 3613,
+   "versions": []
   },
   {
    "title": "What Think Ye of Christ?",
@@ -16390,7 +16555,8 @@
    "age_text": "Aged 42–43",
    "life_context": "No delivery date is recorded, and the collection was entered for copyright in 1880. By then Moody's third child, Paul, had been born (April 1879). Northfield Seminary for young women had opened in November 1879, with its first classes held in the dining room of his Northfield home. The first Northfield conference followed in 1880.",
    "has_text": true,
-   "words": 3491
+   "words": 3491,
+   "versions": []
   },
   {
    "title": "\"Where Art Thou?\"",
@@ -16429,7 +16595,8 @@
    "age_text": "Aged 42–43",
    "life_context": "No delivery date is recorded, and the collection this sermon opens was entered for copyright in 1880. By then Moody had been home from his 1873–75 British campaign for about five years. He had led city campaigns in Brooklyn, Philadelphia, New York, Chicago and Boston. His Northfield Seminary for young women opened in November 1879, with its first classes held in his Northfield home.",
    "has_text": true,
-   "words": 6071
+   "words": 6071,
+   "versions": []
   },
   {
    "title": "Excuses",
@@ -16475,7 +16642,8 @@
    "age_text": "Aged 42–43",
    "life_context": "The text's imagined note is dated July 1880. That came after Moody's American city campaigns in Brooklyn, Philadelphia, New York, Chicago (1876) and Boston (1877). He had bought a farm at Northfield after coming back from Britain in 1875. Northfield Seminary for young women opened there in November 1879, and the first Northfield conference followed in 1880.",
    "has_text": true,
-   "words": 10328
+   "words": 10328,
+   "versions": []
   },
   {
    "title": "The Prodigal Son",
@@ -16514,7 +16682,8 @@
    "age_text": "Aged 38–39",
    "life_context": "Moody was leading the New York campaign at the Hippodrome. It followed missions in Brooklyn from October 1875 and then in Philadelphia, after his two-year British campaign with Ira Sankey. When he returned in August 1875 he bought a small farm near his mother's home at Northfield, which gradually became the family home.",
    "has_text": true,
-   "words": 3967
+   "words": 3967,
+   "versions": []
   },
   {
    "title": "True Friendship",
@@ -16552,7 +16721,8 @@
    "age_text": "Aged 38–39",
    "life_context": "Moody gave this prayer-meeting talk during his New York campaign at the Hippodrome. That campaign followed his missions in Brooklyn and Philadelphia after he came home from Britain in August 1875. On his return he bought a small farm near his mother's home in Northfield, which gradually became the family home.",
    "has_text": true,
-   "words": 283
+   "words": 283,
+   "versions": []
   },
   {
    "title": "\"Love That Passeth Knowledge\"",
@@ -16590,7 +16760,8 @@
    "age_text": "Aged 46–47",
    "life_context": "Moody's preface says the book draws on addresses he gave in British and American cities. It appeared in 1884, the last year of his second British mission (1881–84), whose long London campaign began in November 1883. At home in Northfield he had opened Mount Hermon School for boys in 1881.",
    "has_text": true,
-   "words": 5368
+   "words": 5368,
+   "versions": []
   },
   {
    "title": "Forgiveness",
@@ -16629,7 +16800,8 @@
    "age_text": "Aged 46–47",
    "life_context": "No delivery date is recorded. The book was published in 1884, the last year of Moody's second British mission (1881–84), which included a long London campaign from November 1883. He worked from Northfield, where he had founded a seminary for young women (1879) and Mount Hermon School for boys (1881).",
    "has_text": true,
-   "words": 3074
+   "words": 3074,
+   "versions": []
   },
   {
    "title": "\"Who Is My Neighbor?\"",
@@ -16667,7 +16839,8 @@
    "age_text": "Aged 46–47",
    "life_context": "Revell published this collection in 1884, the last year of Moody's second British mission (1881–84), which included a long London campaign from November 1883. He worked from Northfield, where Mount Hermon School had opened in 1881. The address's story of burying poor children from his Sunday school draws on his earlier Chicago mission work.",
    "has_text": true,
-   "words": 4963
+   "words": 4963,
+   "versions": []
   },
   {
    "title": "Sowing and Reaping",
@@ -16708,7 +16881,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 24083
+   "words": 24083,
+   "versions": []
   },
   {
    "title": "Weighed and Wanting: Addresses on the Ten Commandments",
@@ -16747,7 +16921,8 @@
    "age_text": "Aged 60–61",
    "life_context": "The book was copyrighted in 1898, two years after Moody's mother died, while he was still holding city missions and Northfield conferences. Late that year, on 30 November, his only grandson and namesake, Dwight, died while Moody was in Colorado.",
    "has_text": true,
-   "words": 31409
+   "words": 31409,
+   "versions": []
   },
   {
    "title": "The Blood",
@@ -16793,7 +16968,8 @@
    "age_text": "Aged 35–36",
    "life_context": "Moody was on his first long British campaign with Ira Sankey. He had landed at Liverpool with his family on 17 June 1873 and found that all three of his sponsors had died. The mission moved through Scotland, Ireland and England and ended in London from March 1875, and he left England on 14 August 1875. His Chicago church and home had burned in the 1871 fire.",
    "has_text": true,
-   "words": 8311
+   "words": 8311,
+   "versions": []
   },
   {
    "title": "Love One Another",
@@ -16842,7 +17018,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 6",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 2781
+   "words": 2781,
+   "versions": []
   },
   {
    "title": "On the late Mr. Henry Craik",
@@ -16895,7 +17072,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 3",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 2170
+   "words": 2170,
+   "versions": []
   },
   {
    "title": "Mrs. Müller's Funeral Sermon (“Thou art good, and doest good”)",
@@ -16948,7 +17126,8 @@
    "listen_label": "Revived Thoughts podcast reading (read by Leigh; wording modernised)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Paul's Letter to Philemon",
@@ -16997,7 +17176,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 24",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 2924
+   "words": 2924,
+   "versions": []
   },
   {
    "title": "Account of a Preaching Tour",
@@ -17042,7 +17222,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 32",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 2307
+   "words": 2307,
+   "versions": []
   },
   {
    "title": "The Forgiving God",
@@ -17087,7 +17268,8 @@
    "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 34",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 4639
+   "words": 4639,
+   "versions": []
   },
   {
    "title": "The Lord's Prayer",
@@ -17133,7 +17315,8 @@
    "age_text": "Aged 91",
    "life_context": "He had been based in Bristol since his last preaching tour ended in May 1892. There he worked mainly for the Scriptural Knowledge Institution with his son-in-law James Wright and preached at Bethesda and elsewhere. His daughter Lydia had died in 1890, and his second wife Susannah in January 1895 (some sources give 1894).",
    "has_text": true,
-   "words": 4354
+   "words": 4354,
+   "versions": []
   },
   {
    "title": "“Behold! What Manner of Love”",
@@ -17176,7 +17359,8 @@
    "age_text": "Aged 91",
    "life_context": "His touring had ended in May 1892, and in these final Bristol years he worked mainly for the Scriptural Knowledge Institution with James Wright. He preached at Bethesda Chapel and elsewhere. He had been widowed twice, in February 1870 and in January 1895 (some sources say 1894), and his daughter Lydia had died in 1890.",
    "has_text": true,
-   "words": 4572
+   "words": 4572,
+   "versions": []
   },
   {
    "title": "“Trust in the Lord”",
@@ -17221,7 +17405,8 @@
    "listen_label": "Revived Thoughts podcast reading (read by Jarret Garber; wording modernised)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 4777
+   "words": 4777,
+   "versions": []
   },
   {
    "title": "The Resurrection of the Body",
@@ -17268,7 +17453,8 @@
    "age_text": "Aged 92",
    "life_context": "He had been based in Bristol since his last tour ended in May 1892, preaching at Bethesda, where he had ministered since 1832. He had outlived Mary (died 1870), his daughter Lydia (died 1890) and Susannah (died January 1895; some sources say 1894). He died at Ashley Down about five months later, on 10 March 1898.",
    "has_text": true,
-   "words": 2631
+   "words": 2631,
+   "versions": []
   },
   {
    "title": "The Immutability of God",
@@ -17313,7 +17499,8 @@
    "listen_label": "Hear Spurgeon reading (Zach Kispert)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6521
+   "words": 6521,
+   "versions": []
   },
   {
    "title": "Sovereignty and Salvation",
@@ -17358,7 +17545,8 @@
    "listen_label": "Hear Spurgeon reading (Zach Kispert)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6987
+   "words": 6987,
+   "versions": []
   },
   {
    "title": "Hatred Without Cause",
@@ -17403,7 +17591,13 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5753
+   "words": 5753,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Exaltation of Christ",
@@ -17448,7 +17642,8 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6255
+   "words": 6255,
+   "versions": []
   },
   {
    "title": "A Faithful Friend",
@@ -17493,7 +17688,13 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6342
+   "words": 6342,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Fast-Day Service",
@@ -17536,7 +17737,8 @@
    "age_text": "Aged 23",
    "life_context": "Pastor of New Park Street Chapel, whose Sunday-morning services were then held in the Surrey Gardens Music Hall, he came to the Crystal Palace for the national fast day after the Indian rebellion, less than a year after the Surrey Gardens disaster. By his own account this was his largest congregation in any building, and afterwards he slept from Wednesday night until Friday morning.",
    "has_text": true,
-   "words": 7146
+   "words": 7146,
+   "versions": []
   },
   {
    "title": "Compel Them to Come In",
@@ -17581,7 +17783,8 @@
    "listen_label": "CHSpurgeon.com reading (Tod Magstadt)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6871
+   "words": 6871,
+   "versions": []
   },
   {
    "title": "Love",
@@ -17626,7 +17829,8 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6861
+   "words": 6861,
+   "versions": []
   },
   {
    "title": "The First Sermon in the Tabernacle",
@@ -17674,7 +17878,8 @@
    "listen_label": "Hear Spurgeon reading (Zach Kispert)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 7064
+   "words": 7064,
+   "versions": []
   },
   {
    "title": "Accidents, Not Punishments",
@@ -17731,7 +17936,8 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6916
+   "words": 6916,
+   "versions": []
   },
   {
    "title": "The Peacemaker",
@@ -17780,7 +17986,8 @@
    "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 7610
+   "words": 7610,
+   "versions": []
   },
   {
    "title": "Baptismal Regeneration",
@@ -17825,7 +18032,8 @@
    "listen_label": "Grace Gems reading (Grace Audio Treasures, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 9738
+   "words": 9738,
+   "versions": []
   },
   {
    "title": "Order and Argument in Prayer",
@@ -17865,7 +18073,8 @@
    "listen_label": "The Narrated Puritan reading (T. M. Sullivan, SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The First Cry from the Cross",
@@ -17914,7 +18123,8 @@
    "listen_label": "CHSpurgeon.com reading (Tod Magstadt)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6514
+   "words": 6514,
+   "versions": []
   },
   {
    "title": "Forgiveness Made Easy",
@@ -17960,7 +18170,8 @@
    "phase_idx": 4,
    "age_text": "Aged 43–44",
    "has_text": true,
-   "words": 7495
+   "words": 7495,
+   "versions": []
   },
   {
    "title": "The Friends of Jesus",
@@ -18007,7 +18218,8 @@
    "age_text": "Aged 46",
    "life_context": "Pastor of the Metropolitan Tabernacle and head of its college and orphanage, he preached this in August 1880, the month his Autobiography gives for his move from Helensburgh House, Nightingale Lane, Clapham, to 'Westwood' on Beulah Hill, Upper Norwood; it does not give the day. He had been taking winter rests at Menton since at least early 1874.",
    "has_text": true,
-   "words": 7161
+   "words": 7161,
+   "versions": []
   },
   {
    "title": "The Friend of God",
@@ -18053,7 +18265,8 @@
    "age_text": "Aged 52",
    "life_context": "He was pastor of the Metropolitan Tabernacle, living at 'Westwood', Upper Norwood, where he had moved in 1880. The 'Down-grade' articles had begun appearing in his magazine The Sword and the Trowel that March; the controversy led to his withdrawal from the Baptist Union in October 1887.",
    "has_text": true,
-   "words": 7010
+   "words": 7010,
+   "versions": []
   },
   {
    "title": "The Statute of David for the Sharing of the Spoil",
@@ -18100,7 +18313,8 @@
    "age_text": "Aged 56",
    "life_context": "Illness, recorded in his Autobiography as congestion of the lungs, had stopped his preaching in May 1891; he says in the sermon he chose the text partly because he was glad to meet his Lord in public again. It proved his last at the Tabernacle: his illness then became so serious that his death was feared, and he died at Menton on 31 January 1892.",
    "has_text": true,
-   "words": 6795
+   "words": 6795,
+   "versions": []
   },
   {
    "title": "Booze (also published as \"Get on the Water Wagon\")",
@@ -18151,7 +18365,8 @@
    "age_text": "",
    "life_context": "According to SABR, Sunday first preached \"Booze\" at his Burlington, Iowa, campaign (November–December 1905). At that time he was an independent travelling evangelist, ordained by the Chicago Presbytery in 1903, who held revivals in small Midwestern towns while his family lived in Chicago. He kept preaching it after 1908, when his campaigns moved to larger cities.",
    "has_text": true,
-   "words": 12312
+   "words": 12312,
+   "versions": []
   },
   {
    "title": "Mother",
@@ -18200,7 +18415,13 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 5997
+   "words": 5997,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Unpardonable Sin",
@@ -18242,7 +18463,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 4169
+   "words": 4169,
+   "versions": []
   },
   {
    "title": "What Shall I Do with Jesus?",
@@ -18281,7 +18503,8 @@
    "age_text": "Aged 51",
    "life_context": "Sunday, an ordained Presbyterian evangelist whose home was Winona Lake, Indiana, was in the middle of his Scranton, Pennsylvania, campaign (1 March–20 April 1914 on Wheaton's campaign list). His Pittsburgh campaign, the first of his big-city tabernacle campaigns, had closed on 23 February.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "Real Manhood",
@@ -18319,7 +18542,8 @@
    "age_text": "Aged 51",
    "life_context": "He was holding a campaign at Scranton, Pennsylvania (1 March–20 April 1914 on Wheaton's campaign list). This was about five weeks after his first big-city tabernacle campaign closed in Pittsburgh. His home was Winona Lake, Indiana.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Devil's Boomerangs (also titled \"Hot Cakes off the Griddle\")",
@@ -18366,7 +18590,8 @@
    "age_text": "",
    "life_context": "The surviving text comes from his Omaha tabernacle campaign of September–October 1915. Sources differ on when it started: Nebraska History (1983) gives 4 September to 24 October, and Wheaton's campaign list gives 20 September to 24 October. His home was Winona Lake, Indiana, and his Philadelphia campaign had closed that March.",
    "has_text": false,
-   "words": 0
+   "words": 0,
+   "versions": []
   },
   {
    "title": "The Three Groups",
@@ -18408,7 +18633,13 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 5983
+   "words": 5983,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "Atonement",
@@ -18449,7 +18680,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 3044
+   "words": 3044,
+   "versions": []
   },
   {
    "title": "Teach Us to Pray",
@@ -18489,7 +18721,8 @@
    "listen_label": "SermonIndex reading (SermonAudio)",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 3585
+   "words": 3585,
+   "versions": []
   },
   {
    "title": "Heaven",
@@ -18527,7 +18760,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 6908
+   "words": 6908,
+   "versions": []
   },
   {
    "title": "The Circumcision of the Heart",
@@ -18576,7 +18810,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 4588
+   "words": 4588,
+   "versions": []
   },
   {
    "title": "On Love",
@@ -18625,7 +18860,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 3190
+   "words": 3190,
+   "versions": []
   },
   {
    "title": "Salvation by Faith",
@@ -18677,7 +18913,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 4126
+   "words": 4126,
+   "versions": []
   },
   {
    "title": "Free Grace",
@@ -18729,7 +18966,13 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5884
+   "words": 5884,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Almost Christian",
@@ -18778,7 +19021,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 3454
+   "words": 3454,
+   "versions": []
   },
   {
    "title": "Scriptural Christianity",
@@ -18827,7 +19071,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 6860
+   "words": 6860,
+   "versions": []
   },
   {
    "title": "Justification by Faith",
@@ -18876,7 +19121,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5071
+   "words": 5071,
+   "versions": []
   },
   {
    "title": "Upon Our Lord's Sermon on the Mount, Discourse VI",
@@ -18925,7 +19171,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 6940
+   "words": 6940,
+   "versions": []
   },
   {
    "title": "Catholic Spirit",
@@ -18973,7 +19220,13 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5659
+   "words": 5659,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Great Assize",
@@ -19021,7 +19274,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 6055
+   "words": 6055,
+   "versions": []
   },
   {
    "title": "The Cure of Evil-Speaking",
@@ -19070,7 +19324,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 4463
+   "words": 4463,
+   "versions": []
   },
   {
    "title": "The Use of Money",
@@ -19118,7 +19373,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5182
+   "words": 5182,
+   "versions": []
   },
   {
    "title": "The Scripture Way of Salvation",
@@ -19167,7 +19423,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 4659
+   "words": 4659,
+   "versions": []
   },
   {
    "title": "On the Death of the Rev. Mr. George Whitefield",
@@ -19216,7 +19473,13 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 6465
+   "words": 6465,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "On Charity",
@@ -19263,7 +19526,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5027
+   "words": 5027,
+   "versions": []
   },
   {
    "title": "On Friendship with the World",
@@ -19311,7 +19575,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 5044
+   "words": 5044,
+   "versions": []
   },
   {
    "title": "The Duty of Reproving Our Neighbour",
@@ -19360,7 +19625,8 @@
    "listen_label": "LibriVox reading",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 3392
+   "words": 3392,
+   "versions": []
   },
   {
    "title": "The Nature and Necessity of Society in General, and of Religious Society in Particular",
@@ -19413,7 +19679,13 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6061
+   "words": 6061,
+   "versions": [
+    "en-modern",
+    "en-plain",
+    "nl-formal",
+    "nl-easy"
+   ]
   },
   {
    "title": "The Nature and Necessity of Our New Birth in Christ Jesus, in Order to Salvation",
@@ -19467,7 +19739,8 @@
    "phase_idx": -1,
    "age_text": "",
    "has_text": true,
-   "words": 4955
+   "words": 4955,
+   "versions": []
   },
   {
    "title": "Intercession Every Christian's Duty",
@@ -19520,7 +19793,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 4258
+   "words": 4258,
+   "versions": []
   },
   {
    "title": "Of Justification by Christ",
@@ -19568,7 +19842,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 4288
+   "words": 4288,
+   "versions": []
   },
   {
    "title": "Thankfulness for Mercies Received, a Necessary Duty",
@@ -19625,7 +19900,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5003
+   "words": 5003,
+   "versions": []
   },
   {
    "title": "The Eternity of Hell-Torments",
@@ -19675,7 +19951,8 @@
    "age_text": "Aged 23–24",
    "life_context": "Still a deacon, he served as the Georgia Trustees' minister of Savannah from 7 May to 28 August 1738, then returned to England to raise funds and seek priest's orders. He was ordained priest in January 1739, with the Savannah post as his title.",
    "has_text": true,
-   "words": 4291
+   "words": 4291,
+   "versions": []
   },
   {
    "title": "Christ the Best Husband: Or an Earnest Invitation to Young Women to Come and See Christ",
@@ -19723,7 +20000,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5431
+   "words": 5431,
+   "versions": []
   },
   {
    "title": "The Great Duty of Charity Recommended",
@@ -19774,7 +20052,8 @@
    "age_text": "",
    "life_context": "The sermon itself is undated. Gillies places his Kennington Common preaching in 1739, the year he was ordained priest in January, first preached in the open air to Kingswood coal miners near Bristol in February and, excluded from London pulpits, took his field preaching to Moorfields in April. He sailed for America again that August.",
    "has_text": true,
-   "words": 4635
+   "words": 4635,
+   "versions": []
   },
   {
    "title": "The Method of Grace",
@@ -19823,7 +20102,8 @@
    "listen_label": "LibriVox reading (abridged)",
    "listen_kind": "public-domain-reading",
    "has_text": true,
-   "words": 7342
+   "words": 7342,
+   "versions": []
   },
   {
    "title": "Britain's Mercies, and Britain's Duty",
@@ -19876,7 +20156,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5627
+   "words": 5627,
+   "versions": []
   },
   {
    "title": "The Seed of the Woman, and the Seed of the Serpent",
@@ -19924,7 +20205,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 7474
+   "words": 7474,
+   "versions": []
   },
   {
    "title": "The Good Shepherd: A Farewell Sermon",
@@ -19977,7 +20259,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 5914
+   "words": 5914,
+   "versions": []
   },
   {
    "title": "Preached Before the Governor, and Council, and the House of Assembly, in Georgia, on January 28, 1770",
@@ -20026,7 +20309,8 @@
    "listen_label": "Biblical eLearning reading",
    "listen_kind": "authorised-reading",
    "has_text": true,
-   "words": 6729
+   "words": 6729,
+   "versions": []
   }
  ]
 }
