@@ -1,0 +1,585 @@
+{
+ "id": "wesley",
+ "name": "John Wesley",
+ "born": {
+  "date_iso": "1703-06-17",
+  "date_text": "17 June 1703 (Old Style; 28 June 1703 New Style)",
+  "place": "Epworth Rectory, Epworth, Lincolnshire, England"
+ },
+ "died": {
+  "date_iso": "1791-03-02",
+  "date_text": "2 March 1791",
+  "place": "Chapel-house beside City Road Chapel, City Road, London, England"
+ },
+ "life_summary": "John Wesley was born in 1703 at Epworth Rectory in Lincolnshire, a son of the rector Samuel Wesley and his wife Susanna, and was educated at Charterhouse School and Christ Church, Oxford. He was ordained deacon in 1725 and priest in 1728, was elected a fellow of Lincoln College in 1726, served as his father's curate, mainly at Wroot, from 1727 to 1729, and from November 1729 led the Oxford group nicknamed the Holy Club or \"Methodists\". In 1735 he sailed to Georgia as a missionary and ministered at Savannah from February 1736 until December 1737, when he left after legal proceedings that followed his refusal of communion to Sophia Williamson (née Hopkey). Back in London, he recorded that on 24 May 1738, at a society meeting in Aldersgate Street, his heart was \"strangely warmed\", and from April 1739 he took up open-air preaching, beginning at Bristol. For the next five decades he travelled through England, Wales, Ireland and Scotland as an itinerant preacher, organised societies, presided over annual conferences of preachers from 1744 and published Sermons on Several Occasions (1746–1760). His 1751 marriage to the widow Mary Vazeille was childless and ended in separation, and in 1784 he gave the Methodist Conference legal standing by the Deed of Declaration and ordained preachers for America. He died at his house beside City Road Chapel, London, on 2 March 1791, aged 87.",
+ "phases": [
+  {
+   "start_year": 1703,
+   "end_year": 1720,
+   "label": "Epworth and Charterhouse",
+   "summary": "Childhood at Epworth Rectory, Lincolnshire, where his father Samuel was rector; he was rescued from the rectory fire of February 1709. From January 1714 he was a pupil on the foundation at Charterhouse School in London.",
+   "place": "Epworth, Lincolnshire; London",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "Epworth Old Rectory: John Wesley",
+     "url": "https://epwortholdrectory.org.uk/family/john-wesley/"
+    }
+   ]
+  },
+  {
+   "start_year": 1720,
+   "end_year": 1727,
+   "label": "Oxford student and fellow",
+   "summary": "Student at Christ Church, Oxford, from June 1720 (BA 1724); ordained deacon in September 1725 and elected fellow of Lincoln College in March 1726, where he was chosen Greek lecturer and moderator of the classes.",
+   "place": "Oxford",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1727,
+   "end_year": 1729,
+   "label": "Curate at Wroot",
+   "summary": "From August 1727 he served as his father's curate, living and officiating mainly at Wroot near Epworth, while keeping his Lincoln fellowship. He was ordained priest in September 1728 and was recalled to Oxford by a letter from the rector of Lincoln in October 1729.",
+   "place": "Wroot and Epworth, Lincolnshire",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    }
+   ]
+  },
+  {
+   "start_year": 1729,
+   "end_year": 1735,
+   "label": "Holy Club at Oxford",
+   "summary": "Resident fellow and tutor at Lincoln College from November 1729, leading the small society nicknamed the Holy Club or Methodists, which from August 1730 visited prisoners in Oxford. He declined to seek his father's Epworth living; his father died in April 1735.",
+   "place": "Oxford",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 5 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-5/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1735,
+   "end_year": 1738,
+   "label": "Georgia mission",
+   "summary": "Missionary to the colony of Georgia with his brother Charles; he embarked in October 1735, ministered at Savannah from February 1736, and left on 2 December 1737 after the dispute over Sophia Williamson, landing at Deal on 1 February 1738.",
+   "place": "Savannah, Georgia",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 6 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=88"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "New Georgia Encyclopedia: John Wesley",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/john-wesley-1703-1791/"
+    }
+   ]
+  },
+  {
+   "start_year": 1738,
+   "end_year": 1744,
+   "label": "Aldersgate and field preaching",
+   "summary": "After his Aldersgate experience (May 1738) and a visit to the Moravians at Herrnhut (August 1738), he began open-air preaching at Bristol in April 1739, laid the foundation of the New Room there and made the Foundery his London base. He extended his work to Newcastle in 1742.",
+   "place": "London; Bristol; Newcastle upon Tyne",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 7 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=89"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 11 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=93"
+    }
+   ]
+  },
+  {
+   "start_year": 1744,
+   "end_year": 1778,
+   "label": "Itinerant leader of Methodism",
+   "summary": "Based at the Foundery in London, he presided over annual conferences from 1744 and travelled continually through England, Wales, Ireland (from 1747) and Scotland (from 1751), publishing Sermons on Several Occasions (1746–1760). He married Mary Vazeille in 1751, resigned his fellowship that June, fell seriously ill in 1753, and his wife finally left him in 1776.",
+   "place": "London (the Foundery); Bristol; Newcastle; itinerant tours",
+   "sources": [
+    {
+     "label": "DMBI: Methodist Conference",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=677"
+    },
+    {
+     "label": "The Sermons of John Wesley (1872 ed.), Introduction (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/an-introduction/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1778,
+   "end_year": 1791,
+   "label": "City Road final years",
+   "summary": "His London headquarters moved to the new City Road Chapel (opened November 1778), and he lived in the adjoining house from 1779 to 1791. In these years his wife died (1781), he secured the Conference legally and ordained preachers for America (1784), made his last Irish visit (1789) and preached in the open air for the last time in October 1790.",
+   "place": "City Road, London",
+   "sources": [
+    {
+     "label": "Museum of Methodism & John Wesley's House: City Road Wesleyan Chapel",
+     "url": "https://wesleysheritage.org.uk/object/city-road-wesleyan-chapel/"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 21 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=103"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 18 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=100"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1703-06-17",
+   "date_text": "17 June 1703 (Old Style)",
+   "event": "Born at Epworth Rectory, Lincolnshire, a son of the rector Samuel Wesley and his wife Susanna.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "Westminster Abbey: John, Charles & Samuel Wesley",
+     "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/john-charles-samuel-wesley"
+    }
+   ]
+  },
+  {
+   "date_iso": "1709-02-09",
+   "date_text": "9 February 1709",
+   "event": "Aged five, he was rescued from the fire that destroyed the family home, Epworth Rectory.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "Epworth Old Rectory: John Wesley",
+     "url": "https://epwortholdrectory.org.uk/family/john-wesley/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1725-09-19",
+   "date_text": "19 September 1725",
+   "event": "Ordained deacon in the Church of England by Bishop John Potter at Christ Church Cathedral, Oxford.",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1726-03-17",
+   "date_text": "17 March 1726",
+   "event": "Elected a fellow of Lincoln College, Oxford, a fellowship he held until resigning it on 1 June 1751, after his marriage.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1727-08",
+   "date_text": "August 1727",
+   "event": "Became curate to his father, living and officiating mainly at Wroot, near Epworth.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1728-09-22",
+   "date_text": "22 September 1728",
+   "event": "Ordained priest by Bishop John Potter while serving as his father's curate.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 4 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-4/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1729-11-22",
+   "date_text": "22 November 1729",
+   "event": "Returned to residence at Lincoln College, Oxford, recalled by the college's rector, and became leader of the small religious society nicknamed the Holy Club.",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 5 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-5/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1735-04-25",
+   "date_text": "25 April 1735",
+   "event": "His father Samuel Wesley died at Epworth; John had earlier declined family pressure to seek the Epworth living.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, Samuel (1662-1735)' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Wesley,_Samuel_(1662-1735)"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 5 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/the-life-of-john-wesley-by-john-telford-chapter-5/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1736-02",
+   "date_text": "February 1736",
+   "event": "Arrived in Georgia aboard the Simmonds with his brother Charles, to serve as a missionary and minister at Savannah.",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 6 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=88"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1737-12-02",
+   "date_text": "2 December 1737",
+   "event": "Left Savannah for Carolina and England after legal proceedings that followed his refusal of communion to Sophia Williamson (née Hopkey) in August 1737.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 6 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=88"
+    }
+   ]
+  },
+  {
+   "date_iso": "1738-05-24",
+   "date_text": "24 May 1738",
+   "event": "At a society meeting in Aldersgate Street, London, he recorded that his heart was \"strangely warmed\" while Luther's preface to Romans was being read.",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 7 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=89"
+    },
+    {
+     "label": "UMC.org: What is Aldersgate Day?",
+     "url": "https://www.umc.org/en/content/ask-the-umc-what-is-aldersgate-day"
+    }
+   ]
+  },
+  {
+   "date_iso": "1739-04-02",
+   "date_text": "2 April 1739",
+   "event": "At George Whitefield's invitation, he preached in the open air for the first time, on ground adjoining Bristol, to about 3,000 people.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 8 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=90"
+    }
+   ]
+  },
+  {
+   "date_iso": "1742-07-23",
+   "date_text": "23 July 1742",
+   "event": "His mother Susanna died in London; he conducted her burial at Bunhill Fields on 1 August.",
+   "sources": [
+    {
+     "label": "Museum of Methodism & John Wesley's House: Susanna Wesley's Burial",
+     "url": "https://wesleysheritage.org.uk/object/susanna-wesleys-burial/"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 11 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=93"
+    }
+   ]
+  },
+  {
+   "date_iso": "1743-10-20",
+   "date_text": "20 October 1743",
+   "event": "During the Wednesbury riots a mob seized him in the evening and took him to Bentley Hall and Walsall; after about five hours he returned safely to Wednesbury.",
+   "sources": [
+    {
+     "label": "DMBI: Wednesbury riots, 1743-1744",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=2921"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 12 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=94"
+    }
+   ]
+  },
+  {
+   "date_iso": "1744-06-25",
+   "date_text": "25 June 1744",
+   "event": "Presided at the first Methodist Conference of clergy and lay preachers, held over six days at the Foundery, London.",
+   "sources": [
+    {
+     "label": "DMBI: Methodist Conference",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=677"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1744-08-24",
+   "date_text": "24 August 1744",
+   "event": "Preached \"Scriptural Christianity\" before the university at St Mary's, Oxford; he wrote that he supposed it was his last time preaching there.",
+   "sources": [
+    {
+     "label": "Sermon 4: Scriptural Christianity (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-4-scriptural-christianity/"
+    },
+    {
+     "label": "University Church of St Mary the Virgin: John Wesley",
+     "url": "https://www.universitychurch.ox.ac.uk/content/john-wesley"
+    }
+   ]
+  },
+  {
+   "date_iso": "1747-08-09",
+   "date_text": "9 August 1747",
+   "event": "Arrived at Dublin on his first visit to Ireland, beginning repeated Irish tours; his last visit there was in 1789.",
+   "sources": [
+    {
+     "label": "John Wesley the Methodist, ch. XV: Ireland, Scotland, and Wales (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/john-wesley-the-methodist/chapter-xv-ireland-scotland-and-wales/"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 21 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=103"
+    }
+   ]
+  },
+  {
+   "date_iso": "1751-02",
+   "date_text": "18 or 19 February 1751",
+   "event": "Married Mary (Molly) Vazeille, widow of a London merchant; the marriage was childless and ended in separation.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "Museum of Methodism & John Wesley's House: Portrait of Mrs Mary Vazeille",
+     "url": "https://wesleysheritage.org.uk/object/portrait-of-mrs-mary-molly-vazeille-1710-1781/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1778-11-01",
+   "date_text": "1 November 1778",
+   "event": "Opened the new City Road Chapel in London, which became his headquarters; he lived in the adjoining house from 1779.",
+   "sources": [
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 18 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=100"
+    },
+    {
+     "label": "Museum of Methodism & John Wesley's House: City Road Wesleyan Chapel",
+     "url": "https://wesleysheritage.org.uk/object/city-road-wesleyan-chapel/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1781-10-08",
+   "date_text": "8 October 1781",
+   "event": "His estranged wife Mary died at Camberwell; by his own account he learned of her death only on reaching London on 14 October.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 15 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=97"
+    }
+   ]
+  },
+  {
+   "date_iso": "1784-02-28",
+   "date_text": "28 February 1784",
+   "event": "Executed the Deed of Declaration, legally defining the Methodist Conference and naming one hundred preachers to govern it after his death.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 18 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=100"
+    }
+   ]
+  },
+  {
+   "date_iso": "1784-09-01",
+   "date_text": "1 September 1784",
+   "event": "At Bristol he ordained Richard Whatcoat and Thomas Vasey for America, and the next day set apart Thomas Coke as superintendent.",
+   "sources": [
+    {
+     "label": "Wesley's Journal, September 1784 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-journal-of-john-wesley/volume-7/part-the-twentieth-jul-18-1784-jun-28-1786/september-1784/"
+    },
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1788-03-29",
+   "date_text": "29 March 1788",
+   "event": "His brother Charles Wesley died in London; according to Telford, John was away preaching in Staffordshire at the time.",
+   "sources": [
+    {
+     "label": "Westminster Abbey: John, Charles & Samuel Wesley",
+     "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/john-charles-samuel-wesley"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 18 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=100"
+    }
+   ]
+  },
+  {
+   "date_iso": "1791-02-23",
+   "date_text": "23 February 1791",
+   "event": "Preached his last sermon, at Leatherhead; the next day he wrote his last letter, to William Wilberforce, encouraging his campaign against slavery.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "John Telford, The Life of John Wesley, ch. 21 (Wesley Center Online)",
+     "url": "https://wesley.nnu.edu/?id=103"
+    }
+   ]
+  },
+  {
+   "date_iso": "1791-03-02",
+   "date_text": "2 March 1791",
+   "event": "Died at his house beside City Road Chapel, London, aged 87; he was buried in the vault behind the chapel on 9 March.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+     "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+    },
+    {
+     "label": "Westminster Abbey: John, Charles & Samuel Wesley",
+     "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/john-charles-samuel-wesley"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Dictionary of National Biography (1899), 'Wesley, John' (CCEL)",
+   "url": "https://www.ccel.org/ccel/ccel/eee/files/wesleyj.htm"
+  },
+  {
+   "label": "John Telford, The Life of John Wesley (Wesley Center Online)",
+   "url": "https://wesley.nnu.edu/john-wesley/the-life-of-john-wesley-by-john-telford/"
+  },
+  {
+   "label": "Methodist Heritage: History of Methodism",
+   "url": "https://www.methodistheritage.org.uk/methodist-history/history-of-methodism/"
+  },
+  {
+   "label": "DMBI: A Dictionary of Methodism in Britain and Ireland, 'Methodist Conference'",
+   "url": "https://dmbi.online/index.php?do=app.entry&id=677"
+  },
+  {
+   "label": "Westminster Abbey: John, Charles & Samuel Wesley",
+   "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/john-charles-samuel-wesley"
+  }
+ ],
+ "corrections": [
+  "Wednesbury riot event (20 Oct 1743): changed 'at night ... carried to Walsall and back for several hours' to the sourced account (seized in the evening, taken to Bentley Hall and Walsall, about five hours, returned to Wednesbury); added Telford ch. 12 as a second source.",
+  "'Scriptural Christianity' event (24 Aug 1744): 'it was his last university sermon there' restated as Wesley's own expectation ('he supposed it was his last time'), sourced to the University Church of St Mary the Virgin page, which replaces the DNB citation (the DNB does not support this claim).",
+  "Open-air preaching event (2 Apr 1739): changed 'at Whitefield's urging ... near Bristol' to 'at Whitefield's invitation ... on ground adjoining Bristol' to match Telford and the DNB.",
+  "Birth and fire events: replaced the Methodist Heritage citation, which gives only the year, with the Westminster Abbey page (birth) and the Epworth Old Rectory page (9 Feb 1709 fire), which give exact dates.",
+  "Death event: replaced the second citation (Telford ch. 21, which is vague on the burial vault) with the Westminster Abbey page, which confirms 2 March death and 9 March burial.",
+  "Curate at Wroot phase and 1729 event: 'recalled by his college' made precise as recalled by the rector of Lincoln (Morley's letter of 21 Oct 1729, per DNB).",
+  "Holy Club phase: prison visiting date narrowed from '1730' to 'August 1730' (Telford: 24 Aug 1730).",
+  "Georgia phase: 'sailed in late 1735' changed to 'embarked in October 1735' (Gravesend, 14 Oct 1735; the voyage from Cowes began 10 Dec), and the departure date of 2 December 1737 was added.",
+  "Georgia departure event: added that the communion refusal happened in August 1737 (Telford: 7 Aug).",
+  "Aldersgate phase: 'built the New Room' changed to 'laid the foundation of the New Room' (foundation stone 12 May 1739), and the Herrnhut visit dated to August 1738.",
+  "Itinerant phase: added his June 1751 resignation of the fellowship and his wife's final departure in 1776 (DNB).",
+  "City Road phase: vague 'kept travelling until 1790' replaced with the sourced facts: last Irish visit in 1789 and last open-air sermon in October 1790 (Telford ch. 21); house residence dated 1779–1791; Telford ch. 18 added as a source.",
+  "Wife's death event: 'he was away travelling' replaced with his own account that he learned of it on reaching London on 14 October (Telford ch. 15).",
+  "Fellowship event: added the exact resignation date, 1 June 1751 (DNB).",
+  "Top-level sources: replaced the single-journal-month citation with the Westminster Abbey page."
+ ]
+}

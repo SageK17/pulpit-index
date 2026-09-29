@@ -1,0 +1,93 @@
+{
+ "sermons": [
+  {
+   "id": "sunday-booze-also-published-as-get-on-the-water-wagon",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "According to SABR, Sunday first preached \"Booze\" at his Burlington, Iowa, campaign (November–December 1905). At that time he was an independent travelling evangelist, ordained by the Chicago Presbytery in 1903, who held revivals in small Midwestern towns while his family lived in Chicago. He kept preaching it after 1908, when his campaigns moved to larger cities.",
+   "sources": []
+  },
+  {
+   "id": "sunday-mother",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "sunday-the-unpardonable-sin",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "sunday-what-shall-i-do-with-jesus",
+   "preacher_id": "sunday",
+   "life_phase": "Big-city tabernacle campaigns",
+   "life_context": "Sunday, an ordained Presbyterian evangelist whose home was Winona Lake, Indiana, was in the middle of his Scranton, Pennsylvania, campaign (1 March–20 April 1914 on Wheaton's campaign list). His Pittsburgh campaign, the first of his big-city tabernacle campaigns, had closed on 23 February.",
+   "sources": [
+    {
+     "label": "Wheaton College Archives, Partial List of Billy Sunday's Campaigns (Pittsburgh, 28 December 1913–23 February 1914; Scranton, 1 March–20 April 1914)",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sunday-real-manhood",
+   "preacher_id": "sunday",
+   "life_phase": "Big-city tabernacle campaigns",
+   "life_context": "He was holding a campaign at Scranton, Pennsylvania (1 March–20 April 1914 on Wheaton's campaign list). This was about five weeks after his first big-city tabernacle campaign closed in Pittsburgh. His home was Winona Lake, Indiana.",
+   "sources": [
+    {
+     "label": "Wheaton College Archives, Partial List of Billy Sunday's Campaigns (Pittsburgh to 23 February 1914; Scranton, 1 March–20 April 1914)",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sunday-the-devil-s-boomerangs-also-titled-hot-cakes-off-the-griddle",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "The surviving text comes from his Omaha tabernacle campaign of September–October 1915. Sources differ on when it started: Nebraska History (1983) gives 4 September to 24 October, and Wheaton's campaign list gives 20 September to 24 October. His home was Winona Lake, Indiana, and his Philadelphia campaign had closed that March.",
+   "sources": [
+    {
+     "label": "Wheaton College Archives, Partial List of Billy Sunday's Campaigns (Omaha, 20 September–24 October 1915)",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    },
+    {
+     "label": "Nebraska History 64 (1983), \"Evangelist Billy Sunday's Clean-up Campaign in Omaha: His 50-Day Revival, 1915\" (4 September–24 October 1915)",
+     "url": "https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1983BSunday.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sunday-the-three-groups",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "sunday-atonement",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "sunday-teach-us-to-pray",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "sunday-heaven",
+   "preacher_id": "sunday",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  }
+ ]
+}

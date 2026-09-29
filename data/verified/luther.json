@@ -1,0 +1,569 @@
+{
+ "preacher": {
+  "id": "luther",
+  "name": "Martin Luther",
+  "lifespan": "1483–1546",
+  "tradition": "Lutheran (Protestant Reformation); formerly an Augustinian friar",
+  "role": "German Reformer, Wittenberg professor and preacher",
+  "bio": "Martin Luther was born in Eisleben on 10 November 1483, became an Augustinian friar, was ordained priest in 1507 and taught theology at Wittenberg. There he was also given the preaching duty at the town church, and his first securely dated sermons come from 1514. His Ninety-five Theses on indulgences (1517) started a controversy that led to his excommunication in January 1521. Later that year the Diet of Worms condemned him as an outlaw. He died in Eisleben on 18 February 1546, a few days after preaching there, and was buried in the Castle Church at Wittenberg.",
+  "corpus_note": "The publisher's description of Luther's Works vol. 51, as listed by Logos, says the Weimar Edition contains \"two thousand sermons or more\" and still does not include all of Luther's sermons. Many of the sermons survive only in hearers' notes or in versions that others worked up, such as Veit Dietrich's versions of the 1530 Coburg sermons, or edited into postils. Lenker's history of the Church Postil names Stephan Roth ('Rodt') and Caspar Cruciger ('Creuziger') as editors. The critical German text is the Weimar Edition (WA).",
+  "archive_links": [
+   {
+    "label": "Project Gutenberg: Luther texts, including the Philadelphia Edition (Works of Martin Luther) and Lenker's Epistle Sermons",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=martin+luther"
+   },
+   {
+    "label": "Internet Archive: Lenker, Luther's Church Postil: Gospels vol. 1 (Precious and Sacred Writings vol. 10, 1905)",
+    "url": "https://archive.org/details/precioussacredwr10luth"
+   },
+   {
+    "label": "Project Wittenberg: Selected Works of Martin Luther",
+    "url": "https://www.projectwittenberg.org/pub/resources/text/wittenberg/wittenberg-luther.html"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia: Martin Luther",
+    "url": "https://en.wikipedia.org/wiki/Martin_Luther"
+   },
+   {
+    "label": "Wikipedia (German): Martin Luther (preaching commission at the Stadtkirche; first securely dated sermons 1514, citing Brecht)",
+    "url": "https://de.wikipedia.org/wiki/Martin_Luther"
+   },
+   {
+    "label": "Logos: Luther's Works, Volume 51 (publisher's description)",
+    "url": "https://www.logos.com/product/178683/luthers-works-volume-51"
+   },
+   {
+    "label": "Lenker, Luther's Church Postil: Gospels vol. 2 (1906), 'The History of Luther's Church Postil' (Internet Archive text)",
+    "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+   },
+   {
+    "label": "Weimar Edition vol. 32 (1906), introduction on the 1530 sermons (Internet Archive)",
+    "url": "https://archive.org/details/werkekritischege32luthuoft"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "A Sermon on How to Contemplate Christ's Holy Sufferings (Ein Sermon von der Betrachtung des heiligen Leidens Christi)",
+   "type": "sermon",
+   "date_text": "1519",
+   "date_iso": "1519",
+   "place": "",
+   "occasion": "A Passion devotion issued as a printed pamphlet. Lenker's edition places it as the Good Friday sermon of the Church Postil.",
+   "scripture": "",
+   "published_in": "Pamphlet editions, 1519 (Erlangen ed. 11:150); English: J. N. Lenker, Luther's Church Postil: Gospels, vol. 2 (Minneapolis, 1906)",
+   "summary": "Luther rejects several ways of meditating on the Passion: getting angry at Judas and the Jews, treating pictures, booklets and crucifixes as charms against danger, and simply weeping for Christ. He tells the reader to recognize that his own sins caused Christ's suffering and to be terrified at God's wrath against sin. The reader should then lay those sins on Christ and see God's love in Christ's suffering. Finally, the reader should take that suffering as a pattern for resisting pride, lust, hatred and revenge in daily life.",
+   "context": "The sermon was issued as a pamphlet in 1519. Lenker counts 15 editions that year, with more in 1520–1524, and notes a Latin translation printed at Wittenberg in 1521. He calls it one of Luther's most frequently issued writings. The German Wikisource bibliography lists 1519 printings at Strasbourg, Augsburg, Munich and Wittenberg.",
+   "key_line": "For Christ's Passion must be dealt with not in words and a show, but in our lives and in truth.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "sin-repentance",
+    "love"
+   ],
+   "read_url": "https://archive.org/details/precioussacredwr11luth",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Church Postil: Gospels vol. 2 (1906), Good Friday sermon and edition note (Internet Archive text)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    },
+    {
+     "label": "Wikisource (German): Martin Luther, list of original prints",
+     "url": "https://de.wikisource.org/wiki/Martin_Luther"
+    }
+   ],
+   "unverified_notes": "No preaching occasion, date or place is documented. The fetched sources treat it as a printed sermon. The key line was checked word for word against the OCR text of Lenker's 1906 edition.",
+   "verification_status": "verified",
+   "verification_note": "The 1519 printing, the edition counts, the Erlangen reference and the Good Friday placement were confirmed in Lenker's 1906 edition, and the 1519 printings were confirmed in the German Wikisource list; the summary matches the text and the key line is verbatim."
+  },
+  {
+   "title": "A Treatise Concerning the Blessed Sacrament of the Holy and True Body of Christ and Concerning the Brotherhoods (German: Ein Sermon von dem hochwirdigen Sacrament ... und von den Bruderschafften)",
+   "type": "sermon",
+   "date_text": "1519",
+   "date_iso": "1519",
+   "place": "",
+   "occasion": "Printed sermon for lay readers ('Fur die Leyen' in early prints). With the sermons on penance and baptism, it formed a trilogy dedicated to Duchess Margaret of Braunschweig and Lüneburg.",
+   "scripture": "",
+   "published_in": "Wittenberg: John Grunenberg, 1519 (Weimar ed. 2:742); English: J. J. Schindel, in Works of Martin Luther (Philadelphia: A. J. Holman), vol. 2 (1916)",
+   "summary": "Luther explains the Lord's Supper as the sign of the fellowship of Christ and all the saints. He compares it to citizenship in a city, where each member shares the others' goods and dangers, so that 'love engenders love'. Communicants are to carry their neighbours' weaknesses and needs as their own and to shut no one out in hatred or anger. An appendix criticizes the lay brotherhoods of his day for their conduct and spiritual self-seeking. It calls the fellowship of all saints the true brotherhood, which every association should serve in love.",
+   "context": "This was one of four sermons that appeared in the second half of 1519, on the ban, penance, baptism and the Lord's Supper. According to J. J. Schindel's introduction, a copy from Grunenberg's press reached Duke George of Saxony by 24 December 1519. On 27 December the Duke protested to Elector Frederick and to the bishops of Meissen and Merseburg, chiefly against Luther's call for communion in both kinds. Schindel adds that Wittenberg alone was reported to have twenty-one brotherhoods at the time.",
+   "key_line": "Since, then, everything must be done in love, if it is to please God at all, the brotherhood must also be a brotherhood in love.",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "friendship",
+    "love"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/34904",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Works of Martin Luther, vol. 2 (1916), Schindel's introduction and translation (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/34904/pg34904.txt"
+    },
+    {
+     "label": "Wikisource (German): Martin Luther, list of original prints",
+     "url": "https://de.wikisource.org/wiki/Martin_Luther"
+    }
+   ],
+   "unverified_notes": "The 1916 English edition calls the work a 'treatise', while the early German prints listed on Wikisource title it 'Ein Sermon'. No evidence was found that it was preached aloud. The earliest prints listed on Wikisource are dated 1520, so the 1519 date rests on Schindel's introduction (a copy from Grunenberg's press existed by 24 December 1519).",
+   "verification_status": "corrected",
+   "verification_note": "The 1519 date, the Grunenberg printing, the WA 2:742 reference, the dedication to Duchess Margaret, Duke George's protest and the key line were all confirmed in Schindel's 1916 edition, and the early prints in the German Wikisource list; the primary category was changed from friendship to church-unity because the work is mainly about the sacrament."
+  },
+  {
+   "title": "Christmas Day (Luke 2:1–14): The Story of the Birth of Jesus; and the Angels' Song",
+   "type": "sermon",
+   "date_text": "1521",
+   "date_iso": "1521",
+   "place": "Wartburg Castle (written, not preached)",
+   "occasion": "Model sermon for Christmas Day in the Advent-to-Epiphany part of Luther's Church Postil, written for preachers",
+   "scripture": "Luke 2:1–14",
+   "published_in": "Church Postil, Christmas section (Erlangen ed. 10:133); English: J. N. Lenker, Luther's Church Postil: Gospels, vol. 1 (Minneapolis, 1905)",
+   "summary": "Luther retells the nativity and stresses its poverty and lowliness. He argues that saving faith means believing Christ was born 'for you': Christ takes the believer's birth into his own pure birth and makes himself the believer's own. Love should come from that faith, and the Christian is to do for the neighbour what Christ has done for him. Luther says that spending on gold, bells, vestments and candles does the neighbour no good. He rebukes those who imagine they would have served the Christ child better than Bethlehem did while they ignore the needy around them. He ends by expounding the angels' song.",
+   "context": "Lenker's history of the Church Postil says the work began at Elector Frederick the Wise's request in 1520 and that Luther's Latin Advent Postil appeared in 1521. After the journey to Worms, Luther worked on the Christmas sermons at the Wartburg. Lenker says the section to Epiphany was 'Completed in the Desert (on the Wartburg)' in 1521. Luther's dedication of this Advent-to-Epiphany postil to Lord Albrecht of Mansfeld is signed 'in the desert, on the day of St. Elizabeth, A. D. 1521'.",
+   "key_line": "Therefore it is through faith that Christ becomes our own, and his love is the cause that we are his.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "love",
+    "grace-salvation"
+   ],
+   "read_url": "https://archive.org/details/precioussacredwr10luth",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Church Postil: Gospels vol. 1 (1905), Christmas Day sermon and dedication (Internet Archive text)",
+     "url": "https://archive.org/download/precioussacredwr10luth/precioussacredwr10luth_djvu.txt"
+    },
+    {
+     "label": "Lenker, Luther's Church Postil: Gospels vol. 2 (1906), 'The History of Luther's Church Postil'",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "This is a written postil sermon. The year 1521 is the year it was completed and dedicated; the year of its first printing was not confirmed from a fetched source. Lenker's history gives both 'Sept. 17, 1521' and St. Elizabeth's Day (19 November; Lenker writes 21 Nov.) for the completion, so no day is given. Lenker's translation calls the dedicatee 'Duke' Albrecht of Mansfeld.",
+   "verification_status": "corrected",
+   "verification_note": "The Erlangen reference, Luke 2:1–14, the Wartburg composition and the St. Elizabeth's Day 1521 dedication were confirmed in Lenker's 1905 and 1906 volumes, and the key line is verbatim; the context was corrected to say the dedication belongs to the Advent-to-Epiphany postil and names Albrecht as Lenker's text does."
+  },
+  {
+   "title": "The Eight Wittenberg Sermons (Invocavit Sermons)",
+   "type": "sermon-series",
+   "date_text": "9–16 March 1522",
+   "date_iso": "1522-03-09",
+   "place": "Parish church (St. Mary's, the town church), Wittenberg",
+   "occasion": "Luther's return from the Wartburg to deal with the unrest of the 'Wittenberg movement'; preached daily in the first week of Lent",
+   "scripture": "",
+   "published_in": "Printed from a hearer's notes (editions at Augsburg and Mainz); Weimar ed. 10 III; English: A. Steimle, in Works of Martin Luther (Philadelphia: A. J. Holman), vol. 2 (1916)",
+   "summary": "Luther opens with the 'chief things' each person must know when facing death alone: sin, faith in Christ, love toward one another and patience. He tells the Wittenbergers he sees no signs of love among them. He agrees that changes such as abolishing the Mass were right in substance, but condemns forcing them on those weaker in faith. Faith cannot be compelled, and the Word must do the work. The later sermons deal with images, fasting, communion in both kinds and private confession, separating what God commands from what he leaves free.",
+   "context": "Luther left the Wartburg on 1 March 1522, against the Elector's instruction, and arrived in Wittenberg on 6 March. By then Karlstadt, Gabriel Zwilling and others had pushed through rapid changes, amid disturbances in which images were torn from the parish church. He preached daily from Invocavit Sunday, 9 March, to the following Sunday. Steimle's introduction cites a letter from Schurf dated 15 March reporting that Zwilling had admitted he was wrong. Luther did not publish the sermons himself; the printed editions rest on a hearer's notes.",
+   "key_line": "Thirdly, There must also be love, and through love we must do unto one another as God has done unto us through faith.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "church-unity",
+    "holiness"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/34904",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Works of Martin Luther, vol. 2 (1916), Steimle's introduction and translation (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/34904/pg34904.txt"
+    },
+    {
+     "label": "Wikipedia (German): Invokavitpredigten",
+     "url": "https://de.wikipedia.org/wiki/Invokavitpredigten"
+    },
+    {
+     "label": "Wikipedia (German): Martin Luther (Invocavit Sunday, 9 March 1522)",
+     "url": "https://de.wikipedia.org/wiki/Martin_Luther"
+    },
+    {
+     "label": "LCMS: Luther's Invocavit Sermons, Part I – From the Wartburg to St. Mary's Pulpit",
+     "url": "https://resources.lcms.org/reading-study/luthers-invocavit-sermons-part-i-from-the-wartburg-to-st-marys-pulpit/"
+    },
+    {
+     "label": "1517.org: 500th Anniversary: Luther's Invocavit Sermons (Part 1)",
+     "url": "https://www.1517.org/articles/500th-anniversary-luthers-invocavit-sermons-part-1"
+    }
+   ],
+   "unverified_notes": "Steimle quotes Johann Kessler as saying that the first sermon began with an exposition of the day's Gospel (Matthew 4), but that part was not preserved. Steimle's introduction contains a slip ('the following Sunday, March 6th') alongside the correct 9 March.",
+   "verification_status": "corrected",
+   "verification_note": "The dates of 9–16 March 1522, the parish church, the hearer's-notes printing and the key line were confirmed in Steimle's 1916 introduction and text, and the dates in German Wikipedia and 1517.org; an unverified page range and an unverified claim about a Project Wittenberg date were removed."
+  },
+  {
+   "title": "Christian Revenge (Epistle for the Third Sunday after Epiphany)",
+   "type": "sermon",
+   "date_text": "1525",
+   "date_iso": "1525",
+   "place": "",
+   "occasion": "Model sermon on the epistle for the Third Sunday after Epiphany in Luther's Church Postil (winter part)",
+   "scripture": "Romans 12:16–21",
+   "published_in": "Church Postil, winter part, 1525 (German text in Walch ed. vol. 12, Erlangen ed. vol. 8); English: J. N. Lenker, Luther's Epistle Sermons, vol. 2 (Minneapolis, 1909)",
+   "summary": "Luther reads Paul's commands as rules for a Christian's outward conduct. In temporal matters where faith and God's Word are not at stake, the Christian should yield instead of insisting on his own view. He should return good for evil and keep outward peace with friends and foes as far as it lies with him. Vengeance belongs to God, who punishes through government, illness, war and other misfortunes, so the Christian's enemies are to be pitied. Luther reads the 'coals of fire' as favours that leave the enemy displeased with himself and more kindly disposed. Returning force for force makes a person as evil as the enemy, while overcoming evil with good is a spiritual victory.",
+   "context": "The sermon belongs to the Church Postil's model sermons on the appointed epistle lessons. Lenker's history says the winter-part sermons from Epiphany to Easter appeared in 1525. His edition notes that some editions print this sermon and the preceding one (Romans 12:6–16) as a single sermon.",
+   "key_line": "But if you overcome him with good, he will be made righteous like you.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "love"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/28464",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Epistle Sermons vol. 2 (1909), Project Gutenberg text",
+     "url": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt"
+    },
+    {
+     "label": "Lenker, 'The History of Luther's Church Postil' (Gospels vol. 2, 1906)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "Per Lenker's history, the year 1525 applies to the Epiphany-to-Easter sermons as a group; it was not confirmed for this sermon on its own. This is a written model sermon with no documented preaching date or place.",
+   "verification_status": "corrected",
+   "verification_note": "The text (Romans 12:16–21), the editions note, the Walch and Erlangen references and the key line were confirmed in Lenker's 1909 volume, and the 1525 appearance in Lenker's postil history; the summary was corrected because Luther reads the 'coals of fire' as making the enemy displeased with himself, not as bringing him to repent."
+  },
+  {
+   "title": "Christian Love and the Command to Love (Epistle for the Fourth Sunday after Epiphany)",
+   "type": "sermon",
+   "date_text": "1525",
+   "date_iso": "1525",
+   "place": "",
+   "occasion": "Model sermon on the epistle for the Fourth Sunday after Epiphany in Luther's Church Postil (winter part)",
+   "scripture": "Romans 13:8–10",
+   "published_in": "Church Postil, winter part, 1525 (German text in Walch ed. vol. 12, Erlangen ed. vol. 8); English: J. N. Lenker, Luther's Epistle Sermons, vol. 2 (Minneapolis, 1909)",
+   "summary": "Luther separates two kinds of obligation. One is imposed by law, such as tribute and obedience to rulers. The other is the free debt of love, by which a Christian makes himself everyone's servant. The single command to love one's neighbour sums up and governs every other commandment, so laws are to give way where love requires it. Faith fulfils the law as the actor and love as the act. The command makes all people equal before God: even a sovereign must count the poorest beggar as his neighbour.",
+   "context": "The sermon is part of the Church Postil's model sermons on the epistle lessons. Lenker's history says the winter-part sermons from Epiphany to Easter appeared in 1525.",
+   "key_line": "Faith is ever the actor, and love the act.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "holiness"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/28464",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Epistle Sermons vol. 2 (1909), Project Gutenberg text",
+     "url": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt"
+    },
+    {
+     "label": "Lenker, 'The History of Luther's Church Postil' (Gospels vol. 2, 1906)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "Per Lenker's history, the year 1525 applies to the Epiphany-to-Easter sermons as a group; it was not confirmed for this sermon on its own. This is a written model sermon with no documented preaching date or place.",
+   "verification_status": "verified",
+   "verification_note": "The text (Romans 13:8–10), the Walch and Erlangen references, the summary points and the verbatim key line were confirmed in Lenker's 1909 volume, and the 1525 appearance in Lenker's postil history."
+  },
+  {
+   "title": "The Glorious Adornment of Christians (Epistle for the Fifth Sunday after Epiphany)",
+   "type": "sermon",
+   "date_text": "1525",
+   "date_iso": "1525",
+   "place": "",
+   "occasion": "Model sermon on the epistle for the Fifth Sunday after Epiphany in Luther's Church Postil (winter part)",
+   "scripture": "Colossians 3:12–17",
+   "published_in": "Church Postil, winter part, 1525 (German text in Walch ed. vol. 12, Erlangen ed. vol. 8); English: J. N. Lenker, Luther's Epistle Sermons, vol. 2 (Minneapolis, 1909)",
+   "summary": "Luther presents compassion, kindness, lowliness, meekness and longsuffering as the 'adornment' that faith produces. He contrasts them with the self-made holiness of those whose severity will not let them associate with sinners. Among Christians, he argues, legal claims should give way to forbearance and forgiveness after Christ's example, because Christianity is only beginning and believers must bear one another's weaknesses. False doctrine, however, is not to be tolerated. He calls love the bond that holds all together and urges that the Word dwell richly in teaching and song.",
+   "context": "The sermon is part of the Church Postil's model sermons on the epistle lessons. Lenker's history says the winter-part sermons from Epiphany to Easter appeared in 1525.",
+   "key_line": "Christ's example enjoins this principle; he has forgiven us.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "love",
+    "holiness"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/28464",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Epistle Sermons vol. 2 (1909), Project Gutenberg text",
+     "url": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt"
+    },
+    {
+     "label": "Lenker, 'The History of Luther's Church Postil' (Gospels vol. 2, 1906)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "Per Lenker's history, the year 1525 applies to the Epiphany-to-Easter sermons as a group; it was not confirmed for this sermon on its own. This is a written model sermon with no documented preaching date or place.",
+   "verification_status": "verified",
+   "verification_note": "The text (Colossians 3:12–17), the summary points (including the rule against tolerating false doctrine) and the verbatim key line were confirmed in Lenker's 1909 volume, and the 1525 appearance in Lenker's postil history."
+  },
+  {
+   "title": "Paul's Praise of Christian Love (Epistle for the Sunday before Lent)",
+   "type": "sermon",
+   "date_text": "1525",
+   "date_iso": "1525",
+   "place": "",
+   "occasion": "Model sermon on the epistle for the Sunday before Lent in Luther's Church Postil (winter part)",
+   "scripture": "1 Corinthians 13",
+   "published_in": "Church Postil, winter part, 1525 (German text in Walch ed. vol. 12, Erlangen ed. vol. 8); English: J. N. Lenker, Luther's Epistle Sermons, vol. 2 (Minneapolis, 1909)",
+   "summary": "Luther reads the chapter as Paul's effort to humble haughty Christians, especially teachers and preachers, who use their gifts for their own honour instead of serving others. He goes through love's traits one by one: it is kind, does not envy, puts the best construction on everything, and bears and endures all things. He rejects the sophists' claim that faith must be garnished with love before it can justify. He reads 'the greatest of these is love' as referring to love's lasting forever, and holds that faith is still higher and more precious than love.",
+   "context": "The sermon is part of the Church Postil's model sermons on the epistle lessons. Lenker's history says the winter-part sermons from Epiphany to Easter appeared in 1525. Lenker's preface thanks Pastor C. B. Gohdes for checking the translation against the German from the Third Sunday before Lent onward, a range that includes this sermon.",
+   "key_line": "No one takes thought how he may in Christian love serve his fellow-men to their profit.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "pride-humility"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/28464",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Epistle Sermons vol. 2 (1909), Project Gutenberg text",
+     "url": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt"
+    },
+    {
+     "label": "Lenker, 'The History of Luther's Church Postil' (Gospels vol. 2, 1906)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "Per Lenker's history, the year 1525 applies to the Epiphany-to-Easter sermons as a group; it was not confirmed for this sermon on its own. This is a written model sermon with no documented preaching date or place.",
+   "verification_status": "corrected",
+   "verification_note": "The text and the verbatim key line were confirmed in Lenker's 1909 volume; the Gohdes note was corrected (his checking began at the Third Sunday before Lent, not at this Sunday), and the summary now uses the sermon's own 'garnished with love' wording and its ranking of faith."
+  },
+  {
+   "title": "Sermon on the Cross and Suffering",
+   "type": "sermon",
+   "date_text": "16 April 1530 (Holy Saturday)",
+   "date_iso": "1530-04-16",
+   "place": "Coburg",
+   "occasion": "Preached at Coburg during the Passion season ('the Passion is preached at this time') while Luther travelled with Elector John's party toward the Diet of Augsburg",
+   "scripture": "",
+   "published_in": "Printings of 1530 and 1531; reprinted at Magdeburg in 1725; Weimar ed. 32 (no. 6); Erlangen ed. 17:323; St. Louis (Walch) ed. vol. 12; modern English translation in Luther's Works (in copyright)",
+   "summary": "Luther answers 'sects' who claimed the evangelicals taught only faith and neglected good works and the cross. He says Christ's suffering both redeems believers and serves as their example. Every Christian must bear a real, painful cross that he has not chosen for himself, and bear it patiently. The Christian's comfort is God's promise not to lay on more than can be borne and to turn the cross to good. Luther illustrates this with the painted legend of St. Christopher carrying the Christ child through the water, which he treats as a picture of the Christian life rather than as history. Suffering also comes because the devil attacks the Word.",
+   "context": "The Weimar Edition (vol. 32) lists this sermon as the one Luther preached at Coburg on Holy Saturday, 16 April 1530. According to German Wikipedia (citing Brecht), Luther was moved up to the Veste Coburg only on the night of 23–24 April. The Weimar editors note that, instead of expounding the day's lesson, Luther took up the cross because his followers were accused of teaching nothing but faith. They attribute the surviving German texts of the Coburg sermons to a working-up by Veit Dietrich. They also judge it very probable that Dietrich passed this sermon's manuscript to a Nuremberg printer, which would explain a printing in 1530. The St. Louis editors report printings in 1530 and 1531, and a 1725 Magdeburg reprint that presented it as a consoling treatise on the sufferings of Christians.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "christ-cross",
+    "providence"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Weimar Edition vol. 32 (1906), introduction and table of the 1530 sermons (Internet Archive text)",
+     "url": "https://archive.org/download/werkekritischege32luthuoft/werkekritischege32luthuoft_djvu.txt"
+    },
+    {
+     "label": "St. Louis edition vol. 12, 'Sermon of the cross and suffering' with editors' note (DeepL English rendering, Internet Archive)",
+     "url": "https://archive.org/download/st-l-12-en-us/StL12%20DeepL%20en-US_djvu.txt"
+    },
+    {
+     "label": "Wikipedia (German): Martin Luther (Coburg, April–October 1530)",
+     "url": "https://de.wikipedia.org/wiki/Martin_Luther"
+    },
+    {
+     "label": "Wikipedia (German): Morizkirche (Coburg)",
+     "url": "https://de.wikipedia.org/wiki/Morizkirche_(Coburg)"
+    }
+   ],
+   "unverified_notes": "A contemporary sermon register reproduced in WA 32 heads this sermon 'die parasceue coburgi' (Good Friday, 15 April), while the Weimar editors' table and introduction place it on Holy Saturday, 16 April; the editors' date is used here. The fetched sources do not name the church. The Morizkirche article says only that Luther preached seven times in that church in Easter week 1530. The Weimar text was read from OCR of Fraktur type. No public-domain English translation was found, and the summary is based on a DeepL rendering of the St. Louis edition's German text.",
+   "verification_status": "corrected",
+   "verification_note": "The date (Holy Saturday, 16 April 1530) and the place (Coburg) were added from the Weimar Edition vol. 32, and the 1530/1531 printings were confirmed in the St. Louis edition; the published_in and context fields were corrected to match."
+  },
+  {
+   "title": "A Sermon on Keeping Children in School",
+   "type": "sermon",
+   "date_text": "July 1530",
+   "date_iso": "1530-07",
+   "place": "Veste Coburg (written, not preached)",
+   "occasion": "Written as a sermon for preachers to use in urging parents to keep their children in school; dedicated to Lazarus Spengler, syndic of Nuremberg",
+   "scripture": "",
+   "published_in": "Wittenberg: Nickel Schirlentz, 1530 (quarto); Weimar ed. 30 II; St. Louis (Walch) ed. vol. 10; modern English translation in Luther's Works (in copyright)",
+   "summary": "Luther addresses parents who took their children out of school for trade and income. First he argues that the church needs educated boys to become preachers, whose office brings eternal life and also supports temporal peace and order. Second, he argues that worldly government, which works through reason and law, needs trained jurists, scribes, physicians and officials. Parents who could educate a capable child but keep him back for gain are, he says, failing God and the world. He holds that the authorities are obliged to make their subjects keep children in school.",
+   "context": "The Weimar editors (vol. 30 II) trace the plan to Luther's April 1529 preface to Justus Menius's Oeconomia Christiana, where he promised a booklet against parents who neglect their children's schooling. They say it is not a sermon in the strict sense but a working-up of thoughts Luther had preached more than once in Wittenberg. He carried out the plan during his stay at the Veste Coburg: on 5 July 1530 he wrote to Melanchthon that he was meditating an exhortation for schools. By about mid-July he had sent the manuscript to Nickel Schirlentz's press in Wittenberg. On 24 August he sent copies to Melanchthon at Augsburg and to Lazarus Spengler in Nuremberg, the dedicatee. The editors add that Veit Dietrich had arranged the dedication. In the dedication Luther says that his sermon for preachers grew under his hands almost into a book.",
+   "key_line": "",
+   "primary_category": "money-work",
+   "categories": [
+    "money-work",
+    "reason-truth",
+    "justice-society"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Weimar Edition vol. 30 II (1909), introduction to 'Eine Predigt, daß man Kinder zur Schulen halten solle' (Internet Archive text)",
+     "url": "https://archive.org/download/p2werkekritischege30luth/p2werkekritischege30luth_djvu.txt"
+    },
+    {
+     "label": "St. Louis edition vol. 10, 'Sermon that you should keep the children to school', July 1530, with Walch's foreword (DeepL English rendering, Internet Archive)",
+     "url": "https://archive.org/download/st-l-10-deep-l-en/StL10%20DeepL%20en-US_djvu.txt"
+    },
+    {
+     "label": "Wikipedia (German): Martin Luther (Veste Coburg, April–October 1530)",
+     "url": "https://de.wikipedia.org/wiki/Martin_Luther"
+    }
+   ],
+   "unverified_notes": "'July 1530' is the St. Louis edition's date heading and agrees with the Weimar editors' account that the work was finished around mid-July. In the St. Louis text the preface to pastors is dated 'Wittenberg, 1530', although the Weimar editors place the writing at the Coburg. The Weimar text was read from OCR of Fraktur type. No public-domain English translation was found, and the summary is based on a DeepL rendering of the St. Louis edition's German text.",
+   "verification_status": "corrected",
+   "verification_note": "The Coburg composition, the July 1530 date and the Spengler dedication were confirmed in the Weimar Edition vol. 30 II and the St. Louis edition vol. 10; the first printing was corrected from Nuremberg to Wittenberg (Schirlentz), and the context was rewritten because the researcher's Coburg/Aurifaber citation came from Walch's note on a different 1530 work."
+  },
+  {
+   "title": "Commentary on the Sermon on the Mount (sermons on Matthew 5–7)",
+   "type": "sermon-series",
+   "date_text": "From 9 November 1530",
+   "date_iso": "1530-11-09",
+   "place": "Wittenberg (in Johannes Bugenhagen's absence)",
+   "occasion": "Regular weekday preaching during Johannes Bugenhagen's absence from Wittenberg",
+   "scripture": "Matthew 5–7",
+   "published_in": "Wittenberg: Joseph Klug, 1532 (Weimar ed. 32); English: Charles A. Hay, Commentary on the Sermon on the Mount (Philadelphia: Lutheran Publication Society, 1892)",
+   "summary": "In his preface Luther argues that Christ's teaching in Matthew 5 gives commands binding on every Christian, not optional 'evangelical counsels' for those seeking perfection. Throughout the series he distinguishes what applies to each person from what belongs to those in office. As an individual, a Christian must not hate, curse or take revenge, but must love, bless and do good to enemies. Those who hold an office, whether preachers or rulers, must still rebuke and punish. On loving enemies, Luther says he wishes no one personal harm and would help his worst enemies in their persons, but will offer no friendship where God's word is at stake.",
+   "context": "Hay's preface quotes the Erlangen editor Irmischer: while Bugenhagen was absent, Luther preached regularly on Matthew 5–7 from 9 November 1530. The sermons were printed at Wittenberg by Joseph Klug in 1532, at Marburg in 1533 and again at Wittenberg in 1539, and were translated into Latin by Vincent Obsopoeus in 1533. The Weimar editors (vol. 32) confirm that Luther began weekday sermons on Matthew and John in early November 1530 after Bugenhagen's departure, and say the notes taken of these weekday sermons are lost. Irmischer's edition recast the sermons as a running commentary, and that is the form Hay translated.",
+   "key_line": "That means a good tongue against other evil tongues, so that both heart and mouth show nothing but love.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "holiness",
+    "love"
+   ],
+   "read_url": "https://archive.org/details/commentaryonserm00luth",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Hay, Commentary on the Sermon on the Mount (1892), translator's preface and text (Internet Archive)",
+     "url": "https://archive.org/download/commentaryonserm00luth/commentaryonserm00luth_djvu.txt"
+    },
+    {
+     "label": "Weimar Edition vol. 32 (1906), introduction on the 1530 weekday sermons (Internet Archive)",
+     "url": "https://archive.org/details/werkekritischege32luthuoft"
+    },
+    {
+     "label": "Weimar Ausgabe volume list (WA 32: Predigten 1530; Reihenpredigten über Matthäus 5–7), lutherdansk.dk",
+     "url": "http://www.lutherdansk.dk/WA/D.%20Martin%20Luthers%20Werke,%20Weimarer%20Ausgabe%20-%20WA.htm"
+    }
+   ],
+   "unverified_notes": "The fetched sources do not say when the series ended or name the church. Hay's text follows Irmischer's commentary-form version, not the sermons as delivered.",
+   "verification_status": "corrected",
+   "verification_note": "The 9 November 1530 start, the Klug 1532 printing, WA 32 and the key line were confirmed in Hay's 1892 edition and the Weimar Edition vol. 32; a German Wikipedia source that does not mention Bugenhagen was replaced, and the unsupported 'preacher of the town church' description was removed from place."
+  },
+  {
+   "title": "Exhortation to Brotherly Love (Epistle for the Second Sunday after Trinity)",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "Sermon on the epistle for the Second Sunday after Trinity in the summer part of Luther's Church Postil",
+   "scripture": "1 John 3:13–18",
+   "published_in": "Church Postil, summer part (German text in Walch ed. vol. 12, Erlangen ed. vol. 9); English: J. N. Lenker, Luther's Epistle Sermons, vol. 3 (Minneapolis, 1909)",
+   "summary": "Luther notes that the lessons for the Sundays after Pentecost take love as their general theme. He compares the world's hatred of Christians to Cain's hatred of Abel, which believers should not be surprised at, and urges them to keep loving even their enemies, as Abel would have forgiven his murderer. Following John, he says that those without brotherly love are murderers in God's sight, and he takes Christ laying down his life as the measure of love. He also rebukes kings, princes and lords who give the needy church nothing toward the poor, the ministry or the schools.",
+   "context": "The sermon is printed in the summer part of Luther's Church Postil. Lenker's history says Stephan Roth's 1527 summer postil omitted the Epistles. It also says Caspar Cruciger revised the summer part under Luther's direction, and that his 'Exposition of the Epistles and Gospels from Easter to Advent' appeared in 1544. Lenker adds that many sermons were taken down in writing while Luther preached or dictated them, and that it is very difficult to determine where Luther's wording ends and Cruciger's additions begin.",
+   "key_line": "This was Abel's way; could he have lived again, he would have kept his brotherly love for his murderer, forgiving him and even imploring God's forgiveness for him.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "love",
+    "forgiveness"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/30619",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Lenker, Luther's Epistle Sermons vol. 3 (1909), Project Gutenberg text",
+     "url": "https://www.gutenberg.org/cache/epub/30619/pg30619.txt"
+    },
+    {
+     "label": "Lenker, 'The History of Luther's Church Postil' (Gospels vol. 2, 1906)",
+     "url": "https://archive.org/download/precioussacredwr11luth/precioussacredwr11luth_djvu.txt"
+    }
+   ],
+   "unverified_notes": "Lenker's edition gives no date for this sermon. When and where it was first preached or printed could not be established from a fetched source, nor how much of the wording is Luther's own and how much Cruciger's.",
+   "verification_status": "corrected",
+   "verification_note": "The text (1 John 3:13–18), the Walch and Erlangen references, the summary points and the key line were confirmed in Lenker's 1909 volume; the context was corrected to match what Lenker's history actually says about Roth, Cruciger and the 1544 summer part."
+  },
+  {
+   "title": "The Fourth Sermon at Eisleben, on the Gospel for St. Matthias' Day (Luther's last sermon), with 'An Admonition against the Jews'",
+   "type": "sermon",
+   "date_text": "February 1546 (probably Monday 15 February)",
+   "date_iso": "1546-02",
+   "place": "St. Andreas Church (Andreaskirche), Eisleben",
+   "occasion": "The last of four sermons Luther preached in Eisleben, where he had gone to help settle disputes among the counts of Mansfeld",
+   "scripture": "Matthew 11:25–30",
+   "published_in": "Vier Predigten ... zu Eisleben vor seinem Abschied aus diesem Leben getan (Wittenberg: Hans Lufft, 1546), with Johannes Aurifaber's preface dated 20 June 1546; Weimar ed. 51; St. Louis (Walch) ed. vol. 12; modern English translation in Luther's Works (in copyright)",
+   "summary": "Luther expounds Jesus' praise of the Father for hiding the gospel from the 'wise and prudent' and revealing it to little children. God opposes those who make themselves his schoolmasters, among whom Luther names the pope, sectarians and heretics, so believers should hold to baptism, the sacrament and preaching as God gives them. On 'Come unto me', he says Christ makes the burdens of persecuted believers light and gives them courage. The printed text ends with 'An Admonition against the Jews', which tells the lords to drive out Jews who refuse baptism, while saying Christians should still pray for their conversion.",
+   "context": "In January 1546 Luther travelled to Eisleben to help settle inheritance and legal disputes in the family of the counts of Mansfeld. He preached his last four sermons from the pulpit of St. Andreas and died in Eisleben on 18 February 1546. The sermon breaks off with Luther saying there is much more to say on this Gospel but he is too weak. Johannes Aurifaber says he wrote the sermons down in haste as Luther spoke. He published them with Caspar Cruciger's preparation, dedicated to Counts Albrecht and Johann Georg of Mansfeld. The Weimar editors (vol. 51) weigh the older dating to Sunday 14 February against Johannes Mathesius's '15 February' and a contemporary handwritten date of 15 February in a Berlin copy of the 1546 print. They judge Monday 15 February probable but not proven. The St. Louis editors note it is unclear why Luther chose the Gospel for St. Matthias' Day (24 February).",
+   "key_line": "",
+   "primary_category": "pride-humility",
+   "categories": [
+    "pride-humility",
+    "suffering",
+    "hatred-enemies"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Weimar Edition vol. 51 (1914), introduction on the date of the last sermon and the 1546 Lufft print (Internet Archive text)",
+     "url": "https://archive.org/download/werkekritischege51luthuoft/werkekritischege51luthuoft_djvu.txt"
+    },
+    {
+     "label": "St. Louis edition vol. 12, 'Four sermons, which Luther held at Eisleben shortly before his end' with Aurifaber's preface (DeepL English rendering, Internet Archive)",
+     "url": "https://archive.org/download/st-l-12-en-us/StL12%20DeepL%20en-US_djvu.txt"
+    },
+    {
+     "label": "Wikipedia (German): St. Andreas (Eisleben)",
+     "url": "https://de.wikipedia.org/wiki/St._Andreas_(Eisleben)"
+    },
+    {
+     "label": "Wikipedia (German): Martin Luther (journey to Eisleben, January 1546)",
+     "url": "https://de.wikipedia.org/wiki/Martin_Luther"
+    },
+    {
+     "label": "Wikipedia: Martin Luther (last sermon at Eisleben)",
+     "url": "https://en.wikipedia.org/wiki/Martin_Luther"
+    }
+   ],
+   "unverified_notes": "The day is not certain. The Weimar editors call 15 February only probable. The St. Louis edition's chronological table lists the sermon under 14 February, and English Wikipedia gives 15 February, citing WA 51. The St. Louis edition prints the admonition directly after this sermon. English Wikipedia quotes historians such as Poliakov who describe the sermon as devoted to the Jews; in the St. Louis text, however, the admonition is a short appendix to an exposition of Matthew 11. The summary is based on a DeepL rendering of the St. Louis German text, and the Weimar text was read from OCR of Fraktur type.",
+   "verification_status": "corrected",
+   "verification_note": "The date was narrowed to 'probably 15 February 1546' from the Weimar Edition vol. 51, and the first printing (Wittenberg: Hans Lufft, 1546) was added; the venue, Aurifaber's 20 June 1546 preface, the Matthew 11:25–30 text and the appended admonition were confirmed via German Wikipedia and the St. Louis edition."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Preacher bio: reworded the 1514 sentence; German Wikipedia says Luther was given the town-church preaching duty and that his first securely dated sermons are from 1514, not that he took the duty in 1514.",
+  "Preacher corpus_note: attributed the 'two thousand sermons' quote to the publisher's description as listed by Logos (not 'Fortress Press'), added Lenker's spellings Rodt/Creuziger, and added Veit Dietrich's versions of the Coburg sermons as an example (Weimar Edition vol. 32).",
+  "Preacher archive_links: relabeled the Internet Archive link, which points only to Lenker's Gospels vol. 1 (series vol. 10), not vols. 10–14.",
+  "Preacher sources: added the Weimar Edition vol. 32 (Internet Archive).",
+  "Blessed Sacrament treatise: changed primary category from friendship to church-unity (friendship kept as secondary).",
+  "Christmas Day sermon: context corrected; the dedication is of the Advent-to-Epiphany postil, to 'Lord Albrecht' of Mansfeld (Lenker's text says 'Duke'), not 'the winter part to Count Albrecht'.",
+  "Christmas Day sermon: summary adjusted to what the text says about spending on churches (gold, bells, vestments, candles).",
+  "Invocavit Sermons: removed the unverified page range 'pp. 387–425' from published_in.",
+  "Invocavit Sermons: removed the unverified claim about a Project Wittenberg/ctsfw PDF dating the first sermon 10 March; added the German Wikipedia Martin Luther article as an independent source for 9 March 1522.",
+  "Invocavit Sermons: summary changed from 'love is what Wittenberg has lacked' to Luther's actual statement that he sees no signs of love among them, and from 'private Mass' to 'the Mass'.",
+  "Christian Revenge: summary corrected; Luther reads the 'coals of fire' as favours that make the enemy displeased with himself and better disposed, not kindness that brings him to repent. Also added the points about yielding only where faith is not at stake and pitying enemies.",
+  "Paul's Praise of Christian Love: context corrected; Gohdes checked the translation from the Third Sunday before Lent onward, not from this Sunday's section.",
+  "Paul's Praise of Christian Love: summary reworded to the sermon's 'garnished with love' and to its statement that faith remains higher than love.",
+  "Sermon on the Cross and Suffering: date changed from '1530' to 16 April 1530 (Holy Saturday) and place set to Coburg, per the Weimar Edition vol. 32 table and introduction.",
+  "Sermon on the Cross and Suffering: published_in now includes WA 32 (no. 6) and Erlangen 17:323; context rewritten from WA 32 (departure from the day's lesson, Veit Dietrich's working-up, the probable Nuremberg printing of 1530).",
+  "Sermon on the Cross and Suffering: added WA 32 as a source; summary now says Luther treats the St. Christopher legend as an allegory.",
+  "Sermon on Keeping Children in School: published_in corrected from 'Nuremberg, 1530' to 'Wittenberg: Nickel Schirlentz, 1530'; Walch's foreword and WA 30 II both give a Wittenberg first printing.",
+  "Sermon on Keeping Children in School: removed the claim that the St. Louis editors cite Aurifaber's list to place it at Coburg. That passage in Walch's foreword concerns a different 1530 writing (the admonition concerning the Sacrament).",
+  "Sermon on Keeping Children in School: context rewritten from WA 30 II (the 1529 plan, the letter of 5 July 1530 to Melanchthon, the manuscript sent to Schirlentz about mid-July, copies sent on 24 August, Veit Dietrich arranging the dedication). Place 'Veste Coburg' is now confirmed rather than 'probably'.",
+  "Commentary on the Sermon on the Mount: replaced the German Wikipedia source (its text does not mention Bugenhagen) with WA 32; place changed to 'Wittenberg (in Johannes Bugenhagen's absence)'.",
+  "Commentary on the Sermon on the Mount: context now names the Latin translator (Obsopoeus) and adds WA 32's statement that the weekday sermons began in early November 1530 and that the notes taken of them are lost.",
+  "Exhortation to Brotherly Love: context corrected to match Lenker's history (Roth's 1527 summer postil omitted the Epistles; Cruciger's Easter-to-Advent edition appeared in 1544; 'many' sermons were taken down while Luther preached or dictated), in place of 'often from notes'.",
+  "Last Eisleben sermon: date_text changed to 'February 1546 (probably Monday 15 February)' based on WA 51's weighing of Mathesius and a contemporary handwritten note; unverified notes now record the St. Louis table's 14 February.",
+  "Last Eisleben sermon: published_in now names the first printing, Vier Predigten (Wittenberg: Hans Lufft, 1546); context adds that the sermon breaks off with Luther saying he is too weak, and names the dedicatees, Counts Albrecht and Johann Georg.",
+  "Last Eisleben sermon: added WA 51 as a source; removed the unverified note citing the English Wikipedia article 'Martin Luther and antisemitism'."
+ ]
+}

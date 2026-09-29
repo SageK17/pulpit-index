@@ -1,0 +1,74 @@
+{
+ "rows": [
+  {
+   "id": "muller-love-one-another",
+   "listen_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Chapters1Through8Of34-ReadBy/JehovahMagnified-Chapter6.mp3",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 6",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive item 'Jehovah Magnified - Chapters 1 through 8 of 34 - read by Peter-John Parisis' (marked Public Domain, uploaded 2009) has a playable track 'Jehovah Magnified - Chapter 6'. In the book's 34-item table of contents, the sixth item is 'Love One Another' ('Notes of Two Addresses delivered at a Conference of Christians at Clifton, October, 1863'), and the track lengths match the page lengths of each address."
+  },
+  {
+   "id": "muller-on-the-late-mr-henry-craik",
+   "listen_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Chapters1Through8Of34-ReadBy/JehovahMagnified-Chapter3.mp3",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 3",
+   "kind": "public-domain-reading",
+   "evidence": "The same Public Domain Internet Archive item has a playable track 'Jehovah Magnified - Chapter 3' (about 13 minutes). The third item in the book's contents is 'On the late Mr. Henry Craik' (pp. 10-20, signed 21 Paul Street, Kingsdown, April 21st), and that length fits its roughly 10 pages at the reader's pace."
+  },
+  {
+   "id": "muller-mrs-muller-s-funeral-sermon-thou-art-good-and-doest-good",
+   "listen_url": "https://redcircle.com/shows/revived-thoughts6762/ep/609ee4fc-1d79-4db2-81e8-f5b27335694f",
+   "listen_label": "Revived Thoughts podcast reading (read by Leigh; wording modernised)",
+   "kind": "authorised-reading",
+   "evidence": "The RedCircle episode page 'George Mueller: The Sermon He Preached For Mrs. Mueller's Funeral' (Revived Thoughts, 18 Jun 2026, 1h14m) has a working player, credits Leigh with reading the sermon, and the show notes say each sermon's language has been updated."
+  },
+  {
+   "id": "muller-paul-s-letter-to-philemon",
+   "listen_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Chapters17Through24Of34-ReadBy/JehovahMagnified-Chapter24.mp3",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 24",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive item 'Jehovah Magnified - Chapters 17 through 24 of 34 - read by Peter-John Parisis' (Public Domain) has a playable track 'Jehovah Magnified - Chapter 24'. The 24th item in the book's contents is 'Paul's Letter to Philemon' (p. 181, 'Notes of an Exposition of this Epistle to Philemon'), and the track's length fits those pages."
+  },
+  {
+   "id": "muller-account-of-a-preaching-tour",
+   "listen_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Chapters25Through34Of34-ReadBy/JehovahMagnified-Ch32.mp3",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 32",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive item 'Jehovah Magnified - Chapters 25 through 34 of 34 - read by Peter-John Parisis' (Public Domain, with a player) lists 'Jehovah Magnified - Ch 32' (about 14 minutes). The 32nd contents item is 'Account of a Preaching Tour' (pp. 278-288), and that length fits its 10 pages."
+  },
+  {
+   "id": "muller-the-forgiving-god",
+   "listen_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Chapters25Through34Of34-ReadBy/JehovahMagnified-Ch34.mp3",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis), Jehovah Magnified ch. 34",
+   "kind": "public-domain-reading",
+   "evidence": "The same Public Domain item's player lists 'Jehovah Magnified - Ch 34' (about 30 minutes), and 'The Forgiving God' is the 34th and last item in the book's contents."
+  },
+  {
+   "id": "muller-the-lord-s-prayer",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free, legitimate human reading of this 1897 sermon was found. georgemuller.org and SermonIndex have it as text only, LibriVox and Internet Archive have no reading of Sermons and Addresses, Revived Thoughts has no episode on it, and SermonAudio could not be checked because of a bot check (its newer Müller audio is voice-cloned)."
+  },
+  {
+   "id": "muller-behold-what-manner-of-love",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free, legitimate audio of this sermon was found. georgemuller.org only has a PDF, and LibriVox, Internet Archive and Revived Thoughts have no reading of it."
+  },
+  {
+   "id": "muller-trust-in-the-lord",
+   "listen_url": "https://redcircle.com/shows/revived-thoughts6762/ep/c968ed3b-07de-447b-8317-09989ed8de3b",
+   "listen_label": "Revived Thoughts podcast reading (read by Jarret Garber; wording modernised)",
+   "kind": "authorised-reading",
+   "evidence": "The RedCircle episode page 'George Mueller: Trust in the Lord' (Revived Thoughts, 16 Mar 2023, 48m) has a 'Play Episode' player and credits Jarret Garber, a minister at Houston's First Baptist Church, with reading the sermon. The title matches this Sermons and Addresses (1898) sermon, but the audio itself was not checked."
+  },
+  {
+   "id": "muller-the-resurrection-of-the-body",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free, legitimate audio of this last Bethesda sermon was found. georgemuller.org only has the transcript and a PDF with no player, and LibriVox, Internet Archive and Revived Thoughts have no reading of it."
+  }
+ ]
+}

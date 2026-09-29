@@ -1,0 +1,737 @@
+{
+ "preacher": {
+  "id": "bonhoeffer",
+  "name": "Dietrich Bonhoeffer",
+  "lifespan": "1906–1945",
+  "tradition": "German Lutheran; Confessing Church",
+  "role": "Lutheran pastor, theologian, Confessing Church seminary director",
+  "bio": "Dietrich Bonhoeffer (4 February 1906 – 9 April 1945), born in Breslau, was a German Lutheran pastor and theologian. He served as a pastoral assistant (Vikar) to the German-speaking congregation in Barcelona in 1928–29, spent 1930–31 at Union Theological Seminary in New York, and was ordained in November 1931 while lecturing at the University of Berlin and serving as student chaplain at the Technical College. After Hitler came to power he opposed the pro-Nazi 'German Christians'. He then served as pastor of two German-speaking congregations in London (October 1933 – April 1935) and directed the Confessing Church's illegal preachers' seminary at Finkenwalde until the Gestapo closed it in September 1937, after which he continued clandestine training of ordinands in Pomerania. He joined the German military intelligence service, within which his brother-in-law Hans von Dohnanyi belonged to a group secretly planning against Hitler. He was arrested on 5 April 1943, held in Tegel military prison, and hanged at Flossenbürg concentration camp on 9 April 1945. His prison letters were published after his death as Widerstand und Ergebung (1951; English: Letters and Papers from Prison).",
+  "corpus_note": "Victoria J. Barnett, general editor of the English Dietrich Bonhoeffer Works, counts seventy-one complete sermons or homilies in the collected works, or more if Bible studies and the circular letters to his students are included. The critical German texts are in the Dietrich Bonhoeffer Werke (16 volumes plus an index volume; the sermons appear in the chronological volumes, e.g. vols. 10–15), and the English texts are in the 17-volume Dietrich Bonhoeffer Works (Fortress Press, 1996–2014). Isabel Best's Collected Sermons (2012) selects 31 of them, and Barnett's second volume (2017) adds 28 further sermons and meditations.",
+  "archive_links": [
+   {
+    "label": "Dietrich Bonhoeffer Works, English edition (DBWE), 17 vols. – International Bonhoeffer Society",
+    "url": "https://bonhoeffersociety.org/about/bonhoeffer/dietrich-bonhoeffer-works-in-english-dbwe/"
+   },
+   {
+    "label": "Dietrich Bonhoeffer Werke (German critical edition): volume pages with tables of contents – Dietrich Bonhoeffer Portal",
+    "url": "https://www.dietrich-bonhoeffer.net/werkausgabe/"
+   },
+   {
+    "label": "The Collected Sermons of Dietrich Bonhoeffer, ed. Isabel Best (Fortress Press), with free sample chapter",
+    "url": "https://www.fortresspress.com/store/product/9780800699048/The-Collected-Sermons-of-Dietrich-Bonhoeffer"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Isabel Best, Editor's Introduction, The Collected Sermons of Dietrich Bonhoeffer (Fortress Press sample PDF)",
+    "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+   },
+   {
+    "label": "Victoria J. Barnett, Foreword, The Collected Sermons of Dietrich Bonhoeffer (Fortress Press sample PDF)",
+    "url": "https://ms.fortresspress.com/downloads/9780800699048Foreword.pdf"
+   },
+   {
+    "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Dietrich Bonhoeffer",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+   },
+   {
+    "label": "Dietrich Bonhoeffer Portal (Internationale Bonhoeffer-Gesellschaft): Leben (biography)",
+    "url": "https://www.dietrich-bonhoeffer.net/leben/"
+   },
+   {
+    "label": "Kyle Jantzen, review of Collected Sermons vol. 2, Contemporary Church History Quarterly 24/3 (2018)",
+    "url": "https://contemporarychurchhistory.org/2018/09/review-of-victoria-j-barnett-ed-the-collected-sermons-of-dietrich-bonhoeffer-volume-2/"
+   },
+   {
+    "label": "Wikipedia (English): Dietrich Bonhoeffer",
+    "url": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer"
+   },
+   {
+    "label": "Wikipedia (German): Dietrich Bonhoeffer",
+    "url": "https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "God Is with Us",
+   "type": "sermon",
+   "date_text": "15 April 1928",
+   "date_iso": "1928-04-15",
+   "place": "German-speaking Lutheran congregation, Barcelona, Spain",
+   "occasion": "Quasimodogeniti (first Sunday after Easter); preached as pastoral assistant (Vikar)",
+   "scripture": "Matthew 28:20",
+   "published_in": "DBW 10, pp. 467–473 (German); English in DBWE 10 and The Collected Sermons of Dietrich Bonhoeffer, ed. Isabel Best (Fortress, 2012), pp. 1–6",
+   "summary": "The sermon begins with old legends and the Eden story, where God walks among people. It argues that the Easter promise 'I am with you always' means God is near now, not only in a lost past. Christ is present in his word, which tells people at every stage of life both that God loves them and that God is holy and asks them to be holy. That nearness also brings judgment and responsibility, but grace comes with the judgment. Christ also meets people in every neighbour, such as the stranger, the beggar and the sick, so that human community becomes one of the ways God is revealed.",
+   "context": "Bonhoeffer, then 22, preached this while serving as pastoral assistant to a German-speaking congregation in Barcelona as part of his training for ordination. Editor Isabel Best notes that he found preparing and delivering his first sermons challenging. It opens Best's 2012 selection, and the publisher offers it as a free sample chapter.",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "love",
+    "judgment"
+   ],
+   "read_url": "https://ms.fortresspress.com/downloads/9780800699048Chapter1.pdf",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Fortress Press sample chapter: 'God Is with Us' with Isabel Best's introduction",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Chapter1.pdf"
+    },
+    {
+     "label": "DBW 10 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-10_barcelona-berlin-amerika_inhaltsverzeichnis.pdf"
+    }
+   ],
+   "unverified_notes": "The sources give only 'Barcelona'. They do not name the church building.",
+   "verification_status": "verified",
+   "verification_note": "Date, occasion, text and DBW 10 pages (467–473) confirmed from the DBW 10 table of contents; English pages, context and summary confirmed against the full text of Fortress Press's sample chapter."
+  },
+  {
+   "title": "Staying Grounded in Turbulent Times (Sermon on 2 Chronicles 20:12)",
+   "type": "sermon",
+   "date_text": "8 May 1932 (date marked uncertain by the German editors)",
+   "date_iso": "1932-05-08",
+   "place": "Berlin",
+   "occasion": "Exaudi Sunday",
+   "scripture": "2 Chronicles 20:12",
+   "published_in": "DBW 11, pp. 416–422 (German); English in DBWE 11 and The Collected Sermons of Dietrich Bonhoeffer, vol. 2, ed. Victoria J. Barnett (Fortress, 2017)",
+   "summary": "The sermon takes up King Jehoshaphat's prayer, 'We do not know what to do, but our eyes are on you'. It applies the prayer to hearers caught in the instability and competing worldviews of 1932 and directs them to look to God. According to a published review, like much of Bonhoeffer's preaching it points to God's mercy expressed in Christ's death on the cross.",
+   "context": "Preached in Berlin in the last year of the Weimar Republic, when Bonhoeffer was a university lecturer and student chaplain at the Technical College in Berlin (Isabel Best). The critical German edition (DBW 11) dates it to Exaudi Sunday, 8 May 1932, but marks the date with a question mark.",
+   "key_line": "",
+   "primary_category": "faith-doubt",
+   "categories": [
+    "faith-doubt",
+    "prayer",
+    "providence"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Kyle Jantzen, review of Collected Sermons vol. 2, Contemporary Church History Quarterly 24/3 (2018)",
+     "url": "https://contemporarychurchhistory.org/2018/09/review-of-victoria-j-barnett-ed-the-collected-sermons-of-dietrich-bonhoeffer-volume-2/"
+    },
+    {
+     "label": "DBW 11 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-11_oekumene-universitaet-pfarramt_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Isabel Best, Editor's Introduction (Fortress sample PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+    }
+   ],
+   "unverified_notes": "Some popular accounts say it was preached at the Kaiser Wilhelm Memorial Church; DBW 11 gives only 'Berlin' and this was not confirmed. The date carries a question mark in DBW 11. The summary relies on a published review; the full text was not read.",
+   "verification_status": "corrected",
+   "verification_note": "Date (with DBW's question mark), Exaudi, text and DBW 11 pages 416–422 confirmed from the DBW 11 table of contents and the title from Jantzen's review; the summary's claim that the sermon 'ends' on God's mercy was softened to match the review."
+  },
+  {
+   "title": "The Things That Are Above (Sermon on Colossians 3:1–4)",
+   "type": "sermon",
+   "date_text": "19 June 1932",
+   "date_iso": "1932-06-19",
+   "place": "Kaiser Wilhelm Memorial Church, Berlin",
+   "occasion": "Fourth Sunday after Trinity",
+   "scripture": "Colossians 3:1–4",
+   "published_in": "DBW 11, pp. 444–453 (German); English in DBWE 11 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 49–58",
+   "summary": "Bonhoeffer asks whether Christians have the courage to show that their faith is not an opiate that leaves them content in the face of injustice. He criticises a church that trails decades behind the movements of history. He warns that the church may again be asked for martyrs' blood. Such blood, he says, would not be innocent like that of the first witnesses; it would carry the church's own guilt, the guilt of the unprofitable servant.",
+   "context": "This is the second of two sermons on the same text, preached a week apart (12 and 19 June 1932, per DBW 11). German Wikipedia, citing DBW 11, p. 446, and the German theologian Jochen Teuffel both place this one in the Kaiser Wilhelm Memorial Church.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "justice-society",
+    "sin-repentance"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffer über ein mögliches Märtyrertum in seiner Predigt zu Kolosser 3,1-4 (1932)' (German excerpt)",
+     "url": "https://jochenteuffel.com/2025/04/06/dietrich-bonhoeffer-uber-ein-mogliches-martyrertum-in-seiner-predigt-zu-kolosser-31-4-1932/"
+    },
+    {
+     "label": "Wikipedia (German): Dietrich Bonhoeffer (footnote: DBW 11, p. 446, Kaiser-Wilhelm-Gedächtniskirche, 19 June 1932)",
+     "url": "https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer"
+    },
+    {
+     "label": "DBW 11 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-11_oekumene-universitaet-pfarramt_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    }
+   ],
+   "unverified_notes": "Only an excerpt of the German text was read. The English title 'The Things That Are Above' was matched to this date by the chronological order of Best's table of contents, where the other Colossians 3:1–4 sermon appears first as 'Risen with Christ'. The venue rests on German Wikipedia's citation of DBW 11 and Teuffel's heading; the DBW 11 table of contents gives only 'Berlin'.",
+   "verification_status": "corrected",
+   "verification_note": "Date, occasion and DBW 11 pages 444–453 confirmed from the DBW 11 table of contents and venue from Teuffel and German Wikipedia; removed the unsupported claim that English Wikipedia cites Bethge quoting the martyrdom passage (it does not)."
+  },
+  {
+   "title": "… In the Eleventh Hour of Our Church (Sermon on Revelation 2:4–5, 7)",
+   "type": "sermon",
+   "date_text": "6 November 1932",
+   "date_iso": "1932-11-06",
+   "place": "Berlin",
+   "occasion": "Reformation Sunday (Reformationsfest)",
+   "scripture": "Revelation 2:4–5, 7",
+   "published_in": "DBW 12, pp. 423–430 (German); English in DBWE 12 and The Collected Sermons of Dietrich Bonhoeffer, vol. 2 (2017)",
+   "summary": "The sermon keeps repeating the charge in Revelation 2 that the church has abandoned the love it had at first. It contrasts triumphant Reformation celebrations, and the confident quoting of Luther's 'Here I stand', with the real state of German Protestantism, which it describes as losing its way. Bonhoeffer calls for letting Luther's memory rest so that the gospel can be heard again. He names the church's lack of prayer, love, grace and devotion, and ends by calling hearers to go and do the works they did at first.",
+   "context": "Reviewer Kyle Jantzen calls it the most forceful of the few sermons in the second Collected Sermons volume that refer directly to church and state politics, and places it just after the November 1932 Reichstag election; DBW 12's date, 6 November 1932, is the day that election was held. It was preached less than three months before Hitler was appointed chancellor on 30 January 1933.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "sin-repentance",
+    "love"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Kyle Jantzen, review of Collected Sermons vol. 2, Contemporary Church History Quarterly (2018)",
+     "url": "https://contemporarychurchhistory.org/2018/09/review-of-victoria-j-barnett-ed-the-collected-sermons-of-dietrich-bonhoeffer-volume-2/"
+    },
+    {
+     "label": "DBW 12 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-12_berlin_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Wikipedia (English): November 1932 German federal election (held 6 November 1932)",
+     "url": "https://en.wikipedia.org/wiki/November_1932_German_federal_election"
+    },
+    {
+     "label": "Isabel Best, Editor's Introduction (Hitler appointed 30 January 1933)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+    }
+   ],
+   "unverified_notes": "Sources disagree on the venue. Jantzen says Trinity Church, Berlin, while popular accounts say the Kaiser Wilhelm Memorial Church. DBW 12 gives only 'Berlin'. One popular account gives the text as Ephesians 2; DBW 12 confirms Revelation 2:4–5, 7. The summary relies on the quotations in Jantzen's review, not the full text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, occasion, text and DBW 12 pages 423–430 confirmed from the DBW 12 table of contents; Jantzen's wording corrected from 'most outspoken' to 'most forceful', and the context now notes that 6 November 1932 was the election day itself."
+  },
+  {
+   "title": "Overcoming Fear",
+   "type": "sermon",
+   "date_text": "15 January 1933",
+   "date_iso": "1933-01-15",
+   "place": "Trinity Church (Dreifaltigkeitskirche), Berlin",
+   "occasion": "Evening service on a Sunday after Epiphany (DBW 12 heads it '3rd Sunday after Epiphany'; Teuffel gives the 2nd)",
+   "scripture": "Matthew 8:23–27",
+   "published_in": "DBW 12, pp. 439–446 (German); English in DBWE 12 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 59–66",
+   "summary": "Using the story of the storm on the lake, Bonhoeffer describes fear as a power that hollows people out from within and cuts them off from God and from one another. He speaks of the fear of the coming hour and days that grips people in Germany and in their own lives. He separates false security, which depends on calm circumstances, from faith that rests on God alone. He tells hearers that Christ is in the boat, and that the church's particular task is to keep proclaiming that fear has been overcome.",
+   "context": "Preached in a time of economic and political crisis in Germany; Ryan Hoselton notes that unemployment had risen above six million. Hitler was appointed chancellor fifteen days later, on 30 January 1933.",
+   "key_line": "",
+   "primary_category": "fear-courage",
+   "categories": [
+    "fear-courage",
+    "faith-doubt"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Ryan Hoselton, 'Bonhoeffer's Answer to Political Turmoil: Preach!', Christianity Today (May 2016)",
+     "url": "https://www.christianitytoday.com/2016/05/dietrich-bonhoeffers-answer-to-political-turmoil-preach/"
+    },
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffers Predigt über Matthäus 8,23-27' (German text; names the evening service in the Dreifaltigkeitskirche)",
+     "url": "https://jochenteuffel.com/2020/03/19/dietrich-bonhoeffers-predigt-ueber-matthaeus-823-27-die-furcht-sitzt-dem-menschen-im-herzen-sie-hoehlt-ihn-innerlich-aus-bis-er-ploetzlich-widerstandslos-und-machtlos-zusammenbricht/"
+    },
+    {
+     "label": "Stephen Nichols, 'Bonhoeffer on Fear', 5 Minutes in Church History (Ligonier)",
+     "url": "https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols/bonhoeffer-on-fear"
+    },
+    {
+     "label": "DBW 12 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-12_berlin_inhaltsverzeichnis.pdf"
+    }
+   ],
+   "unverified_notes": "The venue and the evening service come from Teuffel (and the venue also from Nichols); DBW 12's table of contents gives only 'Berlin', and some accounts name the Kaiser Wilhelm Memorial Church. DBW 12 calls the day the 3rd Sunday after Epiphany, but by the 1933 calendar 15 January was the 2nd Sunday after 6 January, as Teuffel says; the designation is left open. The Political Theology Network reprints the English text 'taken from' the Collected Sermons; it was not linked because it could not be confirmed that the reprint is authorised.",
+   "verification_status": "corrected",
+   "verification_note": "Date, text, DBW 12 pages 439–446 and Trinity Church evening service confirmed via DBW 12, Teuffel and Nichols; occasion corrected to name the Sunday after Epiphany, and the summary's claim about fears of the 'city and nation' narrowed to what the text says."
+  },
+  {
+   "title": "Gideon: God Is My Lord",
+   "type": "sermon",
+   "date_text": "26 February 1933",
+   "date_iso": "1933-02-26",
+   "place": "Berlin",
+   "occasion": "Estomihi Sunday (the Sunday before Lent)",
+   "scripture": "Judges 6:15–16; 7:2; 8:23",
+   "published_in": "DBW 12, pp. 447–454 (German); English in DBWE 12 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 67–74",
+   "summary": "Retelling Gideon's call, Bonhoeffer stresses that God chooses a weak and doubting man and that God's promise to be with him is enough, without any other help. God's victory comes through faith, not human strength, and it humbles human pride. Gideon's refusal to become king ('the Lord will rule over you') becomes a claim that God alone is Lord, and the sermon ends by setting the cross over the world as the sign of that lordship.",
+   "context": "Preached in Berlin four weeks after Hitler was appointed chancellor. Reviewer Barry Harvey (Christian Century) calls it the first sermon Bonhoeffer preached after Hitler came to power. He also says it set Gideon, who had to renounce power, honour and pride, against Siegfried, the Nibelung hero whom Nazi propaganda idealised.",
+   "key_line": "",
+   "primary_category": "pride-humility",
+   "categories": [
+    "pride-humility",
+    "faith-doubt"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "DBW 12 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-12_berlin_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Barry Harvey, review in Christian Century, 12 Dec 2012 (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048ReviewChristianCentury_Dec2012.pdf"
+    },
+    {
+     "label": "Rod Lampard, 'Dietrich Bonhoeffer, Lent 1933' (summary based on Best's edition, pp. 67–73)",
+     "url": "https://rodlampard.com/2014/03/11/dietrich-bonhoeffer-lent-1933/"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    }
+   ],
+   "unverified_notes": "Some secondary accounts call this a Lent sermon or date it to the 'First Sunday in Lent'. DBW 12 dates it to Estomihi, the Sunday before Lent. The church is not named in the sources consulted. The summary relies on published descriptions, not the full text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, Estomihi, text and DBW 12 pages 447–454 confirmed from the DBW 12 table of contents and Harvey's claims checked in the Christian Century PDF; the summary was adjusted to what Lampard's description supports (removing the unsupported point about shrinking the army and adding the closing theme of the cross)."
+  },
+  {
+   "title": "Of Priests and Prophets in the New Germany (Sermon on Exodus 32)",
+   "type": "sermon",
+   "date_text": "28 May 1933",
+   "date_iso": "1933-05-28",
+   "place": "Berlin",
+   "occasion": "Exaudi Sunday",
+   "scripture": "Exodus 32:1–8, 15–16, 18–20, 30–35",
+   "published_in": "DBW 12, pp. 459–464 (German); English in DBWE 12 and The Collected Sermons of Dietrich Bonhoeffer, vol. 2 (2017)",
+   "summary": "Reading the golden calf story as a conflict between Aaron's 'church of the world' and Moses' church that waits on God, the sermon describes a church that wants a god it can see. That church will not wait, acts on its own initiative, and claims divine authority through its priesthood. Bonhoeffer counts his hearers as part of that idolatrous church. He declares that the cross puts an end to all idolatry, and speaks of a God who tolerates no other gods yet meets people with boundless forgiveness.",
+   "context": "Preached in spring 1933, as democracy was being dismantled, the pro-Nazi 'German Christian' movement was rising, and the church struggle was beginning (Jantzen).",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "sin-repentance",
+    "forgiveness"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Kyle Jantzen, review of Collected Sermons vol. 2, Contemporary Church History Quarterly (2018)",
+     "url": "https://contemporarychurchhistory.org/2018/09/review-of-victoria-j-barnett-ed-the-collected-sermons-of-dietrich-bonhoeffer-volume-2/"
+    },
+    {
+     "label": "DBW 12 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-12_berlin_inhaltsverzeichnis.pdf"
+    }
+   ],
+   "unverified_notes": "The venue is not given in the sources consulted. The summary relies on a published review that quotes the text.",
+   "verification_status": "verified",
+   "verification_note": "Date, Exaudi, full text range and DBW 12 pages 459–464 confirmed from the DBW 12 table of contents; title, context and summary points confirmed against the quotations in Jantzen's review."
+  },
+  {
+   "title": "Who Do You Say That I Am?",
+   "type": "sermon",
+   "date_text": "23 July 1933",
+   "date_iso": "1933-07-23",
+   "place": "Berlin",
+   "occasion": "Sunday of the national church elections (Sixth Sunday after Trinity)",
+   "scripture": "Matthew 16:13–18",
+   "published_in": "DBW 12, pp. 465–470 (German); English in DBWE 12 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 81–86",
+   "summary": "Bonhoeffer notes that Jesus speaks about his church in solitude, near pagan territory and far from the crowds and the religious authorities. He contrasts people's opinions about Jesus, on which Christ will not build, with Peter's confession, which he calls revelation rather than human opinion. The church does not rest on Peter's character; Peter is weak and wavering and denies his Lord. It rests on confessing Christ: the church is to confess and proclaim, but Christ alone builds the church.",
+   "context": "Preached on the day of the church elections called under Hitler, which the 'German Christians' won through pressure from local Nazi organisations. Bonhoeffer, his students and his friends, calling themselves the 'Young Reformation', had campaigned in vain for opposing candidates (Isabel Best's introduction).",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "christ-cross",
+    "faith-doubt"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffers Predigt zu Matthäus 16,13-18 im Juli 1933' (German text, cites DBW 12, pp. 465–470)",
+     "url": "https://jochenteuffel.com/2019/11/15/dietrich-bonhoeffers-predigt-zu-matthaus-1613-18-im-juli-1933-hart-am-abgrund-des-todestales-ist-die-kirche-gegrundet-die-kirche-die-sich-zu-christus-als-ihrem-leben-bekennt/"
+    },
+    {
+     "label": "Isabel Best, Editor's Introduction (Fortress sample PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+    },
+    {
+     "label": "DBW 12 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-12_berlin_inhaltsverzeichnis.pdf"
+    }
+   ],
+   "unverified_notes": "A blog reprint (from the English anthology No Rusty Swords) places the sermon at Trinity Church, Berlin. This was not confirmed from the critical edition, which gives only 'Berlin'.",
+   "verification_status": "corrected",
+   "verification_note": "Date, occasion (election day, 6th Sunday after Trinity) and DBW 12 pages 465–470 confirmed via DBW 12 and Teuffel's German text; the summary was corrected to drop unsupported details (Peter weeping and returning; the church 'being torn down') and match the text's wording."
+  },
+  {
+   "title": "Kirche und Völkerwelt ('The Church and the Peoples of the World')",
+   "type": "address",
+   "date_text": "28 August 1934",
+   "date_iso": "1934-08-28",
+   "place": "Fanø, Denmark",
+   "occasion": "Ecumenical conference at Fanø: introductory paper in the discussion on 'The Church and the World of Nations'",
+   "scripture": "Psalm 85:8",
+   "published_in": "DBW 13, pp. 298–304 (German text, pp. 298–301, and an English rendering, pp. 302–304); English also in DBWE 13",
+   "summary": "The address is headed by the psalm verse about God speaking peace to his people. It sets peace against the pursuit of security. It asks who can call for peace so that the world is compelled to hear, and answers that only one great ecumenical council of Christ's church from all over the world can do so, taking the weapons from its members' hands in Christ's name and forbidding them war. It asks what it might mean if a nation met an attacker praying and unarmed, and ends by pressing the urgency of the hour as the world arms itself.",
+   "context": "Bonhoeffer attended as one of three international youth secretaries of the ecumenical youth commission (DBW 13 editors). The address has often been counted among his sermons and recalled as a morning devotion. The DBW 13 editors conclude from contemporary conference reports that it was a lecture, the third of four introductory papers given on 28 August 1934, and that the remembered devotion was probably a separate one on 23 August.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "church-unity"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "DBW 13 editors' foreword (Dietrich Bonhoeffer Portal PDF)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-13_london_vorwort.pdf"
+    },
+    {
+     "label": "DBW 13 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-13_london_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Wikipedia (German): Dietrich Bonhoeffer (Fanø section, quoting DBW 13, pp. 300–301)",
+     "url": "https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer"
+    },
+    {
+     "label": "Wikipedia (German): Konziliarer Prozess (quotes the council passage)",
+     "url": "https://de.wikipedia.org/wiki/Konziliarer_Prozess"
+    }
+   ],
+   "unverified_notes": "The DBW 13 editors say Psalm 85:9 (Luther's numbering; 85:8 in English Bibles) stands at the head of the address as a motto rather than being expounded. The English title is the common rendering; the DBWE 13 title was not checked. German Wikipedia still describes it as given at the morning devotion, which the DBW editors dispute. The summary relies on passages quoted from DBW 13 in German Wikipedia, not the full text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, genre (lecture, per the DBW 13 editors) and DBW 13 pages 298–304 confirmed from the DBW 13 foreword and table of contents; the summary was corrected to remove the Sermon on the Mount grounding (which German Wikipedia sources to the separate theses paper) and the English version is no longer called 'contemporary'."
+  },
+  {
+   "title": "Sermons on 1 Corinthians 13 ('… and Have Not Love'; 'What Love Wants'; 'Must I Be Perfect?'; 'A Church That Believes, Hopes, and Loves')",
+   "type": "sermon-series",
+   "date_text": "14 October – 4 November 1934",
+   "date_iso": "1934",
+   "place": "London",
+   "occasion": "Four consecutive Sundays: 20th–22nd Sundays after Trinity and Reformation Sunday (4 November 1934)",
+   "scripture": "1 Corinthians 13:1–13",
+   "published_in": "DBW 13, pp. 378–403 (German); English in DBWE 13 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 139–166",
+   "summary": "Over four Sundays Bonhoeffer works through Paul's chapter on love. He argues that love is in the end the one thing asked of Christians, and that a human life has meaning only insofar as love is in it. He insists that the chapter describes not what a loving person achieves but who love is: Jesus Christ, seen in the cross. Salvation therefore comes to those who have been loved, not to those who love well. The last sermon, on faith, hope and love, speaks of a love that would even give up its own salvation to bring it to others.",
+   "context": "Bonhoeffer was pastor of two German-speaking congregations in London from October 1933 to April 1935. The DBW 13 editors say he preached twice each Sunday, first at the Reformed St Paul's Church in the East End and then at the united congregation in Sydenham. They add that many of his London sermon manuscripts survive because he sent them to his friend, the theologian Elisabeth Zinn.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "church-unity",
+    "christ-cross"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "DBW 13 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-13_london_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "DBW 13 editors' foreword (Dietrich Bonhoeffer Portal PDF)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-13_london_vorwort.pdf"
+    },
+    {
+     "label": "Scott Johnson, review in Logia 24/2 (Eastertide 2015) (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048_Logia_Eastertide%202015_Volume%2024%20Number%202.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    },
+    {
+     "label": "Isabel Best, Editor's Introduction (quotes the 4 November 1934 sermon)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+    }
+   ],
+   "unverified_notes": "It is not documented in the sources consulted whether each sermon in the series was preached in both congregations. The summary relies on a review's quotations and Isabel Best's introduction, not the full texts.",
+   "verification_status": "verified",
+   "verification_note": "Dates (14, 21, 28 October and 4 November 1934), occasions and DBW 13 pages 378–403 confirmed from the DBW 13 table of contents; English pages from Best's table of contents; the London context from the DBW 13 foreword; the summary from the Logia review and Best's introduction."
+  },
+  {
+   "title": "The Betrayer",
+   "type": "sermon",
+   "date_text": "14 March 1937",
+   "date_iso": "1937-03-14",
+   "place": "Confessing Church preachers' seminary, Finkenwalde (near Stettin)",
+   "occasion": "Judica Sunday (fifth Sunday in Lent)",
+   "scripture": "Matthew 26:45b–50",
+   "published_in": "DBW 14, pp. 973–979 (German); English in DBWE 14 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 185–192",
+   "summary": "The sermon dwells on the fact that Jesus was handed over not only by outside enemies but by one of the Twelve, a disciple he had chosen, loved and trusted. It explores the paradox of a kiss that expresses both close fellowship with Christ and betrayal of him. Even at the arrest Jesus calls Judas 'friend' and does not let him go. Bonhoeffer asks each disciple, and the church, to ask 'Lord, is it I?', and to take refuge in Christ's suffering for all sin, including betrayal, instead of condemning Judas.",
+   "context": "Preached at the Confessing Church's illegal seminary at Finkenwalde on the day before its fourth course ended. According to DBW 14, that course ran from 17 October 1936 to 15 March 1937, while Bonhoeffer was working on Discipleship.",
+   "key_line": "",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "sin-repentance",
+    "christ-cross"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffers Judas-Predigt von 1937' (German text)",
+     "url": "https://jochenteuffel.com/2020/04/02/von-christus-nicht-lassen-koennen-und-ihn-doch-preisgeben-judas-verraetst-du-des-menschen-sohn-mit-einem-kuss-dietrich-bonhoeffers-judas-predigt-von-1937/"
+    },
+    {
+     "label": "DBW 14 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-14_illegale-theologenausbildung-finkenwalde_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, Judica, place, text and DBW 14 pages 973–979 confirmed from the DBW 14 table of contents (which also gives the fourth course's dates); the summary checked against Teuffel's German text; English pages from Best's table of contents."
+  },
+  {
+   "title": "Predigt über einen Rachepsalm ('Sermon on a Psalm of Vengeance')",
+   "type": "sermon",
+   "date_text": "11 July 1937",
+   "date_iso": "1937-07-11",
+   "place": "Confessing Church preachers' seminary, Finkenwalde",
+   "occasion": "Sunday sermon during the seminary's fifth course (DBW 14 designates the day the 8th Sunday after Trinity)",
+   "scripture": "Psalm 58",
+   "published_in": "Gesammelte Schriften IV, pp. 413–422; critical text DBW 14, pp. 980–988; English in DBWE 14 and, earlier, in Theology Today 38/4 (January 1982), pp. 465–471 (trans. Daniel Bloesch, ed. F. Burton Nelson)",
+   "summary": "Bonhoeffer asks whether Christians may pray a psalm that calls down vengeance on the wicked. He answers that sinners cannot, because only someone without sin could pray it: Christ prays it in David, and his innocence, not ours, accuses the world. Faced with the enemies of God and the church, Christians can only pray, and those who leave vengeance to God give up their own revenge, suffer patiently and love their enemies. God's vengeance has already fallen on Christ at the cross, where he prayed for his enemies' forgiveness, so God's judgment is seen in the cross. Christians can therefore pray the psalm in gratitude, asking God to bring their enemies under the cross and show them mercy.",
+   "context": "Preached during the seminary's fifth and last course (18 April – 11 September 1937), which ended with the seminary being banned (DBW 14); the Gestapo closed Finkenwalde in September 1937 (USHMM). Introducing the 1982 English translation, F. Burton Nelson links the sermon's opening reference to 'the church's distress' to the arrests of Confessing Church pastors, including Martin Niemöller on 1 July 1937, and says it was written ten days after Niemöller's arrest.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "judgment",
+    "prayer"
+   ],
+   "read_url": "https://web.archive.org/web/20100614124326/http://theologytoday.ptsem.edu/jan1982/v38-4-article3.htm",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "'A Bonhoeffer Sermon', trans. Daniel Bloesch, ed. F. Burton Nelson, Theology Today 38/4 (January 1982) (archived journal website)",
+     "url": "https://web.archive.org/web/20100614124326/http://theologytoday.ptsem.edu/jan1982/v38-4-article3.htm"
+    },
+    {
+     "label": "DBW 14 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-14_illegale-theologenausbildung-finkenwalde_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Dietrich Bonhoeffer (Finkenwalde closed September 1937)",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    }
+   ],
+   "unverified_notes": "DBW 14 calls 11 July 1937 the 8th Sunday after Trinity, but by the 1937 calendar (Trinity Sunday 23 May) it was the 7th; the designation is left as DBW gives it. The DBWE 14 English title was not checked. Nelson's claim about the timing relative to Niemöller's arrest is his own editorial comment.",
+   "verification_status": "corrected",
+   "verification_note": "Date, place, text and DBW 14 pages 980–988 confirmed from the DBW 14 table of contents; summary rewritten from the full 1982 Theology Today translation; the unauthorised partial blog reprint was replaced as a source, and the Niemöller connection is now attributed to F. Burton Nelson."
+  },
+  {
+   "title": "Loving Our Enemies",
+   "type": "sermon",
+   "date_text": "23 January 1938",
+   "date_iso": "1938-01-23",
+   "place": "Gross-Schlönwitz, Pomerania",
+   "occasion": "Third Sunday after Epiphany; Confessing Church collective pastorate (Sammelvikariat)",
+   "scripture": "Romans 12:17–21",
+   "published_in": "DBW 15, pp. 463–469 (German); English in DBWE 15 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 193–200",
+   "summary": "Bonhoeffer tells hearers to remember that they too were God's enemies and received mercy they did not deserve. He warns that when people trust their own judgment of good and evil, they end up devouring one another. Because Christ's cross belongs to all people, God loves enemies and suffered for them. Christians must therefore not repay evil with evil, must seek peace with everyone, and must leave vengeance to God. Caring for an enemy is the 'burning coals' that can bring repentance, and evil is overcome when it finds no answering hatred to feed on.",
+   "context": "After the Gestapo closed Finkenwalde in September 1937 (USHMM), Bonhoeffer continued training ordinands in collective pastorates in Pomerania; DBW 15 places this sermon at Gross-Schlönwitz. Reviewer Thomas Baker (Commonweal) notes that it was preached in 1938 to these clandestine seminarians in East Pomerania.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "forgiveness",
+    "christ-cross"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffers Friedenspredigt zu Römer 12,17-21 von 1938' (German text, cites DBW 15)",
+     "url": "https://jochenteuffel.com/2019/04/10/dietrich-bonhoeffers-friedenspredigt-zu-romer-1217-21-von-1938-das-kreuz-ist-keines-menschen-privatbesitz-sondern-es-gehort-allen-menschen-es-gilt-allen-menschen/"
+    },
+    {
+     "label": "DBW 15 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-15_illegale-theologenausbildung-sammelvikariate_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Thomas Baker, review in Commonweal, 22 Feb 2013 (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048ReviewCommonweal.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    },
+    {
+     "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    }
+   ],
+   "unverified_notes": "DBW 15 gives the text as Romans 12:17–21, while Best's Collected Sermons lists it as Romans 12:16c–21.",
+   "verification_status": "corrected",
+   "verification_note": "Date, occasion, place, text and DBW 15 pages 463–469 confirmed from the DBW 15 table of contents and each summary point checked against Teuffel's German text; the context's reliance on English Wikipedia for the von Blumenthal estate was replaced with USHMM and DBW 15."
+  },
+  {
+   "title": "The Peace of God in Affliction (Sermon on Romans 5:1–5)",
+   "type": "sermon",
+   "date_text": "9 March 1938",
+   "date_iso": "1938-03-09",
+   "place": "Gross-Schlönwitz, Pomerania",
+   "occasion": "Printed and sent to former Finkenwalde seminarians",
+   "scripture": "Romans 5:1–5",
+   "published_in": "DBW 15, pp. 470–475 (German); English in DBWE 15 and The Collected Sermons of Dietrich Bonhoeffer, vol. 2 (2017)",
+   "summary": "Peace with God comes only through Christ's cross, where God's wrath was borne and reconciliation was made, and it requires giving up one's own will. Whether this peace is real shows in how Christians meet affliction: those who speak highly of the cross but avoid hardship have no peace with God. For those who love God, suffering produces patience, patience produces tested experience, and experience produces hope. Turning away from God's peace leads instead from affliction to impatience, hardening and despair, a reversed chain Bonhoeffer quotes from Luther.",
+   "context": "Written after the Gestapo closed the Finkenwalde seminary in September 1937 (USHMM). Reviewer Kyle Jantzen reports that it was printed and sent to the now scattered Finkenwalde seminarians to encourage them.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "christ-cross",
+    "grace-salvation"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Kyle Jantzen, review of Collected Sermons vol. 2, Contemporary Church History Quarterly (2018)",
+     "url": "https://contemporarychurchhistory.org/2018/09/review-of-victoria-j-barnett-ed-the-collected-sermons-of-dietrich-bonhoeffer-volume-2/"
+    },
+    {
+     "label": "Jochen Teuffel, 'Dietrich Bonhoeffer, Predigt über Römer 5,1-5' (German text, cites DBW 15)",
+     "url": "https://jochenteuffel.com/2019/04/11/dietrich-bonhoeffer-predigt-ueber-roemer-51-5/"
+    },
+    {
+     "label": "DBW 15 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-15_illegale-theologenausbildung-sammelvikariate_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    }
+   ],
+   "unverified_notes": "DBW 15 gives 'Gross-Schlönwitz, 9 March 1938'. The sources consulted do not say whether it was also preached aloud or only circulated in print. The Collected Sermons vol. 2 title is taken from Jantzen's review.",
+   "verification_status": "corrected",
+   "verification_note": "Date, place and DBW 15 pages 470–475 confirmed from the DBW 15 table of contents and the Luther chain confirmed in Teuffel's German text; the Wikipedia-only arrest figure was removed from the context and the third category changed from faith-doubt to grace-salvation (peace with God through justification)."
+  },
+  {
+   "title": "Death Is Swallowed Up in Victory",
+   "type": "homily",
+   "date_text": "26 November 1939",
+   "date_iso": "1939-11-26",
+   "place": "Sigurdshof, Pomerania",
+   "occasion": "Communion address on Totensonntag (Sunday of remembrance of the dead) for the remaining seminarians",
+   "scripture": "1 Corinthians 15:55",
+   "published_in": "DBW 15, pp. 488–490 (German); English in DBWE 15 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 207–210",
+   "summary": "Given at a communion service on the Sunday when the dead are remembered, the address takes up Paul's cry of triumph over death. It proclaims Christ's victory over death as something the church preaches and believes in spite of what it sees: the graves of loved ones, the dying of nature in late autumn, and the death the war was once again bringing. While the reign of death is visible, the address holds that Christ's victory over it is what the church believes.",
+   "context": "Given a few months after the Second World War began, at a communion service with Bonhoeffer's remaining seminarians (reviewer Barry Harvey). DBW 15 places it at Sigurdshof, where the collective pastorate was then based. It is the last sermon in Isabel Best's collection.",
+   "key_line": "",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "heaven-hope",
+    "christ-cross"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "DBW 15 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-15_illegale-theologenausbildung-sammelvikariate_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Barry Harvey, review in Christian Century, 12 Dec 2012 (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048ReviewChristianCentury_Dec2012.pdf"
+    },
+    {
+     "label": "Scott Johnson, review in Logia 24/2 (2015) (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048_Logia_Eastertide%202015_Volume%2024%20Number%202.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    }
+   ],
+   "unverified_notes": "The summary relies on a passage quoted in a published review; the full text was not read.",
+   "verification_status": "corrected",
+   "verification_note": "Date, Totensonntag, communion setting, Sigurdshof and DBW 15 pages 488–490 confirmed from the DBW 15 table of contents, and its place as the last sermon from Best's table of contents; the Wikipedia-only dates for the move to Sigurdshof and the March 1940 closure were removed."
+  },
+  {
+   "title": "Lazarus and the Rich Man",
+   "type": "sermon",
+   "date_text": "29 May 1932 (date marked uncertain by the German editors)",
+   "date_iso": "1932-05-29",
+   "place": "Berlin",
+   "occasion": "First Sunday after Trinity",
+   "scripture": "Luke 16:19–31",
+   "published_in": "DBW 11, pp. 426–434 (German); English in DBWE 11 and The Collected Sermons of Dietrich Bonhoeffer (2012), pp. 33–40",
+   "summary": "Bonhoeffer argues that the parable is usually reduced to a moral lesson that the rich should help the poor, and that it is in fact a much harder text. He says it confronts hearers with their disdain for the poor and wretched, and with their reluctance to accept that such people are their equals in God's eyes.",
+   "context": "Preached in Berlin in 1932, when Bonhoeffer was also teaching a confirmation class at Zion Church in working-class north Berlin (Isabel Best's introduction). DBW 11 dates it to the First Sunday after Trinity, 29 May 1932, with a question mark.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "money-work"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Thomas Baker, review in Commonweal, 22 Feb 2013 (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048ReviewCommonweal.pdf"
+    },
+    {
+     "label": "DBW 11 table of contents (Dietrich Bonhoeffer Portal)",
+     "url": "https://www.dietrich-bonhoeffer.net/fileadmin/media/werkausgabe/pdf/bonhoeffer-11_oekumene-universitaet-pfarramt_inhaltsverzeichnis.pdf"
+    },
+    {
+     "label": "Isabel Best, Editor's Introduction (Fortress sample PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Intro.pdf"
+    },
+    {
+     "label": "The Collected Sermons of Dietrich Bonhoeffer, table of contents (Fortress Press PDF)",
+     "url": "https://ms.fortresspress.com/downloads/9780800699048Toc.pdf"
+    }
+   ],
+   "unverified_notes": "The venue is not named in the sources consulted. The summary relies on a published review, not the full text.",
+   "verification_status": "verified",
+   "verification_note": "Date (with DBW's question mark), occasion and DBW 11 pages 426–434 confirmed from the DBW 11 table of contents; English pages from Best's table of contents; summary confirmed against Baker's Commonweal review and the Zion Church context against Best's introduction."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: Barcelona service changed from '1928' to '1928–29' (Best's introduction); added student chaplaincy at the Technical College; arrest dated to 5 April 1943 (Bonhoeffer Portal); London end changed from 'spring 1935' to 'April 1935' (DBW 13 editors: 16 Oct 1933 – 15 Apr 1935); the conspiracy wording now follows Best.",
+  "Profile corpus_note: 'sermons mainly in vols. 9–16' (unverified) replaced with 'e.g. vols. 10–15' and a note that DBW has 16 volumes plus an index; Barnett vol. 2 described as 28 'sermons and meditations' (per Jantzen).",
+  "Profile sources: added USHMM Holocaust Encyclopedia, the Bonhoeffer Portal biography and Jantzen's review so that Wikipedia is not the only source for dates.",
+  "Staying Grounded in Turbulent Times: summary no longer says the sermon 'ends' on God's mercy; Jantzen says only that it points to that mercy.",
+  "The Things That Are Above: deleted the claim that English Wikipedia cites Bethge quoting the martyrdom passage (not in the article); removed English Wikipedia as a source; venue now attributed to German Wikipedia (citing DBW 11) and Teuffel; added Best's table of contents as a source.",
+  "Eleventh Hour: Jantzen's description corrected from 'most outspoken' to 'most forceful'; context now notes that 6 November 1932 was the Reichstag election day itself (added election source); final summary sentence aligned with the quoted ending.",
+  "Overcoming Fear: occasion changed from 'Evening service' to an evening service on a Sunday after Epiphany (Teuffel), noting that DBW 12 heads it as the 3rd Sunday; the summary's 'fears gripping his city and nation' changed to match the text; the six-million unemployment figure is now attributed to Hoselton.",
+  "Gideon: removed the unsupported summary point about God shrinking the army; added the closing theme of the cross over the world (Lampard); Harvey's wording on Gideon renouncing power aligned to the review; added Best's table of contents as a source.",
+  "Who Do You Say That I Am?: summary corrected; removed unsupported 'weeps and returns' and 'torn down'; the contrast of opinions and Christ alone building the church now match Teuffel's German text; context aligned with Best (election won through pressure from local Nazi organisations).",
+  "Kirche und Völkerwelt: summary corrected; removed the 'rooted in the Sermon on the Mount' claim (German Wikipedia sources it to the separate theses paper, DBW 13 p. 296); added the passage about an unarmed nation (DBW 13 p. 300); published_in 'contemporary English version' changed to 'English rendering' with page split; added Konziliarer Prozess source.",
+  "1 Cor 13 series: London end date aligned to April 1935; Sydenham identified as the united congregation per DBW 13; Zinn identified as a theologian; added Best's introduction as a source.",
+  "The Betrayer: context changed from 'Sunday before its fourth course ended' to 'day before' (course ended 15 March 1937); kiss description aligned to Teuffel.",
+  "Psalm 58: summary rewritten from the full 1982 Theology Today translation (added prayer, renouncing revenge, the cross as fulfilled vengeance, prayer for enemies' mercy); published_in now gives DBW 14 pp. 980–988 and the Theology Today translation; occasion reframed as DBW's designation with a calendar caveat; the Niemöller link is now attributed to F. Burton Nelson; replaced the bonhoefferblog partial reprint with the Theology Today journal page (archived) as source and read_url; replaced English Wikipedia with USHMM for the September 1937 closure.",
+  "Loving Our Enemies: summary's first point aligned to the text (hearers were once God's enemies); the context's English Wikipedia claim about the von Blumenthal estate was replaced with USHMM and DBW 15; removed the process note from unverified_notes.",
+  "Peace of God in Affliction: removed the Wikipedia-only figure of 27 arrests and replaced English Wikipedia with USHMM; reversed chain now includes 'hardening' per the text; third category changed from faith-doubt to grace-salvation.",
+  "Death Is Swallowed Up in Victory: removed the Wikipedia-only claims (move to Sigurdshof in summer 1939; Gestapo closure March 1940); replaced English Wikipedia with Best's table of contents as a source.",
+  "Lazarus and the Rich Man: added Best's table of contents as a source for the English pages; no factual change."
+ ]
+}

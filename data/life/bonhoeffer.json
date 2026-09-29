@@ -1,0 +1,639 @@
+{
+ "id": "bonhoeffer",
+ "name": "Dietrich Bonhoeffer",
+ "born": {
+  "date_iso": "1906-02-04",
+  "date_text": "4 February 1906",
+  "place": "Breslau, Silesia, Germany (now Wrocław, Poland)"
+ },
+ "died": {
+  "date_iso": "1945-04-09",
+  "date_text": "9 April 1945",
+  "place": "Flossenbürg concentration camp, Bavaria, Germany"
+ },
+ "life_summary": "Dietrich Bonhoeffer was born in Breslau in 1906, grew up in Berlin from 1912, and completed a doctorate in theology at Berlin University in 1927. After passing his first theological examination in January 1928 he spent a year as vicar to the German congregation in Barcelona (February 1928 to February 1929), qualified as a university teacher in 1930, and spent the 1930–31 academic year at Union Theological Seminary in New York. Back in Berlin he became a lecturer in theology and a student chaplain and was ordained in November 1931; from 1933 he opposed Nazi church policy and helped organise the Pastors' Emergency League. From October 1933 to spring 1935 he was pastor of two German-speaking congregations in London, and he then directed the Confessing Church's preachers' seminary at Zingst and Finkenwalde until the Gestapo closed it in September 1937, continuing the training in Pomeranian collective pastorates until March 1940. Banned from Berlin (1938), from public speaking (1940) and from publishing (1941), he became a civilian agent of the Abwehr (military intelligence) through his brother-in-law Hans von Dohnanyi's circle, and became engaged to Maria von Wedemeyer in January 1943. Arrested on 5 April 1943, he was held in Tegel prison, the Gestapo prison at Prinz-Albrecht-Strasse and Buchenwald, and was hanged at Flossenbürg concentration camp on 9 April 1945, aged 39.",
+ "phases": [
+  {
+   "start_year": 1906,
+   "end_year": 1928,
+   "label": "Childhood and student years",
+   "summary": "Born in Breslau, he grew up in Berlin from 1912 and studied theology at Tübingen (from 1923) and Berlin (from 1924). He completed his doctorate with the dissertation Sanctorum Communio in 1927 and passed his first theological examination in January 1928.",
+   "place": "Breslau; Berlin; Tübingen",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Deutsches Historisches Museum (LeMO) – Dietrich Bonhoeffer",
+     "url": "https://www.dhm.de/lemo/biografie/dietrich-bonhoeffer"
+    },
+    {
+     "label": "Hotel Dietrich Bonhoeffer Berlin – Dietrich Bonhoeffer",
+     "url": "https://www.hotel-dietrich-bonhoeffer.de/en/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "start_year": 1928,
+   "end_year": 1931,
+   "label": "Barcelona, Berlin, New York",
+   "summary": "He was vicar to the German Protestant congregation in Barcelona under Pastor Fritz Olbricht from February 1928 to February 1929, then from March 1929 an assistant in the Berlin theology faculty, qualifying as a university teacher with Act and Being in July 1930. From September 1930 to June 1931 he studied at Union Theological Seminary in New York, working regularly at Abyssinian Baptist Church in Harlem.",
+   "place": "Barcelona; Berlin; New York",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – DBW 10: Barcelona, Berlin, Amerika 1928–1931",
+     "url": "https://www.dietrich-bonhoeffer.net/werk/band/10/barcelona-berlin-amerika-1928-1931/"
+    },
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – Fritz Olbricht",
+     "url": "https://www.dietrich-bonhoeffer.net/bonhoeffer-umfeld/fritz-olbricht/"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "start_year": 1931,
+   "end_year": 1933,
+   "label": "Berlin lecturer and chaplain",
+   "summary": "Back in Berlin he lectured in theology at the university from August 1931, was ordained in November 1931, served as student chaplain at the Technical College in Charlottenburg and taught a confirmation class in the Zion parish. After Hitler came to power in 1933 he spoke and wrote against Nazi church policy and helped organise the Pastors' Emergency League.",
+   "place": "Berlin",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Christian History Institute – Pastor Bonhoeffer",
+     "url": "https://christianhistoryinstitute.org/magazine/article/pastor-bonhoeffer"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "start_year": 1933,
+   "end_year": 1935,
+   "label": "London pastorate",
+   "summary": "From October 1933 until spring 1935 he was pastor of two German-speaking congregations in London, at Sydenham and St Paul's in the East End, living at the parish house at 23 Manor Mount, Forest Hill. He built ties with Bishop George Bell of Chichester and spoke at the Fanø ecumenical conference in August 1934.",
+   "place": "London (Forest Hill, Sydenham, East End)",
+   "sources": [
+    {
+     "label": "Westminster Abbey – Bonhoeffer: the London years",
+     "url": "https://www.westminster-abbey.org/about/abbey-review/stories/bonhoeffer-the-london-years"
+    },
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – London",
+     "url": "https://www.dietrich-bonhoeffer.net/leben/london/"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "start_year": 1935,
+   "end_year": 1937,
+   "label": "Zingst and Finkenwalde seminary",
+   "summary": "From April 1935 he directed the Confessing Church's preachers' seminary, first at Zingst on the Baltic and from June 1935 at Finkenwalde near Stettin, until the Gestapo closed it in September 1937. His authorization to teach at Berlin University was withdrawn in August 1936, and Discipleship was published in November 1937.",
+   "place": "Zingst; Finkenwalde (near Stettin)",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "start_year": 1937,
+   "end_year": 1940,
+   "label": "Pomeranian collective pastorates",
+   "summary": "From December 1937 he continued training Confessing Church ordinands in collective pastorates at Köslin and Gross-Schlönwitz, moving to Sigurdshof in April 1939, until the Gestapo closed the work in March 1940. Banned from Berlin in January 1938, he wrote Life Together in September 1938 and made a brief trip to the United States in June–July 1939.",
+   "place": "Köslin; Gross-Schlönwitz; Sigurdshof (Pomerania)",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – Sammelvikariate",
+     "url": "https://www.dietrich-bonhoeffer.net/leben/sammelvikariate/"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "start_year": 1940,
+   "end_year": 1943,
+   "label": "Abwehr and resistance work",
+   "summary": "Working for the Abwehr (military intelligence) through his brother-in-law Hans von Dohnanyi's circle, he was attached from November 1940 to its Munich office with stays at Ettal monastery, and travelled to Switzerland, Norway and Sweden, meeting Bishop Bell at Sigtuna in 1942. Banned from public speaking (1940) and publishing (1941), he worked on Ethics and became engaged to Maria von Wedemeyer in January 1943.",
+   "place": "Munich; Ettal; Berlin",
+   "sources": [
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "start_year": 1943,
+   "end_year": 1945,
+   "label": "Imprisonment and execution",
+   "summary": "Arrested on 5 April 1943, he was held in Tegel military prison in Berlin, where he wrote the letters later published as Letters and Papers from Prison. After incriminating Abwehr files were found in September 1944 he was moved to the Gestapo prison at Prinz-Albrecht-Strasse, then in February 1945 to Buchenwald and finally to Flossenbürg, where he was hanged on 9 April 1945.",
+   "place": "Berlin (Tegel, Prinz-Albrecht-Strasse); Buchenwald; Flossenbürg",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – Tegel",
+     "url": "https://www.dietrich-bonhoeffer.net/leben/tegel/"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Buchenwald Memorial – Dietrich Bonhoeffer",
+     "url": "https://www.buchenwald.de/en/geschichte/biografien/ltg-ausstellung/dietrich-bonhoeffer"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1906-02-04",
+   "date_text": "4 February 1906",
+   "event": "Born in Breslau, Germany, together with his twin sister Sabine.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Deutsches Historisches Museum (LeMO) – Dietrich Bonhoeffer",
+     "url": "https://www.dhm.de/lemo/biografie/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1927",
+   "date_text": "1927",
+   "event": "Received his licentiate (doctorate) in theology at Berlin University, summa cum laude, for the dissertation Sanctorum Communio.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1928-02-15",
+   "date_text": "15 February 1928",
+   "event": "Arrived in Barcelona to begin a one-year vicariate with the German Protestant congregation under Pastor Fritz Olbricht, having passed his first theological examination that January.",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – Fritz Olbricht",
+     "url": "https://www.dietrich-bonhoeffer.net/bonhoeffer-umfeld/fritz-olbricht/"
+    },
+    {
+     "label": "Hotel Dietrich Bonhoeffer Berlin – Dietrich Bonhoeffer",
+     "url": "https://www.hotel-dietrich-bonhoeffer.de/en/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1929-02",
+   "date_text": "February 1929",
+   "event": "Completed the Barcelona vicariate and returned to Berlin, where from March 1929 he was an assistant in the university's theology faculty while writing his habilitation thesis.",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – DBW 10: Barcelona, Berlin, Amerika 1928–1931",
+     "url": "https://www.dietrich-bonhoeffer.net/werk/band/10/barcelona-berlin-amerika-1928-1931/"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1930-09-05",
+   "date_text": "5 September 1930",
+   "event": "Began his 1930–31 year at Union Theological Seminary in New York, where he also worked regularly at Abyssinian Baptist Church in Harlem.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1931-06",
+   "date_text": "June 1931",
+   "event": "Returned from America to Berlin after his year in New York, which had also included travel to Cuba and Mexico.",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – DBW 10: Barcelona, Berlin, Amerika 1928–1931",
+     "url": "https://www.dietrich-bonhoeffer.net/werk/band/10/barcelona-berlin-amerika-1928-1931/"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1931-11-15",
+   "date_text": "15 November 1931",
+   "event": "Ordained at St Matthias Church in Berlin, three months after beginning as a lecturer in theology at Berlin University.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1933-02-01",
+   "date_text": "1 February 1933",
+   "event": "Two days after Hitler became chancellor, gave a radio address warning against making the leader an idol; one chronology records the broadcast was cut off.",
+   "sources": [
+    {
+     "label": "International Bonhoeffer Society – Biography",
+     "url": "https://bonhoeffersociety.org/about/bonhoeffer/biography/"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1933-09",
+   "date_text": "September 1933",
+   "event": "Worked with Martin Niemöller to organise the Pastors' Emergency League of Protestant clergy opposing Nazi church policy.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1933-10-17",
+   "date_text": "17 October 1933",
+   "event": "Began his London pastorate, serving the German-speaking congregations at Sydenham and St Paul's in the East End.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Westminster Abbey – Bonhoeffer: the London years",
+     "url": "https://www.westminster-abbey.org/about/abbey-review/stories/bonhoeffer-the-london-years"
+    }
+   ]
+  },
+  {
+   "date_iso": "1934-08",
+   "date_text": "August 1934",
+   "event": "While pastor in London, spoke at the ecumenical conference at Fanø, Denmark, delivering a speech on peace.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – London",
+     "url": "https://www.dietrich-bonhoeffer.net/leben/london/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1935-04-26",
+   "date_text": "26 April 1935",
+   "event": "Having left London that spring, opened the Confessing Church preachers' seminary at Zingst; it moved to Finkenwalde near Stettin on 24 June 1935.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1936-08-05",
+   "date_text": "5 August 1936",
+   "event": "His authorization to teach at Berlin University was withdrawn.",
+   "sources": [
+    {
+     "label": "Burke Library, Union Theological Seminary – Bonhoeffer Primary Sources finding aid",
+     "url": "https://library.columbia.edu/content/dam/libraryweb/locations/burke/fa/bonhoeffer/ldpd_5456034.pdf"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1937-09",
+   "date_text": "September 1937",
+   "event": "The Gestapo closed the Finkenwalde seminary.",
+   "sources": [
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    },
+    {
+     "label": "International Bonhoeffer Society – Biography",
+     "url": "https://bonhoeffersociety.org/about/bonhoeffer/biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1937-11",
+   "date_text": "November 1937",
+   "event": "His book Discipleship (Nachfolge), written during the Finkenwalde years, was published.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1937-12",
+   "date_text": "December 1937",
+   "event": "Began the collective pastorates in Köslin and Gross-Schlönwitz, Pomerania, continuing the clandestine training of Confessing Church ordinands.",
+   "sources": [
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1938-01-11",
+   "date_text": "11 January 1938",
+   "event": "Banned from Berlin, forbidden to live or work in the city.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1939-06-02",
+   "date_text": "2 June 1939",
+   "event": "Left for the United States, but decided within weeks to return and was back in Germany by the end of July 1939.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "International Bonhoeffer Society – Biography",
+     "url": "https://bonhoeffersociety.org/about/bonhoeffer/biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1940-03",
+   "date_text": "March 1940",
+   "event": "The Gestapo closed the collective pastorates, ending his clandestine seminary work in Pomerania.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1940-09",
+   "date_text": "September 1940",
+   "event": "Forbidden by the authorities to speak in public.",
+   "sources": [
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1940-10",
+   "date_text": "October 1940",
+   "event": "Obtained an assignment in the Abwehr (military intelligence), according to USHMM; other chronologies date his first Abwehr role to August 1939 and his Munich posting to November 1940.",
+   "sources": [
+    {
+     "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1943-01",
+   "date_text": "January 1943",
+   "event": "Became engaged to Maria von Wedemeyer.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Deutsches Historisches Museum (LeMO) – Dietrich Bonhoeffer",
+     "url": "https://www.dhm.de/lemo/biografie/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1943-04-05",
+   "date_text": "5 April 1943",
+   "event": "Arrested by the Gestapo and held at Tegel military prison in Berlin.",
+   "sources": [
+    {
+     "label": "Dietrich Bonhoeffer Portal (IBG) – Tegel",
+     "url": "https://www.dietrich-bonhoeffer.net/leben/tegel/"
+    },
+    {
+     "label": "Buchenwald Memorial – Dietrich Bonhoeffer",
+     "url": "https://www.buchenwald.de/en/geschichte/biografien/ltg-ausstellung/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1944-10-08",
+   "date_text": "8 October 1944",
+   "event": "Moved from Tegel to the Gestapo prison at Prinz-Albrecht-Strasse, after the Gestapo found incriminating Abwehr files in September 1944.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge and the Cambridge Companion)",
+     "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1945-02-07",
+   "date_text": "7 February 1945",
+   "event": "Taken from Berlin to Buchenwald concentration camp, where he was held in the SS detention cell building until 3 April 1945.",
+   "sources": [
+    {
+     "label": "Buchenwald Memorial – Dietrich Bonhoeffer",
+     "url": "https://www.buchenwald.de/en/geschichte/biografien/ltg-ausstellung/dietrich-bonhoeffer"
+    },
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1945-04-08",
+   "date_text": "8 April 1945",
+   "event": "According to later accounts, he led a short Sunday service for fellow prisoners at Schönberg on 1 Peter 1:3; that day he was taken to Flossenbürg and sentenced by drumhead court-martial that night.",
+   "sources": [
+    {
+     "label": "EBSCO Research Starters – Bonhoeffer Is Executed by the Nazis",
+     "url": "https://www.ebsco.com/research-starters/history/bonhoeffer-executed-nazis/"
+    },
+    {
+     "label": "Buchenwald Memorial – Dietrich Bonhoeffer",
+     "url": "https://www.buchenwald.de/en/geschichte/biografien/ltg-ausstellung/dietrich-bonhoeffer"
+    }
+   ]
+  },
+  {
+   "date_iso": "1945-04-09",
+   "date_text": "9 April 1945",
+   "event": "Hanged at Flossenbürg concentration camp together with Wilhelm Canaris, Hans Oster and other resisters, aged 39.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+    },
+    {
+     "label": "EBSCO Research Starters – Bonhoeffer Is Executed by the Nazis",
+     "url": "https://www.ebsco.com/research-starters/history/bonhoeffer-executed-nazis/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "United States Holocaust Memorial Museum – Dietrich Bonhoeffer",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer"
+  },
+  {
+   "label": "International Bonhoeffer Society – Biography",
+   "url": "https://bonhoeffersociety.org/about/bonhoeffer/biography/"
+  },
+  {
+   "label": "Dietrich Bonhoeffer Portal (International Bonhoeffer Society, German section) – Biografie",
+   "url": "https://www.dietrich-bonhoeffer.net/biografie/"
+  },
+  {
+   "label": "Christian History Institute – Dietrich Bonhoeffer timeline",
+   "url": "https://christianhistoryinstitute.org/magazine/article/dietrich-bonhoeffer-timeline"
+  },
+  {
+   "label": "Joshua P. Steele – Bonhoeffer Timeline (chronologies from Bethge's biography and the Cambridge Companion)",
+   "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/"
+  }
+ ],
+ "corrections": [
+  "London pastorate end changed from 'April 1935' to 'spring 1935' in life_summary and phase: sources disagree (CHI says until March 1935, USHMM says April 1935, Burke says spring 1935).",
+  "Barcelona phase: added Olbricht page and 'from March 1929' start of Berlin assistantship (IBG DBW 10); Burke finding aid misdates Barcelona to 1929–30, so it is no longer relied on for Barcelona dates.",
+  "1928-02-15 event: added first theological examination in January 1928 (Hotel Dietrich Bonhoeffer page) and replaced DBW 10 citation with that page; 'assistant pastor' reworded to vicar.",
+  "1929-02 event: specified assistantship began March 1929 per IBG DBW 10.",
+  "1930-09-05 event: reworded from 'left for New York' to 'began his year at Union' to match CHI wording.",
+  "1931-06 event: reworded to 'returned from America to Berlin' per IBG DBW 10 (return journey June 1931).",
+  "1931-11-15 event: added St Matthias Church per Burke finding aid.",
+  "1927 event: replaced International Bonhoeffer Society citation (which gives no degree details) with Burke finding aid.",
+  "Added event: August 1934 Fanø conference speech (CHI, IBG London).",
+  "1935-04-26 event: 'left London that April' changed to 'that spring'; Steele citation replaced with Burke (spring 1935 return, Zingst).",
+  "1937-09 event: replaced CHI citation with International Bonhoeffer Society (gives 28 September 1937).",
+  "1937-11 event: replaced International Bonhoeffer Society citation (does not mention publication date) with Steele chronology.",
+  "1937-12-05 changed to 1937-12 (December 1937): no fetched source gives the day 5 December.",
+  "1938-01-11 event: removed attribution of the ban specifically to the Gestapo in the event text wording kept neutral ('banned from Berlin').",
+  "1939-06-02 event: removed unverified 'back in Berlin by 27 July 1939'; now 'back in Germany by the end of July 1939' per International Bonhoeffer Society; Steele citation replaced with CHI.",
+  "Added event: March 1940 closure of the collective pastorates by the Gestapo (CHI, Steele).",
+  "1940-09 event: removed unverified claim that he was required to report regularly to the police; Steele citation replaced with CHI.",
+  "1940-10 event: removed 'avoiding military service' and the Dohnanyi claim from this event (not in fetched sources); attributed October 1940 date to USHMM and noted CHI's August 1939 / November 1940 dates.",
+  "Abwehr phase: 'attached from late 1940' changed to 'from November 1940' (CHI, Steele); life_summary changed 'from 1940' Abwehr work to neutral wording since CHI dates his civilian-agent role to August 1939.",
+  "1943-04-05 event: removed unverified 'along with Hans von Dohnanyi'; International Bonhoeffer Society citation replaced with Buchenwald Memorial.",
+  "Imprisonment phase: removed unverified claim about smuggling letters to Eberhard Bethge via sympathetic guards; now states he wrote the letters later published as Letters and Papers from Prison (CHI).",
+  "1945-04-08 event: 'According to fellow prisoners' changed to 'According to later accounts' since the EBSCO source does not name its source; clarified Flossenbürg transfer and night sentencing per Buchenwald Memorial.",
+  "1945-04-09 event: Steele citation replaced with EBSCO, which names Canaris and Oster.",
+  "Berlin lecturer phase: removed 'of Prenzlauer Berg' location detail for the Zion parish because CHI sources disagree with Steele (Wedding) on the district.",
+  "Childhood phase: added Hotel Dietrich Bonhoeffer page as source for January 1928 first examination.",
+  "London phase: added 23 Manor Mount address (IBG London); replaced USHMM citation (which gives September 1933 start) with Burke finding aid.",
+  "Collective pastorates phase: Sigurdshof move dated April 1939 (IBG); Life Together dated September 1938 (CHI); closure attributed to Gestapo (CHI); added Steele as source."
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "id": "muller",
+ "name": "George Müller",
+ "born": {
+  "date_iso": "1805-09-27",
+  "date_text": "27 September 1805",
+  "place": "Kroppenstaedt (Kroppenstedt), near Halberstadt, Kingdom of Prussia (now Saxony-Anhalt, Germany)"
+ },
+ "died": {
+  "date_iso": "1898-03-10",
+  "date_text": "10 March 1898",
+  "place": "New Orphan Houses, Ashley Down, Bristol, England"
+ },
+ "life_summary": "George Müller was born in 1805 at Kroppenstaedt, Prussia, and grew up in Heimersleben, where his father was a collector of excise. By his own account his youth was marked by theft and debt, including a jail term at sixteen in 1821–22. As a divinity student at Halle he dated his conversion to a Saturday-evening prayer meeting in a private house in November 1825, and in March 1829 he went to London to train with the London Society for Promoting Christianity amongst the Jews. After an illness he went to Devon, parted from the Society in January 1830, became pastor of the small Ebenezer Chapel congregation at Teignmouth, and married Mary Groves on 7 October 1830. From May 1832 he ministered with Henry Craik at Gideon and Bethesda chapels in Bristol, founded the Scriptural Knowledge Institution in 1834, opened his first orphan house in Wilson Street in 1836, and between 1849 and 1870 opened five orphan houses on Ashley Down, relying on unsolicited gifts and never going into debt. Mary died in 1870 and in 1871 he married Susannah Grace Sangar; from 1875 to 1892 the couple made preaching tours in Europe, North America, Asia, Africa and Australia while his son-in-law James Wright shared direction of the work in Bristol. He outlived his children, Craik and both wives, continued preaching in Bristol, and was found dead in his room at Ashley Down on 10 March 1898.",
+ "phases": [
+  {
+   "start_year": 1805,
+   "end_year": 1825,
+   "label": "Prussian childhood and schooling",
+   "summary": "Grew up in Kroppenstaedt and Heimersleben, where his father collected excise, and was schooled at the cathedral school in Halberstadt and then at the Nordhausen gymnasium (October 1822 to Easter 1825). By his own account these were years of theft and debt, including a jail term in 1821–22.",
+   "place": "Kroppenstaedt, Heimersleben, Halberstadt, Nordhausen (Prussia)",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. I",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement, 'Müller, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "start_year": 1825,
+   "end_year": 1829,
+   "label": "Halle divinity student",
+   "summary": "Studied divinity at the University of Halle, was converted in November 1825 and first preached in August 1826. He sought missionary service, spent time teaching and preaching in Berlin, and was exempted for life from Prussian military service before leaving for England.",
+   "place": "Halle (and Berlin), Prussia",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. II–III",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1829,
+   "end_year": 1832,
+   "label": "London and Teignmouth years",
+   "summary": "Trained in London as a prospective missionary to the Jews, then, after an illness, went to Teignmouth, Devon, where he met Henry Craik. He parted from the London Society early in 1830, became pastor of Ebenezer Chapel, renounced a fixed salary, and married Mary Groves in October 1830.",
+   "place": "London; Teignmouth, Devon",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. III–V",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement, 'Müller, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "start_year": 1832,
+   "end_year": 1849,
+   "label": "Bethesda and Wilson Street",
+   "summary": "Ministered with Henry Craik at Gideon and Bethesda chapels in Bristol and founded the Scriptural Knowledge Institution in 1834. From 1836 he ran orphan houses in rented premises on Wilson Street, growing to four houses.",
+   "place": "Bristol",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899)",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "George Müller, A Narrative of Some of the Lord's Dealings, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    }
+   ]
+  },
+  {
+   "start_year": 1849,
+   "end_year": 1875,
+   "label": "Ashley Down orphan houses",
+   "summary": "Directed the orphan work from purpose-built houses on Ashley Down, opening five between 1849 and 1870, while continuing to preach in Bristol. Craik died in 1866; Müller was widowed in 1870, named James Wright as successor that year, remarried in 1871, and from May 1872 Wright shared direction of the work.",
+   "place": "Bristol (Ashley Down)",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. XIII–XVI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Christian History Institute, Timeline (issue 128)",
+     "url": "https://christianhistoryinstitute.org/magazine/article/timeline-ch-128"
+    }
+   ]
+  },
+  {
+   "start_year": 1875,
+   "end_year": 1892,
+   "label": "Worldwide preaching tours",
+   "summary": "With his second wife Susannah he made a series of preaching tours in Britain, continental Europe, North America, Asia (including India, China and Japan), Africa and Australia. Between tours he returned to Bristol, where James Wright carried much of the work.",
+   "place": "Based in Bristol; tours worldwide",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XVII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    }
+   ]
+  },
+  {
+   "start_year": 1892,
+   "end_year": 1898,
+   "label": "Final Bristol years",
+   "summary": "Back in Bristol, he worked mainly for the Scriptural Knowledge Institution alongside James Wright and preached at Bethesda and elsewhere. He was widowed a second time in January 1895 and died at Ashley Down in March 1898.",
+   "place": "Bristol",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XIX",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905), ch. XX",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1805-09-27",
+   "date_text": "27 September 1805",
+   "event": "Born at Kroppenstaedt near Halberstadt, Prussia; before he was five the family moved to Heimersleben, where his father became collector of the excise.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. I",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1821-12-18",
+   "date_text": "18 December 1821",
+   "event": "Aged sixteen, he was arrested at an inn in Wolfenbüttel over unpaid bills and held in prison until 12 January 1822, according to his own account.",
+   "sources": [
+    {
+     "label": "George Müller, Narrative, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. I",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1825-11",
+   "date_text": "c. mid-November 1825",
+   "event": "As a divinity student at Halle, he attended a Saturday-evening prayer meeting in a private house, which he regarded as the moment of his conversion.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. II",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1826-08-27",
+   "date_text": "27 August 1826",
+   "event": "Gave his first sermon, a memorised one, in a chapel of ease and then the parish church of a parish about six miles from Halle.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. II",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1829-03-19",
+   "date_text": "19 March 1829",
+   "event": "Arrived in London to train as a missionary with the London Society for Promoting Christianity amongst the Jews.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. III",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1829-05",
+   "date_text": "mid-May 1829",
+   "event": "Fell seriously ill in London and afterwards went to Teignmouth, Devon, to recover, where he met Henry Craik, his future co-worker.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. III",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "George Müller, Narrative, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1830",
+   "date_text": "1830",
+   "event": "After the London Society dissolved its connection with him in January 1830, he accepted a call from the eighteen-member Ebenezer Chapel congregation at Teignmouth to be its pastor.",
+   "sources": [
+    {
+     "label": "George Müller, Narrative, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1830-10-07",
+   "date_text": "7 October 1830",
+   "event": "Married Mary Groves, sister of the missionary Anthony Norris Groves; that year he renounced a regular salary and pew rents, relying on voluntary gifts.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. V",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Christian History Institute, Timeline (issue 128)",
+     "url": "https://christianhistoryinstitute.org/magazine/article/timeline-ch-128"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-04-22",
+   "date_text": "22 April 1832",
+   "event": "First preached at Gideon Chapel, Bristol, during a visit to the city with Henry Craik.",
+   "sources": [
+    {
+     "label": "George Müller, Narrative, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. VI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-05-25",
+   "date_text": "25 May 1832",
+   "event": "Arrived in Bristol to minister with Craik at Gideon Chapel, and from 6 July also at Bethesda Chapel, without fixed salary.",
+   "sources": [
+    {
+     "label": "George Müller, Narrative, Part 1",
+     "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. VI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-08-13",
+   "date_text": "13 August 1832",
+   "event": "Müller, Craik, one other brother and four sisters began meeting in church fellowship at Bethesda Chapel, the start of the Bethesda congregation.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. VI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-09-17",
+   "date_text": "17 September 1832",
+   "event": "His daughter Lydia, who became his only surviving child, was born in Bristol during a cholera epidemic.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. VI, VIII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1834-03-05",
+   "date_text": "5 March 1834",
+   "event": "At a public meeting in Bristol he announced the Scriptural Knowledge Institution for Home and Abroad, supporting schools, Bible and tract distribution, and missionaries.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. VII, XV",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Christian History Institute, Timeline (issue 128)",
+     "url": "https://christianhistoryinstitute.org/magazine/article/timeline-ch-128"
+    }
+   ]
+  },
+  {
+   "date_iso": "1835-06-26",
+   "date_text": "26 June 1835",
+   "event": "His infant son Elijah, born 19 March 1834, died four days after Mary's father; grandfather and grandson were buried in one grave.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. VIII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1836-04-11",
+   "date_text": "11 April 1836",
+   "event": "The first orphans were admitted to the rented house at 6 Wilson Street, Bristol, which was formally opened on 21 April.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. VIII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1848-08",
+   "date_text": "August 1848",
+   "event": "J. N. Darby issued a letter excluding all in fellowship with Bethesda, part of the division between Open Brethren, with whom Müller was identified, and Exclusive Brethren.",
+   "sources": [
+    {
+     "label": "Plymouth Brethren Archive, The Bethesda or 'Open / Exclusive' Division",
+     "url": "https://www.brethrenarchive.org/archive/early-years/bethesda/"
+    },
+    {
+     "label": "Wikipedia, George Müller",
+     "url": "https://en.wikipedia.org/wiki/George_M%C3%BCller"
+    }
+   ]
+  },
+  {
+   "date_iso": "1849-06-18",
+   "date_text": "18 June 1849",
+   "event": "Orphans began moving from four rented Wilson Street houses to the purpose-built New Orphan House No. 1 on Ashley Down, Bristol.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XIII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1866-01-22",
+   "date_text": "22 January 1866",
+   "event": "Henry Craik, his co-worker in Bristol since 1832 and, in Müller's words, his friend of thirty-six years, died after a seven-month illness.",
+   "sources": [
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1870-02-06",
+   "date_text": "6 February 1870",
+   "event": "His wife Mary died, a month after New Orphan House No. 5 opened and completed Ashley Down's accommodation for about 2,000 orphans.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. XIII, XVI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    }
+   ]
+  },
+  {
+   "date_iso": "1871-11-30",
+   "date_text": "30 November 1871",
+   "event": "Married Susannah Grace Sangar, two weeks after his daughter Lydia married James Wright, who shared direction of the orphan work from May 1872.",
+   "sources": [
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XVI",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1875-03-26",
+   "date_text": "26 March 1875",
+   "event": "Aged 69, he set out with Susannah on the first of the preaching tours that occupied him until 1892.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XVII",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1890-01-10",
+   "date_text": "10 January 1890",
+   "event": "His daughter Lydia Wright died in Bristol while he was preaching at Jubbulpore, India; he broke off that tour and returned to England.",
+   "sources": [
+    {
+     "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    },
+    {
+     "label": "Find a Grave, Lydia Müller Wright (1832–1890)",
+     "url": "https://www.findagrave.com/memorial/88548202/lydia-wright"
+    }
+   ]
+  },
+  {
+   "date_iso": "1892-05",
+   "date_text": "May 1892",
+   "event": "His last tour ended; according to Pierson he had travelled in forty-two countries since 1875. He then worked mainly in Bristol, preaching at Bethesda and elsewhere.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chs. XVII, XIX",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1895-01-13",
+   "date_text": "13 January 1895 (some sources give 1894)",
+   "event": "His second wife Susannah died; Pierson and the DNB give 1895, while Bergin's compilation and some later sources give 1894.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XIX",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Dictionary of National Biography, 1901 supplement (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1898-03-10",
+   "date_text": "10 March 1898",
+   "event": "Aged 92, he was found dead in his room at Ashley Down, four days after preaching at Alma Road Chapel; he was buried at Arnos Vale Cemetery, Bristol.",
+   "sources": [
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), ch. XIX",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "Arnos Vale, George Müller",
+     "url": "https://arnosvale.org.uk/george-muller/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "A. T. Pierson, George Müller of Bristol and His Witness to a Prayer-Hearing God (1899), Project Gutenberg",
+   "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+  },
+  {
+   "label": "George Müller, A Narrative of Some of the Lord's Dealings with George Müller, Part 1, Project Gutenberg",
+   "url": "https://www.gutenberg.org/cache/epub/20379/pg20379.html"
+  },
+  {
+   "label": "G. Fred. Bergin (comp.), Autobiography of George Müller (1905), Internet Archive",
+   "url": "https://archive.org/details/autobiography-of-george-muller"
+  },
+  {
+   "label": "Dictionary of National Biography, 1901 supplement, 'Müller, George' (Wikisource)",
+   "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1901_supplement/M%C3%BCller,_George"
+  },
+  {
+   "label": "Christian History Institute, George Müller timeline (Christian History issue 128)",
+   "url": "https://christianhistoryinstitute.org/magazine/article/timeline-ch-128"
+  }
+ ],
+ "corrections": [
+  "Died place: changed 'Orphan House No. 3, Ashley Down' to 'New Orphan Houses, Ashley Down, Bristol'. Pierson places his apartment in No. 3 but does not say which house he died in; the DNB says only 'found dead in his room'.",
+  "Death event: removed 'apparently of heart failure', which no fetched source gives (Pierson says he was found on the floor beside his bed, having apparently felt faint). Changed 'four days after last preaching' to 'four days after preaching at Alma Road Chapel' (6 March 1898), because Pierson says he also attended meetings on 7 and 9 March.",
+  "Craik death: made the date precise, 22 January 1866, from Müller's journal in Bergin; attributed 'friend of thirty-six years' to Müller; added the DNB as an independent source (1832–1866 co-worker).",
+  "Lydia's death (10 January 1890): the day is not in Pierson or Bergin, so I added Find a Grave (gravestone record) as the source for the date. Bergin is kept as the source for the Jubbulpore news; Pierson citation dropped.",
+  "Susannah's death: replaced the unverified claim that 'James Wright' gives 1895 with the DNB (1895). Bergin's compilation heads the entry 1894, though his own words there ('twenty-three years and six weeks' after 30 Nov 1871) fit 1895.",
+  "Tours phase: replaced 'the Middle East' and 'East Asia' with Pierson's list (Europe, America, Asia including India, China and Japan, Africa, Australia).",
+  "Ashley Down phase: added that Craik died in 1866 and that James Wright was named successor in 1870 (Pierson: 21 months before Nov 1871; CHI timeline).",
+  "Life summary: replaced 'taking no collections' (not verified) with 'relying on unsolicited gifts and never going into debt'. Added the January 1830 break with the Society and the 7 October 1830 wedding date. Changed the tour list and the ending to match the verified events.",
+  "Jail event: reworded to match Müller's own account (arrested at a Wolfenbüttel inn) and added his Narrative as a source.",
+  "Teignmouth pastorate event: added the January 1830 break with the Society (Narrative prints the committee resolution of 27 January 1830); replaced Pierson/Wikipedia-only support with the Narrative and the DNB.",
+  "Marriage event: added that Mary was A. N. Groves's sister and that pew rents were given up too (CHI timeline); removed 'sold their possessions', which I did not check.",
+  "22 April 1832 event: removed the unverified 'nine-day visit' detail and added the Narrative, which gives the date.",
+  "Elijah event: replaced 'fifteen-month-old' with his birth date, 19 March 1834, from Pierson.",
+  "SKI event: changed 'began' to 'announced at a public meeting', following Pierson.",
+  "Halle phase: added Berlin stay and lifelong military exemption as described by Pierson; dated first sermon to August 1826.",
+  "1848 Bethesda event: changed 'circular' to 'letter', following the Brethren Archive's wording.",
+  "Added the DNB 1901 supplement as an independent main source and removed Wikipedia from the main source list. Wikipedia is kept only as secondary support for the 1848 division."
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "id": "sunday",
+ "name": "Billy Sunday",
+ "born": {
+  "date_iso": "1862-11-19",
+  "date_text": "19 November 1862",
+  "place": "Near Ames, Story County, Iowa, USA"
+ },
+ "died": {
+  "date_iso": "1935-11-06",
+  "date_text": "6 November 1935",
+  "place": "Chicago, Illinois, USA"
+ },
+ "life_summary": "William Ashley \"Billy\" Sunday was born near Ames, Iowa, on 19 November 1862. His father, a Union soldier, died about a month later, and from 1874 to 1876 Billy lived in Iowa's soldiers' orphans' homes before moving on to Nevada and Marshalltown, Iowa. From 1883 to 1890 he played major-league baseball for Chicago, Pittsburgh and Philadelphia. While in Chicago he committed his life to Christ through the Pacific Garden Mission (dated 1886 by some sources, autumn 1887 by others), and in 1888 he married Helen \"Nell\" Thompson. In 1891 he left baseball to work for the Chicago YMCA, and from 1893 to late 1895 he was advance man for the evangelist J. Wilbur Chapman. Beginning at Garner, Iowa, in January 1896, he led his own revivals, mostly in small Midwestern towns, and the Chicago Presbytery ordained him in 1903. From 1908, with Nell travelling as his manager and the family based at Winona Lake, Indiana, from 1911, he held large tabernacle campaigns in major cities such as Philadelphia (1915), Boston (1916–17) and New York (1917) and campaigned for Prohibition; in the 1920s and 1930s he preached mainly in smaller cities, his daughter Helen died in 1932 and his son George in 1933, and despite heart trouble he preached until shortly before his death in Chicago on 6 November 1935.",
+ "phases": [
+  {
+   "start_year": 1862,
+   "end_year": 1883,
+   "label": "Iowa boyhood and orphanage",
+   "summary": "Raised by his widowed mother on her family's farm near Ames, he spent 1874–1876 in the soldiers' orphans' homes at Glenwood and Davenport. He then lived and worked in Nevada, Iowa, attending high school, and from 1881 in Marshalltown, where he ran and played town baseball.",
+   "place": "Ames (Story County), Glenwood, Davenport, Nevada and Marshalltown, Iowa",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa: Sunday, William Ashley (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    },
+    {
+     "label": "William T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), Project Gutenberg",
+     "url": "https://www.gutenberg.org/files/50586/50586-h/50586-h.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1883,
+   "end_year": 1891,
+   "label": "Professional baseball years",
+   "summary": "Outfielder for the Chicago White Stockings (1883–87), the Pittsburgh Alleghenys (1888–90) and Philadelphia (1890), living mainly in Chicago. In these years he was converted through the Pacific Garden Mission, met Nell Thompson at Jefferson Park Presbyterian Church and married her in 1888.",
+   "place": "Chicago, Illinois; Pittsburgh and Philadelphia, Pennsylvania",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Retrosheet: Billy Sunday",
+     "url": "https://www.retrosheet.org/boxesetc/S/Psundb101.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1891,
+   "end_year": 1896,
+   "label": "YMCA and Chapman apprenticeship",
+   "summary": "After leaving baseball in early 1891 he worked as assistant secretary of the Chicago YMCA's religious department. From early 1893 until late 1895 he was advance man and assistant to the Presbyterian evangelist J. Wilbur Chapman, learning how to organise revivals.",
+   "place": "Chicago, Illinois (travelling with Chapman)",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa: Sunday, William Ashley (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  },
+  {
+   "start_year": 1896,
+   "end_year": 1908,
+   "label": "Small-town Midwest revivals",
+   "summary": "From January 1896 he worked as an independent evangelist, holding revivals mostly in small towns in Iowa, Illinois and neighbouring states, while his family lived in Chicago. The Chicago Presbytery ordained him in April 1903, and by 1905 he was preaching his temperance sermon \"Booze\".",
+   "place": "Small towns in Iowa, Illinois and neighbouring states; home in Chicago",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Billy Graham Center Archives (Wheaton College): Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    },
+    {
+     "label": "EBSCO Research Starters: Billy Sunday",
+     "url": "https://www.ebsco.com/research-starters/history/billy-sunday"
+    }
+   ]
+  },
+  {
+   "start_year": 1908,
+   "end_year": 1913,
+   "label": "Rise to national prominence",
+   "summary": "Starting with his first large-scale revival at Bloomington, Illinois, in early 1908, he held longer campaigns in mid-sized cities such as Spokane, Toledo and Columbus, with Nell travelling with him as manager. In 1911 the family moved from Chicago to Winona Lake, Indiana.",
+   "place": "Bloomington, Spokane, Toledo, Columbus and other mid-sized cities; home Chicago, then Winona Lake, Indiana (from 1911)",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Billy Graham Center Archives (Wheaton College): Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    },
+    {
+     "label": "Grace College: Winona History Center",
+     "url": "https://www.grace.edu/about/community/winona-history-center/"
+    }
+   ]
+  },
+  {
+   "start_year": 1913,
+   "end_year": 1919,
+   "label": "Big-city tabernacle campaigns",
+   "summary": "Beginning with Pittsburgh (December 1913–February 1914), he held long campaigns in purpose-built tabernacles in major cities, including Philadelphia, Baltimore, Detroit, Boston, New York and Chicago, some during American involvement in the First World War, and advocated national Prohibition. His home base was Winona Lake.",
+   "place": "Pittsburgh, Philadelphia, Baltimore, Detroit, Boston, New York, Chicago; home Winona Lake, Indiana",
+   "sources": [
+    {
+     "label": "Billy Graham Center Archives (Wheaton College): Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa: Sunday, William Ashley (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  },
+  {
+   "start_year": 1919,
+   "end_year": 1935,
+   "label": "Later campaigns and decline",
+   "summary": "As his influence waned in the 1920s, he held revivals mainly in smaller cities with smaller crowds, and he lost his daughter Helen (1932) and son George (1933). Despite heart trouble he kept preaching, holding campaigns in 1935 as far apart as Tennessee, Florida and Indiana, until shortly before he died in Chicago in November 1935.",
+   "place": "Smaller US cities; home Winona Lake, Indiana; died in Chicago",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Billy Graham Center Archives (Wheaton College): Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa: Sunday, William Ashley (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1862-11-19",
+   "date_text": "19 November 1862",
+   "event": "Born William Ashley Sunday near Ames, Story County, Iowa, third son of William and Mary Jane (Cory) Sunday.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  },
+  {
+   "date_iso": "1862-12-22",
+   "date_text": "22 December 1862",
+   "event": "According to Ellis (1914), his father, a private in Company E, 23rd Iowa Infantry, died of disease at Patterson, Missouri; SABR gives the cause as pneumonia.",
+   "sources": [
+    {
+     "label": "William T. Ellis, \"Billy\" Sunday: The Man and His Message (1914)",
+     "url": "https://www.gutenberg.org/files/50586/50586-h/50586-h.htm"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1874",
+   "date_text": "1874",
+   "event": "His mother sent him and his older brother Ed to Iowa's soldiers' orphans' homes at Glenwood and then Davenport, where he stayed until June 1876.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "William T. Ellis, \"Billy\" Sunday: The Man and His Message (1914)",
+     "url": "https://www.gutenberg.org/files/50586/50586-h/50586-h.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1881",
+   "date_text": "1881",
+   "event": "Recruited by a running team in Marshalltown, Iowa, he moved there from Nevada, Iowa, before finishing high school and joined the town baseball team.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1883-05-22",
+   "date_text": "22 May 1883",
+   "event": "Made his major-league debut with the Chicago White Stockings, whose player-manager Cap Anson had signed him after hearing of him in Marshalltown.",
+   "sources": [
+    {
+     "label": "Retrosheet: Billy Sunday",
+     "url": "https://www.retrosheet.org/boxesetc/S/Psundb101.htm"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1887",
+   "date_text": "1886 or 1887 (sources differ)",
+   "event": "Committed his life to Christ through the Pacific Garden Mission in Chicago. SABR and Ellis place this in late summer or autumn 1887; Wheaton's archives and EBSCO give 1886.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Billy Graham Center Archives (Wheaton College): Hitting the Sawdust Trail with Billy Sunday",
+     "url": "https://www2.wheaton.edu/bgc/archives/sunday/sunday01.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1888-01",
+   "date_text": "January 1888",
+   "event": "The Pittsburgh Alleghenys bought his contract from Chicago; he played for Pittsburgh until August 1890, then finished the 1890 season with Philadelphia.",
+   "sources": [
+    {
+     "label": "Retrosheet: Billy Sunday",
+     "url": "https://www.retrosheet.org/boxesetc/S/Psundb101.htm"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1888-09-05",
+   "date_text": "5 September 1888",
+   "event": "Married Helen Amelia \"Nell\" Thompson in Chicago; he had met her in 1886 at Jefferson Park Presbyterian Church.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1890",
+   "date_text": "1890",
+   "event": "His daughter, Helen Edith Sunday, was born.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1891-03",
+   "date_text": "March 1891",
+   "event": "Obtained his release from the Philadelphia club and took up work as assistant secretary of the Chicago YMCA's religious department, at $83 a month.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  },
+  {
+   "date_iso": "1892",
+   "date_text": "1892",
+   "event": "His first son, George Marquis Sunday, was born.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1893",
+   "date_text": "Early 1893",
+   "event": "Became advance man and assistant to the Presbyterian evangelist J. Wilbur Chapman, working with him until Chapman took a Philadelphia pastorate in late 1895.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  },
+  {
+   "date_iso": "1896-01",
+   "date_text": "January 1896 (Wheaton list: 8–15 January)",
+   "event": "Held his first independent revival at Garner, Iowa, beginning his career as a travelling evangelist.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1901",
+   "date_text": "1901",
+   "event": "His son William Ashley Sunday Jr. was born.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1903-04-15",
+   "date_text": "15 April 1903",
+   "event": "Ordained a Presbyterian minister by the Chicago Presbytery, although he had no formal theological training.",
+   "sources": [
+    {
+     "label": "EBSCO Research Starters: Billy Sunday",
+     "url": "https://www.ebsco.com/research-starters/history/billy-sunday"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1905-11",
+   "date_text": "9 November – 17 December 1905 (Wheaton campaign list)",
+   "event": "Held a campaign at Burlington, Iowa. According to SABR, he first preached his \"Booze\" sermon there, and days later the town limited saloon hours.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1907",
+   "date_text": "1907",
+   "event": "His youngest son, Paul Thompson Sunday, was born.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1908",
+   "date_text": "Early 1908 (Wheaton list: 27 December 1907 – 3 February 1908)",
+   "event": "Held his first large-scale revival, at Bloomington, Illinois, which was followed by an invitation to Spokane, Washington.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1908",
+   "date_text": "1908",
+   "event": "According to Nell Sunday's biography on Wikipedia, she began travelling with him to manage the campaigns, leaving the three younger children with a nanny.",
+   "sources": [
+    {
+     "label": "Wikipedia: Helen Thompson Sunday",
+     "url": "https://en.wikipedia.org/wiki/Helen_Thompson_Sunday"
+    },
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1911",
+   "date_text": "1911",
+   "event": "The Sundays moved from Chicago to Winona Lake, Indiana, which became the family home and his headquarters.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Grace College: Winona History Center",
+     "url": "https://www.grace.edu/about/community/winona-history-center/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1915-01-03",
+   "date_text": "3 January – 20 March 1915",
+   "event": "Led an eleven-week Philadelphia campaign in a tabernacle on Logan Square; more than 1.8 million people attended his 147 sermons.",
+   "sources": [
+    {
+     "label": "PhillyHistory Blog: Billy Sunday's \"Jim-Dandiest\" Evangelical Campaign",
+     "url": "https://blog.phillyhistory.org/index.php/2022/10/billy-sundays-jim-dandiest-evangelical-campaign/"
+    },
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1917-04-08",
+   "date_text": "8 April – 19 June 1917",
+   "event": "Held a ten-week New York City campaign in a tabernacle at Broadway and 168th Street; the United States entered the First World War that April.",
+   "sources": [
+    {
+     "label": "The Bowery Boys: Hallelujah! Billy Sunday comes to town",
+     "url": "https://www.boweryboyshistory.com/2009/04/hallelujah-billy-sunday-comes-to-town.html"
+    },
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1918-03-10",
+   "date_text": "10 March – 19 May 1918 (Wheaton campaign list)",
+   "event": "Held a major campaign in Chicago, the city where he had played baseball and been converted.",
+   "sources": [
+    {
+     "label": "Wheaton BGC Archives: Partial List of Billy Sunday's Campaigns",
+     "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1932",
+   "date_text": "1932",
+   "event": "His daughter Helen Sunday Haines died; according to Wikipedia the cause was apparently multiple sclerosis.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Wikipedia: Billy Sunday",
+     "url": "https://en.wikipedia.org/wiki/Billy_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1933",
+   "date_text": "1933",
+   "event": "His eldest son, George, took his own life. EBSCO also dates Sunday's first heart attack to 1933.",
+   "sources": [
+    {
+     "label": "EBSCO Research Starters: Billy Sunday",
+     "url": "https://www.ebsco.com/research-starters/history/billy-sunday"
+    },
+    {
+     "label": "Wikipedia: Billy Sunday",
+     "url": "https://en.wikipedia.org/wiki/Billy_Sunday"
+    }
+   ]
+  },
+  {
+   "date_iso": "1935",
+   "date_text": "1935",
+   "event": "He suffered another heart attack and was advised to stop preaching but continued; a contemporary Winona Lake newspaper report places it at Chattanooga on 15 May 1935.",
+   "sources": [
+    {
+     "label": "Wikipedia: Billy Sunday",
+     "url": "https://en.wikipedia.org/wiki/Billy_Sunday"
+    },
+    {
+     "label": "\"Billy Sunday Dies in Chicago\" (1935 local newspaper report, transcribed)",
+     "url": "http://yesteryear.clunette.com/sunday.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1935-11-06",
+   "date_text": "6 November 1935",
+   "event": "Died of a heart attack at his brother-in-law's home in Chicago, shortly after preaching his last sermon at Mishawaka, Indiana; buried in Forest Home Cemetery.",
+   "sources": [
+    {
+     "label": "SABR BioProject: Billy Sunday",
+     "url": "https://sabr.org/bioproj/person/billy-sunday/"
+    },
+    {
+     "label": "Biographical Dictionary of Iowa (Robert F. Martin)",
+     "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "SABR BioProject: Billy Sunday (Wendy Knickerbocker)",
+   "url": "https://sabr.org/bioproj/person/billy-sunday/"
+  },
+  {
+   "label": "Biographical Dictionary of Iowa: Sunday, William Ashley (Robert F. Martin)",
+   "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=371"
+  },
+  {
+   "label": "Billy Graham Center Archives (Wheaton College): Partial List of Billy Sunday's Campaigns",
+   "url": "https://www2.wheaton.edu/bgc/archives/guides/CN61_Partial%20List%20of%20Billy%20Sunday's%20Campaigns.pdf"
+  },
+  {
+   "label": "William T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), Project Gutenberg",
+   "url": "https://www.gutenberg.org/files/50586/50586-h/50586-h.htm"
+  },
+  {
+   "label": "Retrosheet: Billy Sunday",
+   "url": "https://www.retrosheet.org/boxesetc/S/Psundb101.htm"
+  }
+ ],
+ "corrections": [
+  "Life summary: father died 'about a month later' (SABR; Ellis gives 22 December 1862), replacing 'weeks later'; orphanage years given as 1874-1876 (Ellis: left June 1876).",
+  "Life summary: conversion reworded to reflect that SABR and Ellis both give autumn 1887, while Wheaton/EBSCO give 1886.",
+  "Phases rebuilt with consistent shared boundary years (1862-1883, 1883-1891, 1891-1896, 1896-1908, 1908-1913, 1913-1919, 1919-1935); the big-city phase now starts in 1913 because the Pittsburgh campaign began 28 December 1913 (Wheaton list).",
+  "Phase 1: added the 1876 return from the orphanage and the 1881 move to Marshalltown (SABR).",
+  "Phase 2: replaced Wikipedia source with Retrosheet for the team years; team named as the Pittsburgh Alleghenys.",
+  "Phase 4: removed unsupported 'Minnesota and Colorado' from place; added the Booze sermon context.",
+  "Phase 7: removed the unsupported claim of revivals 'especially in the South'; added 1935 campaign locations from the Wheaton list.",
+  "MLB debut event: replaced Wikipedia source with Retrosheet (debut 22 May 1883 confirmed); Anson's recruitment sourced to SABR instead of Ellis.",
+  "Conversion event: date_iso changed from 1886 to 1887, since SABR and Ellis (fetched text: 'the fall of 1887') agree; the 1886 alternative remains attributed to Wheaton/EBSCO.",
+  "Added event: 1881 move to Marshalltown (SABR).",
+  "Added event: January 1888 sale to Pittsburgh and August 1890 move to Philadelphia (Retrosheet, SABR).",
+  "Orphanage event: named brother Ed and added June 1876 departure (Ellis).",
+  "Marriage event: added 1886 first meeting at Jefferson Park Presbyterian Church (SABR).",
+  "Chapman event: added that Chapman left for a Philadelphia pastorate in late 1895 (SABR, BDI).",
+  "Ordination event: replaced the Indiana Historical Society guide (which gives wrong birth and death dates: 18 Nov 1862 and 16 Nov 1935) with SABR as the second source; exact date 15 April 1903 kept from EBSCO.",
+  "Burlington event: added exact Wheaton dates 9 November - 17 December 1905.",
+  "William Jr. and Paul birth events: added Helen Thompson Sunday Wikipedia article as a second source for the birth years.",
+  "Nell travelling event: attributed to Nell Sunday's Wikipedia biography, since SABR confirms a governess but gives no year.",
+  "Philadelphia event: added end date 20 March 1915 from the Wheaton list.",
+  "New York event: replaced BDI with the Wheaton list as the second source; removed 'just after' and reworded the WWI timing, since the US entered the war on 6 April, two days before the campaign opened.",
+  "Helen's death: multiple sclerosis claim re-sourced to the Billy Sunday Wikipedia article (the Helen Thompson Sunday article does not state it).",
+  "Heart attack event: the 'early 1935' date was supported only by Wikipedia; the 1933 heart attack moved to the 1933 event (EBSCO), and the 1935 event now cites a contemporary newspaper report placing a heart attack at Chattanooga on 15 May 1935.",
+  "Death event: 'about a week after his last sermon' changed to 'shortly after', since BDI says 'a few days' and SABR says 'a week'.",
+  "Top-level sources: replaced EBSCO with Retrosheet as an independent source for the baseball years and debut/death dates."
+ ]
+}

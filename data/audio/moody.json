@@ -1,0 +1,102 @@
+{
+ "rows": [
+  {
+   "id": "moody-what-shall-i-do-with-jesus-the-fire-sermon",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate free recording found: the only known recordings of Moody's own voice are Bible readings (the Beatitudes and Psalm 91), and none of the free audio on LibriVox (author 12004), Internet Archive or SermonIndex is this 1871/1893 address."
+  },
+  {
+   "id": "moody-sermon-on-the-death-of-mr-p-p-bliss",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Only text copies were found (e.g. Wholesome Words, taken from The Gospel Awakening, with no audio player); LibriVox, Internet Archive and SermonIndex have no reading of it."
+  },
+  {
+   "id": "moody-that-gospel-sermon-on-the-blessed-hope",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No LibriVox or other public-domain or authorised reading exists; the only audio found was a 'Blessed Hope' track in a third-party Internet Archive upload of Jim Hodges' commercial (paid) Moody's Great Sermons audiobook, which was rejected as unauthorised."
+  },
+  {
+   "id": "moody-what-think-ye-of-christ",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "LibriVox has no recording of Twelve Select Sermons; the only audio was in an unlicensed third-party Internet Archive re-upload of Jim Hodges' paid Moody's Great Sermons audiobook (rejected), and SermonIndex has the text only."
+  },
+  {
+   "id": "moody-where-art-thou",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "SermonIndex's 'Where Art Thou?' page is text only (PDF and plain-text downloads); the other audio found was the unlicensed Jim Hodges re-upload and Spanish-language translations on SermonAudio, not this English text."
+  },
+  {
+   "id": "moody-excuses",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate English reading found: SermonAudio's D. L. Moody items for this sermon are Spanish translations ('Excusas parte 1'), and the 'Excused' track on Internet Archive comes from an unlicensed re-upload of a paid audiobook."
+  },
+  {
+   "id": "moody-the-prodigal-son",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Glad Tidings (1876 Hippodrome sermons) is on Internet Archive only as scanned text; no LibriVox, public-domain or ministry audio reading was found."
+  },
+  {
+   "id": "moody-true-friendship",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio of this Glad Tidings prayer-meeting talk exists on LibriVox, Internet Archive, SermonIndex or SermonAudio; only scanned text copies were found."
+  },
+  {
+   "id": "moody-love-that-passeth-knowledge",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "This is chapter 1 of The Way to God and How to Find It (1884), but LibriVox (only 5 Moody entries) and Internet Archive have no free reading of that book; the only audio versions found were commercial or trial-based."
+  },
+  {
+   "id": "moody-forgiveness",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No LibriVox, public-domain or authorised audio of this 1884 address was found on LibriVox, Internet Archive, SermonIndex or SermonAudio."
+  },
+  {
+   "id": "moody-who-is-my-neighbor",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free legitimate recording of this 1884 exhortation was found; searches of LibriVox, Internet Archive and SermonIndex returned only text or unrelated material."
+  },
+  {
+   "id": "moody-sowing-and-reaping",
+   "listen_url": "https://librivox.org/sowing-and-reaping-by-dwight-l-moody/",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The LibriVox page lists 'Sowing and Reaping' by Dwight L. Moody (1837-1899), read by Jeremy Sherwood, with 8 sections from 'Sowing and Reaping' to 'Warning'; it quotes Galatians 6:7 and offers MP3, M4B, RSS and torrent downloads."
+  },
+  {
+   "id": "moody-weighed-and-wanting-addresses-on-the-ten-commandments",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Weighed and Wanting is on Project Gutenberg as text only; no recording is on LibriVox's Moody author page or in Internet Archive audio, and the only audio found was a random YouTube upload (excluded)."
+  },
+  {
+   "id": "moody-the-blood",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No LibriVox, public-domain or authorised reading of 'The Blood' was found; LibriVox's Moody catalogue covers only Gospel Dialogues, Prevailing Prayer, Sowing and Reaping and two anthology pieces."
+  }
+ ]
+}

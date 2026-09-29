@@ -1,0 +1,102 @@
+{
+ "rows": [
+  {
+   "id": "finney-sinners-bound-to-change-their-own-hearts",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free legitimate recording was found. LibriVox has no finished Finney title, and the only full readings are paid (the GodSounds/William Crockett audiobook on Audible and Everand). Gospel Truth's free 'How to Change Your Heart' mp3 is a different sermon: it is sermon 2 of the 1836 volume, while this is sermon 1."
+  },
+  {
+   "id": "finney-lectures-on-revivals-of-religion",
+   "listen_url": "https://www.gospeltruth.net/mp3finneyindex.htm",
+   "listen_label": "Gospel Truth Ministries reading (Dennis Carlson)",
+   "kind": "authorised-reading",
+   "evidence": "Gospel Truth's free MP3 index lists 'Lectures on Revival of Religion: Presented on Friday Evenings to His Congregation in New York City -- 1835 --[Read by Dennis Carlson]' with MP3 links for Lectures 1-22, and a check of the files returned HTTP 200 audio/mpeg. The LibriVox recording of this book is unfinished and has no audio yet."
+  },
+  {
+   "id": "finney-prevailing-prayer-lecture-iv",
+   "listen_url": "https://archive.org/details/RevivalLecturesByCharlesG.FinneyReadByPeter-johnParisis-Lecture4-",
+   "listen_label": "Internet Archive public-domain reading (Peter-John Parisis)",
+   "kind": "public-domain-reading",
+   "evidence": "This Internet Archive audio item is titled 'Revival Lectures by Charles G. Finney read by Peter-John Parisis - LECTURE 4 - Prevailing Prayer'. It holds a playable 49-minute file, Lecture4-PrevailingPrayer.mp3, and carries a Creative Commons public-domain licence (as a fallback, Gospel Truth also has a free Lecture 4 mp3)."
+  },
+  {
+   "id": "finney-why-sinners-hate-god",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free legitimate recording of sermon 6 of the 1836 volume was found. Gospel Truth, SermonIndex and SermonAudio only have text or unrelated clips (SermonIndex has audio for just three Finney items), LibriVox has nothing, and the Internet Archive search returned no audio for this title."
+  },
+  {
+   "id": "finney-christian-affinity",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "The only reading found is a paid Audible edition ('Christian Affinity: Charles Finney Sermons', read by Steven Lambert). No free reading exists on LibriVox, the Internet Archive, Gospel Truth or SermonIndex."
+  },
+  {
+   "id": "finney-stewardship",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio of Finney's 1836 'Stewardship' sermon was found. Gospel Truth and SermonIndex offer only the text, and the Internet Archive and LibriVox have no reading."
+  },
+  {
+   "id": "finney-selfishness-not-true-religion",
+   "listen_url": "https://archive.org/details/LecturesOfProfessingChristiansChapter19BeYePerfect/Lectures+of+Professing+Christians+-+Chapter+14+-+What+is+Selfishiness.mp3",
+   "listen_label": "Internet Archive reading (Peter-John Parisis)",
+   "kind": "authorised-reading",
+   "evidence": "The reader's own Internet Archive upload of 'Lectures of Professing Christians' holds 25 chapter mp3s in Finney's order, and track 14 is tagged 'C14_III_Benevolence' ('What is Selfishiness'). That places it as the third 1837 lecture, which Gospel Truth's index shows is 'Selfishness Not True Religion'. Its 44-minute length fits the lecture's roughly 6,460 words."
+  },
+  {
+   "id": "finney-love-the-whole-of-religion",
+   "listen_url": "https://archive.org/details/LecturesOfProfessingChristiansChapter19BeYePerfect/Lectures+of+Professing+Christians+-+Chapter+23+-+Love+Is+All+of+Christianity.mp3",
+   "listen_label": "Internet Archive reading (Peter-John Parisis)",
+   "kind": "authorised-reading",
+   "evidence": "In the same Internet Archive upload of 'Lectures of Professing Christians', track 23 is tagged 'C23_XII_All_We_Need_Is_Love' ('Love Is All of Christianity'). That makes it the twelfth 1837 lecture, which Gospel Truth's index lists as 'Love the Whole of Religion'. Its 42-minute length fits the lecture's roughly 6,135 words."
+  },
+  {
+   "id": "finney-mutual-confession-of-faults-and-mutual-prayer",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording was found of this sermon, printed in the Oberlin Evangelist in 1849. The Internet Archive, LibriVox, SermonIndex and Gospel Truth's MP3 index (revival lectures, memoirs and two sermons only) have nothing for it."
+  },
+  {
+   "id": "finney-the-wonderful-love-of-god",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Gospel Truth hosts only the text of this Penny Pulpit sermon of 22 December 1850. No free legitimate audio turned up in searches or on LibriVox, the Internet Archive or SermonIndex."
+  },
+  {
+   "id": "finney-repentance-before-prayer-for-forgiveness",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio was found of this sermon, printed in the Oberlin Evangelist in 1851. Only text editions exist, and LibriVox, the Internet Archive, SermonIndex and Gospel Truth have no recording."
+  },
+  {
+   "id": "finney-god-s-love-for-a-sinning-world",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio was found of this sermon, printed in the Oberlin Evangelist in 1853. Only text editions exist, and LibriVox, the Internet Archive, SermonIndex and Gospel Truth have no recording."
+  },
+  {
+   "id": "finney-the-blessedness-of-the-merciful",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio was found of this sermon, printed in the Oberlin Evangelist in 1858. Only text editions exist, and LibriVox, the Internet Archive, SermonIndex and Gospel Truth have no recording."
+  },
+  {
+   "id": "finney-on-love-to-our-neighbor",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No audio was found of this sermon, printed in the Oberlin Evangelist in 1860. Only text editions exist, and LibriVox, the Internet Archive, SermonIndex and Gospel Truth have no recording."
+  }
+ ]
+}

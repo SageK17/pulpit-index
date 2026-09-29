@@ -1,0 +1,548 @@
+{
+ "id": "edwards",
+ "name": "Jonathan Edwards",
+ "born": {
+  "date_iso": "1703-10-05",
+  "date_text": "5 October 1703",
+  "place": "East Windsor (now South Windsor), Connecticut"
+ },
+ "died": {
+  "date_iso": "1758-03-22",
+  "date_text": "22 March 1758",
+  "place": "Princeton, New Jersey"
+ },
+ "life_summary": "Jonathan Edwards was born on 5 October 1703 at East Windsor, Connecticut, the only son among the eleven children of the Rev. Timothy Edwards and Esther Stoddard Edwards. He entered the Connecticut Collegiate School (Yale) in 1716, took his B.A. in 1720 and stayed on for graduate study until 1722. Between 1722 and 1726 he preached for about eight months to an English Presbyterian congregation in New York City, briefly settled at Bolton, Connecticut, and then served as a tutor at Yale. In 1726 he went to Northampton, Massachusetts, to assist his grandfather Solomon Stoddard, was ordained there in February 1727, married Sarah Pierpont that July, and became senior pastor when Stoddard died in February 1729. His Northampton ministry included a local revival that began in December 1734 and the wider awakening of 1740–42, during which he preached \"Sinners in the Hands of an Angry God\" at Enfield on 8 July 1741. After he pressed for stricter qualifications for communion, the Northampton church dismissed him on 22 June 1750, and from 1751 he served as pastor and missionary at Stockbridge, where he wrote Freedom of the Will (published 1754). He took office as president of the College of New Jersey at Princeton on 16 February 1758 and died there on 22 March 1758 of complications from a smallpox inoculation.",
+ "phases": [
+  {
+   "start_year": 1703,
+   "end_year": 1716,
+   "label": "East Windsor childhood",
+   "summary": "Grew up in the East Windsor parsonage of his father, the Rev. Timothy Edwards, the only son among eleven children, and was educated at home in the Bible, theology, classics and ancient languages. The Yale chronology records an awakening at East Windsor in March–May 1712.",
+   "place": "East Windsor, Connecticut",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Family Life (K. Minkema)",
+     "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "start_year": 1716,
+   "end_year": 1722,
+   "label": "Yale student years",
+   "summary": "Student at the Connecticut Collegiate School (Yale) at Wethersfield and New Haven, taking his B.A. in May 1720 and continuing graduate study at New Haven until May 1722. He had pleurisy in his last undergraduate year and, by the Yale chronology's dating, a conversion experience at East Windsor in summer 1721.",
+   "place": "Wethersfield and New Haven, Connecticut",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "start_year": 1722,
+   "end_year": 1726,
+   "label": "Early pulpits and tutorship",
+   "summary": "Preached to an English Presbyterian congregation in New York City (August 1722–April 1723), received his M.A. in September 1723, and agreed to settle as pastor at Bolton, Connecticut (November 1723), leaving in May 1724. He then served as a tutor at Yale from June 1724 until September 1726, with an illness in September–December 1725.",
+   "place": "New York City; Bolton and New Haven, Connecticut",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "start_year": 1726,
+   "end_year": 1734,
+   "label": "Early Northampton pastorate",
+   "summary": "Began preaching at Northampton, Massachusetts, in October 1726, was ordained assistant to his grandfather Solomon Stoddard in February 1727, married Sarah Pierpont in July 1727, and became senior pastor when Stoddard died in February 1729. He was ill in spring 1729 and suffered a physical collapse that June; his first four children were born between 1728 and 1734.",
+   "place": "Northampton, Massachusetts",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "start_year": 1734,
+   "end_year": 1742,
+   "label": "Northampton revival years",
+   "summary": "As pastor at Northampton he saw the Connecticut Valley revivals begin in December 1734, published A Faithful Narrative (London 1737; corrected Boston edition 1738), and hosted George Whitefield in October 1740. During the awakening of 1740–42 he preached widely, including at Enfield in July 1741, and defended the revivals in print.",
+   "place": "Northampton, Massachusetts (with preaching journeys in New England)",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "start_year": 1742,
+   "end_year": 1750,
+   "label": "Late Northampton and dismissal",
+   "summary": "Still pastor at Northampton, he preached (1742–43) the sermon series later published as Religious Affections (1746), cared for David Brainerd until his death in 1747, and lost his daughter Jerusha in 1748. From 1749 he was in conflict with his church over qualifications for communion, which ended in his dismissal on 22 June 1750.",
+   "place": "Northampton, Massachusetts",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "start_year": 1750,
+   "end_year": 1757,
+   "label": "Stockbridge mission years",
+   "summary": "After supply preaching at Northampton and elsewhere, he was called to Stockbridge in February 1751 and installed in August 1751 as pastor to its English and Indian congregations, serving about 150 Mahican and Mohawk families. There he wrote Freedom of the Will (published 1754) and Original Sin (completed May 1757), amid frontier war and a long illness from July 1754.",
+   "place": "Stockbridge, Massachusetts",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "start_year": 1757,
+   "end_year": 1758,
+   "label": "Princeton presidency",
+   "summary": "After his son-in-law Aaron Burr died in September 1757, the College of New Jersey offered him its presidency. Released from Stockbridge on 4 January 1758, he took office at Princeton on 16 February and died there on 22 March 1758.",
+   "place": "Stockbridge, Massachusetts; Princeton, New Jersey",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Nassau Presbyterian Church – Princeton Cemetery biography: Jonathan Edwards",
+     "url": "https://nassauchurch.org/about/princetoncemetery/cemetery-bios/cemetery-bio04/"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1703-10-05",
+   "date_text": "5 October 1703",
+   "event": "Born at East Windsor, Connecticut, the only son among the eleven children of the Rev. Timothy Edwards and Esther Stoddard Edwards.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Family Life (K. Minkema)",
+     "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1716-09",
+   "date_text": "September 1716",
+   "event": "Aged 12, began undergraduate studies at the Connecticut Collegiate School (later Yale College), then meeting at Wethersfield.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1720-05",
+   "date_text": "May 1720",
+   "event": "Completed his baccalaureate degree at Yale College in New Haven, delivering the valedictory oration that September and beginning graduate studies on 3 October.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1721",
+   "date_text": "Summer 1721",
+   "event": "While a graduate student, underwent a conversion experience at East Windsor, as dated by the Yale Edwards Center chronology.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1722-08-10",
+   "date_text": "10 August 1722",
+   "event": "Arrived in New York City, aged 18, to preach to an English Presbyterian congregation, a post that ended in April 1723.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1723-11-11",
+   "date_text": "11 November 1723",
+   "event": "Agreed to settle as pastor of Bolton, Connecticut, about two months after receiving his M.A. at New Haven in September 1723.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1724-05-21",
+   "date_text": "21 May 1724",
+   "event": "Elected a tutor at Yale College; he left Bolton before the end of May and began the tutorship in New Haven in early June.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1726-08-29",
+   "date_text": "29 August 1726",
+   "event": "Invited by the Northampton church to assist his grandfather Solomon Stoddard; he resigned his tutorship in September and began preaching there on 26 October.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1727-02-15",
+   "date_text": "15 February 1727",
+   "event": "Ordained at Northampton, Massachusetts, aged 23, as assistant pastor to his grandfather Solomon Stoddard.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1727-07-28",
+   "date_text": "28 July 1727",
+   "event": "Married Sarah Pierpont in New Haven; the couple had eleven children, three sons and eight daughters.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Family Life (K. Minkema)",
+     "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+    }
+   ]
+  },
+  {
+   "date_iso": "1729-02-11",
+   "date_text": "11 February 1729",
+   "event": "Solomon Stoddard died, leaving Edwards, aged 25, as senior pastor at Northampton; that spring he fell ill and in June suffered a physical collapse.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1731-07-08",
+   "date_text": "8 July 1731",
+   "event": "Preached the Boston public lecture that was later published as God Glorified in the Work of Redemption.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1734-12",
+   "date_text": "December 1734",
+   "event": "Revivals began in the Connecticut Valley, including his Northampton congregation; that August he had preached A Divine and Supernatural Light.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1737",
+   "date_text": "1737",
+   "event": "A Faithful Narrative of the Surprising Work of God, his account of the Northampton revival, was published in London; a corrected Boston edition followed in 1738.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1740-10-17",
+   "date_text": "17–19 October 1740",
+   "event": "George Whitefield preached at Northampton over three days; Edwards afterwards accompanied him as far as East Windsor.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    }
+   ]
+  },
+  {
+   "date_iso": "1741-07-08",
+   "date_text": "8 July 1741",
+   "event": "Aged 37 and pastor at Northampton, preached \"Sinners in the Hands of an Angry God\" at Enfield during the regional awakening; it was published in Boston shortly afterwards.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Jonathan Edwards' Famous Sermon (Today in History: July 8)",
+     "url": "https://connecticuthistory.org/jonathan-edwards-delivers-famous-sermon/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1741-09-10",
+   "date_text": "10 September 1741",
+   "event": "Delivered The Distinguishing Marks of a Work of the Spirit of God, a defence of the revivals, at the Yale commencement; it was published shortly afterwards.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1747-10-09",
+   "date_text": "9 October 1747",
+   "event": "The missionary David Brainerd died at the Edwards parsonage in Northampton; Edwards preached his funeral sermon on 12 October and later edited his Life (1749).",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1748-02-14",
+   "date_text": "14 February 1748",
+   "event": "His daughter Jerusha died of a fever, aged 17, a few months after she had helped nurse David Brainerd.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Family Life (K. Minkema)",
+     "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+    }
+   ]
+  },
+  {
+   "date_iso": "1750-06-22",
+   "date_text": "22 June 1750",
+   "event": "After church councils on his stricter qualifications for communion, Northampton dismissed him as pastor, aged 46; he preached his Farewell Sermon on 1 July.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1751-08-08",
+   "date_text": "8 August 1751",
+   "event": "Formally installed as pastor to the English and Indian congregations at Stockbridge in western Massachusetts; his family moved there on 18 October.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+     "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1754-12",
+   "date_text": "December 1754",
+   "event": "Freedom of the Will was published, written at Stockbridge; since July 1754 he had been in a period of ill health lasting about a year.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Biography",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ]
+  },
+  {
+   "date_iso": "1757-09-29",
+   "date_text": "29 September 1757",
+   "event": "According to the Yale Edwards Center chronology, the College of New Jersey trustees wrote offering him the presidency, five days after his son-in-law and the college's president Aaron Burr died.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale – Family Life (K. Minkema)",
+     "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+    }
+   ]
+  },
+  {
+   "date_iso": "1758-02-16",
+   "date_text": "16 February 1758",
+   "event": "Took office as president of the College of New Jersey at Princeton, weeks after his release from Stockbridge (4 January) and his father's death (27 January).",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Princeton & Slavery Project – Jonathan Edwards",
+     "url": "https://slavery.princeton.edu/stories/jonathan-edwards"
+    }
+   ]
+  },
+  {
+   "date_iso": "1758-03-22",
+   "date_text": "22 March 1758",
+   "event": "Died at Princeton, aged 54, of complications from a smallpox inoculation he had received on 23 February; he is buried in Princeton Cemetery.",
+   "sources": [
+    {
+     "label": "Jonathan Edwards Center at Yale – Chronology of Edwards' Life and Writings (K. Minkema)",
+     "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+    },
+    {
+     "label": "Nassau Presbyterian Church – Princeton Cemetery biography: Jonathan Edwards",
+     "url": "https://nassauchurch.org/about/princetoncemetery/cemetery-bios/cemetery-bio04/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Jonathan Edwards Center at Yale – A Chronology of Edwards' Life and Writings (compiled by Kenneth P. Minkema)",
+   "url": "http://edwards.yale.edu/files/JE%20Chronology.pdf"
+  },
+  {
+   "label": "Jonathan Edwards Center at Yale – Jonathan Edwards: Biography",
+   "url": "http://edwards.yale.edu/research/about-edwards/biography"
+  },
+  {
+   "label": "Jonathan Edwards Center at Yale – Family Life (Kenneth P. Minkema)",
+   "url": "http://edwards.yale.edu/research/about-edwards/family-life"
+  },
+  {
+   "label": "ConnecticutHistory.org – Connecticut Origins Shape New Light Luminary Jonathan Edwards",
+   "url": "https://connecticuthistory.org/connecticut-origins-shape-new-light-luminary-jonathan-edwards/"
+  },
+  {
+   "label": "Nassau Presbyterian Church – Princeton Cemetery biography: Jonathan Edwards",
+   "url": "https://nassauchurch.org/about/princetoncemetery/cemetery-bios/cemetery-bio04/"
+  }
+ ],
+ "corrections": [
+  "Checked every date against the Minkema chronology PDF, the Yale biography and family pages, ConnecticutHistory.org, the Princeton & Slavery page and the Nassau Church Princeton Cemetery biography. All the biographer's main dates held up. Note: the Yale edwards.yale.edu pages have an expired HTTPS certificate but load over plain http, so the URLs are kept.",
+  "Princeton phase: replaced the Princeton & Slavery source with the Nassau Church Princeton Cemetery bio, because Princeton & Slavery gives Edwards's death as 23 March 1758, which conflicts with the other sources (22 March).",
+  "Presidency-offer event (29 Sept 1757): now credited to the Yale chronology, because Princeton & Slavery dates the trustees' letter 19 October 1757.",
+  "Enfield sermon event: replaced the general ConnecticutHistory.org article with its 'Today in History: July 8' page, which states the 8 July 1741 date directly. Changed 'published in Boston later that year' to 'shortly afterwards', following the chronology.",
+  "Death event: added the Nassau Church Princeton Cemetery bio as an independent source for 22 March 1758 at Princeton, and added his burial in Princeton Cemetery.",
+  "Top-level sources: replaced Princeton & Slavery (conflicting death date) with the Nassau Church Princeton Cemetery bio.",
+  "Birth event: swapped the Yale Biography source for Yale Family Life. The Biography page only says 'fifth of eleven children'; Family Life states he was the only son (ten daughters and one son).",
+  "Marriage event: removed 'daughter of the late Rev. James Pierpont' because the cited pages do not say it in the marriage context. Kept 'eleven children, three sons and eight daughters' (Family Life).",
+  "1720 event: made the start of graduate studies exact (3 October 1720, per the chronology).",
+  "1729 event and phase: made the timing of the illness exact (April–May 1729 illness, June collapse) instead of 'later that year'.",
+  "1734 event: made the timing of A Divine and Supernatural Light exact (August 1734).",
+  "Phase 'Early pulpits and tutorship': the Bolton entry now says he agreed to settle in November 1723 and left in May 1724. The late-1725 illness is now dated September–December 1725, per the chronology.",
+  "Phase 'Northampton revival years': added that a corrected Boston edition of the Faithful Narrative came out in 1738.",
+  "Phase 'Late Northampton and dismissal': dated the Religious Affections sermon series to 1742–43, per the chronology.",
+  "Phase 'Stockbridge mission years': Original Sin completion made exact (May 1757); illness start given as July 1754.",
+  "Phase 'Princeton presidency': place changed to 'Stockbridge, Massachusetts; Princeton, New Jersey', because he stayed at Stockbridge until January 1758.",
+  "Life summary: added the eight-month length of the New York stint, the 1722 end of graduate study, the exact revival start (December 1734), the exact Enfield date, and the exact date he took office at Princeton; wording kept factual.",
+  "Checked and not used: Wikipedia puts his dismissal from Northampton in October 1751, which conflicts with the primary chronology (22 June 1750), so it was not adopted or cited."
+ ]
+}

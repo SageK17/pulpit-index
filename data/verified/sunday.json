@@ -1,0 +1,424 @@
+{
+ "preacher": {
+  "id": "sunday",
+  "name": "Billy Sunday (William Ashley Sunday)",
+  "lifespan": "1862–1935",
+  "tradition": "Evangelical Protestant revivalism; ordained Presbyterian (1903), nondenominational ministry",
+  "role": "Baseball player turned revivalist and Prohibition campaigner",
+  "bio": "William Ashley Sunday was born near Ames, Iowa, on 19 November 1862. He spent part of his boyhood in Iowa soldiers' orphans' homes, then played outfield in the National League for Chicago, Pittsburgh and Philadelphia between 1883 and 1890. He became a Christian in 1886 or 1887 after hearing a gospel team from Chicago's Pacific Garden Mission. He left baseball for YMCA work in 1891 and became J. Wilbur Chapman's advance man in 1893. In January 1896 he began his own revival meetings at Garner, Iowa, and the Chicago Presbytery ordained him in 1903. His campaigns grew from small Midwestern towns into temporary wooden tabernacles in major cities. His New York City campaign ran from 8 April to 19 June 1917, and the Billy Graham Center Archives says about one million people attended. He campaigned for Prohibition and kept preaching as his crowds shrank in the 1920s. He died in Chicago on 6 November 1935.",
+  "corpus_note": "In 1914 William T. Ellis wrote that Sunday had \"about a hundred discourses\" at his command, which he preached from notes. Theodore Frankenberg (1917) says Sunday had copyrighted more than thirty of them and lists the titles from Library of Congress records. Wikipedia, citing McLoughlin and Dorsett, reports Sunday's own estimate of nearly 20,000 sermons preached. The Billy Graham Center Archives' guide to its Collection 61 says the original Sunday papers are held by Grace College and Theological Seminary in Winona Lake, Indiana. The same guide says the Billy Graham Center and Grace College microfilmed them together in 1978.",
+  "archive_links": [
+   {
+    "label": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), full text, Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/50586"
+   },
+   {
+    "label": "Elijah P. Brown, The Real Billy Sunday (1914, copyright W. A. Sunday), full scan, Internet Archive",
+    "url": "https://archive.org/details/realbillysunday00brow"
+   },
+   {
+    "label": "T. T. Frankenberg, Billy Sunday: His Tabernacles and Sawdust Trails (1917), full scan, Internet Archive",
+    "url": "https://archive.org/details/billysundayhista00franiala"
+   },
+   {
+    "label": "Selected Billy Sunday sermons (sources not stated), biblebelievers.com",
+    "url": "http://www.biblebelievers.com/billy_sunday/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Billy Graham Center Archives, Collection 61 guide: Papers of William and Helen Sunday (archived 2008), with biographical chronology",
+    "url": "https://web.archive.org/web/20080119174411/http://www.wheaton.edu/bgc/archives/GUIDES/061.htm"
+   },
+   {
+    "label": "SABR Biography Project: Billy Sunday",
+    "url": "https://sabr.org/bioproj/person/billy-sunday/"
+   },
+   {
+    "label": "Billy Graham Center Archives exhibit item: 'The Billy Sunday Campaign in New York' (1917), archived",
+    "url": "https://web.archive.org/web/20120426220604/http://www2.wheaton.edu/bgc/archives/exhibits/NYC57/01sample03-1.htm"
+   },
+   {
+    "label": "T. T. Frankenberg, Billy Sunday: His Tabernacles and Sawdust Trails (1917), Internet Archive",
+    "url": "https://archive.org/details/billysundayhista00franiala"
+   },
+   {
+    "label": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/50586"
+   },
+   {
+    "label": "Wikipedia: Billy Sunday",
+    "url": "https://en.wikipedia.org/wiki/Billy_Sunday"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Booze (also published as \"Get on the Water Wagon\")",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "Temperance sermon repeated in revival campaigns and in state temperance and prohibition campaigns",
+   "scripture": "Matthew 8:28–34",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (Philadelphia: John C. Winston, 1914), ch. IX, \"Battling with 'Booze',\" under the heading \"The Famous 'Booze' Sermon\"; also sold as the booklet \"Get on the Water Wagon\"",
+   "summary": "Sunday opens with Jesus sending demons out of two men and into a herd of swine. He compares the hog-owners, who tell Jesus he is hurting their business, to the liquor trade, which he says cares more about profit than about people. Most of the sermon argues against the licensed saloon on economic, medical, social and religious grounds. He blames it for crime, poverty, broken homes and damaged bodies, and he urges men to stop drinking and to use their votes against the saloon.",
+   "context": "Frankenberg (1917) calls the sermon \"Booze\" or \"Get on the Water Wagon\" and says it took about an hour and a half to deliver. He adds that Sunday sometimes preached it three times in one day and that it had sold in pamphlet form \"by the tens of thousands.\" Brown (1914) says Sunday travelled across Illinois giving his \"booze sermon\" before the Illinois spring elections of 1908, during his Charleston campaign. Frankenberg's list of Sunday's Library of Congress copyrights includes \"Get on the water wagon.\" Wikipedia, citing Dorsett, Firstenberger and McLoughlin, calls it Sunday's most famous sermon.",
+   "key_line": "The saloon is the sum of all villanies.",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "sin-repentance",
+    "money-work"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_IX",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. IX (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_IX"
+    },
+    {
+     "label": "Frankenberg 1917, liquor chapter and Library of Congress copyright list (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    },
+    {
+     "label": "Brown 1914, ch. XIX 'A Hard Hitter of the Liquor Traffic' and booklet list (Internet Archive)",
+     "url": "https://archive.org/details/realbillysunday00brow"
+    },
+    {
+     "label": "Wikipedia: Billy Sunday (Prohibition section)",
+     "url": "https://en.wikipedia.org/wiki/Billy_Sunday"
+    }
+   ],
+   "unverified_notes": "Ellis prints no chapter-and-verse. The Matthew 8:28–34 reference is inferred from the opening, which tells of two possessed men and the swine; only Matthew has two men. No date of first delivery was found. I did not check whether the 'Get on the Water Wagon' pamphlet text matches Ellis's 'Booze' text word for word. Brown's version of the same passage spells the key line 'villainies'.",
+   "verification_status": "corrected",
+   "verification_note": "Text, key line and scripture basis confirmed in Ellis; the length, repetition and pamphlet sales confirmed in Frankenberg, and the 1908 Illinois tour in Brown; the chapter citation was corrected to ch. IX 'Battling with \"Booze\"' (the sermon heading sits inside it)."
+  },
+  {
+   "title": "Mother",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Exodus 2:9",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XVIII, \"Help Those Women\"",
+   "summary": "Sunday retells how the infant Moses was hidden and rescued. He credits the mother's courage and prayer, and God's timing, for the child's survival. He argues that a mother's work of shaping children's character and faith is the greatest in the world, and he says a mother's love must be like God's love. Returning to the refrain \"Take this child and nurse it for me,\" he tells mothers that each child is a trust from God and that they have no right to raise children for pleasure.",
+   "context": "Ellis (1914) prints the sermon in a chapter on Sunday's view of womanhood. A booklet called \"Mothers\" is advertised in the back of Brown's authorized 1914 biography. Frankenberg's 1917 list of Sunday's copyrighted discourses includes \"Power of motherhood.\"",
+   "key_line": "A mother's love must be like God's love.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "love"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XVIII",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XVIII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XVIII"
+    },
+    {
+     "label": "'Motherhood' text headed Exodus 2:9 (biblebelievers.com)",
+     "url": "http://www.biblebelievers.com/billy_sunday/sun17.html"
+    },
+    {
+     "label": "Brown 1914, booklet list (Internet Archive)",
+     "url": "https://archive.org/details/realbillysunday00brow"
+    },
+    {
+     "label": "Frankenberg 1917, Library of Congress copyright list (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    }
+   ],
+   "unverified_notes": "Ellis prints no text heading. The Exodus 2:9 reference comes from the online 'Motherhood' version, which has essentially the same text and names no source, and from the sermon's own refrain. It is not established that the 'Mothers' booklet or the copyrighted 'Power of motherhood' is this sermon. No date or place of delivery was found.",
+   "verification_status": "verified",
+   "verification_note": "Text, refrain and key line confirmed in Ellis ch. XVIII; the 'Mothers' booklet (Brown) and 'Power of motherhood' copyright (Frankenberg) confirmed, and the Exodus 2:9 heading confirmed on biblebelievers.com."
+  },
+  {
+   "title": "The Unpardonable Sin",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 12:31–32",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXIX, \"A Victorious Sermon\"",
+   "summary": "Sunday starts from Jesus' saying that every sin can be forgiven except blasphemy against the Holy Spirit. He argues that the unpardonable sin is not one act: swearing, drunkenness, adultery, theft and murder have all been forgiven. It is the repeated and final rejection of Christ. Truth that is resisted loses its power over the mind, he says, and there is a last call after which God's Spirit stops striving with a person. He urges hearers to accept Christ while they still can.",
+   "context": "Ellis (1914) calls it \"a good sample of Sunday's sermons.\" He says many thousands came forward after hearing it; that is his own claim, and no independent record was found. \"Unpardonable sin\" is on the list of discourses that Frankenberg (1917) says were copyrighted in Sunday's name.",
+   "key_line": "It is constant and continual, and final rejection of Jesus Christ as your Saviour.",
+   "primary_category": "judgment",
+   "categories": [
+    "judgment",
+    "forgiveness",
+    "holy-spirit"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXIX",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXIX (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXIX"
+    },
+    {
+     "label": "Frankenberg 1917, Library of Congress copyright list (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    }
+   ],
+   "unverified_notes": "No date or place of delivery was found. Ellis's account of how many people responded is not corroborated.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture heading, key line and copyright listing confirmed in Ellis and Frankenberg; the summary was reworded to match the sermon's argument about resisted truth and the 'last call', which the text states in place of an explicit warning against delay."
+  },
+  {
+   "title": "What Shall I Do with Jesus?",
+   "type": "address",
+   "date_text": "30 March 1914",
+   "date_iso": "1914-03-30",
+   "place": "Gymnasium, University of Pennsylvania, Philadelphia",
+   "occasion": "One of three addresses to University of Pennsylvania students; the invitation was carried by a student deputation led by Thomas S. Evans, secretary of the University's Christian Association",
+   "scripture": "Matthew 27:22",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXVII, \"A Wonderful Day at a Great University\" (extracts from newspaper reports)",
+   "summary": "Sunday takes Pilate's question at Jesus' trial and tells the students that everyone must decide what to do with Christ. He says Pilate failed because he was afraid of losing his job and lacked the courage to act on his convictions. He argues that Christ's character and work put him \"in the God class.\" He warns the students against giving up loyalty to Christ for fear of their peers' ridicule.",
+   "context": "Ellis (1914) says a student deputation heard Sunday at Scranton and invited him to Penn. He says the university had been troubled by several student suicides in the winter of 1913–14. According to Ellis, Sunday spoke three times that day in the gymnasium, which could hold about 3,000 people. Ellis notes that reports of how many came forward varied, the most conservative giving 175 young men. He also quotes the university weekly Old Penn, which said about 1,000 students stood at the Monday night meeting.",
+   "key_line": "Pilate had his chance and he missed it.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "christ-cross",
+    "fear-courage"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXVII",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXVII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXVII"
+    }
+   ],
+   "unverified_notes": "Ellis prints only extracts from newspaper reports, not a full text. The date rests on Ellis alone, though Old Penn's reference to 'Monday' agrees with it (30 March 1914 was a Monday); no independent Penn record was found. Ellis does not say which of the three meetings (noon, afternoon or night) this address was given at. The Matthew 27:22 reference comes from the title, which quotes Pilate's question.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, the three address titles, the Scranton invitation and the response figures confirmed in Ellis ch. XXVII; the occasion was reworded because Ellis says a student deputation led by the Christian Association's secretary brought the invitation, and the chapter title was added."
+  },
+  {
+   "title": "Real Manhood",
+   "type": "address",
+   "date_text": "30 March 1914",
+   "date_iso": "1914-03-30",
+   "place": "Gymnasium, University of Pennsylvania, Philadelphia",
+   "occasion": "One of three addresses to University of Pennsylvania students; the invitation was carried by a student deputation led by Thomas S. Evans, secretary of the University's Christian Association",
+   "scripture": "1 Kings 2:2",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXVII, \"A Wonderful Day at a Great University\" (extracts from newspaper reports)",
+   "summary": "On the verse \"Be thou strong, therefore, and show thyself a man,\" Sunday holds up Abraham, Daniel, Moses, David and Lincoln as examples. He argues that real manhood comes from character and conviction, not from muscle or inherited wealth. In the extracts Ellis prints under this heading, he also warns students against drink and sexual vice and calls for a single moral standard for men and women. He tells them to get an education but not to lose sight of Jesus.",
+   "context": "Ellis (1914) names \"Real Manhood\" as one of the three addresses Sunday gave at Penn that day. He quotes newspaper reports that professors joined the students' laughter. Ellis also calls the day a turning point that quieted much of the criticism of Sunday; that is his own judgment.",
+   "key_line": "The size of the man depends on his mind, not on his muscle.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXVII",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXVII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXVII"
+    }
+   ],
+   "unverified_notes": "Only extracts survive. Ellis has no separate heading for 'Hot-cakes off the Griddle', so some passages printed after 'Real Manhood' (on drink, money and a single moral standard) may belong to that third address. An online text titled 'Shew Thyself a Man' is listed on biblebelievers.com but was not compared. The date rests on Ellis alone.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, heading, the named examples and the key line confirmed in Ellis ch. XXVII; the quoted verse was changed to Ellis's printed wording ('show', not 'shew')."
+  },
+  {
+   "title": "The Devil's Boomerangs (also titled \"Hot Cakes off the Griddle\")",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "Omaha, Nebraska",
+   "occasion": "Afternoon address to men during the Omaha campaign (as stated in the surviving text)",
+   "scripture": "Ecclesiastes 11:9; Galatians 6:7",
+   "published_in": "",
+   "summary": "Sunday argues that God will not force anyone to be a Christian, but people reap what they sow and will face judgment after death. Speaking to men, he attacks drinking, living for money and sexual immorality, and he calls for a single moral standard for men and women. He ends with the deathbed of Frank Flint, a former Chicago teammate, and asks the \"men of Omaha\" who won \"the game of life.\"",
+   "context": "The online text is subtitled \"Hot Cakes off the Griddle.\" Ellis (1914) lists \"Hot-cakes off the Griddle\" as one of three addresses Sunday gave at the University of Pennsylvania on 30 March 1914. The surviving text addresses the \"men of Omaha\" and says Sunday had been in the city three weeks. Frankenberg's 1917 campaign table dates the Omaha campaign 20 September–15 November. Ellis and Frankenberg both print a similar Frank Flint story from Sunday's conversion testimony.",
+   "key_line": "",
+   "primary_category": "judgment",
+   "categories": [
+    "judgment",
+    "sin-repentance",
+    "money-work"
+   ],
+   "read_url": "http://www.biblebelievers.com/billy_sunday/sun18.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "'The Devil's Boomerangs (Hot Cakes Off the Griddle)' text (biblebelievers.com)",
+     "url": "http://www.biblebelievers.com/billy_sunday/sun18.html"
+    },
+    {
+     "label": "Ellis 1914, ch. XXVII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXVII"
+    },
+    {
+     "label": "Frankenberg 1917, campaign table and conversion testimony (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    }
+   ],
+   "unverified_notes": "biblebelievers.com names no source, so the first printing of this text and its exact date are unknown. A search of Internet Archive full text found no other copy under this title. Frankenberg's table places Omaha under the heading 'Campaigns 1914-1915' but gives no year on the line itself, and that grouping could not be checked against another source, so no year is given here. The idea that this is the same sermon Sunday gave at Penn rests only on the shared alternate title. No key line is given because the transcript's provenance is unconfirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Scripture headings, the Omaha references ('men of Omaha', 'three weeks', 'this afternoon') and the Frank Flint ending confirmed in the online text, and the 'Hot-cakes off the Griddle' title confirmed in Ellis; a sentence was added noting that Ellis and Frankenberg print a similar Flint story, and the summary now names Flint."
+  },
+  {
+   "title": "The Three Groups",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 26:22",
+   "published_in": "Elijah P. Brown, The Real Billy Sunday (New York: Fleming H. Revell, 1914; copyright W. A. Sunday), pp. 237–256",
+   "summary": "Sunday starts from the disciples' question at the Last Supper, \"Lord, is it I?\", and describes three groups in Gethsemane. Eight disciples wait near the edge of the garden, Peter, James and John go farther in, and Jesus prays alone. He argues that in every church the largest group lives nearest the world and farthest from Christ, and that true Christians, like true friends who stand by you \"through thick and thin,\" are few. He calls for loyalty to Jesus and presses hearers to say \"Not my will, but Thine be done.\"",
+   "context": "Brown's biography, copyrighted by Sunday and advertised in its back pages as 'the only authorized story of Mr. Sunday's life ever written,' prints this as one of three full sermons. The same book advertises \"Three Groups\" as a separate booklet. \"Three groups\" also appears on Frankenberg's 1917 list of Sunday's copyrighted discourses.",
+   "key_line": "I love to see people as loyal to Jesus as was Speaker Lenthall to the Constitution in the days of King Charles I.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "friendship",
+    "church-unity"
+   ],
+   "read_url": "https://archive.org/details/realbillysunday00brow",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Brown 1914, 'Sermons: The Three Groups' (Internet Archive)",
+     "url": "https://archive.org/details/realbillysunday00brow"
+    },
+    {
+     "label": "Frankenberg 1917, Library of Congress copyright list (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    }
+   ],
+   "unverified_notes": "No date or place of delivery was found. The book reproduces a page of Sunday's handwritten notes for this sermon, but the page is undated. The key line was checked against the Internet Archive OCR text of the scan.",
+   "verification_status": "corrected",
+   "verification_note": "Text heading (Matt. 26:22), page range, key line, booklet advertisement and copyright listing confirmed in Brown and Frankenberg; the summary was corrected because Sunday uses the 'thick and thin' friends image to show how few true Christians there are, not as a call to loyalty."
+  },
+  {
+   "title": "Atonement",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Hebrews 9:13–14",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXXII, \"Glorying in the Cross\"",
+   "summary": "Sunday argues that the shedding of Christ's blood is the center of the faith. He sees it foreshadowed in the Old Testament sacrifices and in God clothing Adam and Eve with animal skins after they sinned. A sinner loses his standing with God through sin, he says, and can regain it only by repenting and accepting the atoning blood. To skeptics who reject blood atonement he answers by asking what they have to offer that is better.",
+   "context": "Ellis (1914) ends his book with this sermon, calling it Sunday's \"closing and most characteristic message.\" He says Sunday's preaching rests on the cleansing blood of Christ. \"Atonement\" is on Frankenberg's 1917 list of discourses copyrighted in Sunday's name.",
+   "key_line": "The atoning blood of Jesus Christ—that is the thing about which all else centers.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "grace-salvation"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXXII",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXXII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXXII"
+    },
+    {
+     "label": "Frankenberg 1917, Library of Congress copyright list (Internet Archive)",
+     "url": "https://archive.org/details/billysundayhista00franiala"
+    }
+   ],
+   "unverified_notes": "No date or place of delivery was found. The online 'Atonement Through the Blood of Jesus' text on biblebelievers.com was not compared with Ellis's version.",
+   "verification_status": "verified",
+   "verification_note": "Opening quotation of Hebrews 9:13–14, key line, the Adam and Eve skins passage and the 'what have you to offer that is better' answer confirmed in Ellis ch. XXXII; the 'Atonement' copyright confirmed in Frankenberg."
+  },
+  {
+   "title": "Teach Us to Pray",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 11:1",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXII, \"Those Billy Sunday Prayers\"",
+   "summary": "Sunday says prayer is the greatest source of power known to human beings. When prayers go unanswered, he argues, the fault lies with the person praying: not being right with God, a lack of faith, selfish motives, giving the poor only what one will not miss, or quarrels with neighbours. He tells hearers to forgive anyone they hold something against before they pray. He says pride hinders prayer, urges prayer in secret, and says Christians should learn prayer from Christ.",
+   "context": "Ellis (1914) prints the sermon in a chapter on Sunday's prayers. He writes that no criticism of Sunday was made more often by ministers than that his public prayers lacked reverence.",
+   "key_line": "If you are a stranger to prayer you are a stranger to the greatest source of power known to human beings.",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "forgiveness",
+    "pride-humility"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXII",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXII"
+    }
+   ],
+   "unverified_notes": "Ellis prints no text heading. Luke 11:1 is the source of the title phrase, which the sermon quotes. No date or place of delivery was found.",
+   "verification_status": "corrected",
+   "verification_note": "Title, key line and the chapter's remarks on criticism of Sunday's prayers confirmed in Ellis ch. XXII; the summary was changed from 'unconfessed sin' to the sermon's own 'not right with God', and the pride point was made explicit."
+  },
+  {
+   "title": "Heaven",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "",
+   "published_in": "W. T. Ellis, \"Billy\" Sunday: The Man and His Message (1914), ch. XXXI, \"Our Long Home\"",
+   "summary": "Sunday argues that neither money, doctors, philosophers nor the wealth of rulers can give eternal life. Morality and culture cannot save anyone either; salvation comes only through accepting Jesus Christ. Citing Jesus' promise of \"many mansions,\" he describes heaven as a real place where believers will meet biblical figures and other noble people, and he urges hearers to make sure of their place there.",
+   "context": "Ellis (1914) prints the sermon in a chapter on Sunday's teaching about heaven. He says Sunday's literal pictures of heaven had comforted \"countless thousands\" of Christians; that is Ellis's own assessment.",
+   "key_line": "Morality doesn't save anybody.",
+   "primary_category": "heaven-hope",
+   "categories": [
+    "heaven-hope",
+    "grace-salvation",
+    "death"
+   ],
+   "read_url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXXI",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Ellis 1914, ch. XXXI (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/cache/epub/50586/pg50586-images.html#CHAPTER_XXXI"
+    }
+   ],
+   "unverified_notes": "Ellis prints no text heading. John 14:2 is quoted in the sermon but is not given as its text. No date or place of delivery was found.",
+   "verification_status": "corrected",
+   "verification_note": "Sermon heading, the 'many mansions' passage and the key line confirmed in Ellis ch. XXXI; 'science' was removed from the summary because the sermon does not discuss it, and the rest was aligned with the text's examples (doctor, philosopher, Queen Elizabeth, Alexander)."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Preacher bio: added 'January' to the 1896 Garner start (BGC Collection 61 guide gives 8–15 January 1896; SABR says January 1896) and specified the Chicago Presbytery as the ordaining body (Frankenberg quotes its records dated 13 April 1903).",
+  "Preacher corpus_note: the statement about the Sunday papers is now attributed to the Billy Graham Center Collection 61 guide, not Wikipedia. The guide says the originals are at Grace College and Theological Seminary and were microfilmed in 1978 in a joint BGC–Grace project. The Frankenberg sentence now notes that he lists the titles.",
+  "Preacher sources: added the BGC Collection 61 guide (archived) and the SABR biography as non-Wikipedia confirmation of the birth date and place, death date (6 Nov 1935), 1903 ordination, Garner 1896 and Chapman 1893. Frankenberg added to archive_links.",
+  "Booze: published_in corrected. Ellis ch. IX is titled 'Battling with \"Booze\"'; 'The Famous \"Booze\" Sermon' is a heading inside that chapter.",
+  "Booze: context reworded to match Brown, who speaks of the Illinois spring elections of 1908, not 'local-option elections'. Wikipedia's citation list corrected to Dorsett, Firstenberger and McLoughlin. Summary adjusted to say the hog-owners complain that Jesus is 'hurting their business'.",
+  "Unpardonable Sin: summary revised. The text argues that resisted truth loses its power and that there is a 'last call'; the unsupported wording 'warns against delay' was removed.",
+  "What Shall I Do with Jesus?: occasion reworded. Ellis says a student deputation led by Thomas S. Evans, secretary of the Christian Association, brought the invitation. Chapter title added to published_in. Summary changed from 'popularity' to 'fear of peers' ridicule' to match the text ('horse-laugh').",
+  "What Shall I Do with Jesus? / Real Manhood: context now mentions Old Penn's 'Monday night meeting', which agrees with 30 March 1914 (a Monday). Note added that the date rests on Ellis alone.",
+  "Real Manhood: quoted verse changed to Ellis's printed wording 'Be thou strong, therefore, and show thyself a man'. Chapter title added to published_in.",
+  "Devil's Boomerangs: summary names Frank Flint. Context adds that Ellis and Frankenberg both print a similar Flint story from Sunday's testimony. unverified_notes records that an Internet Archive full-text search found no other copy.",
+  "Three Groups: summary corrected. Sunday uses 'through thick and thin' friends as an image of how few true Christians there are, not as a model of loyalty. The claim that the largest group is farthest from Christ is now tied to Sunday's 'every church' remark. The context quote of Brown's back-page advertisement was made exact.",
+  "Teach Us to Pray: summary changed from 'unconfessed sin' to 'not being right with God' and from 'stinginess toward the poor' to 'giving the poor only what one will not miss'. The pride-hinders-prayer point was made explicit.",
+  "Heaven: 'science' removed from the summary (the sermon does not mention it). The examples now follow the text: money, doctors, philosophers and the wealth of rulers (Queen Elizabeth, Alexander)."
+ ]
+}

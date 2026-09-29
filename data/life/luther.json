@@ -1,0 +1,561 @@
+{
+ "id": "luther",
+ "name": "Martin Luther",
+ "born": {
+  "date_iso": "1483-11-10",
+  "date_text": "10 November 1483",
+  "place": "Eisleben, County of Mansfeld, Holy Roman Empire (now Saxony-Anhalt, Germany)"
+ },
+ "died": {
+  "date_iso": "1546-02-18",
+  "date_text": "18 February 1546",
+  "place": "Eisleben, County of Mansfeld, Holy Roman Empire (now Saxony-Anhalt, Germany)"
+ },
+ "life_summary": "Martin Luther was born in Eisleben on 10 November 1483. This is the traditional date, and the Neue Deutsche Biographie marks it as uncertain. In 1484 the family moved to Mansfeld, where his father worked in copper mining. After arts studies at Erfurt he entered the Augustinian friary there in July 1505 and was ordained priest in 1507. From 1511 he lived in Wittenberg, where he became doctor of theology in 1512 and was preaching at the town church from 1514. His 95 Theses on indulgences of 31 October 1517 started a dispute that led to his excommunication in January 1521 and to his refusal to recant before the Diet of Worms that April. Placed under the imperial ban, he was hidden at the Wartburg until March 1522 and translated the New Testament into German there. Back in Wittenberg he led the reform of worship and church life. He married the former nun Katharina von Bora in 1525, and they had six children, two of whom died young. He published the complete German Bible in 1534 and wrote catechisms and many polemical works, including a hostile 1543 tract against the Jews. Illness troubled him more and more in these years. He died in Eisleben on 18 February 1546 and was buried in Wittenberg's Castle Church.",
+ "phases": [
+  {
+   "start_year": 1483,
+   "end_year": 1505,
+   "label": "Childhood and Erfurt studies",
+   "summary": "Born in Eisleben and raised in Mansfeld, he went to school in Mansfeld, Magdeburg (from 1497) and Eisenach (from 1498). From 1501 he studied arts at Erfurt and took his bachelor's degree in September 1502 and his master's degree (December 1504 according to NDB, 1505 in other accounts), then began law studies in the summer semester of 1505.",
+   "place": "Eisleben; Mansfeld; Magdeburg; Eisenach; Erfurt",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    },
+    {
+     "label": "luther.de: Childhood and Youth",
+     "url": "https://www.luther.de/en/leben/geburt.html"
+    }
+   ]
+  },
+  {
+   "start_year": 1505,
+   "end_year": 1511,
+   "label": "Augustinian friar at Erfurt",
+   "summary": "He entered the Augustinian friary at Erfurt in July 1505, took vows in 1506, was ordained priest in 1507 and studied theology, including a teaching spell at Wittenberg from autumn 1508 into 1509. He travelled to Rome on business for his order: NDB dates the journey to about November 1510 to early 1511, while Kohnle gives 1511/12.",
+   "place": "Erfurt; Wittenberg; Rome",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    },
+    {
+     "label": "luther.de: Monk and Professor",
+     "url": "https://www.luther.de/en/leben/moench.html"
+    }
+   ]
+  },
+  {
+   "start_year": 1511,
+   "end_year": 1517,
+   "label": "Wittenberg professor and preacher",
+   "summary": "His order moved him to Wittenberg in September 1511. He was elected subprior of the Augustinian house in 1512, received his doctorate that October and lectured on the Psalms, Romans and Galatians. He preached at the town church from 1514 and was elected district vicar of his order in 1515.",
+   "place": "Wittenberg",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Monk and Professor",
+     "url": "https://www.luther.de/en/leben/moench.html"
+    }
+   ]
+  },
+  {
+   "start_year": 1517,
+   "end_year": 1521,
+   "label": "Indulgence controversy to Worms",
+   "summary": "His theses on indulgences led to the Heidelberg Disputation (April 1518), a hearing before Cardinal Cajetan in Augsburg, the Leipzig Debate with Johann Eck and his major treatises of 1520. He was excommunicated in January 1521, refused to recant at the Diet of Worms in April 1521 and was then placed under the imperial ban.",
+   "place": "Wittenberg; Heidelberg; Augsburg; Leipzig; Worms",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "start_year": 1521,
+   "end_year": 1522,
+   "label": "Wartburg exile",
+   "summary": "From May 1521 he lived hidden at the Wartburg near Eisenach as 'Junker Jörg', under the protection of Elector Frederick. There he wrote a postil of model sermons for preachers and translated the New Testament into German. He paid a secret visit to Wittenberg in December 1521 and left the Wartburg for good on 1 March 1522.",
+   "place": "Wartburg Castle, Eisenach",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: The Wartburg",
+     "url": "https://www.luther.de/en/leben/wartburg.html"
+    }
+   ]
+  },
+  {
+   "start_year": 1522,
+   "end_year": 1530,
+   "label": "Wittenberg reform and marriage",
+   "summary": "Back in Wittenberg he preached, lectured and advised on church reform. In the 1525 Peasants' War he first urged peace and then called on rulers to put down the revolt. He married Katharina von Bora in June 1525; three children were born between 1526 and 1529, and one of them, Elisabeth, died in 1528. He stayed in the town during the 1527 plague, wrote his catechisms in 1529 and met Zwingli at Marburg that October.",
+   "place": "Wittenberg",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    },
+    {
+     "label": "Christopher Gehrz, 'Courage and pestilence', Christian History 135 (2020)",
+     "url": "https://christianhistoryinstitute.org/magazine/article/courage-and-pestilence"
+    }
+   ]
+  },
+  {
+   "start_year": 1530,
+   "end_year": 1546,
+   "label": "Later Wittenberg years",
+   "summary": "From April to October 1530 he stayed at Coburg Castle during the Diet of Augsburg, and there he learned of his father's death. His mother died in 1531. Back in Wittenberg he taught, preached and wrote, and he completed the German Bible in 1534. Kidney stones and other illnesses troubled him more and more, and his daughter Magdalena died in 1542. He lectured until 17 November 1545 and preached in Halle and Eisleben on his last journey, which ended with his death in Eisleben in February 1546.",
+   "place": "Coburg; Wittenberg; Eisleben",
+   "sources": [
+    {
+     "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    },
+    {
+     "label": "Eric W. Gritsch, 'Unstoppable', Christian History 39 (1993)",
+     "url": "https://christianhistoryinstitute.org/magazine/article/unstoppable"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1483-11-10",
+   "date_text": "10 November 1483",
+   "event": "Born in Eisleben to Hans Luder and Margarethe Lindemann. NDB marks the date as uncertain. The family moved to nearby Mansfeld in 1484.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1505-07-02",
+   "date_text": "2 July 1505",
+   "event": "According to his own later account, he vowed to become a monk when he was caught in a thunderstorm near Stotternheim on his way back to Erfurt.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Childhood and Youth",
+     "url": "https://www.luther.de/en/leben/geburt.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1505-07-17",
+   "date_text": "17 July 1505",
+   "event": "Entered the Augustinian friary in Erfurt and gave up the law studies his father wanted for him.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1507-04-03",
+   "date_text": "3 April 1507",
+   "event": "Ordained priest; he celebrated his first Mass on 2 May 1507.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Monk and Professor",
+     "url": "https://www.luther.de/en/leben/moench.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1512-10-18",
+   "date_text": "18–19 October 1512",
+   "event": "Received his doctorate in theology at Wittenberg and took over Johann von Staupitz's professorship of biblical exegesis.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1514",
+   "date_text": "1514",
+   "event": "Began preaching regularly at Wittenberg's town church alongside his university lectures.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Monk and Professor",
+     "url": "https://www.luther.de/en/leben/moench.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1517-10-31",
+   "date_text": "31 October 1517",
+   "event": "Sent his 95 Theses on indulgences to Archbishop Albrecht of Mainz and the Bishop of Brandenburg. Scholars disagree on whether he also posted them on the Castle Church door.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1518-10-12",
+   "date_text": "12–14 October 1518",
+   "event": "Questioned by Cardinal Cajetan at Augsburg, he refused to recant. He left the city secretly on 20 October and was back in Wittenberg on 31 October.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1519-07-04",
+   "date_text": "4–13 July 1519",
+   "event": "Debated Johann Eck at Leipzig, where he questioned papal primacy and admitted that church councils could err.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1520-12-10",
+   "date_text": "10 December 1520",
+   "event": "Outside Wittenberg's Elster Gate he burned the papal bull threatening him with excommunication, along with books of canon law. The excommunication was confirmed on 3 January 1521.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1521-04-17",
+   "date_text": "17–18 April 1521",
+   "event": "Appeared before Emperor Charles V at the Diet of Worms and refused to recant his writings unless refuted by Scripture or clear reason.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1521-05-04",
+   "date_text": "4 May 1521",
+   "event": "On his way home from Worms he was seized near Altenstein in a staged ambush arranged by the Saxon court and hidden at the Wartburg.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: The Wartburg",
+     "url": "https://www.luther.de/en/leben/wartburg.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1522-03-09",
+   "date_text": "9 March 1522",
+   "event": "Back in Wittenberg since 6 March, he began a series of daily sermons in the town church on Invocavit Sunday.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1522-09",
+   "date_text": "September 1522",
+   "event": "His German New Testament, translated at the Wartburg in about eleven weeks, was published as the 'September Testament'.",
+   "sources": [
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    },
+    {
+     "label": "luther.de: The Wartburg",
+     "url": "https://www.luther.de/en/leben/wartburg.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1525-05-04",
+   "date_text": "4 May 1525",
+   "event": "During the Peasants' War he wrote a tract calling on rulers to put down the rebel peasants by force, which drew lasting criticism.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1525-06-13",
+   "date_text": "13 June 1525",
+   "event": "Married Katharina von Bora, a former nun. After the wedding the couple lived in Wittenberg's former Augustinian friary, the Black Cloister.",
+   "sources": [
+    {
+     "label": "luther.de: Marriage to Katharina von Bora",
+     "url": "https://www.luther.de/en/leben/hochzeit.html"
+    },
+    {
+     "label": "Luther 2017 (EKD): Katharina von Bora",
+     "url": "https://www.luther2017.de/reformation/und-ihre-menschen/katharina-von-bora/index.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1526-06-07",
+   "date_text": "7 June 1526",
+   "event": "His first child, Hans (Johannes), was born. Five more children followed by December 1534.",
+   "sources": [
+    {
+     "label": "Augenblick mal! (kip-nrw / pep.ekir): Die Kinder von Martin Luther",
+     "url": "https://augenblickmalonline.de/cms/sechs-richtige-die-kinder-von-martin-luther-30903"
+    },
+    {
+     "label": "St. John's Lutheran Church: A Brief History of the Luther Children",
+     "url": "https://stjohns-salisbury.org/2017/05/07/a-brief-history-of-the-luther-children/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1527-08-02",
+   "date_text": "2 August 1527",
+   "event": "Plague reached Wittenberg. Luther stayed in the town to minister to the sick and that year wrote 'Whether One May Flee from a Deadly Plague'.",
+   "sources": [
+    {
+     "label": "Christopher Gehrz, 'Courage and pestilence', Christian History 135",
+     "url": "https://christianhistoryinstitute.org/magazine/article/courage-and-pestilence"
+    }
+   ]
+  },
+  {
+   "date_iso": "1529-10-01",
+   "date_text": "1–3 October 1529",
+   "event": "Met Ulrich Zwingli at the Marburg Colloquy. They failed to agree on Christ's presence in the Lord's Supper.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Sächsische Biografie (Armin Kohnle, 2019)",
+     "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+    }
+   ]
+  },
+  {
+   "date_iso": "1530-05-29",
+   "date_text": "29 May 1530",
+   "event": "His father died while Luther was staying at Coburg Castle during the Diet of Augsburg. A letter brought him the news on 5 June.",
+   "sources": [
+    {
+     "label": "German History in Documents and Images: Luther and his Father (June 5, 1530)",
+     "url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/the-reformer-remembers-luther-and-his-father-june-5-1530"
+    },
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1534",
+   "date_text": "1534",
+   "event": "The first complete edition of his German translation of the whole Bible was published.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Timeline",
+     "url": "https://www.luther.de/en/leben/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1537",
+   "date_text": "1537",
+   "event": "Wrote the Smalcald Articles as his theological testament. At the Schmalkalden meeting that year a severe kidney-stone attack made him believe he was dying, as he wrote to Katharina.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Eric W. Gritsch, 'Unstoppable', Christian History 39",
+     "url": "https://christianhistoryinstitute.org/magazine/article/unstoppable"
+    }
+   ]
+  },
+  {
+   "date_iso": "1542-09",
+   "date_text": "September 1542",
+   "event": "His daughter Magdalena died at the age of 13 after an illness.",
+   "sources": [
+    {
+     "label": "Augenblick mal! (kip-nrw / pep.ekir): Die Kinder von Martin Luther",
+     "url": "https://augenblickmalonline.de/cms/sechs-richtige-die-kinder-von-martin-luther-30903"
+    },
+    {
+     "label": "luther.de: Luther's Death and Last Years",
+     "url": "https://www.luther.de/en/leben/tod.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1543",
+   "date_text": "1543",
+   "event": "Published 'On the Jews and Their Lies', a hostile polemic that departed sharply from his conciliatory 1523 tract 'That Jesus Christ Was Born a Jew'.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "luther.de: Luther's Death and Last Years",
+     "url": "https://www.luther.de/en/leben/tod.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1546-02-18",
+   "date_text": "18 February 1546",
+   "event": "Died in Eisleben after mediating a dispute among the Mansfeld counts. He was buried in Wittenberg's Castle Church on 22 February, where Bugenhagen preached the funeral sermon.",
+   "sources": [
+    {
+     "label": "Neue Deutsche Biographie (Gerhard Müller, 1987)",
+     "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+    },
+    {
+     "label": "Concordia Seminary, Reformation 500: Johannes Bugenhagen",
+     "url": "https://reformation500.csl.edu/johannes-bugenhagen/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Gerhard Müller, 'Luther, Martin', Neue Deutsche Biographie 15 (1987), Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/gnd118575449.html"
+  },
+  {
+   "label": "Armin Kohnle, 'Martin Luther (1483-1546)', Sächsische Biografie (ISGV, 2019)",
+   "url": "https://saebi.isgv.de/biografie/Martin_Luther_(1483-1546)"
+  },
+  {
+   "label": "luther.de: Martin Luther timeline and life pages",
+   "url": "https://www.luther.de/en/leben/"
+  },
+  {
+   "label": "Eric W. Gritsch, 'Unstoppable' (Luther's illnesses), Christian History 39 (1993)",
+   "url": "https://christianhistoryinstitute.org/magazine/article/unstoppable"
+  },
+  {
+   "label": "Luther 2017 (EKD): Katharina von Bora",
+   "url": "https://www.luther2017.de/reformation/und-ihre-menschen/katharina-von-bora/index.html"
+  }
+ ],
+ "corrections": [
+  "Phase 1 (1483-1505): the master's degree is now dated 'December 1504 (NDB) or 1505 in other accounts' instead of 'by early 1505'. Added the school years (Magdeburg from 1497, Eisenach from 1498) and made the law studies 'summer semester 1505' as NDB gives it.",
+  "Phase 3 (1511-1517): dated his election as subprior to 1512, as NDB gives it. The original implied it followed his arrival in 1511.",
+  "Phase 2: made the Wittenberg teaching spell 'autumn 1508 into 1509' and the NDB Rome dating 'about November 1510 to early 1511', following NDB's wording.",
+  "Phase 4: added the date of the Heidelberg Disputation (April 1518), confirmed in NDB and Kohnle.",
+  "Phase 6: named Elisabeth as the child who died (1528), per Kohnle. Changed 'published his catechisms in 1529' to 'wrote' and dated Marburg to October.",
+  "Phase 7: added the death of his mother in 1531 (Kohnle) and the date of his last lecture, 17 November 1545 (NDB). Replaced the luther.de marriage source with Kohnle.",
+  "Event 1483: added that NDB marks the birth date as uncertain.",
+  "Event 1505-07-17: replaced the Wikipedia source with Kohnle.",
+  "Event 1507 ordination: removed 'in Erfurt' and 'with his father present', which none of the fetched sources confirm. Replaced the Wikipedia source with luther.de.",
+  "Event 1512 doctorate: date_iso is now 1512-10-18 to match the day range NDB gives. Replaced the Wikipedia source with Kohnle.",
+  "Event 1517: added the Bishop of Brandenburg as a second recipient (NDB). Reworded the posting debate: NDB doubts the posting, while Kohnle holds that the sources favour it.",
+  "Event 1518: added his return to Wittenberg on 31 October (NDB).",
+  "Event 1520: added that the excommunication was confirmed by the bull of 3 January 1521 (NDB), since the life summary relies on it.",
+  "Event Worms: date_iso changed from 1521-04-18 to 1521-04-17, the first day of the hearing, to match the date_text range.",
+  "Event 4 May 1521: added the location near Altenstein (NDB).",
+  "Event 9 March 1522: removed the claim that the sermons 'ended the town's unrest'. The fetched source confirms only the daily sermons from Invocavit Sunday.",
+  "Event September Testament: replaced NDB with Kohnle and luther.de, which state the eleven-week translation time.",
+  "Event marriage: replaced the NDB source with luther.de. Both remaining sources confirm 13 June 1525.",
+  "Event 1527 plague: made 'stayed to care for the sick' match the source and dated the tract only to 1527.",
+  "Event Marburg: changed 'agreed on most articles' to state only the failed agreement on the Lord's Supper. The fetched sources do not confirm the article count.",
+  "Event father's death: removed 'in Mansfeld', because only genealogy sites support the place.",
+  "Event 1534 Bible: removed 'and Apocrypha', which the fetched sources do not state.",
+  "Event Magdalena: changed '20 September 1542' to 'September 1542' and removed 'in Wittenberg'. The exact day is supported only by Wikipedia and secondary blogs. Dropped the Wikipedia source.",
+  "Main sources: replaced Wikipedia with Luther 2017 (EKD)."
+ ]
+}

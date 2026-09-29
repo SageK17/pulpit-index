@@ -1,0 +1,584 @@
+{
+ "id": "whitefield",
+ "name": "George Whitefield",
+ "born": {
+  "date_iso": "1714-12-16",
+  "date_text": "16 December 1714",
+  "place": "Bell Inn, Gloucester, England"
+ },
+ "died": {
+  "date_iso": "1770-09-30",
+  "date_text": "30 September 1770",
+  "place": "Newburyport, Massachusetts, British North America"
+ },
+ "life_summary": "George Whitefield was born in 1714 at the Bell Inn in Gloucester, England, which his family kept. He matriculated at Pembroke College, Oxford, as a servitor in November 1732, was drawn into the Wesleys' Oxford Methodist circle (the 'Holy Club'), and dated his conversion to 1735. Ordained deacon in June 1736 and priest in January 1739, he ministered at Savannah, Georgia, from May to August 1738, and in February 1739 began preaching in the open air near Bristol and then at Moorfields in London. On his second American visit (1739–1741) he preached from Philadelphia to New England and began building the Bethesda orphan house near Savannah. Back in England in 1741 his published letter against John Wesley's 'Free Grace' sermon opened a breach between the two branches of Methodism; he led the Calvinistic Methodists from the Moorfields Tabernacle, married the widow Elizabeth James in November 1741, and lost his only child in infancy early in 1744. From 1748 he was a domestic chaplain to the Countess of Huntingdon, preached from the Moorfields Tabernacle and his Tottenham Court Road chapel, toured Britain and Ireland, and made further American visits; from 1747 he owned a plantation with enslaved people and lobbied for slavery to be legalized in Georgia. His wife died in 1768, and he died at Newburyport, Massachusetts, on 30 September 1770, during his seventh visit to America.",
+ "phases": [
+  {
+   "start_year": 1714,
+   "end_year": 1732,
+   "label": "Gloucester childhood and schooling",
+   "summary": "Grew up at the Bell Inn in Gloucester, which his family kept; his father died in December 1716. He attended St Mary de Crypt school from 1726, for a time left school to work in the inn, and returned to his studies to prepare for Oxford.",
+   "place": "Gloucester, England",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1732,
+   "end_year": 1736,
+   "label": "Oxford and the Holy Club",
+   "summary": "Studied at Pembroke College, Oxford, as a servitor from November 1732, was befriended by Charles Wesley and drawn into the Oxford Methodists, suffered a breakdown in health, and dated his conversion to 1735. He was ordained deacon in June 1736 and took his BA in July 1736.",
+   "place": "Oxford and Gloucester, England",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    },
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    }
+   ]
+  },
+  {
+   "start_year": 1736,
+   "end_year": 1739,
+   "label": "Deacon, Georgia, field preaching",
+   "summary": "As a young deacon he preached in Gloucester, the west of England, Bristol and London during 1737, sailed for Georgia early in 1738 and served as minister at Savannah from May to late August 1738. Ordained priest in January 1739, he began open-air preaching at Kingswood near Bristol in February and at Moorfields, London, in April, before sailing again for America in August 1739.",
+   "place": "Gloucester, Bristol and London, England; Savannah, Georgia",
+   "sources": [
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    },
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    }
+   ]
+  },
+  {
+   "start_year": 1739,
+   "end_year": 1741,
+   "label": "Second American preaching tour",
+   "summary": "Landed in America on 30 October 1739 and preached in Philadelphia and New York, reached Savannah in January 1740 and began building the Bethesda orphan house, then toured New England in the autumn of 1740, including Boston and Northampton. He sailed from Charleston in January 1741 and reached England in March.",
+   "place": "Philadelphia; Savannah, Georgia; New England",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    },
+    {
+     "label": "Sarah Edwards, letter of 24 October 1740, Banner of Truth",
+     "url": "https://banneroftruth.org/us/resources/articles/2012/sarah-edwards-on-george-whitefield/"
+    }
+   ]
+  },
+  {
+   "start_year": 1741,
+   "end_year": 1744,
+   "label": "Moorfields Tabernacle and marriage",
+   "summary": "After the breach with John Wesley over predestination, he preached from the new Moorfields Tabernacle in London (opened April 1741), visited Scotland in 1741 and 1742, married Elizabeth James in November 1741, and presided at the first Calvinistic Methodist conference in Wales in January 1743. His infant son John was buried in February 1744.",
+   "place": "London; Wales; Scotland",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1744,
+   "end_year": 1748,
+   "label": "Third American visit",
+   "summary": "Sailed with his wife from Plymouth in August 1744, reached New York in October, and stayed in America until June 1748, itinerating through the colonies and, in early 1748, Bermuda. In 1747 he bought a South Carolina plantation with enslaved people and began lobbying for slavery to be legalized in Georgia to support Bethesda.",
+   "place": "American colonies (New England to Georgia); Bermuda",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Penn & Slavery Project, 'George Whitefield'",
+     "url": "https://pennandslaveryproject.archives.upenn.edu/2025/07/10/george-whitefield/"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1748,
+   "end_year": 1769,
+   "label": "Huntingdon chaplain, transatlantic itinerant",
+   "summary": "Became a domestic chaplain to the Countess of Huntingdon in 1748 and preached chiefly from the Moorfields Tabernacle (rebuilt in brick 1753) and his Tottenham Court Road chapel (1756), touring Britain and Ireland and making American visits in 1751–1752, 1754–1755 and 1763–1765. According to the DNB he was seriously ill in the early 1760s and for nearly a year practically unable to preach; his wife died in August 1768.",
+   "place": "London; tours of England, Wales, Scotland, Ireland and America",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1769,
+   "end_year": 1770,
+   "label": "Final American tour",
+   "summary": "Embarked for America shortly after his last English sermons at Ramsgate in September 1769, on his seventh visit. He preached at Charleston and Savannah, left Savannah in April 1770 for Pennsylvania and New England, gave his last sermon at Exeter, New Hampshire, on 29 September 1770, and died the next morning at Newburyport.",
+   "place": "Charleston; Savannah; Pennsylvania; New England; Newburyport, Massachusetts",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    },
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1714-12-16",
+   "date_text": "16 December 1714",
+   "event": "Born at the Bell Inn, Gloucester, which his family kept; his father Thomas died on 27 December 1716.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Dictionary of Methodism in Britain and Ireland, 'Whitefield, George (1714-1770)'",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=2983"
+    }
+   ]
+  },
+  {
+   "date_iso": "1732-11-07",
+   "date_text": "7 November 1732 (matriculation)",
+   "event": "Matriculated at Pembroke College, Oxford, where he paid his way as a servitor waiting on wealthier students.",
+   "sources": [
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1733",
+   "date_text": "1733",
+   "event": "Befriended by Charles Wesley, who introduced him to the Oxford 'Holy Club' and lent him Henry Scougal's The Life of God in the Soul of Man.",
+   "sources": [
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    },
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1735",
+   "date_text": "Spring 1735 (during Lent)",
+   "event": "According to his own account, after a long spiritual struggle and breakdown in health, he experienced conversion; the DNB says he was formally admitted to the Oxford Methodist society that year.",
+   "sources": [
+    {
+     "label": "Dictionary of Methodism in Britain and Ireland, 'Whitefield, George (1714-1770)'",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=2983"
+    },
+    {
+     "label": "Michael A. G. Haykin, 'A flame of pure and holy fire', Southern Equip (SBTS)",
+     "url": "https://equip.sbts.edu/article/a-flame-of-pure-and-holy-fire-the-life-and-ministry-of-george-whitefield-2/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1736-06-20",
+   "date_text": "20 June 1736 (Trinity Sunday)",
+   "event": "Ordained deacon in the Church of England at Gloucester by Bishop Martin Benson, aged 21.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1736-06-27",
+   "date_text": "27 June 1736",
+   "event": "Preached his first sermon at St Mary de Crypt, Gloucester, the church in which he had been baptized.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1738-05-07",
+   "date_text": "7 May 1738",
+   "event": "Began ministering in Georgia as the Trustees' minister of Savannah, staying until 28 August 1738, when he left for England to raise funds and seek priest's orders.",
+   "sources": [
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    },
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1739-01-14",
+   "date_text": "14 January 1739",
+   "event": "Ordained priest at Christ Church, Oxford, by Bishop Martin Benson, with his Georgia appointment as minister of Savannah serving as his title.",
+   "sources": [
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    },
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1739-02-17",
+   "date_text": "17 February 1739",
+   "event": "Preached in the open air for the first time, to coal miners at Rose Green, Kingswood, near Bristol.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Michael A. G. Haykin, 'A flame of pure and holy fire', Southern Equip (SBTS)",
+     "url": "https://equip.sbts.edu/article/a-flame-of-pure-and-holy-fire-the-life-and-ministry-of-george-whitefield-2/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1739-04-29",
+   "date_text": "29 April 1739",
+   "event": "Excluded from London pulpits, he took his open-air preaching to London, standing in Moorfields.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Dictionary of Methodism in Britain and Ireland, 'Whitefield, George (1714-1770)'",
+     "url": "https://dmbi.online/index.php?do=app.entry&id=2983"
+    }
+   ]
+  },
+  {
+   "date_iso": "1740-03-25",
+   "date_text": "25 March 1740",
+   "event": "Began building the Bethesda orphan house near Savannah, Georgia, on land granted by the Trustees, having reached Savannah on 11 January with funds collected for it.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1740-10",
+   "date_text": "October 1740",
+   "event": "Stayed with Jonathan and Sarah Edwards at Northampton, Massachusetts, and preached there during his New England tour.",
+   "sources": [
+    {
+     "label": "Sarah Edwards, letter of 24 October 1740, Banner of Truth",
+     "url": "https://banneroftruth.org/us/resources/articles/2012/sarah-edwards-on-george-whitefield/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1741-03-11",
+   "date_text": "11 March 1741",
+   "event": "Reached Falmouth, England; that month his published letter answering John Wesley's 'Free Grace' sermon opened a public breach between the two branches of Methodism.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1741-11-14",
+   "date_text": "14 November 1741",
+   "event": "Married Elizabeth James (born Burnell), a widow of Abergavenny about ten years older than he, at St Martin's church, Caerphilly, in Wales.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1742-06-03",
+   "date_text": "3 June 1742",
+   "event": "Reached Edinburgh on his second visit to Scotland, a roughly five-month stay during which he preached at the Cambuslang revival.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1743-01-05",
+   "date_text": "5 January 1743",
+   "event": "Presided at the first conference of Calvinistic Methodists, held at Watford near Caerphilly, Wales.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1744-02-08",
+   "date_text": "8 February 1744 (burial)",
+   "event": "His only child, John, born at Hoxton on 4 October 1743, died aged about four months and was buried at Gloucester.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1744-08-10",
+   "date_text": "10 August 1744",
+   "event": "Sailed from Plymouth with his wife on his third visit to America, reaching New York on 26 October; he stayed until 2 June 1748.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1747-03",
+   "date_text": "March 1747",
+   "event": "Bought a plantation with enslaved people in South Carolina to support Bethesda, and that year began pressing for slavery to be legalized in Georgia.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Penn & Slavery Project, 'George Whitefield'",
+     "url": "https://pennandslaveryproject.archives.upenn.edu/2025/07/10/george-whitefield/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1748-08",
+   "date_text": "August 1748",
+   "event": "According to the DNB, shortly after returning to England he was made one of the domestic chaplains of Selina, Countess of Huntingdon (the New Georgia Encyclopedia gives 1749).",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+     "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1753-06-10",
+   "date_text": "10 June 1753",
+   "event": "Opened the new brick Tabernacle at Moorfields, London, replacing the temporary building of 1741 on the same site.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1756-11-07",
+   "date_text": "7 November 1756",
+   "event": "Opened his chapel in Tottenham Court Road, London, which became his second London base alongside the Moorfields Tabernacle.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    }
+   ]
+  },
+  {
+   "date_iso": "1768-08-09",
+   "date_text": "9 August 1768",
+   "event": "His wife Elizabeth died after nearly 27 years of marriage and was buried in the Tottenham Court Road chapel.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1769-09-16",
+   "date_text": "16 September 1769",
+   "event": "Preached his last sermons in England at Ramsgate, shortly before embarking on his seventh and final voyage to America.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1770-09-30",
+   "date_text": "30 September 1770",
+   "event": "Died at Newburyport, Massachusetts, the morning after preaching at Exeter, New Hampshire; he was buried in a vault beneath the pulpit of the town's Presbyterian meeting-house.",
+   "sources": [
+    {
+     "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+    },
+    {
+     "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Dictionary of National Biography (1885-1900), 'Whitefield, George' (Wikisource)",
+   "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Whitefield,_George"
+  },
+  {
+   "label": "Frederick V. Mills, 'George Whitefield (1714-1770)', New Georgia Encyclopedia",
+   "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/george-whitefield-1714-1770/"
+  },
+  {
+   "label": "Christian History Institute, 'Christian History Timeline: George Whitefield 1714-1770'",
+   "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+  },
+  {
+   "label": "Dictionary of Methodism in Britain and Ireland, 'Whitefield, George (1714-1770)'",
+   "url": "https://dmbi.online/index.php?do=app.entry&id=2983"
+  },
+  {
+   "label": "John Wesley, Sermon 53 'On the Death of the Rev. Mr. George Whitefield' (1770), Wesley Center Online",
+   "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+  }
+ ],
+ "corrections": [
+  "born.date_text: removed '(Old Style)' because none of the fetched sources states it; the date 16 December 1714 is confirmed by the DNB, DMBI and New Georgia Encyclopedia.",
+  "Oxford phase and 1733 event: the DNB says he was not formally admitted to the Methodist 'society' until 1735, so 'joined the Holy Club in 1733' now reads 'befriended by Charles Wesley, who introduced him to the Holy Club' (1733 per Christian History). Haykin replaced by the DNB as the second source.",
+  "1735 conversion event: added 'during Lent' (DMBI) and the DNB's note that he was admitted to the society that year; DMBI added as a source.",
+  "1732 event: date labelled as matriculation (DNB) and 'entered' changed to 'matriculated'.",
+  "1738 Savannah event: departure date made precise (28 August 1738, DNB) and the reason given (funds and priest's orders); the Georgia Encyclopedia source replaced by the DNB.",
+  "1739 priest ordination event: added Bishop Benson and the Savannah appointment as his title (DNB).",
+  "Bethesda event: rewritten to reflect the DNB (building begun 25 March 1740 on land granted by the Trustees, after he reached Savannah on 11 January 1740).",
+  "1742 Scotland event: date sharpened from June 1742 to 3 June 1742 (arrival at Edinburgh, DNB).",
+  "1743 Watford event: the DNB states he presided, so 'attended ... Christian History records him as first moderator' became 'presided'; Watford placed near Caerphilly.",
+  "1747 event: replaced the vague 'in the late 1740s he acquired a plantation' with the DNB's 'March 1747, a plantation and slaves in South Carolina'; kept 1747 lobbying (Penn & Slavery); removed the Galli CHI article, which does not mention the plantation purchase.",
+  "1748 Huntingdon chaplaincy: attributed to the DNB and noted that the New Georgia Encyclopedia gives 1749.",
+  "1744 event: added arrival in New York on 26 October 1744 and the exact end date of 2 June 1748 (DNB).",
+  "Son's death event: 'died in infancy' specified as about four months old (born 4 Oct 1743, buried 8 Feb 1744; DNB and Christian History).",
+  "1768 event: added burial in the Tottenham Court Road chapel (DNB).",
+  "1769 event: re-dated from 'September 1769' to the verified 16 September 1769 Ramsgate sermons; no fetched source gives the exact embarkation date, so it is described only as 'shortly before'.",
+  "1748–1769 phase: 'serious illness from 1761 curtailed his preaching' changed to an attributed statement that he was seriously ill in the early 1760s and practically unable to preach for nearly a year (the DNB's printed date '1671' is a misprint, so no exact year is asserted).",
+  "Third American visit phase: added the reached-New-York detail, Bermuda in early 1748 (Christian History) and the 1747 plantation purchase; Christian History added as a source.",
+  "Final phase: replaced the unverified 'left England in September 1769' with 'embarked shortly after the Ramsgate sermons'; added Charleston/Savannah and leaving Savannah on 24 April 1770 (DNB).",
+  "Deacon phase: added 1737 preaching in the west of England and the early-1738 sailing (DNB: boarded the Whitaker 30 Dec 1737, which left the Downs 2 Feb 1738).",
+  "Second tour phase: added New York and Boston (DNB, Christian History).",
+  "Top-level sources: Haykin replaced by the Dictionary of Methodism in Britain and Ireland; Haykin is still cited on individual events.",
+  "life_summary: brought into line with the corrected Holy Club wording, the 1747 plantation purchase and the matriculation date."
+ ]
+}

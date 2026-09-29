@@ -1,0 +1,612 @@
+{
+ "preacher": {
+  "id": "whitefield",
+  "name": "George Whitefield",
+  "lifespan": "1714–1770",
+  "tradition": "Church of England clergyman; Calvinistic Methodist wing of the evangelical revival",
+  "role": "Anglican itinerant evangelist of the eighteenth-century revival",
+  "bio": "Whitefield was born in Gloucester on 16 December 1714 (Old Style) and studied at Pembroke College, Oxford, where he joined the 'Holy Club' of John and Charles Wesley. Bishop Martin Benson ordained him deacon at Gloucester on 20 June 1736, and Benson ordained him priest in January 1739. On 17 February 1739 he preached in the open air to the colliers of Kingswood near Bristol, and outdoor preaching became central to his work. He made seven voyages to the American colonies, and on 25 March 1740 he laid the first brick of the Bethesda orphan house near Savannah, Georgia. Unlike the Wesleys he held Calvinist views, and he served as chaplain to Selina, Countess of Huntingdon. He owned enslaved people and pressed for slavery to be allowed in Georgia, which had banned it. He died at Newburyport, Massachusetts, on 30 September 1770.",
+  "corpus_note": "Wikipedia reports an estimate that he preached more than 18,000 formal sermons, of which 78 have been published. John Gillies's edition of his Works (6 vols, London, 1771–72) prints 59 sermons in volumes 5–6 (1772). Joseph Gurney's Eighteen Sermons (1771) added shorthand transcripts. CCEL's 'Selected Sermons' has 59 texts online: sermons I–LVII of the Works plus The Method of Grace and The Good Shepherd.",
+  "archive_links": [
+   {
+    "label": "CCEL – Selected Sermons of George Whitefield (59 sermons)",
+    "url": "https://ccel.org/ccel/whitefield/sermons.toc.html"
+   },
+   {
+    "label": "Project Gutenberg – Works of George Whitefield, vol. 5 (1772), Sermons I–XXXI",
+    "url": "https://www.gutenberg.org/ebooks/77034"
+   },
+   {
+    "label": "Project Gutenberg – Works of George Whitefield, vol. 6 (1772), Sermons XXXII–LIX",
+    "url": "https://www.gutenberg.org/ebooks/77041"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia – George Whitefield",
+    "url": "https://en.wikipedia.org/wiki/George_Whitefield"
+   },
+   {
+    "label": "John Gillies, Memoirs of the Life of the Reverend George Whitefield (London, 1772), Internet Archive",
+    "url": "https://archive.org/details/memoirsoflifeof00gill"
+   },
+   {
+    "label": "Christian History Institute – George Whitefield timeline",
+    "url": "https://christianhistoryinstitute.org/magazine/article/george-whitefield-timeline"
+   },
+   {
+    "label": "Whitefield's Journal, 17 Feb. 1739, Kingswood (A Continuation of the Reverend Mr. Whitefield's Journal, London: J. Hutton, 1739), Internet Archive",
+    "url": "https://archive.org/details/continuationofre03whit"
+   },
+   {
+    "label": "Works, vol. 6 (1772), title page: 'Chaplain to the Right Honourable, the Countess of Huntingdon' (Project Gutenberg)",
+    "url": "https://www.gutenberg.org/ebooks/77041"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "The Nature and Necessity of Society in General, and of Religious Society in Particular",
+   "type": "sermon",
+   "date_text": "27 June 1736",
+   "date_iso": "1736-06-27",
+   "place": "St Mary de Crypt, Gloucester (first delivery); later St Nicholas, Bristol, and Bow Church, London (1737)",
+   "occasion": "Whitefield's first sermon, a week after his ordination as deacon; later preached before the religious societies at one of their general quarterly meetings",
+   "scripture": "Ecclesiastes 4:9–12",
+   "published_in": "Bristol: S. and F. Farley, 1737 (second edition, 'corrected and amended'); reprinted as 'The Necessity and Benefits of Religious Society' in Works, vol. 5 (London, 1772), Sermon VIII",
+   "summary": "Preaching on 'Two are better than one', Whitefield argues that people are made for society and that Christians especially need small religious societies. Such fellowship lifts members up when they fall, keeps their zeal warm, and lets them stand together against opponents. He sets out three mutual duties: reproof, exhortation and defence. He also urges members to forgive and restore a fallen but repentant brother, as the apostles did with Peter.",
+   "context": "Gillies's 1772 Memoirs says that on the Sunday after his ordination (20 June 1736) Whitefield preached this sermon to a crowded congregation. In a letter of 30 June 1736 Whitefield wrote that he had preached his first sermon the previous Sunday afternoon in St Mary de Crypt, where he was baptized, and that a complaint had reached the bishop that he 'drove fifteen mad'. The preface to the 1737 edition says friends in Bristol printed an incorrect copy without his consent, and nearly 400 copies had sold before he could stop them, so he authorised a corrected edition.",
+   "key_line": "So soon did they forgive, so soon associate with their sinful, yet relenting brother.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "church-unity",
+    "forgiveness"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.x.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gillies, Memoirs (1772), pp. 9–10 (ordination and first sermon)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Whitefield, Letter XVI, Gloucester, 30 June 1736, in Works vol. 1 (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/68976"
+    },
+    {
+     "label": "1737 Bristol edition with preface (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_the-nature-and-necessity_whitefield-george_1737"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.x.html"
+    }
+   ],
+   "unverified_notes": "The day is worked out, not stated. Gillies says 'the Sunday following' the Sunday 20 June 1736 ordination, which gives 27 June, and Whitefield's letter of 30 June 1736 says 'last Sunday'. The letter names the church but not the sermon; Gillies names the sermon but not the church. The printed text of 1737 was 'corrected and amended', so it may differ from what he said in 1736.",
+   "verification_status": "verified",
+   "verification_note": "Date, St Mary de Crypt venue and 'fifteen mad' complaint confirmed from Letter XVI (Works vol. 1) and Gillies; 1737 Bristol title page, preface and Works vol. 5 Sermon VIII heading confirmed; key line found verbatim in the CCEL text."
+  },
+  {
+   "title": "The Nature and Necessity of Our New Birth in Christ Jesus, in Order to Salvation",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "St Mary Redcliffe (printed 'St. Mary Radcliffe'), Bristol",
+   "occasion": "",
+   "scripture": "2 Corinthians 5:17",
+   "published_in": "London: printed for C. Rivington, 1737 ('Published at the Request of several of the Hearers'; the linked scan is the second edition of 1737); reprinted as 'On Regeneration' in Works, vol. 6 (London, 1772), Sermon XLIX",
+   "summary": "Whitefield separates being 'in Christ' by outward profession or baptism from being in Christ through an inward change of heart worked by the Holy Spirit. He gives four reasons why this new birth is necessary: Scripture says so, God is holy and human nature corrupt, heaven's happiness is spiritual, and Christ's redemption is incomplete without it. He then warns that outward duties, moral virtue or partial reform cannot replace it.",
+   "context": "In a letter of 30 June 1736 Whitefield wrote that he hoped soon to finish a sermon on 'He that is in Christ, is a new creature'. The preface to the 1737 edition says the sermon had 'surprizing success' when preached, and wishes that fellow clergy would preach on the subject more often. Gillies reports that two clergymen then told him they would not let him preach in their pulpits unless he withdrew that part of the preface.",
+   "key_line": "In short, thou must not only be an almost, but altogether a new creature, or in vain thou boasteth that thou art a Christian.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "grace-salvation",
+    "holiness"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.li.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1737 edition (second edition), title page, preface and text (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_the-nature-and-necessity_whitefield-george_1737_0"
+    },
+    {
+     "label": "Whitefield, Letter XVI, 30 June 1736, in Works vol. 1 (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/68976"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), p. 15 (pulpits refused over the preface)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Works, vol. 6 (1772), Sermon XLIX 'On Regeneration' (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77041"
+    },
+    {
+     "label": "CCEL text ('On Regeneration')",
+     "url": "https://ccel.org/ccel/whitefield/sermons.li.html"
+    }
+   ],
+   "unverified_notes": "No source checked gives the date he preached it at St Mary Redcliffe. The linked scan is the second edition (London, 1737); the first edition was not seen. Some modern sources call it his first published sermon; the religious-society sermon was also printed in 1737, and which came first was not established.",
+   "verification_status": "corrected",
+   "verification_note": "Title page, preface, letter of 30 June 1736, Gillies's account of refused pulpits and Works vol. 6 Sermon XLIX confirmed; published_in now notes that the linked 1737 scan is the second edition."
+  },
+  {
+   "title": "Intercession Every Christian's Duty",
+   "type": "sermon",
+   "date_text": "27 December 1737",
+   "date_iso": "1737-12-27",
+   "place": "Parish church of Great St Helen's, London",
+   "occasion": "Farewell sermon shortly before he sailed for Georgia (the half-title reads 'Mr. Whitefield's Farewel Sermon, Preached at Great Saint Helen's')",
+   "scripture": "1 Thessalonians 5:25",
+   "published_in": "London: printed by W. Bower for James Hutton, 1738 ('Published at the ... Request of the Hearers'); Works, vol. 6 (London, 1772), Sermon LIV",
+   "summary": "Whitefield blames the lack of love among Christians on neglect of intercession and argues that every believer must pray for others. He says intercession should include all people, the king and those in authority, ministers, friends, enemies (following Christ's prayer for his murderers) and the afflicted. He claims that daily intercession drives out envy, malice and revenge, and he closes with a farewell charge to honour and pray for their ministers.",
+   "context": "Gillies records that in 1737 Whitefield met every evening with a group of friends to pray, and that this led him to compose his sermon on intercession. The printed title dates it to Tuesday 27 December 1737 at Great St Helen's. Gillies says Whitefield embarked for Georgia at the end of that December.",
+   "key_line": "As we ought thus to intercede for our friends, so in like manner must we also pray for Our Enemies.",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "love",
+    "hatred-enemies"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.lvi.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1738 edition, 'preached at the parish church of Great Saint Helen, on Tuesday, December 27. 1737' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_intercession-every-chris_whitefield-george_1738"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), pp. 15–17",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Works, vol. 6 (1772), Sermon LIV (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77041"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.lvi.html"
+    }
+   ],
+   "unverified_notes": "One word of the imprint's 'Published at the ... Request of the Hearers' is unreadable in the scan.",
+   "verification_status": "verified",
+   "verification_note": "Date (27 December 1737 was a Tuesday, Old Style), Great St Helen's venue, farewell half-title and imprint confirmed from the 1738 scan; Gillies's account of the evening prayer meetings and the December 1737 embarkation confirmed; key line found in the CCEL text."
+  },
+  {
+   "title": "Of Justification by Christ",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "Parish church of St Antholin, London (title page adds '&c.')",
+   "occasion": "",
+   "scripture": "1 Corinthians 6:11",
+   "published_in": "London: printed by W. Bower for James Hutton, 1738; Works, vol. 6 (London, 1772), Sermon XLVI",
+   "summary": "Whitefield defines being justified as having one's sins forgiven, so that God regards the sinner as though he had never offended. He argues that everyone needs this because of original sin and the sins of their own lives, and that it comes only through Christ's obedience and death, received by believing in him. He ends by urging convicted sinners not to give up hope of pardon.",
+   "context": "In his opening Whitefield says he chose the subject to answer the charge that Church of England ministers preached 'mere morality' rather than salvation through Christ. The 1738 London edition names only 'the parish church of Saint Antholin, &c.' as the place.",
+   "key_line": "Pardon for the sin of our lives was another thing, which we wanted to have secured to us, before we could be at peace with God.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "forgiveness",
+    "christ-cross"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.xlviii.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1738 edition (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_of-justification-by-chri_whitefield-george_1738"
+    },
+    {
+     "label": "Works, vol. 6 (1772), Sermon XLVI (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77041"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.xlviii.html"
+    }
+   ],
+   "unverified_notes": "The date of delivery is not documented. The '&c.' on the title page suggests he preached it at other churches too, but they are not named. The claim that it was also issued in a 1738 collection called 'Sermons on Several Practical Subjects' could not be confirmed and has been removed.",
+   "verification_status": "corrected",
+   "verification_note": "Imprint, St Antholin title page and scripture confirmed from the 1738 scan and Works vol. 6 Sermon XLVI; removed the unconfirmed claim that it appeared in 'Sermons on Several Practical Subjects' (1738)."
+  },
+  {
+   "title": "Thankfulness for Mercies Received, a Necessary Duty",
+   "type": "sermon",
+   "date_text": "7 May 1738",
+   "date_iso": "1738-05-07",
+   "place": "On board the Whitaker, at anchor near Tybee Island, about fourteen miles from Savannah, Georgia",
+   "occasion": "Farewell sermon to the soldiers, sailors and passengers who had sailed with him to Georgia",
+   "scripture": "Psalm 107:30–31",
+   "published_in": "London: printed for James Hutton, 1738; Works, vol. 5 (London, 1772), Sermon VII",
+   "summary": "Using the psalm's picture of sailors brought safely to harbour, Whitefield argues that reluctance to give thanks is a sign of fallen human nature, and that ingratitude is a sin to pray against. He then addresses in turn the soldiers, the women, the sailors and the companions who had travelled with him, urging them to answer God's recent mercies and deliverances with repentance and changed lives as they begin life in the colony.",
+   "context": "Gillies records that Whitefield embarked for Georgia at the end of December 1737 on a ship full of soldiers. Whitefield's own journal, under Sunday 7 May 1738, says the ship had anchored the night before near Tybee Island, about fourteen miles off Savannah, that he preached his farewell sermon that day, and that he reached Savannah by boat about seven in the evening. In the text he says he had been preaching among his hearers for four months.",
+   "key_line": "And yet as common as this sin of ingratitude is, there is nothing we ought more earnestly to pray against.",
+   "primary_category": "joy",
+   "categories": [
+    "joy",
+    "providence",
+    "sin-repentance"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.ix.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Whitefield, A Journal of a Voyage from London to Savannah (6th ed., London, 1743), entry for Sunday 7 May [1738] (Internet Archive)",
+     "url": "https://archive.org/details/journalofvoyagef00whit"
+    },
+    {
+     "label": "1738 edition, 'preached on board the Whitaker ... on Sunday May the 17th, 1738' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_thankfulness-for-mercies_whitefield-george_1738"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), pp. 17 and 24 (embarkation; farewell sermon before arriving at Savannah on 7 May 1738)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Works, vol. 5 (1772), Sermon VII heading (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77034"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.ix.html"
+    }
+   ],
+   "unverified_notes": "The 1738 title page and the Works heading both read 'Sunday, May 17, 1738', but 17 May 1738 (Old Style) was a Wednesday. Whitefield's journal places the farewell sermon on Sunday 7 May 1738, the day he reached Savannah, and Gillies agrees; the printed '17th' appears to be a misprint.",
+   "verification_status": "corrected",
+   "verification_note": "Date corrected from 17 May to Sunday 7 May 1738 on the evidence of Whitefield's own voyage journal and Gillies (7 May 1738 Old Style was a Sunday); anchorage near Tybee Island added from the journal; ship, imprint and scripture confirmed."
+  },
+  {
+   "title": "The Eternity of Hell-Torments",
+   "type": "sermon",
+   "date_text": "1738",
+   "date_iso": "1738",
+   "place": "Savannah, Georgia (the dedication says it had also been preached elsewhere)",
+   "occasion": "Preached among the inhabitants of Savannah during his first stay in Georgia; printed with a dedication to them",
+   "scripture": "Matthew 25:46",
+   "published_in": "London: printed for James Hutton, 1738 ('A sermon preached at Savannah in Georgia'); Works, vol. 5 (London, 1772), Sermon XXVI",
+   "summary": "Whitefield sets out to prove that the punishment of the unrepentant after death is eternal. He argues from the plain words of Scripture, from the parallel between eternal reward and eternal punishment, from the terms of the Christian covenant, and from the eternal punishment of the devil. He then warns professing Christians who live in sin, those who persuade others to doubt the doctrine, and those who say eternal punishment is inconsistent with God's justice.",
+   "context": "The dedication, signed 'London, 1738', tells the people of Savannah that the sermon had been preached elsewhere, but that they had given it unusual attention and later told him they approved of it. Signing as their 'affectionate though unworthy pastor', he promises to return once he has 'received imposition of hands', meaning ordination as priest.",
+   "key_line": "If men will so far consult their own welfare, as to comply with the gospel, God certainly will not punish them, but on the contrary, confer upon them his rewards.",
+   "primary_category": "judgment",
+   "categories": [
+    "judgment",
+    "sin-repentance"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.xxviii.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1738 edition with dedication (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_the-eternity-of-hell-tor_whitefield-george_1738"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), ch. III–IV (first stay in Georgia, re-embarking for England, 1738)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Works, vol. 5 (1772), Sermon XXVI with dedication (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77034"
+    },
+    {
+     "label": "CCEL text (includes dedication)",
+     "url": "https://ccel.org/ccel/whitefield/sermons.xxviii.html"
+    }
+   ],
+   "unverified_notes": "No day or month is documented. The year 1738 is worked out from his first stay in Georgia (May–August 1738) and the 1738 imprint. The people whose 'antichristian tenets' the dedication mentions are not named.",
+   "verification_status": "corrected",
+   "verification_note": "Title page, Hutton imprint, dedication and Works vol. 5 Sermon XXVI confirmed; summary extended to include the sermon's final inference against those who call eternal punishment unjust."
+  },
+  {
+   "title": "Christ the Best Husband: Or an Earnest Invitation to Young Women to Come and See Christ",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "Fetter Lane, London",
+   "occasion": "Preached to a society of young women",
+   "scripture": "Psalm 45:10–11",
+   "published_in": "London: printed for C. Whitefield, 1740; Works, vol. 5 (London, 1772), Sermon V",
+   "summary": "Preaching to young women from Psalm 45, Whitefield presents Christ as a bridegroom who invites the 'daughters of men' to become his spouse. He describes this marriage as mutual choice, affection, union and obligation, and says the invitation is real and open to the poor as much as the rich. He urges his hearers to accept it, then speaks to those who believe they are already joined to Christ.",
+   "context": "The title page of the 1740 edition says it was preached to a society of young women in Fetter Lane. Throughout the sermon Whitefield addresses his hearers as 'my dear sisters'. No date of delivery is given in the sources checked.",
+   "key_line": "Consider who the Lord Jesus is, whom you are invited to espouse yourselves unto; he is the best husband; there is none comparable to Jesus Christ.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "new-birth",
+    "christ-cross"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.vii.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1740 edition, 'London: printed for C. Whitefield, in the year MDCCXL' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_christ-the-best-husband_whitefield-george_1740"
+    },
+    {
+     "label": "Works, vol. 5 (1772), Sermon V heading (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77034"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.vii.html"
+    }
+   ],
+   "unverified_notes": "The date of delivery is not documented. The CCEL heading misprints the text as 'Psalm 14:10-11'; the 1740 edition, the Works heading and the verse quoted are Psalm 45:10–11.",
+   "verification_status": "corrected",
+   "verification_note": "Title page, Fetter Lane society and Psalm 45:10–11 confirmed from the 1740 scan and Works vol. 5; the imprint does name London, so 'London' was added and the note saying no place was given was removed."
+  },
+  {
+   "title": "The Great Duty of Charity Recommended",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "Kennington Common (near London) and Gloucester, among other places",
+   "occasion": "",
+   "scripture": "1 Corinthians 13:8",
+   "published_in": "London: printed for C. Whitefield, 1740, as 'The Great Duty of Charity Recommended, Particularly to All Who Profess Christianity'; Works, vol. 6 (London, 1772), Sermon XLVII",
+   "summary": "Whitefield defines the 'charity' of 1 Corinthians 13 as love that acts to relieve others, 'be they friends or enemies'. He urges the rich to give and rebukes most of the clergy for neglecting the poor. He asks the poor to help one another, and argues that caring for people's souls is a still higher charity. True charity, he says, must come from love to God, not worldly motives.",
+   "context": "The 1740 title page says it was preached at Kennington Common, at Gloucester and elsewhere. Gillies and another 1740 title record that he preached at Kennington Common in 1739. In the sermon he refers to ill treatment he was receiving from his 'letter-learned brethren'.",
+   "key_line": "For, if we have not charity, we are not Christians: charity is the great duty of Christians: and where is our Christianity, if we want charity?",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "money-work",
+    "justice-society"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.xlix.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1740 edition, 'London: printed for C. Whitefield' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_the-great-duty-of-charit_whitefield-george_1740"
+    },
+    {
+     "label": "'What Think Ye of Christ? A sermon preached at Kennington-Common, in the year MDCCXXXIX' (1740, Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_what-think-ye-of-christ_whitefield-george_1740"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), ch. V (preaching on Kennington Common, 1739)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.xlix.html"
+    }
+   ],
+   "unverified_notes": "The dates of the Kennington Common and Gloucester sermons are not documented; the only firm date is the 1740 printing.",
+   "verification_status": "corrected",
+   "verification_note": "Title page (Kennington Common, Gloucester, &c.), 1 Corinthians 13:8 and the 'letter-learned brethren' remark confirmed; London added to the imprint from the title-page image."
+  },
+  {
+   "title": "The Method of Grace",
+   "type": "sermon",
+   "date_text": "13 September 1741",
+   "date_iso": "1741-09-13",
+   "place": "High Church-yard, Glasgow",
+   "occasion": "Sabbath-morning sermon in the churchyard, one of a series he preached in the High Church-yard of Glasgow from Friday 11 to Tuesday 15 September 1741",
+   "scripture": "Jeremiah 6:14",
+   "published_in": "Glasgow: sold by Robert Smith at the Gilt Bible, Salt-mercat, 1741; not among the 59 sermons in Gillies's Works (1772)",
+   "summary": "Starting from Jeremiah's charge against prophets who cried 'Peace, peace, when there is no peace', Whitefield warns against false assurance. He sets out what must happen before a person can rightly claim peace with God: conviction of actual sins, of original sin, of trust in one's own good works, and of unbelief, and then closing with Christ by a living faith. He ends by warning converts against backsliding and appealing to the unconverted.",
+   "context": "Advertisements in the 1741 Glasgow pamphlets list the sermons Whitefield preached in the High Church-yard of Glasgow, sold by the bookseller Robert Smith, including this one (Sabbath morning) and The Believer's Golden Chain (Tuesday afternoon), with The Lord Our Righteousness (Friday) announced as in the press. The title page says it was taken from his own mouth and published at the desire of many hearers. In the text he addresses people 'here in this church-yard' who were 'born in Scotland'.",
+   "key_line": "How many of us cry, Peace, peace, to our souls, when there is no peace!",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "sin-repentance",
+    "new-birth"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.lx.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1741 Glasgow edition, 'preached on Sabbath morning, September 13th, 1741. In the High-church-yard of Glasgow' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_the-method-of-grace-a-s_whitefield-george_1741"
+    },
+    {
+     "label": "Persecution, the Christian's Lot (Glasgow, 1741), preached Monday 14 September 1741, with list of the series (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_persecution-the-christi_whitefield-george_1741"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.lx.html"
+    }
+   ],
+   "unverified_notes": "The title-page wording was read from a poor scan. The claim that it was also issued in a collection called 'Eight Sermons' (Glasgow, 1741) could not be confirmed and has been removed. The CCEL text was compared with the 1741 edition at the opening and at the church-yard passage, not collated in full.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue and Jeremiah 6:14 confirmed from the 1741 Glasgow title page; the Friday–Tuesday series confirmed from the list in Persecution, the Christian's Lot; removed the unconfirmed 'Eight Sermons' collection and reworded the printer claim to match the advertisements."
+  },
+  {
+   "title": "Britain's Mercies, and Britain's Duty",
+   "type": "sermon",
+   "date_text": "24 August 1746",
+   "date_iso": "1746-08-24",
+   "place": "The New Building, Philadelphia",
+   "occasion": "Sermon on the colony's thanksgiving for the suppression of the Jacobite rebellion ('the late unnatural rebellion')",
+   "scripture": "Psalm 105:45",
+   "published_in": "First printed at Philadelphia, 1746 (printer not confirmed); Boston: S. Kneeland and T. Green, 1746 ('The Second Edition'); London: reprinted for J. Robinson, 1746; Works, vol. 5 (London, 1772), Sermon VI",
+   "summary": "Whitefield argues that love for God's mercies is the strongest motive to obey him. He reviews Britain's national deliverances up to the recent defeat of the rebel army of the 'young Pretender' by the Duke of Cumberland. He insists that thanks must be shown in lives that keep God's laws, not only in words, argues that Christ's moral law serves the good of the whole commonwealth, and warns that disobedience may bring further judgments.",
+   "context": "In his opening Whitefield explains that he had to be absent on the colony's recent thanksgiving day, appointed by the governor's proclamation, so he preached on its subject afterwards. The 1746 editions date the sermon to Sunday 24 August 1746, and the Boston edition places it at the New Building in Philadelphia.",
+   "key_line": "May I not appeal to the most refined reasoner whether the religion of Jesus Christ be not a social religion?",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "providence",
+    "holiness"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.viii.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1746 Boston edition ('The Second Edition'), 'preach'd at the New-building in Philadelphia, on Sunday August 24, 1746' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_britains-mercies-and-b_whitefield-george_1746"
+    },
+    {
+     "label": "1746 London reprint, 'Philadelphia printed: London re-printed, for J. Robinson' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_britains-mercies-and-b_whitefield-george_1746_0"
+    },
+    {
+     "label": "Works, vol. 5 (1772), Sermon VI heading (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77034"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.viii.html"
+    }
+   ],
+   "unverified_notes": "No Philadelphia first edition was seen, so its printer is not confirmed. CCEL's online heading misprints the date as 14 August and the text as 'Psalm 55:45'; the 1746 editions and Works give 24 August 1746 and Psalm 105:45.",
+   "verification_status": "corrected",
+   "verification_note": "Date (a Sunday, Old Style), New Building venue and Psalm 105:45 confirmed from the Boston and London 1746 editions and Works vol. 5; the unconfirmed 'W. Bradford' imprint was replaced with the Boston second edition and London reprint actually seen."
+  },
+  {
+   "title": "The Seed of the Woman, and the Seed of the Serpent",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Genesis 3:15",
+   "published_in": "Nine Sermons upon the Following Subjects (London: Sam. Mason and G. Harris, 1742), Sermon II; Works, vol. 5 (London, 1772), Sermon I",
+   "summary": "Whitefield retells the Fall in Genesis 3 and reads verse 15 as the first promise of a Saviour. Satan bruised Christ's heel through temptation, persecution and his sufferings, and Christ bruised Satan's head on the cross. The same enmity runs through the persecution of the godly since Abel and the struggle of grace against sin in each believer. He tells believers not to fear their opponents but to be kind to them and pray for them, trusting Christ's final victory.",
+   "context": "In the preface to Nine Sermons (1742), Whitefield says he wrote these sermons down during his latest voyage from America to England. He says they give the substance, not the exact words, of what he had preached on the same subjects in America, Scotland and England.",
+   "key_line": "Be not any wise terrified by your adversaries; the king of the church has them all in a chain: be kind to them, pray for them; but fear them not.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "hatred-enemies",
+    "sin-repentance"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.iii.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Nine Sermons (1742), title page, preface and contents (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_nine-sermons-upon-the-fo_whitefield-george_1742_0"
+    },
+    {
+     "label": "Works, vol. 5 (1772), Sermon I (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77034"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.iii.html"
+    }
+   ],
+   "unverified_notes": "No date or place of delivery is documented, and by Whitefield's own account the printed text is not a word-for-word record of any one sermon. I did not confirm whether the 1742 Nine Sermons was the first printing.",
+   "verification_status": "corrected",
+   "verification_note": "Nine Sermons title page, preface, contents (Sermon II) and Works vol. 5 Sermon I confirmed; London printers added to published_in and the summary now notes the sermon's retelling of the Fall; key line found in the CCEL text and the 1742 edition."
+  },
+  {
+   "title": "The Good Shepherd: A Farewell Sermon",
+   "type": "sermon",
+   "date_text": "30 August 1769",
+   "date_iso": "1769-08-30",
+   "place": "The Tabernacle, Moorfields, London",
+   "occasion": "Farewell sermon at seven in the morning, just before his final departure for America",
+   "scripture": "John 10:27–28",
+   "published_in": "London, 1769, as 'A Sermon by the Reverend Mr. George Whitefield, Being His Last Farewell to His Friends' (the linked scan is the second edition, 1769); Joseph Gurney, Eighteen Sermons (1771), Sermon XVIII 'The Good Shepherd'",
+   "summary": "Expounding Christ's words about his sheep, Whitefield describes believers as belonging to Christ: they hear his voice, follow him, are known by him, and receive eternal life from which no one can pluck them. The closing section is a personal farewell. He mentions his thirteenth Atlantic crossing, commits his London hearers to Christ, asks them to keep praying, and appeals to those not yet converted.",
+   "context": "The 1769 edition's preface says the sermon was 'taken verbatim' and calls it the last Whitefield preached in England. However, his own journal, quoted by Gillies, records him preaching at Deal and Ramsgate in September 1769 while waiting to sail. In the same journal he calls a 'surreptitious' shorthand copy of this farewell sermon badly paragraphed and 'wretchedly unconnected'. He died at Newburyport, Massachusetts, on 30 September 1770.",
+   "key_line": "He holds them in his hand, that is, he holds them by his power; none shall pluck them thence.",
+   "primary_category": "faith-doubt",
+   "categories": [
+    "faith-doubt",
+    "heaven-hope",
+    "christ-cross"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.lxi.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "1769 edition, 'his last farewell ... preached at the Tabernacle in Moorfields ... August the 30th, 1769' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_a-sermon-by-the-reverend_whitefield-george_1769"
+    },
+    {
+     "label": "Gurney, Eighteen Sermons (1771), 'taken verbatim in short-hand' (Internet Archive)",
+     "url": "https://archive.org/details/bim_eighteenth-century_eighteen-sermons-preache_whitefield-george_1771"
+    },
+    {
+     "label": "Gillies, Memoirs (1772), pp. 257–262 (journal extracts in the Downs, Deal and Ramsgate, September 1769)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.lxi.html"
+    }
+   ],
+   "unverified_notes": "The text is someone else's shorthand transcription, not revised by Whitefield, and he criticised a shorthand copy of it. The CCEL wording differs slightly from the 1769 pamphlet's opening and may follow Gurney's 1771 transcription.",
+   "verification_status": "corrected",
+   "verification_note": "Date (Wednesday 30 August 1769), 7 a.m. Tabernacle setting, John 10:27–28, the 'last in England' preface and Whitefield's 'wretchedly unconnected' complaint confirmed; Gillies page reference corrected from pp. 265–267 to pp. 257–262."
+  },
+  {
+   "title": "Preached Before the Governor, and Council, and the House of Assembly, in Georgia, on January 28, 1770",
+   "type": "sermon",
+   "date_text": "28 January 1770",
+   "date_iso": "1770-01-28",
+   "place": "Chapel of the Orphan-house Academy, Bethesda, Georgia",
+   "occasion": "Service attended by the Governor, Council and Commons House of Assembly of Georgia at Whitefield's invitation",
+   "scripture": "Zechariah 4:10",
+   "published_in": "Works, vol. 6 (London, 1772), Sermon LVII",
+   "summary": "Starting from Zechariah's vision during the rebuilding of the temple after the exile, Whitefield argues that God often works through small and despised beginnings. He then reviews the history of the colony of Georgia and of the Bethesda orphan house. In doing so he calls the colony's original ban on importing enslaved Africans a 'defect' that had caused its decline. He pledges that the institution will stay open to all denominations and appeals to his hearers to turn to Christ.",
+   "context": "Gillies reprints the Georgia Gazette of 31 January 1770, which reports the service, the text preached on, and Whitefield's account of the discouragements he had faced in running the orphan house for 'upwards of thirty years'. It also notes the two new wings being built for students. Gillies also prints the Commons House of Assembly minutes of 29 January 1770, which report that the House heard him preach at the Orphan-house Academy.",
+   "key_line": "Fear not, though the beginnings are but small, Christ will not despise the day of small things.",
+   "primary_category": "providence",
+   "categories": [
+    "providence",
+    "justice-society",
+    "church-unity"
+   ],
+   "read_url": "https://ccel.org/ccel/whitefield/sermons.lix.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gillies, Memoirs (1772), pp. 263–265 (Georgia Gazette and Assembly minutes, January 1770)",
+     "url": "https://archive.org/details/memoirsoflifeof00gill"
+    },
+    {
+     "label": "Works, vol. 6 (1772), Sermon LVII (Project Gutenberg)",
+     "url": "https://www.gutenberg.org/ebooks/77041"
+    },
+    {
+     "label": "CCEL text",
+     "url": "https://ccel.org/ccel/whitefield/sermons.lix.html"
+    }
+   ],
+   "unverified_notes": "I did not confirm whether this sermon was printed separately before it appeared in Works (1772); Works does not mark it as first published from his manuscripts.",
+   "verification_status": "verified",
+   "verification_note": "Georgia Gazette report of 31 January 1770 and Assembly minutes of 29 January 1770 confirmed in Gillies; Zechariah 4:10 and Works vol. 6 Sermon LVII heading confirmed; the 'defect' and all-denominations passages and the key line found in the text."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: birth date given as 16 December 1714 (Old Style) per Gillies; priest's orders dated January 1739 by Benson per Gillies; first open-air sermon dated 17 February 1739 at Kingswood per Whitefield's 1739 Journal; Bethesda's first brick dated 25 March 1740 per Gillies; 'campaigned for slavery to be made legal' reworded to 'pressed for slavery to be allowed in Georgia' (Wikipedia; Gillies).",
+  "Profile corpus_note: the 18,000/78 figures are now attributed as an estimate that Wikipedia reports; CCEL's 59 texts are noted as Works I–LVII plus The Method of Grace and The Good Shepherd, which differs from Gillies's 59.",
+  "Profile sources: added the Works vol. 6 title page as the source for the Huntingdon chaplaincy, and the Journal source label now names the 17 Feb. 1739 Kingswood entry.",
+  "Religious Society: context now says the letter of 30 June 1736 places the first sermon in St Mary de Crypt; no other changes.",
+  "New Birth: published_in notes that the linked 1737 London scan is the second edition; 'two London clergymen' changed to 'two clergymen', as Gillies wrote; Works vol. 6 source added.",
+  "Of Justification by Christ: removed the unconfirmed claim that it was issued in 'Sermons on Several Practical Subjects' (London, 1738) from published_in and context.",
+  "Thankfulness for Mercies: date corrected from 17 May 1738 to Sunday 7 May 1738 (Whitefield's voyage journal and Gillies; the printed '17th' is a misprint); place refined to at anchor near Tybee Island, about fourteen miles from Savannah; journal source added; summary now includes the sailors and women he addresses.",
+  "Eternity of Hell-Torments: summary extended with the sermon's final inference against those who call eternal punishment unjust; place notes that it was also preached elsewhere.",
+  "Christ the Best Husband: imprint corrected to 'London: printed for C. Whitefield, 1740' (the title page does name London); removed the unverified note saying no place was given.",
+  "Great Duty of Charity: imprint corrected to 'London: printed for C. Whitefield, 1740'; Gillies added as a source for preaching on Kennington Common in 1739.",
+  "Method of Grace: removed the unconfirmed 'Eight Sermons (Glasgow, 1741)' claim; published_in and context reworded to match the Robert Smith advertisements ('sold by', with The Lord Our Righteousness announced as in the press).",
+  "Britain's Mercies: replaced the unconfirmed 'Philadelphia: W. Bradford' imprint with the editions actually seen (Boston: Kneeland and Green, 'Second Edition', 1746; London reprint for J. Robinson, 1746, which says it was first printed at Philadelphia); summary tweaked (motive of love; thanks shown in lives, not only words; Duke of Cumberland's victory).",
+  "Seed of the Woman: published_in now names the Nine Sermons imprint (London: Sam. Mason and G. Harris, 1742); summary notes that the sermon retells the Fall.",
+  "Good Shepherd: Gillies page reference corrected from pp. 265–267 to pp. 257–262; summary adds his request for continued prayer and his appeal to the unconverted."
+ ]
+}

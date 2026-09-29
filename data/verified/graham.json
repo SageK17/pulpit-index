@@ -1,0 +1,607 @@
+{
+ "preacher": {
+  "id": "graham",
+  "name": "Billy Graham",
+  "lifespan": "1918–2018",
+  "tradition": "Southern Baptist; evangelical, interdenominational crusade evangelism",
+  "role": "Evangelist; founder, Billy Graham Evangelistic Association",
+  "bio": "Billy Graham was born on 7 November 1918 in Charlotte, North Carolina, and raised on a dairy farm there. In 1934, at age 15, he made a commitment to Christ at revival meetings led by the evangelist Mordecai Ham. In 1939 Peniel Baptist Church in Palatka, Florida, ordained him. He graduated from Florida Bible Institute in 1940 and from Wheaton College in 1943, and married Ruth McCue Bell that year. In 1950 he founded the Billy Graham Evangelistic Association (BGEA) in Minneapolis, and BGEA's timeline dates the first airing of its Hour of Decision radio programme to November 1950. BGEA says he preached in person to nearly 215 million people in more than 185 countries and territories. He died on 21 February 2018, aged 99.",
+  "corpus_note": "BGEA's online Billy Graham Audio Archives describes itself as holding over 1,600 sermons spanning 60 years of ministry, and its Billy Graham Classics series re-airs crusade sermons as video. In April 2014 Patch reported that the Billy Graham Center Archives at Wheaton College had digitized 3,760 typescript sermon manuscripts (1941–2006) together with transcripts of crusade recordings (1949–2003). According to the Billy Graham Library, BGEA moved the collection to Charlotte in 2019, and the Billy Graham Archive and Research Center opened to researchers on 7 November 2022.",
+  "archive_links": [
+   {
+    "label": "Billy Graham Audio Archives (BGEA, over 1,600 sermons)",
+    "url": "https://billygraham.org/sermons"
+   },
+   {
+    "label": "Billy Graham Classics (BGEA video sermons)",
+    "url": "https://billygraham.org/classics"
+   },
+   {
+    "label": "Billy Graham Archive and Research Center, Charlotte",
+    "url": "https://billygrahamarchivecenter.com/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "BGEA, Billy Graham biography",
+    "url": "https://billygraham.org/about/biographies/billy-graham/"
+   },
+   {
+    "label": "BGEA, Ministry Timeline",
+    "url": "https://billygraham.org/ministry-timeline"
+   },
+   {
+    "label": "BGEA, Billy Graham Audio Archives",
+    "url": "https://billygraham.org/sermons"
+   },
+   {
+    "label": "Patch (Wheaton), Billy Graham's sermon manuscripts available online (4 April 2014)",
+    "url": "https://patch.com/illinois/wheaton/billy-grahams-sermon-manuscripts-available-online"
+   },
+   {
+    "label": "Billy Graham Library, Bringing Billy Graham's Archives Home",
+    "url": "https://billygrahamlibrary.org/blog-bringing-billy-grahams-archives-home/"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "We Need Revival",
+   "type": "sermon",
+   "date_text": "25 September 1949",
+   "date_iso": "1949-09-25",
+   "place": "Tent at Washington and Hill Streets, Los Angeles, California",
+   "occasion": "Opening meeting of the Christ for Greater Los Angeles campaign",
+   "scripture": "Isaiah 1:1–20",
+   "published_in": "Revival in Our Time: The Story of the Billy Graham Evangelistic Campaigns (Wheaton, IL: Van Kampen Press, 1950)",
+   "summary": "Graham read the opening chapter of Isaiah, which pictures a sinful nation spared from Sodom's fate only by a small remnant, and applied it to America. He listed moral dangers (sexual immorality, gambling, teenage delinquency, alcoholism) and outside threats (communism, which he described as a religion inspired by the devil, and the atomic bomb). He argued that time was short and called hearers to give their lives to Christ, presenting a national turn back to God, a revival, as the answer to the crisis.",
+   "context": "Historian Grant Wacker dates Graham's first sermon of the campaign to the afternoon of Sunday 25 September 1949, two days after President Truman announced that the Soviet Union had exploded an atomic bomb, and writes that Graham reminded his audience of that news. The meetings, held in a Ringling Brothers tent near the city's central shopping district, were scheduled for three weeks but were extended to eight, running to 20 November. In Christian History magazine Wacker notes that no hard copy of William Randolph Hearst's often-cited order to 'puff Graham' ever materialized.",
+   "key_line": "",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "judgment",
+    "holy-spirit"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Central Baptist Theological Seminary, Billy Graham, Revivalism, and the City of Angels (citing Revival in Our Time)",
+     "url": "https://centralseminary.edu/billy-graham-revivalism-and-the-city-of-angels/"
+    },
+    {
+     "label": "EerdWord, Grant Wacker, The Architecture of Billy Graham's 'Threshold' 1949 Los Angeles Revival",
+     "url": "https://eerdword.com/the-architecture-of-billy-grahams-threshold-1949-los-angeles-revival/"
+    },
+    {
+     "label": "Christian History Magazine 111, Grant Wacker, Watershed: Los Angeles 1949",
+     "url": "https://christianhistoryinstitute.org/magazine/article/watershed-los-angeles-1949/"
+    }
+   ],
+   "unverified_notes": "The book Revival in Our Time was not consulted directly. That the printed 'We Need Revival' is the opening sermon rests on Central Seminary's article, which cites pp. 53 and 59 of the book for the passages used here. The exact day comes from Wacker's account of the first sermon. The 'Canvas Cathedral' nickname for the tent was not confirmed in the sources consulted and has been removed. No authorized recording or online text was found.",
+   "verification_status": "corrected",
+   "verification_note": "Date, Isaiah text, title and book confirmed via Central Seminary and Wacker (EerdWord, Christian History); venue wording corrected to Washington and Hill Streets, Hearst remark re-attributed, and page citation corrected to pp. 53 and 59."
+  },
+  {
+   "title": "Sermon at Yankee Stadium, New York Crusade (untitled; named by occasion)",
+   "type": "sermon",
+   "date_text": "20 July 1957",
+   "date_iso": "1957-07-20",
+   "place": "Yankee Stadium, New York City",
+   "occasion": "Rally during the 1957 New York Crusade; Vice President Richard Nixon brought greetings from President Eisenhower",
+   "scripture": "",
+   "published_in": "",
+   "summary": "Christianity Today's report of the time says Graham named two dangers to the nation: communism from outside and moral deterioration from within. He presented Jesus Christ as the only answer. He then pressed each hearer to choose by accepting or rejecting Christ, saying there was no middle ground.",
+   "context": "The rally fell within the New York Crusade (15 May–1 September 1957), whose meetings at Madison Square Garden were broadcast live by ABC. Christianity Today and the Billy Graham Library report about 100,000 inside the stadium, about 20,000 more turned away, and extreme heat. Christianity Today reported that about 2,500 people stood in response to the invitation.",
+   "key_line": "",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "justice-society"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.youtube.com/watch?v=1aZoqIwHsdM",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Christianity Today, The Stadium Story (19 Aug 1957)",
+     "url": "https://www.christianitytoday.com/1957/08/stadium-story/"
+    },
+    {
+     "label": "Billy Graham Library, Crusade: Yankee Stadium, New York 1957",
+     "url": "https://billygrahamlibrary.org/blog-crusade-memorabilia-yankee-stadium/"
+    },
+    {
+     "label": "Decision magazine, Billy Graham's 1957 'Marathon' Crusade",
+     "url": "https://billygraham.org/decision-magazine/articles/when-new-york-couldn-t-look-away-billy-graham-s-1957-marathon-crusade-1"
+    },
+    {
+     "label": "BGEA YouTube, Billy Graham's 1957 New York Crusade Sermon at Yankee Stadium",
+     "url": "https://www.youtube.com/watch?v=1aZoqIwHsdM"
+    }
+   ],
+   "unverified_notes": "No sermon title or Bible text was found; Christianity Today mentions only a banner quoting John 14:6. BGEA's video title names only the occasion. The summary relies on Christianity Today's contemporary report, not on a transcript.",
+   "verification_status": "corrected",
+   "verification_note": "Date 20 July 1957, crowd figures, Nixon's role and crusade dates confirmed via the Billy Graham Library, Decision and BGEA's YouTube; summary wording corrected to Christianity Today's report ('no middle ground', unsupported 'survival' claim removed)."
+  },
+  {
+   "title": "Easter Sunday sermon at Legion Field, Birmingham (untitled; named by occasion)",
+   "type": "sermon",
+   "date_text": "29 March 1964",
+   "date_iso": "1964-03-29",
+   "place": "Legion Field, Birmingham, Alabama",
+   "occasion": "Easter Sunday rally before a racially integrated crowd of about 35,000",
+   "scripture": "John 3:16",
+   "published_in": "",
+   "summary": "BGEA's account records Graham telling the crowd that problems seem smaller at the foot of the cross, where Christ prayed that his executioners be forgiven. Preaching from John 3:16, he asked why there is so much trouble if God loves the world. He answered that God is a God of judgment as well as love, and that everyone will give account to him for their words, thoughts and motives. After the invitation he led a prayer asking God for love toward everyone around.",
+   "context": "Bham Now places the rally after the 16th Street Baptist Church bombing of the previous year, reports that the crowd was about evenly split between Black and white attendees, describes it as the largest integrated audience in the state's history at that time, and notes that Graham's crusades required venues to be open to all races without separate seating. BGEA reports that about 4,000 people came forward.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "judgment",
+    "hatred-enemies"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA UK (from Decision magazine), How God's Word Broke Racial Barriers in Alabama",
+     "url": "https://billygraham.org.uk/p/how-gods-word-broke-racial-barriers-in-birmingham/"
+    },
+    {
+     "label": "Bham Now, Remembering Billy Graham's visits to Birmingham in 1964 and 1972",
+     "url": "https://bhamnow.com/2018/02/25/remembering-billy-grahams-visits-birmingham-1964-1972/"
+    }
+   ],
+   "unverified_notes": "No sermon title, transcript or recording was found. The BGEA article also covers Graham's 1972 Birmingham crusade, and only details it explicitly ties to 1964 are used here.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, crowd and 4,000 respondents confirmed via BGEA UK and Bham Now; scripture corrected from blank to John 3:16 (BGEA UK), unsourced bombing details and unconfirmed Bhamwiki title removed."
+  },
+  {
+   "title": "Sermon on social injustice, The Hour of Decision (descriptive title)",
+   "type": "broadcast",
+   "date_text": "1967",
+   "date_iso": "1967",
+   "place": "",
+   "occasion": "The Hour of Decision radio programme",
+   "scripture": "",
+   "published_in": "Posted by the Billy Graham Evangelistic Association of Canada as 'Billy Graham on social injustice' (21 September 2020)",
+   "summary": "Graham answered an American theologian's call for revolutionary violence to bring social change, a call he said some World Council of Churches officials had approved. He set that against Christ's refusal to revile in return and Paul's command to overcome evil with good. He agreed that social injustices such as poor inner-city housing and unemployment need to be righted, but argued that the deeper problem is sin in the human heart. In his view only conversion to Christ gives people the capacity to love their neighbours, and he credited past reforms such as the abolition of slavery to spiritual awakenings.",
+   "context": "BGEA of Canada states that Graham gave this sermon on The Hour of Decision in 1967, amid civil unrest in the United States. The text itself refers to television pictures of rioting, looting, killing and violence in American cities.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "hatred-enemies",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.billygraham.ca/stories/billy-graham-on-social-injustice/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA Canada, Billy Graham on social injustice",
+     "url": "https://www.billygraham.ca/stories/billy-graham-on-social-injustice/"
+    },
+    {
+     "label": "BGEA Audio Archives, A Cause to Fight (Hour of Decision, 1967)",
+     "url": "https://billygraham.org/sermons/a-cause-to-fight"
+    }
+   ],
+   "unverified_notes": "The title here is descriptive, not an archival title, and the exact broadcast date is unknown. The text urges the church, if it wants a cause to fight, to fight sin, and BGEA's audio archive holds a 1967 Hour of Decision message called 'A Cause to Fight' (14:04). It is not confirmed that the two are the same sermon. The online text may be edited.",
+   "verification_status": "corrected",
+   "verification_note": "Year, programme and posting date confirmed on BGEA Canada's page; summary wording aligned with the text and the note about the 'cause to fight' line corrected (it is not the closing line)."
+  },
+  {
+   "title": "Sermon at Yoido Plaza, Seoul (published by BGEA as 'Billy Graham: The love of God')",
+   "type": "sermon",
+   "date_text": "3 June 1973",
+   "date_iso": "1973-06-03",
+   "place": "Yoido Plaza, Seoul, South Korea",
+   "occasion": "Final service of the 1973 Seoul crusade",
+   "scripture": "John 15:13",
+   "published_in": "Adapted text posted by the Billy Graham Evangelistic Association of Canada (29 May 2018)",
+   "summary": "Graham opened with two stories of self-giving love. One was of a soldier at Heartbreak Ridge, where Graham says he was at Christmastime in 1952, who died on a grenade to save his comrades; the other was of a father who shielded his two sons from a tornado. He then described God as creator, holy and a God of judgment, and set out sin and three kinds of death (physical, spiritual and eternal). He presented Christ's death and resurrection as God's rescue, telling each hearer they were a friend for whom Christ laid down his life, and called on them to repent, receive Christ by faith and confess him publicly.",
+   "context": "The Billy Graham Library reports that this last service of the five-day crusade drew about 1.1 million people, with Billy Kim interpreting. It also reports that more than 12,000 decision cards were collected that day and that total crusade attendance exceeded 3 million.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "friendship",
+    "christ-cross"
+   ],
+   "read_url": "https://www.billygraham.ca/stories/billy-graham-the-love-of-god/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA Canada, Billy Graham: The love of God (adapted from the 3 June 1973 message)",
+     "url": "https://www.billygraham.ca/stories/billy-graham-the-love-of-god/"
+    },
+    {
+     "label": "Billy Graham Library, June 3, 1973: Billy Graham Preaches to 1.1 Million in Korea",
+     "url": "https://billygrahamlibrary.org/june-3-1973-billy-graham-preaches-to-1-1-million-in-korea/"
+    }
+   ],
+   "unverified_notes": "The online text is adapted by BGEA and is not a verbatim transcript. BGEA's audio archive has a 14-minute message from Seoul in 1973 ('Great Revival in Korea'), but it is not confirmed to be this sermon, so it is not linked.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, John 15:13 and attendance confirmed via BGEA Canada and the Billy Graham Library; '12,000 responded' corrected to 12,000 decision cards and Heartbreak Ridge detail clarified as Graham's own account."
+  },
+  {
+   "title": "The Cradle, the Cross and the Crown",
+   "type": "sermon",
+   "date_text": "16 December 1973",
+   "date_iso": "1973-12-16",
+   "place": "The White House, Washington, D.C.",
+   "occasion": "Sunday Christmas worship service at the White House, hosted by President Richard Nixon",
+   "scripture": "",
+   "published_in": "Decision magazine online (Billy Graham Evangelistic Association)",
+   "summary": "The message is built on three words. The cradle stands for God entering human history in Jesus. The cross is the reason for his birth: his death is the remedy for sin, received through repentance and new birth. The crown is Christ's future reign as King of kings, bringing the peace Isaiah foresaw when swords are beaten into plowshares. Graham framed this by describing millions of Americans as confused, discouraged and disillusioned, and said America stood on the threshold of divine judgment.",
+   "context": "According to the Billy Graham Library, President Nixon invited Graham to lead this Sunday service at the White House; Nixon gave opening remarks and the U.S. Army Chorus sang. Decision's editor's note dates the message to Sunday 16 December 1973.",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "heaven-hope"
+   ],
+   "read_url": "https://billygraham.org/decision-magazine/articles/billy-graham-the-cradle-the-cross-and-the-crown-message",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Decision magazine, Billy Graham: The Cradle, the Cross and the Crown",
+     "url": "https://billygraham.org/decision-magazine/articles/billy-graham-the-cradle-the-cross-and-the-crown-message"
+    },
+    {
+     "label": "Billy Graham Library, Pastor to Presidents: A White House Christmas",
+     "url": "https://billygrahamlibrary.org/blog-pastor-to-presidents-billygraham-white-house-christmas/"
+    }
+   ],
+   "unverified_notes": "The sermon cites many texts (including Isaiah 2:4), and no single main Bible text was identified. It is not known when the text was first printed; the online Decision posting is dated December 2025. No recording was located.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue and occasion confirmed via Decision's editor's note and the Billy Graham Library; unsourced 'family and guests' removed and the crown section corrected to the Isaiah 2:4 image the text uses."
+  },
+  {
+   "title": "Building Relationships",
+   "type": "sermon",
+   "date_text": "1983",
+   "date_iso": "1983",
+   "place": "Tacoma, Washington",
+   "occasion": "",
+   "scripture": "",
+   "published_in": "",
+   "summary": "According to BGEA's descriptions, Graham argues that because of modern technology the whole world has become our neighbourhood, and he calls hearers to love their neighbours, including people whose viewpoints and backgrounds differ from their own.",
+   "context": "BGEA dates the message to 1983 in Tacoma, Washington, and has re-aired it as a video in its Billy Graham Classics series. Wikipedia's list of Graham's crusades records a Tacoma crusade in 1983.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "friendship"
+   ],
+   "read_url": "",
+   "listen_url": "https://billygraham.org/classics/building-relationships",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA Billy Graham Classics, Building Relationships",
+     "url": "https://billygraham.org/classics/building-relationships"
+    },
+    {
+     "label": "BGEA YouTube, Building Relationships | Billy Graham Classic Sermon",
+     "url": "https://www.youtube.com/watch?v=UJeEPF5yu7k"
+    },
+    {
+     "label": "Wikipedia, List of Billy Graham's crusades",
+     "url": "https://en.wikipedia.org/wiki/List_of_Billy_Graham's_crusades"
+    }
+   ],
+   "unverified_notes": "The summary relies only on BGEA's short descriptions, not a transcript. The exact date, venue and Bible text are not documented in the sources consulted.",
+   "verification_status": "corrected",
+   "verification_note": "Year and place confirmed via BGEA's Classics page and YouTube description; summary trimmed of claims not in BGEA's descriptions."
+  },
+  {
+   "title": "Loneliness",
+   "type": "sermon",
+   "date_text": "1987",
+   "date_iso": "1987",
+   "place": "Mile High Stadium, Denver, Colorado",
+   "occasion": "Rocky Mountain Crusade",
+   "scripture": "",
+   "published_in": "",
+   "summary": "According to BGEA's descriptions, Graham traces loneliness to its root in humanity's separation from God and notes that even Jesus felt lonely at times. He argues that reconnection with God is the way to real love and fulfilment, and he presents Jesus as wanting to be the lonely person's friend.",
+   "context": "BGEA's bookstore listing places the sermon at the 1987 Rocky Mountain Crusade in Denver's Mile High Stadium, and BGEA has re-aired it in its Billy Graham Classics series. Wikipedia's crusade list dates the Denver crusade to July 1987.",
+   "key_line": "",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "love"
+   ],
+   "read_url": "",
+   "listen_url": "https://billygraham.org/classics/loneliness",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA Billy Graham Classics, Loneliness",
+     "url": "https://billygraham.org/classics/loneliness"
+    },
+    {
+     "label": "Billy Graham Bookstore, Loneliness – Billy Graham Classic",
+     "url": "https://bookstore.billygraham.org/loneliness-billy-graham-classic.html"
+    },
+    {
+     "label": "BGEA YouTube, Loneliness | Billy Graham Classic Sermon",
+     "url": "https://www.youtube.com/watch?v=qjlVxZlDC6c"
+    }
+   ],
+   "unverified_notes": "The summary relies on BGEA's descriptions, not a transcript. The exact date and Bible text are not documented.",
+   "verification_status": "corrected",
+   "verification_note": "Year, venue and crusade name confirmed via BGEA's Classics page, bookstore listing and YouTube description; summary wording aligned with those descriptions."
+  },
+  {
+   "title": "The Love of God",
+   "type": "sermon",
+   "date_text": "1992",
+   "date_iso": "1992",
+   "place": "Philadelphia, Pennsylvania",
+   "occasion": "",
+   "scripture": "John 3:16",
+   "published_in": "BGEA sermon transcript (PDF, © 1992 BGEA)",
+   "summary": "Working through John 3:16, Graham describes God as creator, spirit, unchanging and holy, and as a judge who keeps books recording every deed, word and thought for a coming judgment. He presents God's love as the reason for creation and for the cross, where Christ took human sin on himself. He calls human loneliness at root a loneliness for God, separates natural death from spiritual death, and closes by inviting hearers to confess Jesus as Lord and believe in his resurrection (Romans 10:9).",
+   "context": "BGEA's transcript is headed Philadelphia, Pennsylvania, 1992. Wikipedia's list of Graham's crusades records a Philadelphia crusade in June 1992.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "judgment",
+    "grace-salvation"
+   ],
+   "read_url": "https://static.billygraham.org/-/bgm-cdn/2015/04/Billy-Graham-Sermon-The-Love-of-God.pdf",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA transcript PDF, The Love of God (Philadelphia, 1992)",
+     "url": "https://static.billygraham.org/-/bgm-cdn/2015/04/Billy-Graham-Sermon-The-Love-of-God.pdf"
+    },
+    {
+     "label": "Wikipedia, List of Billy Graham's crusades",
+     "url": "https://en.wikipedia.org/wiki/List_of_Billy_Graham's_crusades"
+    }
+   ],
+   "unverified_notes": "The transcript gives no exact date or venue. Linking it to the June 1992 Philadelphia crusade is an inference from Wikipedia's list. The transcript may be edited, and no recording was located.",
+   "verification_status": "corrected",
+   "verification_note": "Place, year, John 3:16 and content confirmed against BGEA's full transcript PDF; one summary phrase adjusted to match the text ('keeps books')."
+  },
+  {
+   "title": "The Power of Forgiveness",
+   "type": "sermon",
+   "date_text": "1993",
+   "date_iso": "1993",
+   "place": "Pittsburgh, Pennsylvania",
+   "occasion": "",
+   "scripture": "",
+   "published_in": "",
+   "summary": "According to BGEA's descriptions, Graham addresses people searching for contentment. He explains that God's forgiveness cannot be worked for, bought or earned, presents it as a free gift made possible by Christ's cross and resurrection, and invites hearers to accept it.",
+   "context": "BGEA dates the message to 1993 in Pittsburgh and has re-aired it as a video in its Billy Graham Classics series. Wikipedia's list of Graham's crusades records a Pittsburgh crusade on 2–6 June 1993.",
+   "key_line": "",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "grace-salvation"
+   ],
+   "read_url": "",
+   "listen_url": "https://billygraham.org/classics/the-power-of-forgiveness",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA Billy Graham Classics, The Power of Forgiveness",
+     "url": "https://billygraham.org/classics/the-power-of-forgiveness"
+    },
+    {
+     "label": "BGEA YouTube, The Power of Forgiveness | Billy Graham Classic Sermon",
+     "url": "https://www.youtube.com/watch?v=fszYeuN0FoU"
+    },
+    {
+     "label": "Wikipedia, List of Billy Graham's crusades",
+     "url": "https://en.wikipedia.org/wiki/List_of_Billy_Graham's_crusades"
+    }
+   ],
+   "unverified_notes": "The summary relies on BGEA's descriptions, not a transcript. The exact date, venue and Bible text are not documented. The sermon deals with receiving God's forgiveness; the sources do not say whether it also covers forgiving others.",
+   "verification_status": "verified",
+   "verification_note": "Year, place and summary content confirmed via BGEA's Classics page and YouTube description; Pittsburgh crusade dates confirmed in Wikipedia's list."
+  },
+  {
+   "title": "Address at the Oklahoma City prayer service (untitled; named by occasion)",
+   "type": "address",
+   "date_text": "23 April 1995",
+   "date_iso": "1995-04-23",
+   "place": "Oklahoma State Fair Arena, Oklahoma City, Oklahoma",
+   "occasion": "Statewide prayer service ('A Time of Healing') four days after the Oklahoma City bombing",
+   "scripture": "",
+   "published_in": "",
+   "summary": "Graham admitted that he could not give a direct answer to why such suffering happens, but affirmed that God is a God of love, mercy and compassion even in the midst of suffering and that it is better to face tragedy with God than without him. He said such times either make people hard and bitter or tender and open. He cautioned against letting hatred take root and against answering violence with more violence. He also pointed to the community's response, such as lines of blood donors, as evidence of compassion alongside the evil the bombing had revealed.",
+   "context": "The service followed the 19 April 1995 bombing of the Alfred P. Murrah Federal Building, which killed 168 people. Word&Way reports that Cathy Keating, wife of Governor Frank Keating, organized it and that about 20,000 people attended. President Bill Clinton also spoke, and his published remarks acknowledge 'Reverend Graham' among those present.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "hatred-enemies"
+   ],
+   "read_url": "",
+   "listen_url": "https://billygraham.org/sermon-clips/hope-amid-suffering-after-oklahoma-city-bombing",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Billy Graham Library, A Voice of Hope in Crisis – Oklahoma City, 1995",
+     "url": "https://billygrahamlibrary.org/blog-a-voice-of-hope-in-crisis-okc1995/"
+    },
+    {
+     "label": "Word&Way, 25 Years Ago, a Prayer Service Gave Hope to a Shaken America",
+     "url": "https://wordandway.org/2020/04/19/25-years-ago-a-prayer-service-gave-hope-to-a-shaken-america/"
+    },
+    {
+     "label": "Clinton White House archive, remarks at 'A Time of Healing' prayer service",
+     "url": "https://clintonwhitehouse6.archives.gov/1995/04/1995-04-23-president-in-ok-city-time-of-healing-prayer-service.html"
+    },
+    {
+     "label": "BGEA sermon clip, Hope Amid Suffering After Oklahoma City Bombing",
+     "url": "https://billygraham.org/sermon-clips/hope-amid-suffering-after-oklahoma-city-bombing"
+    }
+   ],
+   "unverified_notes": "No official full text was found; the Clinton archive page carries only the President's remarks. BGEA's page is a clip, not the full address. The Bible text is not identified.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, death toll, organizer and attendance confirmed via the Billy Graham Library, Word&Way and the Clinton White House archive; summary aligned with reported quotes and the unsourced 'main speaker' claim removed."
+  },
+  {
+   "title": "Address at the National Day of Prayer and Remembrance (published by BGEA as 'Billy Graham's 9/11 Message From Washington National Cathedral')",
+   "type": "address",
+   "date_text": "14 September 2001",
+   "date_iso": "2001-09-14",
+   "place": "Washington National Cathedral, Washington, D.C.",
+   "occasion": "National Day of Prayer and Remembrance service after the 11 September attacks",
+   "scripture": "",
+   "published_in": "Full text published by BGEA (billygraham.org) and by Washington National Cathedral",
+   "summary": "Graham affirmed God's care for people of every ethnic, religious and political background and quoted Psalm 46:1. He then drew three lessons. First, evil is real and a mystery: he confessed he did not know why God allows tragedy and suffering but accepted by faith that God is sovereign. Second, the nation needs one another, shown in the unity and service of rescuers and blood donors after the attacks. Third, there is hope, both for spiritual renewal now and for eternal life through Christ's cross and resurrection. He ended with the image of the fallen towers, urging the nation to rebuild on a foundation of trust in God.",
+   "context": "Graham spoke at Washington National Cathedral on Friday 14 September 2001, three days after the attacks, at a service designated a National Day of Prayer and Remembrance. The full text is posted by both BGEA and the Cathedral.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "heaven-hope",
+    "providence"
+   ],
+   "read_url": "https://billygraham.org/articles/a-day-to-remember-a-day-of-victory",
+   "listen_url": "https://billygraham.org/sermons/address-at-natl-day-of-prayer-and-remembrance",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA, Billy Graham's 9/11 Message From Washington National Cathedral (full text)",
+     "url": "https://billygraham.org/articles/a-day-to-remember-a-day-of-victory"
+    },
+    {
+     "label": "Washington National Cathedral, The Rev. Billy Graham (14 Sept 2001)",
+     "url": "https://cathedral.org/sermons/the-rev-billy-graham/"
+    },
+    {
+     "label": "George W. Bush White House archive, Remembering 9-11-01 (photo of the National Day of Prayer and Remembrance, 14 Sept 2001)",
+     "url": "https://georgewbush-whitehouse.archives.gov/911/remembrance/01.html"
+    },
+    {
+     "label": "BGEA Audio Archives, Billy Graham's 9/11 Message from the Washington National Cathedral",
+     "url": "https://billygraham.org/sermons/address-at-natl-day-of-prayer-and-remembrance"
+    }
+   ],
+   "unverified_notes": "BGEA's audio page gives the date as 11 September 2001, but BGEA's article, the Cathedral's page and the Bush White House archive all place the service on 14 September, which is used here. Graham quotes Psalm 46:1 but does not expound a single text, so the scripture field is left blank.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue and occasion confirmed via BGEA, Washington National Cathedral and the Bush White House archive; BGEA's published title corrected (not 'A Day to Remember') and Psalm 46 reference specified as 46:1."
+  },
+  {
+   "title": "Friday evening sermon, Greater New York Crusade (untitled; named by occasion)",
+   "type": "sermon",
+   "date_text": "24 June 2005",
+   "date_iso": "2005-06-24",
+   "place": "Flushing Meadows Corona Park, Queens, New York",
+   "occasion": "Opening evening of the Greater New York Crusade, his final crusade",
+   "scripture": "John 3",
+   "published_in": "",
+   "summary": "Graham preached on Jesus' meeting with Nicodemus and the call to be born again, saying that it is possible to start all over again. He argued that even successful, educated people have an inner emptiness without spiritual change, and that good deeds cannot replace accepting Christ. He spoke of Christ's death as atonement for sin, called the transformation of human nature from hate to love the world's greatest need, and invited hearers to receive Christ.",
+   "context": "This was the Friday meeting of the three-day crusade (24–26 June 2005), which BGEA's timeline records as Graham's final crusade. The Billy Graham Library reports that more than 2,200 people came forward that night. BGEA cites New York City police and park officials' figure of 242,000 total attendance.",
+   "key_line": "",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "grace-salvation"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Billy Graham Library, On This Date: Billy Graham's Final Crusade – New York, 2005",
+     "url": "https://billygrahamlibrary.org/blog-billy-graham-ny-2005/"
+    },
+    {
+     "label": "Ship of Fools, Mystery Worshipper report, Greater New York Billy Graham Crusade (24 June 2005)",
+     "url": "https://shipoffools.com/mystery-worshipper/greater-new-york-billy-graham-crusade-queens-new-york-usa/"
+    },
+    {
+     "label": "BGEA Media, 242,000 Gather in New York for Billy Graham's Final Crusade",
+     "url": "https://media.billygraham.org/242000-gather-in-new-york-for-billy-grahams-final-crusade/"
+    }
+   ],
+   "unverified_notes": "No published title, transcript or official recording was found. The summary draws on the Billy Graham Library's account and one attendee's report. The exact verses within John 3 are not given. The sources consulted do not document the content of the closing Sunday sermon (26 June), so it is not listed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, 2,200 respondents and 242,000 attendance confirmed via the Billy Graham Library, BGEA Media and Ship of Fools; summary corrected to the attendee's 'successful, educated people' wording."
+  },
+  {
+   "title": "The Cross",
+   "type": "broadcast",
+   "date_text": "7 November 2013",
+   "date_iso": "2013-11-07",
+   "place": "Premiered at Graham's 95th birthday celebration, Grove Park Inn, Asheville, North Carolina",
+   "occasion": "Televised message for My Hope America with Billy Graham, released on his 95th birthday",
+   "scripture": "",
+   "published_in": "",
+   "summary": "Graham said America had drifted from God and needed a spiritual awakening. He set out the meaning of Christ's cross, arguing that it offends people because it directly confronts sin and the evils in the world. He told viewers that he knew where he had come from, why he was here and where he was going, asked whether they did, and urged them to turn to Christ. Conversion testimonies from rapper Lecrae and singer Lacey Sturm were woven through the programme.",
+   "context": "BGEA reports that the 30-minute film from the My Hope America series premiered on Fox News on the evening of Graham's 95th birthday celebration in Asheville; the Christian Post reports it was also broadcast on select networks and made available online. Christianity Today reported that the My Hope America broadcast combined clips of past sermons with a new message Graham had prepared, and BGEA's timeline says more than 110,000 people surrendered to Christ through My Hope America in November 2013.",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "sin-repentance",
+    "new-birth"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.youtube.com/watch?v=lMZLPa-wCIA",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "BGEA, Billy Graham's Birthday All About 'The Cross'",
+     "url": "https://billygraham.org/articles/billy-grahams-birthday-all-about-the-cross"
+    },
+    {
+     "label": "Christian Post, Billy Graham in 'The Cross' (8 Nov 2013)",
+     "url": "https://www.christianpost.com/news/billy-graham-in-the-cross-i-know-where-ive-come-from-why-im-here-where-im-going-do-you.html"
+    },
+    {
+     "label": "Christianity Today, Billy Graham's Last Crusade: America Actually 58th Country to Host 'My Hope'",
+     "url": "https://www.christianitytoday.com/2013/11/billy-graham-last-crusade-america-58th-my-hope/"
+    },
+    {
+     "label": "BGEA, Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    }
+   ],
+   "unverified_notes": "No transcript was available, so the summary is based on press reports. BGEA's current YouTube upload (posted February 2022) is a re-edited TV special whose testimonies come from Jim Munroe and Lacey Sturm rather than Lecrae. The Bible texts used were not identified.",
+   "verification_status": "corrected",
+   "verification_note": "Premiere date, Asheville venue, 30-minute length and Lecrae/Sturm testimonies confirmed via BGEA and the Christian Post; airing details and Christianity Today's clips statement re-attributed more precisely."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: stated birthplace as Charlotte explicitly (per BGEA); added Florida Bible Institute graduation year 1940 (BGEA biography).",
+  "Profile bio: removed '(Southern Baptist Convention)' parenthetical after Peniel Baptist Church, not stated by BGEA's biography.",
+  "Profile bio: removed 'at his home in Montreat, North Carolina' from the death sentence; only Wikipedia could be fetched for the place of death and no better source was reachable.",
+  "Profile bio: attributed the November 1950 Hour of Decision first airing to BGEA's timeline.",
+  "Profile corpus_note: attributed the 3,760-manuscript figure to the Billy Graham Center Archives as reported by Patch (April 2014) rather than 'Wheaton College reported'; used the audio archive's own wording; added the 7 November 2022 opening date from the Billy Graham Library.",
+  "We Need Revival: place changed from 'Canvas Cathedral' at Washington Boulevard and Hill Street to 'Tent at Washington and Hill Streets' as Wacker gives it; nickname not confirmed.",
+  "We Need Revival: Hearst 'puff Graham' statement re-attributed to Wacker's Christian History article (the EerdWord excerpt does not mention Hearst) and reworded to 'no hard copy ever materialized'; added 20 November end date.",
+  "We Need Revival: removed 'crime' from the list of moral dangers (not in the sourced passages) and added the call to give one's life to Christ; corrected cited pages from 53–54 to 53 and 59.",
+  "Yankee Stadium 1957: removed unsupported 'secure America's survival' wording; 'no neutral ground' changed to 'no middle ground' per Christianity Today; noted the John 14:6 banner; added ABC broadcast of Madison Square Garden meetings per BGEA timeline.",
+  "Birmingham 1964: scripture set to John 3:16 (BGEA UK article states he preached from it); removed unsourced 'six months after... killed four Black girls' and reworded to Bham Now's 'bombing of the previous year'; attributed the integrated-seating policy to Bham Now; removed the unconfirmed Bhamwiki title claim.",
+  "Social injustice 1967: reworded summary to match the text (American theologian; WCC officials' approval; 'need to be righted'; 'capacity' to love neighbour; spiritual awakenings); corrected the unverified note, since the 'cause to fight' line appears in the text but is not its close.",
+  "Seoul 1973: clarified that Graham says he himself was at Heartbreak Ridge in 1952; three kinds of death labelled physical, spiritual and eternal; '12,000 responded' corrected to 12,000 decision cards collected.",
+  "Cradle, Cross and Crown: removed unsourced 'for his family and guests'; replaced 'ending war, suffering and death' with the Isaiah 2:4 peace image the text uses; framing reworded to match the text; noted the Decision online posting date (December 2025).",
+  "Building Relationships: removed unsupported claims that Graham discusses who counts as one's neighbour and what true love looks like; summary limited to BGEA's descriptions.",
+  "Loneliness: summary aligned with BGEA wording ('even Jesus felt lonely at times'; reconnection with God as the path to love and fulfilment).",
+  "The Love of God: summary phrase changed to 'keeps books recording' to match the transcript.",
+  "Oklahoma City 1995: summary aligned with sourced quotes (could not give a direct answer; love, mercy and compassion; hard and bitter vs tender and open; violence with violence); removed unsourced 'with Graham as the main speaker'; added service name 'A Time of Healing' from the Clinton archive.",
+  "9/11 address: title corrected to BGEA's actual headline 'Billy Graham's 9/11 Message From Washington National Cathedral' (not 'A Day to Remember'); Psalm 46 reference specified as Psalm 46:1; summary aligned with the text.",
+  "New York 2005: replaced unsupported 'respected teacher with wealth and standing' with the attendee report's 'successful, educated people'; added 'from hate to love'; attributed the 242,000 figure to NYC police and park officials.",
+  "The Cross: place reworded to the birthday celebration at Grove Park Inn; airing attributed (BGEA: Fox News; Christian Post: select networks); Christianity Today's clips-plus-new-message statement attributed to the My Hope America broadcast generally; 110,000 figure worded per BGEA timeline."
+ ]
+}

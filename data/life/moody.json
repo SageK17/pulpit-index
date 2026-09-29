@@ -1,0 +1,551 @@
+{
+ "id": "moody",
+ "name": "Dwight L. Moody",
+ "born": {
+  "date_iso": "1837-02-05",
+  "date_text": "5 February 1837",
+  "place": "Northfield, Massachusetts, USA"
+ },
+ "died": {
+  "date_iso": "1899-12-22",
+  "date_text": "22 December 1899",
+  "place": "Northfield, Massachusetts, USA"
+ },
+ "life_summary": "Dwight Lyman Moody was born in Northfield, Massachusetts, in 1837. His father died suddenly in 1841 and left the family poor. At seventeen he went to Boston to work in his uncle's shoe store. There his Sunday-school teacher Edward Kimball led him to faith in 1855, although Moody himself dated his new birth to 1856. In 1856 he moved to Chicago and sold shoes while running mission Sunday schools. Around 1861 he left business for unpaid work with the YMCA, Civil War soldiers and the Illinois Street Church, and he married Emma Revell in 1862. After the Chicago Fire of October 1871 destroyed his church and home, he and the singer Ira Sankey held campaigns across Britain and Ireland from 1873 to 1875 and then in the major American cities. Working from Northfield, he founded Northfield Seminary (1879) and Mount Hermon School (1881), started the Northfield conferences, and helped found the Chicago Bible Institute, which opened in 1889 and was later named after him. He was never ordained. He fell ill during a campaign in Kansas City in November 1899 and died at his Northfield home on 22 December 1899.",
+ "phases": [
+  {
+   "start_year": 1837,
+   "end_year": 1854,
+   "label": "Northfield boyhood",
+   "summary": "He was the sixth child of Edwin and Betsy Holton Moody. After his father's sudden death in 1841 he grew up poor on the family homestead, did farm work and had little schooling.",
+   "place": "Northfield, Massachusetts",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    }
+   ]
+  },
+  {
+   "start_year": 1854,
+   "end_year": 1856,
+   "label": "Boston shoe clerk",
+   "summary": "He clerked in his uncle Samuel Holton's shoe store and attended Mount Vernon Congregational Church, where he was converted. His first membership examination was deferred, and he was recommended for membership on 12 March 1856.",
+   "place": "Boston, Massachusetts",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1856,
+   "end_year": 1871,
+   "label": "Chicago missions and YMCA",
+   "summary": "He started as a shoe salesman and around 1861 became an unpaid city missionary. He ran the North Market Hall Sunday school, worked among Civil War soldiers, was active in the Illinois Street Church (founded 1863–64), served as Chicago YMCA president from 1866 and first visited Britain in 1867. He married Emma Revell in 1862; their daughter Emma and their son William (born 1869) were born in these years.",
+   "place": "Chicago, Illinois",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    },
+    {
+     "label": "Christian History Institute: Key People in the Life of D. L. Moody",
+     "url": "https://christianhistoryinstitute.org/magazine/article/key-people-in-life-of-moody-a-gallery"
+    }
+   ]
+  },
+  {
+   "start_year": 1871,
+   "end_year": 1875,
+   "label": "Fire and British campaign",
+   "summary": "After the October 1871 fire destroyed his church and home, he raised relief funds, opened the temporary North Side Tabernacle (December 1871) and made a short visit to Britain in 1872. From June 1873 to the summer of 1875 he and Ira Sankey held campaigns across Scotland, Ireland and England, ending in London.",
+   "place": "Chicago; Great Britain and Ireland (Edinburgh, London and others)",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1875,
+   "end_year": 1881,
+   "label": "American campaigns, Northfield home",
+   "summary": "Back in America, he bought a small farm near his mother's home in Northfield, which gradually became the family home. He led city campaigns in Brooklyn from October 1875, then in Philadelphia, New York, Chicago (1876), Boston (1877) and Baltimore. In 1879 his son Paul was born and he opened Northfield Seminary; the first Northfield conference followed in 1880.",
+   "place": "Northfield, Massachusetts; Brooklyn, Philadelphia, New York, Chicago, Boston",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    },
+    {
+     "label": "Wikipedia: Paul Dwight Moody (birth date)",
+     "url": "https://en.wikipedia.org/wiki/Paul_Dwight_Moody"
+    }
+   ]
+  },
+  {
+   "start_year": 1881,
+   "end_year": 1892,
+   "label": "Britain, schools, Bible Institute",
+   "summary": "Working from Northfield, he opened Mount Hermon School in 1881 and campaigned in Britain from 1881 to 1884, including London in 1883–84. He began the college students' conferences at Mount Hermon in 1886, helped form the Chicago Evangelization Society (1886–87) and its Bible Institute (1889), and returned to Britain in 1891–92, visiting Palestine in spring 1892.",
+   "place": "Northfield; Chicago; Great Britain",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Boston University: Moody, Dwight Lyman (1837-1899)",
+     "url": "https://www.bu.edu/missiology/missionary-biography/l-m/moody-dwight-lyman-1837-1899/"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "start_year": 1892,
+   "end_year": 1899,
+   "label": "Final campaigns, Northfield years",
+   "summary": "In autumn 1892 a London doctor found a heart irregularity, and that November he survived the disabled steamer Spree. He then led the 1893 Chicago World's Fair campaign and kept up city missions and Northfield conferences. He lost his mother (1896) and two grandchildren (1898, 1899), fell ill in Kansas City in November 1899 and died at Northfield.",
+   "place": "Northfield; Chicago; American cities",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1837-02-05",
+   "date_text": "5 February 1837",
+   "event": "Born in Northfield, Massachusetts, the sixth child of Edwin Moody and Betsy Holton Moody.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1841",
+   "date_text": "1841",
+   "event": "His father Edwin died suddenly (aged forty-one, according to his son), leaving the widow with seven children and debts; twins were born after his death.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Wholesome Words: Dwight L. Moody, American Evangelist",
+     "url": "https://www.wholesomewords.org/biography/biomoody3.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1854",
+   "date_text": "Spring 1854",
+   "event": "At seventeen he left Northfield for Boston and went to work in his uncle Samuel Holton's shoe store.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1855",
+   "date_text": "1855 (traditionally dated 21 April)",
+   "event": "In the shoe store, his Sunday-school teacher Edward Kimball urged him to trust Christ. Moody Bible Institute dates this to 21 April 1855; Moody himself dated his spiritual birth to 1856.",
+   "sources": [
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    }
+   ]
+  },
+  {
+   "date_iso": "1856-09",
+   "date_text": "September 1856",
+   "event": "He moved to Chicago without consulting his family and found work as a shoe salesman within two days.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1858",
+   "date_text": "Autumn 1858",
+   "event": "He began a larger mission Sunday school in North Market Hall; this work later grew into the Illinois Street Church.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1861",
+   "date_text": "1861",
+   "event": "After months of inner struggle he gave up a well-paid career selling shoes to work without salary in Christian mission work, first with the Chicago YMCA.",
+   "sources": [
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    }
+   ]
+  },
+  {
+   "date_iso": "1862-08-28",
+   "date_text": "28 August 1862",
+   "event": "He married Emma C. Revell, whom he had met when she was fifteen, during his Civil War ministry to soldiers.",
+   "sources": [
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    },
+    {
+     "label": "Christian History Institute: Key People in the Life of D. L. Moody",
+     "url": "https://christianhistoryinstitute.org/magazine/article/key-people-in-life-of-moody-a-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1864",
+   "date_text": "1864",
+   "event": "The Illinois Street Church, organized in 1863 from his mission, opened its building. His son names Rev. Harwood as pastor and Moody a deacon; Moody Bible Institute calls Moody pastor.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1870",
+   "date_text": "1870",
+   "event": "At the YMCA International Convention in Indianapolis he met the singer Ira D. Sankey, who became his long-term musical partner.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Key People in the Life of D. L. Moody",
+     "url": "https://christianhistoryinstitute.org/magazine/article/key-people-in-life-of-moody-a-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1871-10-08",
+   "date_text": "8 October 1871",
+   "event": "The Great Chicago Fire broke out after his Sunday evening meeting and destroyed Farwell Hall, the Illinois Street Church and his home.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1871",
+   "date_text": "1871 (after the fire)",
+   "event": "By his own account, while raising funds in New York after the fire he had an overwhelming experience of God's love, after which many more people were converted under his preaching.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1873-06-17",
+   "date_text": "17 June 1873",
+   "event": "He landed at Liverpool with his family and Sankey and learned that all three of his sponsors had died. Their British and Irish campaign lasted until 1875.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1875-03-09",
+   "date_text": "9 March 1875",
+   "event": "The London campaign opened at the Agricultural Hall, Islington, beginning the London stage of the British tour.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    }
+   ]
+  },
+  {
+   "date_iso": "1875-08",
+   "date_text": "August 1875",
+   "event": "He returned to America and went with his family straight to his mother's home in Northfield, where he bought a small farm that gradually became his home.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1879-04-11",
+   "date_text": "11 April 1879",
+   "event": "His third child and second son, Paul Dwight Moody, was born.",
+   "sources": [
+    {
+     "label": "Wikipedia: Paul Dwight Moody",
+     "url": "https://en.wikipedia.org/wiki/Paul_Dwight_Moody"
+    }
+   ]
+  },
+  {
+   "date_iso": "1879-11-03",
+   "date_text": "3 November 1879",
+   "event": "Northfield Seminary for young women formally opened with twenty-five students, whose classes met at first in the dining room of his Northfield home.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1881-05-04",
+   "date_text": "4 May 1881",
+   "event": "The first boys arrived at Mount Hermon School, his new school for boys near Northfield.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Northfield Mount Hermon: Our History",
+     "url": "https://www.nmhschool.org/about-us/our-history"
+    }
+   ]
+  },
+  {
+   "date_iso": "1883-11-04",
+   "date_text": "4 November 1883",
+   "event": "His long London campaign began, part of a second British mission that ran from 1881 to 1884.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Boston University: Moody, Dwight Lyman (1837-1899)",
+     "url": "https://www.bu.edu/missiology/missionary-biography/l-m/moody-dwight-lyman-1837-1899/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1886-07-07",
+   "date_text": "7 July 1886",
+   "event": "His first college students' conference opened at Mount Hermon with about 250 students; nearly a hundred pledged to foreign missions, which gave rise to the Student Volunteer Movement.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Moody Bible Institute: D. L. Moody's Story",
+     "url": "https://www.moodybible.org/about/d-l-moody/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1889-09-26",
+   "date_text": "26 September 1889",
+   "event": "The Bible Institute of the Chicago Evangelization Society, which he had helped form in 1886–87, opened formally with a week-long conference; R. A. Torrey was its superintendent.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christianity.com: Evangelization Society to Storm Chicago",
+     "url": "https://www.christianity.com/church/church-history/timeline/1801-1900/evangelization-society-to-storm-chicago-11630617.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1892",
+   "date_text": "Autumn 1892",
+   "event": "In London a physician found an irregularity in his heart; his son identifies this as the heart trouble that eventually caused his death.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    }
+   ]
+  },
+  {
+   "date_iso": "1893",
+   "date_text": "1893",
+   "event": "He led an extended evangelistic campaign in Chicago during the World's Fair.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Christian History Institute: Dwight L. Moody timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1898-11-30",
+   "date_text": "30 November 1898",
+   "event": "His only grandson and namesake, Dwight, died while Moody was in Colorado. His granddaughter Irene died in 1899, four months before he did.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    }
+   ]
+  },
+  {
+   "date_iso": "1899-12-22",
+   "date_text": "22 December 1899",
+   "event": "He died at his Northfield home after falling ill during November meetings at Kansas City's Convention Hall, from which he left for home on 17 November.",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), full text",
+     "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+    },
+    {
+     "label": "Northfield Mount Hermon: Our History",
+     "url": "https://www.nmhschool.org/about-us/our-history"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "W. R. Moody, The Life of Dwight L. Moody (1900), Internet Archive full text",
+   "url": "https://archive.org/stream/thelifeofdwightl00mooduoft/thelifeofdwightl00mooduoft_djvu.txt"
+  },
+  {
+   "label": "Christian History Institute: Dwight L. Moody timeline",
+   "url": "https://christianhistoryinstitute.org/magazine/article/moody-timeline"
+  },
+  {
+   "label": "Moody Bible Institute: D. L. Moody's Story",
+   "url": "https://www.moodybible.org/about/d-l-moody/"
+  },
+  {
+   "label": "Boston University School of Theology: Moody, Dwight Lyman (1837-1899)",
+   "url": "https://www.bu.edu/missiology/missionary-biography/l-m/moody-dwight-lyman-1837-1899/"
+  },
+  {
+   "label": "Northfield Mount Hermon: Our History",
+   "url": "https://www.nmhschool.org/about-us/our-history"
+  }
+ ],
+ "corrections": [
+  "Conversion event: changed date_iso from 1855-04-21 to 1855. The 21 April date comes only from later institutional sources (MBI, CHI), W. R. Moody's biography gives no day, the Mount Vernon church record says he was 'first awakened' on 16 May, and Moody himself dated his spiritual birth to 1856. All of this is now attributed in the text.",
+  "Illinois Street Church event: replaced the vague 'sources differ on pastor or deacon' with the specific sources. W. R. Moody says the church was organized in 1863 and names Rev. Harwood as pastor with Moody as a deacon; MBI calls Moody pastor. Replaced the Moody Church history link, which says nothing about his role.",
+  "Chicago Evangelization Society: the '1887, on his fiftieth birthday' claim conflicts with MBI and CHI, which both say 1886. Changed to 'formed in 1886–87' in the event and the phase.",
+  "1856 Chicago move: tightened the date to September 1856 (his letter of 25 September 1856 says he arrived a week earlier) and 'within days' to 'within two days', both from W. R. Moody.",
+  "Leaving business: changed 'c. 1860–1861' to 1861 (CHI timeline) and noted the months of struggle W. R. Moody describes. Replaced the 'Life & Times' source, which was not fetched, with the CHI timeline.",
+  "Father's death event: replaced the Wikipedia source with Wholesome Words (died 1841, aged 41) and attributed the age of forty-one to his son's biography.",
+  "1875 return: removed the claim that the family made Northfield their home at once. W. R. Moody says he bought a small farm near his mother's to spend summers there, and it only gradually became his home. The phase summary is adjusted to match.",
+  "Fire event: reworded 'after he preached at Farwell Hall' to 'after his Sunday evening meeting' (W. R. Moody does not name the venue of that meeting) and added the CHI timeline, which confirms that his home was destroyed.",
+  "1871 New York experience: added the CHI timeline ('new endowment of power', 1871) as a second source.",
+  "1886 student conference: set the date to 7 July 1886 and added the numbers (about 250 students, nearly 100 missionary pledges) from W. R. Moody.",
+  "Added an event for the birth of Paul Dwight Moody on 11 April 1879 (Wikipedia), because it falls within the sermon-dating range.",
+  "Mother's death (1896) event: removed to keep the event list at 25 and because W. R. Moody gives no exact date; the death is still mentioned in the 1892–1899 phase.",
+  "Phase 1856–1871: replaced 'led the Illinois Street Church' with 'was active in', and changed 'unsalaried city missionary around 1860–61' to 'around 1861'.",
+  "Phase 1854–1856: made the membership date exact (12 March 1856, from the church minute quoted by W. R. Moody). Replaced the MBI source with the CHI timeline, which covers his church membership.",
+  "Phase 1871–1875: dated the North Side Tabernacle (24 December 1871) and changed 'to August 1875' to 'to the summer of 1875'. CHI says the campaign ran until July 1875 and W. R. Moody gives an August return. Replaced the MBI source with the CHI timeline, because MBI wrongly places three children, including Paul (born 1879), at the 1871 fire.",
+  "Phase 1875–1881: added Boston (1877) and Baltimore campaigns from the CHI timeline and replaced the MBI source with the CHI timeline.",
+  "Phase 1881–1892: moved the 1881 opening of Mount Hermon School into this phase and added the CHI timeline as a source.",
+  "Life summary: added Moody's own 1856 dating of his conversion, set his departure from business to around 1861, and gave the death place as his Northfield home."
+ ]
+}

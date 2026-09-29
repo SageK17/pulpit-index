@@ -1,0 +1,597 @@
+{
+ "preacher": {
+  "id": "edwards",
+  "name": "Jonathan Edwards",
+  "lifespan": "1703–1758",
+  "tradition": "New England Congregationalist (Reformed/Puritan); Great Awakening revivalist",
+  "role": "Northampton pastor, revival theologian, college president",
+  "bio": "Jonathan Edwards was born on 5 October 1703 in East Windsor, Connecticut, son of the Rev. Timothy and Esther Edwards. He studied at Yale College as an undergraduate (1716–1720) and graduate student (1721–1722), and briefly served churches in New York and at Bolton, Connecticut. In 1726 he went to the church at Northampton, Massachusetts, as assistant to his grandfather Solomon Stoddard, and became sole pastor when Stoddard died in February 1729. He preached through the revival of 1734–35 and the Great Awakening, and defended the revivals in writings such as The Distinguishing Marks (1741) and Religious Affections (1746). He was dismissed from Northampton in 1750 after trying to impose stricter qualifications for admission to the sacraments. He then served as pastor and missionary at Stockbridge (1751–1757), where he wrote Freedom of the Will (1754). He died at Princeton on 22 March 1758, after a smallpox inoculation, a few months after becoming president of the College of New Jersey. The Jonathan Edwards Center at Yale states that he was a slaveowner and defended slavery as biblically ordained.",
+  "corpus_note": "In 2008 Yale described the Works of Jonathan Edwards Online as 73 digital volumes containing almost all of Edwards's writings, including more than 1,200 sermons. The Jonathan Edwards Center's list of the printed Yale edition runs to 26 volumes published between 1957 and 2008. The Center's chronological sermon index states that, unless otherwise noted, the sermon manuscripts are held at Yale's Beinecke Rare Book and Manuscript Library (General Manuscripts 151), and that Edwards did not date his sermons until January 1733.",
+  "archive_links": [
+   {
+    "label": "Works of Jonathan Edwards Online: browse all volumes (Yale)",
+    "url": "http://edwards.yale.edu/research/browse"
+   },
+   {
+    "label": "WJE Online Sermon Index (chronological)",
+    "url": "http://edwards.yale.edu/research/sermon-index"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Jonathan Edwards Center at Yale: Biography",
+    "url": "http://edwards.yale.edu/research/about-edwards/biography"
+   },
+   {
+    "label": "WJE Online Vol. 14: Preface to the Period (Bolton, assistant at Northampton, Stoddard's death on 11 Feb 1729)",
+    "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xMzozLndqZW8="
+   },
+   {
+    "label": "Jonathan Edwards Center at Yale: About Us (list of WJE volumes)",
+    "url": "http://edwards.yale.edu/about-us"
+   },
+   {
+    "label": "Yale News (2008): Works of Jonathan Edwards Online launches Phase 2",
+    "url": "https://news.yale.edu/2008/10/10/works-jonathan-edwards-online-launches-phase-2"
+   },
+   {
+    "label": "Jonathan Edwards Center at Yale: Sermon Index (manuscript location, dating)",
+    "url": "http://edwards.yale.edu/research/sermon-index"
+   },
+   {
+    "label": "Jonathan Edwards Center at Yale: Statement on Jonathan Edwards and Slavery",
+    "url": "http://edwards.yale.edu/node/1041"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Living Peaceably One with Another",
+   "type": "sermon",
+   "date_text": "late 1723",
+   "date_iso": "1723",
+   "place": "Bolton, Connecticut",
+   "occasion": "First preached to the Bolton congregation during Edwards's pastorate there; shorthand marks show it was also preached at Northampton",
+   "scripture": "Romans 12:18",
+   "published_in": "The Works of Jonathan Edwards, vol. 14: Sermons and Discourses, 1723–1729, ed. Kenneth P. Minkema (Yale University Press, 1997)",
+   "summary": "Edwards teaches that Christians must do everything in their power to live at peace with everyone, including people who are sinful, hold different religious opinions, or have given offence. He grounds this duty in God's command rather than in what others deserve, and he answers the excuses people give for not keeping it. In the application he urges his hearers to forgive one another, bear with each other's weaknesses, yield private interests, and let go of anger. He argues that peace helps religion, prosperity, and a town's reputation.",
+   "context": "The WJE editor dates the sermon to very late 1723 and says it was first preached at Bolton, where Edwards signed the church book on 11 November 1723. The editor suggests that its remarks about 'this town' may reflect quarrels during Bolton's several-year search for a minister. Shorthand marks on the manuscript indicate that Edwards preached it at Bolton and at Northampton, revising it for repreaching.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "forgiveness",
+    "church-unity"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xMzo3LndqZW8=",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 14: Living Peaceably One With Another (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xMzo3LndqZW8="
+    },
+    {
+     "label": "WJE Online Vol. 14: Preface to the Period (Bolton pastorate, 11 Nov 1723; sermon 'preached at Bolton in late 1723')",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xMzozLndqZW8="
+    },
+    {
+     "label": "Jonathan Edwards Center: WJE volume list with publication years",
+     "url": "http://edwards.yale.edu/about-us"
+    }
+   ],
+   "unverified_notes": "Edwards did not date his sermons before 1733, so 'very late 1723' is the WJE editors' dating. No publication before WJE vol. 14 was found, so the linked text is treated as a modern copyrighted edition. The date of the Northampton preaching is not given.",
+   "verification_status": "corrected",
+   "verification_note": "Date, Bolton venue, text and Northampton repreaching confirmed from the WJE vol. 14 headnote and Preface; occasion reworded because the sources do not say it came 'early' in the pastorate."
+  },
+  {
+   "title": "Envious Men",
+   "type": "sermon",
+   "date_text": "9 August 1730",
+   "date_iso": "1730-08-09",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Sacrament day (Lord's Supper), preached in two units",
+   "scripture": "James 3:16",
+   "published_in": "The Works of Jonathan Edwards, vol. 17: Sermons and Discourses, 1730–1733, ed. Mark Valeri (Yale University Press, 1999)",
+   "summary": "Edwards describes envy as grief at other people's prosperity. He argues that envy, and the strife it produces, does great harm: it hurts the envious person more than the person envied, and through gossip, slander, and quarrelling it damages a whole community and drives Christ away. The application asks hearers to examine themselves for envy before coming to the Lord's Supper, which he presents as a feast of love and unity.",
+   "context": "The WJE editor links the sermon to economic and political factions in Northampton in the early 1730s, including rivalry over land and over offices such as selectman. It was delivered in two preaching units on a sacrament day. A note on the manuscript announces a fast for the following week, and Edwards preached a fast sermon on 16 August.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "sin-repentance",
+    "church-unity"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjo3LndqZW8=",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 17: Envious Men (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjo3LndqZW8="
+    },
+    {
+     "label": "Jonathan Edwards Center: WJE volume list with publication years",
+     "url": "http://edwards.yale.edu/about-us"
+    }
+   ],
+   "unverified_notes": "The exact date comes from the WJE editors' dating (Edwards did not date sermons before 1733). The headnote does not name the town, but it discusses Northampton affairs throughout, and Edwards was pastor there in 1730. No publication before WJE vol. 17 was found.",
+   "verification_status": "verified",
+   "verification_note": "Date (9 Aug 1730, editors' dating), sacrament-day occasion, two units, James 3:16, the fast note and the 16 August fast sermon all confirmed in the WJE vol. 17 headnote; the text's claim that the envious man 'gives himself abundantly the worst wounds' supports the summary."
+  },
+  {
+   "title": "God Glorified in the Work of Redemption, by the Greatness of Man's Dependence upon Him, in the Whole of It",
+   "type": "sermon",
+   "date_text": "8 July 1731",
+   "date_iso": "1731-07-08",
+   "place": "Public Lecture, Boston, Massachusetts",
+   "occasion": "Boston public lecture, preached to a meeting of clergy; first delivered at Northampton in fall 1730",
+   "scripture": "1 Corinthians 1:29–31",
+   "published_in": "Boston: S. Kneeland and T. Green, 1731 (short title: God Glorified in Man's Dependence)",
+   "summary": "Edwards argues that the redeemed depend on God for every good in their salvation. They have it of God, through Christ the Mediator, and in God by the indwelling Holy Spirit, so that no one can boast. He contends that this total dependence, not any human goodness or ability, is what brings God glory. He closes by calling hearers to faith and to reject views that credit fallen people with moral power of their own.",
+   "context": "The WJE editor records that Edwards first delivered the sermon at Northampton in the fall of 1730 and preached it to a meeting of clergy in Boston on 8 July 1731. It was printed soon afterwards with a preface by Thomas Prince and William Cooper, and it became his first published work. The editor reads it as aimed against Arminianism.",
+   "key_line": "God is glorified in the wisdom of redemption in this, that there appears in it so absolute and universal a dependence of the redeemed on him.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "pride-humility"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoxMi53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 17: God Glorified in Man's Dependence (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoxMi53amVv"
+    },
+    {
+     "label": "CCEL: Works of Jonathan Edwards, vol. 2 (1834 Hickman edition, full text)",
+     "url": "https://ccel.org/ccel/e/edwards/works2/cache/works2.txt"
+    }
+   ],
+   "unverified_notes": "The key line is the doctrine as printed in WJE Online. The 1834 Hickman edition (CCEL) reads 'work of redemption' where WJE reads 'wisdom of redemption'; the 1731 first edition could not be checked because the Evans text was blocked by a bot check. The fall 1730 Northampton date is the editors' dating.",
+   "verification_status": "verified",
+   "verification_note": "Boston lecture of 8 July 1731, the fall 1730 Northampton delivery, the Kneeland and Green printing with the Prince–Cooper preface, the full title and the text confirmed in the WJE vol. 17 headnote; key line matches the WJE text."
+  },
+  {
+   "title": "The Duty of Charity to the Poor, Explained and Enforced",
+   "type": "sermon",
+   "date_text": "January 1733",
+   "date_iso": "1733-01",
+   "place": "Northampton, Massachusetts",
+   "occasion": "",
+   "scripture": "Deuteronomy 15:7–11",
+   "published_in": "Practical Sermons, Never Before Published (Edinburgh, 1788), pp. 343–85, ed. Jonathan Edwards Jr.",
+   "summary": "Edwards states that giving generously and willingly to meet the needs of the poor is an absolute duty for God's people, not an optional kindness. About four-fifths of the sermon is application. He calls for self-examination and offers seven motives, among them that property really belongs to God and that Christ will use kindness to the poor as a test at the judgment. He then answers eleven common objections, including claims that the poor deserve their poverty, that the needy person once gave offence, or that the law already provides relief.",
+   "context": "This is the first sermon Edwards dated: 'Jan. 1732/33', which is January 1733 in modern reckoning. The WJE editor connects it to widening economic divisions in Northampton, and it was first printed in 1788 by Edwards's son.",
+   "key_line": "'Tis the most absolute and indispensable duty of a people of God to give bountifully and willingly for the supply of the wants of the needy.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "money-work",
+    "justice-society"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoxOS53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 17: The Duty of Charity to the Poor (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoxOS53amVv"
+    },
+    {
+     "label": "Internet Archive: Practical Sermons, Never Before Published (Edinburgh: M. Gray, 1788)",
+     "url": "https://archive.org/details/practicalsermons00edwa"
+    }
+   ],
+   "unverified_notes": "The key line is the doctrine as transcribed in WJE from Edwards's manuscript. The 1788 printed edition words it slightly differently ('It is the absolute and indispensable duty of a people of God, to give bountifully and willingly for the supply of the wants of the needy') and divides the sermon into two numbered sermons. The alternative title 'Christian Charity' used in some later editions was not checked. The headnote places the sermon in Northampton life but does not state the venue outright.",
+   "verification_status": "corrected",
+   "verification_note": "January 1733 date ('Jan. 1732/33'), Deuteronomy 15:7–11, 1788 first printing and the structure of motives and eleven objections confirmed in WJE vol. 17; the 1788 Edinburgh edition was located and added as a source."
+  },
+  {
+   "title": "A Divine and Supernatural Light, Immediately Imparted to the Soul by the Spirit of God, Shown to Be Both a Scriptural and Rational Doctrine",
+   "type": "sermon",
+   "date_text": "August 1733",
+   "date_iso": "1733-08",
+   "place": "Northampton, Massachusetts",
+   "occasion": "",
+   "scripture": "Matthew 16:17",
+   "published_in": "Boston: S. Kneeland and T. Green, 1734",
+   "summary": "Starting from Christ's words that flesh and blood did not reveal his identity to Peter, Edwards argues that God gives the soul a spiritual light directly. This light is a real sense of the beauty and excellency of divine things, and it differs from anything that natural reason or ordinary conviction can produce. He argues that the doctrine is both scriptural and reasonable. He urges hearers to ask whether they have received this light, which he presents as the source of saving faith and conversion.",
+   "context": "The WJE editor records that it was first delivered at Northampton in August 1733 and printed in Boston the next year; the title page describes it as 'Preach'd at Northampton, And Published at the Desire of some of the Hearers'. According to the editor, it enhanced Edwards's reputation and set out themes that underlay his revival preaching. The editor notes that in the printed preface Edwards described his subject as 'unfashionable' and 'out of mode'.",
+   "key_line": "There is such a thing, as a spiritual and divine light, immediately imparted to the soul by God, of a different nature from any that is obtained by natural means.",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "reason-truth",
+    "new-birth"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoyMC53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 17: A Divine and Supernatural Light (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNjoyMC53amVv"
+    },
+    {
+     "label": "CCEL: Works of Jonathan Edwards, vol. 2 (1834 Hickman edition, full text)",
+     "url": "https://ccel.org/ccel/e/edwards/works2/cache/works2.txt"
+    }
+   ],
+   "unverified_notes": "The date 1734 sometimes given is the publication year; the manuscript is dated August 1733. The preface's own wording is 'the unfashionableness of the subject'.",
+   "verification_status": "corrected",
+   "verification_note": "August 1733 Northampton delivery, 1734 Kneeland and Green printing, full title and Matthew 16:17 confirmed in WJE vol. 17; the 'unfashionable' remark is now attributed to the editor's summary of the preface."
+  },
+  {
+   "title": "Justification by Faith Alone",
+   "type": "sermon",
+   "date_text": "November 1734",
+   "date_iso": "1734-11",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Northampton lecture, delivered in two preaching units",
+   "scripture": "Romans 4:5",
+   "published_in": "Discourses on Various Important Subjects (Boston, 1738), the first of the 'Five Discourses'",
+   "summary": "Edwards argues that sinners are justified only by faith in Christ, not by any virtue or goodness of their own. He explains that faith justifies because it unites a person to Christ. He goes through key terms such as 'imputed' and 'justify' and answers objections, including the apparent conflict between Paul and James, which he resolves by reading James as speaking of justification shown outwardly through works.",
+   "context": "The WJE editor notes that Edwards preached this as a lecture in November 1734 and then roughly doubled it for publication in 1738, making it the opening piece of Discourses on Various Important Subjects. The editor calls it Edwards's first published treatise and describes its target as the 'Arminian' scheme.",
+   "key_line": "We are justified only by faith in Christ, and not by any manner of virtue or goodness of our own.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "faith-doubt"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODo5LndqZW8=",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 19: Justification by Faith Alone (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODo5LndqZW8="
+    }
+   ],
+   "unverified_notes": "Edwards's own claim, made elsewhere, that these discourses preceded the 1734–35 awakening was not checked, so it is left out.",
+   "verification_status": "verified",
+   "verification_note": "November 1734 lecture, two preaching units, Romans 4:5, doubling for the 1738 Five Discourses and 'first published treatise' confirmed in the WJE vol. 19 headnote; key line matches the printed doctrine."
+  },
+  {
+   "title": "Pressing into the Kingdom of God",
+   "type": "sermon",
+   "date_text": "February 1735",
+   "date_iso": "1735-02",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Preached over four successive meetings during the 1734–35 Northampton revival",
+   "scripture": "Luke 16:16",
+   "published_in": "Discourses on Various Important Subjects (Boston, 1738), the second of the 'Five Discourses'",
+   "summary": "Edwards teaches that everyone who hopes to enter the kingdom of God must press into it: seeking salvation with earnest, persistent, wholehearted effort through the means God has appointed. He argues that God ordinarily uses such earnest seeking to show people their own hearts and helplessness and to end their reliance on their own strength and righteousness, which prepares them to receive the kingdom. The application urges the unconverted not to delay, presenting the present season of awakening as a special opportunity.",
+   "context": "The WJE editor places the sermon about ten weeks after the November 1734 justification lecture and within five weeks of the start of the revival that Edwards later described in A Faithful Narrative. The manuscript date 'Feb. 1735' marks its first preaching, and Edwards noted a partial later repreaching.",
+   "key_line": "It concerns everyone that would obtain the kingdom of God, to be pressing into it.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "sin-repentance"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoxMi53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 19: Pressing into the Kingdom of God (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoxMi53amVv"
+    }
+   ],
+   "unverified_notes": "The date of the partial repreaching is not known.",
+   "verification_status": "corrected",
+   "verification_note": "February 1735 date, four units, Luke 16:16 and the 1738 publication confirmed in the WJE vol. 19 headnote; the summary's claim that seeking 'does not earn grace' was replaced with what the text says about seeking exposing one's helplessness."
+  },
+  {
+   "title": "The Excellency of Christ",
+   "type": "sermon",
+   "date_text": "August 1736",
+   "date_iso": "1736-08",
+   "place": "",
+   "occasion": "Sacrament (Lord's Supper) sermon; the manuscript is marked 'Aug. 1736 Sacr.'",
+   "scripture": "Revelation 5:5–6",
+   "published_in": "Discourses on Various Important Subjects (Boston, 1738), the last of the 'Five Discourses'",
+   "summary": "Taking the images of the Lion of Judah and the Lamb that was slain, Edwards argues that Christ joins excellencies that seem incompatible: majesty and meekness, justice and grace, glory and humility. He finds these shown most fully in Christ's sufferings. The application invites sinners to choose Christ as their friend and portion. It describes him as possessing everything desirable in a friend, and says he treats believers as friends and brothers now and in heaven.",
+   "context": "In his preface to the 1738 volume, Edwards said he added this sermon 'on my own motion' as an evangelical counterpart to the collection's 'legal and awakening' discourses. He also said people in another town where he had preached it had asked for a copy. The WJE editor notes that the printed text is about a fifth longer than the manuscript.",
+   "key_line": "Whatsoever there is, or can be, that is desirable to be in a friend, is in Christ, and that to the highest degree that can be desired.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "friendship"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoyNS53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 19: The Excellency of Christ (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoyNS53amVv"
+    }
+   ],
+   "unverified_notes": "The headnote does not say where it was first preached. It was probably Northampton on a sacrament day, but no source states this. It was also preached in an unnamed other town.",
+   "verification_status": "verified",
+   "verification_note": "The 'Aug. 1736 Sacr.' manuscript note, Revelation 5:5–6, the preface statements and the one-fifth expansion confirmed in the WJE vol. 19 headnote; key line and 'friends and brethren' passages match the text."
+  },
+  {
+   "title": "Peaceable and Faithful Amid Division and Strife",
+   "type": "sermon",
+   "date_text": "May 1737",
+   "date_iso": "1737-05",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Preached in two units (forenoon and afternoon) to his congregation",
+   "scripture": "2 Samuel 20:19",
+   "published_in": "The Works of Jonathan Edwards, vol. 19: Sermons and Discourses, 1734–1738, ed. M. X. Lesser (Yale University Press, 2001)",
+   "summary": "Using the wise woman of Abel and the strife in Israel around Absalom and Sheba, Edwards shows the damage that division and contention do to a people. He addresses the application only to those who had kept out of the town's recent quarrels. He commends them for remaining 'peaceable and faithful', urges them to restrain or avoid contentious neighbours, and asks them to pity and pray for those neighbours.",
+   "context": "Edwards dated the only delivery 'May 1737'. The WJE editor ties it to a divisive debate over Northampton's new meetinghouse and to what the editor calls the town's 'feckless' response to the collapse of the meetinghouse galleries. The editor also sees in it a possible early sign of the rift that later divided Edwards from his church.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "church-unity"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoyOS53amVv",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 19: Peaceable and Faithful Amid Division and Strife (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xODoyOS53amVv"
+    },
+    {
+     "label": "Jonathan Edwards Center: WJE volume list with publication years",
+     "url": "http://edwards.yale.edu/about-us"
+    }
+   ],
+   "unverified_notes": "No publication before WJE vol. 19 was found; the title is the one used in WJE. The editor places the meetinghouse debate in 'the past spring' without giving a precise date.",
+   "verification_status": "corrected",
+   "verification_note": "May 1737 date, two units, 2 Samuel 20:19 and the application's restriction to those who kept out of the quarrels confirmed in WJE vol. 19; the context now quotes the editor's characterisation and no longer fixes the meetinghouse dispute to 'that spring'."
+  },
+  {
+   "title": "Charity and Its Fruits",
+   "type": "sermon-series",
+   "date_text": "April–October 1738",
+   "date_iso": "1738-04",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Fifteen-sermon series to his congregation",
+   "scripture": "1 Corinthians 13",
+   "published_in": "Charity and Its Fruits; or, Christian Love as Manifested in Heart and Life, ed. Tryon Edwards (New York: Robert Carter & Brothers, 1852)",
+   "summary": "Working through 1 Corinthians 13, Edwards argues that all saving virtue is summed up in Christian love to God and to people. He traces love's fruits: patience and kindness toward those who injure us, and freedom from envy, pride, selfishness, anger, and a censorious spirit. Later sermons argue that grace leads to holy practice and cannot be overthrown. The last sermon, titled 'Heaven Is a World of Love' in WJE, describes heaven as a place where love is perfect and never ends.",
+   "context": "The WJE editor records that the manuscript booklets are dated between April and October 1738, about midway through Edwards's Northampton ministry and between the revivals of 1734–36 and 1740–43. The original manuscripts are lost. Tryon Edwards first published the sermons in 1852, splitting sermon four in two to make sixteen 'lectures'; the WJE text follows an early-nineteenth-century copy held at Andover. Tryon Edwards's preface says the sermons were preached in 1738 'to the people of his charge in Northampton'.",
+   "key_line": "All the fruits of the Spirit, which we are to lay weight upon as evidential of grace, are summed up in charity, or Christian love; because this is the sum of all grace.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "heaven-hope"
+   ],
+   "read_url": "https://archive.org/details/charityitsfruits00edw",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Internet Archive: Charity and Its Fruits, ed. Tryon Edwards (New York, 1852)",
+     "url": "https://archive.org/details/charityitsfruits00edw"
+    },
+    {
+     "label": "WJE Online Vol. 8: Editor's Introduction and Note on the Texts (Paul Ramsey)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy43OjMud2plbw=="
+    },
+    {
+     "label": "WJE Online Vol. 8: Sermon One, Love the Sum of All Virtue",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy43OjQ6MS53amVv"
+    },
+    {
+     "label": "WJE Online Vol. 8: Sermon Fifteen, Heaven Is a World of Love",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy43OjQ6MTUud2plbw=="
+    }
+   ],
+   "unverified_notes": "The original manuscripts are lost, and the 1852 edition and the WJE copy-text differ in wording. The key line is quoted from Lecture II of the public-domain 1852 edition. Three of the fifteen booklets carry no month, so April and October are the first and last dated booklets.",
+   "verification_status": "corrected",
+   "verification_note": "April–October 1738 dating, fifteen booklets, lost manuscripts, the Andover copy-text and Tryon Edwards's 1852 split into sixteen lectures confirmed in the WJE vol. 8 introduction and Note on the Texts; read_url and key line moved to the public-domain 1852 edition because the WJE copy-text was first published in 1989."
+  },
+  {
+   "title": "Children Ought to Love the Lord Jesus Christ Above All",
+   "type": "sermon",
+   "date_text": "August 1740",
+   "date_iso": "1740-08",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Addressed 'To the children' (roughly ages one to fourteen) of his congregation",
+   "scripture": "Matthew 10:37",
+   "published_in": "The Works of Jonathan Edwards, vol. 22: Sermons and Discourses, 1739–1742, ed. Harry S. Stout, Nathan O. Hatch and Kyle P. Farley (Yale University Press, 2003)",
+   "summary": "Speaking directly to children, Edwards argues that they should love Jesus Christ more than their parents or anything else in the world. His reasons are Christ's worthiness, the greater good to be found in him, his higher right to them, what he has done for them, and his special attention to children in the Gospels. He warns of the consequences of not loving Christ, reminds them they cannot earn his love, and urges them to love him with all their hearts.",
+   "context": "The manuscript is headed 'To the children, Aug. 1740'. It came a month after a special meeting for young people in July 1740, and it belongs to a group of sermons Edwards addressed to particular age groups during the Great Awakening; the WJE editors call it his first Great Awakening sermon to children. In a 1743 letter to Thomas Prince, Edwards reported that by the middle of December 1740 'a very considerable work of God appeared among those that were very young'.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "new-birth"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMToyMS53amVv",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 22: Children Ought to Love the Lord Jesus Christ Above All (editor's headnote)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMToyMC53amVv"
+    },
+    {
+     "label": "WJE Online Vol. 22: Children Ought to Love the Lord Jesus Christ Above All (text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMToyMS53amVv"
+    },
+    {
+     "label": "Jonathan Edwards Center: WJE volume list with publication years",
+     "url": "http://edwards.yale.edu/about-us"
+    }
+   ],
+   "unverified_notes": "It could not be confirmed whether the sermon was printed before WJE vol. 22, so the linked text is treated as a modern copyrighted edition. The headnote refers to 'the church' without naming the town, but Edwards was pastor at Northampton in 1740.",
+   "verification_status": "corrected",
+   "verification_note": "The 'To the children, Aug. 1740' heading, Matthew 10:37, ages one to fourteen and the five-part argument confirmed in the WJE vol. 22 headnote; 'series of special age-group meetings' was changed to match the editors' wording, and the Prince letter is now quoted."
+  },
+  {
+   "title": "Sinners in the Hands of an Angry God",
+   "type": "sermon",
+   "date_text": "8 July 1741",
+   "date_iso": "1741-07-08",
+   "place": "Enfield, Massachusetts (now Connecticut)",
+   "occasion": "Preached at Enfield 'at a time of great awakenings' (title page); an earlier, milder version was preached at Northampton in June 1741",
+   "scripture": "Deuteronomy 32:35",
+   "published_in": "Boston: S. Kneeland and T. Green, 1741",
+   "summary": "From the text 'Their foot shall slide in due time', Edwards argues that unconverted people are kept from destruction at every moment only by God's will, not by their own strength, plans, health, or good intentions. The application describes God's wrath through a series of images. It then urges every listener still outside Christ to flee to him at once, while the current season of awakening lasts.",
+   "context": "The WJE editor records that Edwards first preached the sermon at Northampton in June 1741 to a muted response, then revised it and preached it at Enfield on 8 July. The diary of the Rev. Stephen Williams of Longmeadow records moaning and crying out through the house, so that the minister had to stop. The editor concludes that Edwards apparently could not finish the sermon.",
+   "key_line": "The sword of divine justice is every moment brandished over their heads, and 'tis nothing but the hand of arbitrary mercy, and God's mere will, that holds it back.",
+   "primary_category": "judgment",
+   "categories": [
+    "judgment",
+    "new-birth"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMTo0Ny53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 22: Sinners in the Hands of an Angry God (editor's headnote, including Stephen Williams's diary)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMTo0Ni53amVv"
+    },
+    {
+     "label": "WJE Online Vol. 22: Sinners in the Hands of an Angry God (text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yMTo0Ny53amVv"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale: Sinners in the Hands of an Angry God (1741)",
+     "url": "http://edwards.yale.edu/research/major-works/sinners-in-the-hands-of-an-angry-god"
+    },
+    {
+     "label": "CCEL: Works of Jonathan Edwards, vol. 2 (1834 Hickman edition, full text)",
+     "url": "https://ccel.org/ccel/e/edwards/works2/cache/works2.txt"
+    }
+   ],
+   "unverified_notes": "The interruption is known from one eyewitness diary (Stephen Williams); the WJE editor's conclusion that Edwards could not finish is hedged with 'apparently'. The 1834 Hickman edition reads 'it is nothing but' where the WJE text of the 1741 edition reads ''tis nothing but'.",
+   "verification_status": "verified",
+   "verification_note": "8 July 1741 at Enfield, the June 1741 Northampton version, the 1741 Kneeland and Green title page, Deuteronomy 32:35 and the Williams diary confirmed in the WJE vol. 22 headnote; key line matches the WJE text."
+  },
+  {
+   "title": "The Distinguishing Marks of a Work of the Spirit of God",
+   "type": "address",
+   "date_text": "10 September 1741",
+   "date_iso": "1741-09-10",
+   "place": "Yale College, New Haven, Connecticut",
+   "occasion": "Yale College commencement address, heard by faculty, students, ministers and other guests",
+   "scripture": "1 John 4:1",
+   "published_in": "Boston, 1741 ('with great enlargements', preface by William Cooper)",
+   "summary": "Edwards argues that the features critics pointed to in the revival prove nothing either way about whether it is God's work. These included its unusual form, bodily effects, noise, vivid impressions, the influence of example, imprudent conduct, mixed errors, later scandals among converts, and preaching on God's wrath. He then gives five scriptural signs of the Spirit's work: raising esteem for Jesus, turning people from sin and worldly desires, increasing regard for Scripture, leading them into truth, and producing love to God and others. He concludes that the revival is in general from God, warns its opponents, and cautions its supporters against excesses.",
+   "context": "The WJE editor records that Edwards gave the address a few days after the itinerant James Davenport had left New Haven, where he had publicly denounced the local pastor Joseph Noyes; the editor writes that many were then asking whether the revival could be controlled or defended. It was published in Boston in 1741 in expanded form, and in 1742 Benjamin Franklin reprinted it in Philadelphia while Isaac Watts arranged a London edition.",
+   "key_line": "Scripture rules serve to distinguish the common influences of the Spirit of God, as well as those that are saving, from the influence of other causes.",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "reason-truth"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4zOjUud2plbw==",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 4: Editor's Introduction, 'Testing the Spirits' (C. C. Goen)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4zOjM6Ny53amVv"
+    },
+    {
+     "label": "WJE Online Vol. 4: The Distinguishing Marks (text; the page opens with the end of the preceding 1736 letter)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4zOjUud2plbw=="
+    },
+    {
+     "label": "WJE Online Vol. 8: Editor's Introduction (commencement address of 10 Sept 1741)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy43OjMud2plbw=="
+    }
+   ],
+   "unverified_notes": "The printed text was greatly expanded from what Edwards delivered, so the published version is longer than the commencement address.",
+   "verification_status": "corrected",
+   "verification_note": "Commencement date and audience, 1 John 4:1, the 1741 Boston edition with Cooper's preface and the 1742 Franklin and Watts editions confirmed in WJE vol. 4 (and the date again in WJE vol. 8); context corrected to say Davenport had left New Haven, and the summary now lists all nine negative signs."
+  },
+  {
+   "title": "True Saints, When Absent from the Body, Are Present with the Lord",
+   "type": "sermon",
+   "date_text": "12 October 1747",
+   "date_iso": "1747-10-12",
+   "place": "Northampton, Massachusetts",
+   "occasion": "Funeral of the missionary David Brainerd",
+   "scripture": "2 Corinthians 5:8",
+   "published_in": "Boston: Rogers and Fowle for D. Henchman, 1747",
+   "summary": "Edwards teaches that the souls of true saints go to be with Christ as soon as they leave their bodies at death. He describes that state as seeing Christ directly, living in close communion with him, and sharing in his joy and glory. The application presents David Brainerd's conversion, spiritual life, conduct, and death, drawing on his diary, as a model of true sainthood. It ends by pointing to Brainerd's support for the proposed international concert of prayer.",
+   "context": "Brainerd, a missionary to Native Americans, died of tuberculosis in Edwards's home at Northampton on 9 October 1747, and the manuscript is labelled 'Prepared for Mr. Brainerd's funeral, appointed October 12, 1747'. The printed title page says he 'was interred on the 12th following'.",
+   "key_line": "The souls of true saints, when they leave their bodies at death, go to be with Christ.",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "heaven-hope"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yNDoxNC53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 25: True Saints, When Absent from the Body, Are Present with the Lord (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yNDoxNC53amVv"
+    },
+    {
+     "label": "Wikipedia: David Brainerd (death at Edwards's Northampton home; tomb at Northampton)",
+     "url": "https://en.wikipedia.org/wiki/David_Brainerd"
+    }
+   ],
+   "unverified_notes": "The venue is inferred: Brainerd died at Northampton, the funeral took place three days later, Edwards was pastor of the first church there, and his tomb is at Northampton. No source names the building where the sermon was preached.",
+   "verification_status": "verified",
+   "verification_note": "The funeral date of 12 October 1747, death at Northampton on 9 October, 2 Corinthians 5:8 and the 1747 Rogers and Fowle printing confirmed from the WJE vol. 25 headnote and the transcribed title page; key line matches the text."
+  },
+  {
+   "title": "A Farewell Sermon Preached at the First Precinct in Northampton, after the People's Public Rejection of Their Minister",
+   "type": "sermon",
+   "date_text": "1 July 1750",
+   "date_iso": "1750-07-01",
+   "place": "First Precinct (church), Northampton, Massachusetts",
+   "occasion": "Farewell to his congregation after his dismissal (vote and council action of 22 June 1750)",
+   "scripture": "2 Corinthians 1:14",
+   "published_in": "Boston: S. Kneeland, 1751",
+   "summary": "Edwards argues that his farewell is not final, because ministers and the people in their care must meet again before Christ at the day of judgment. There their conduct toward each other and their motives will be examined. The application reviews his ministry and the town's long history of contention, and gives counsel to different groups in the congregation. He urges them to keep Christian discipline in their families, avoid contention, and give up bitterness, including toward those who opposed him.",
+   "context": "After the Northampton congregation voted to separate from Edwards and a council of churches acted on 22 June 1750, following disputes over his stricter terms for church membership, he preached this sermon on the first Sunday of July. The manuscript is headed 'My Farewell Sermon to the People of Northampton. Preached July 1. 1750'. It was printed in 1751 with a preface defending his position.",
+   "key_line": "And here I would particularly advise those, that have adhered to me in the late controversy, to watch over their spirits, and avoid all bitterness towards others.",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "judgment",
+    "hatred-enemies"
+   ],
+   "read_url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yNDoyMS53amVv",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "WJE Online Vol. 25: A Farewell Sermon (editor's headnote and text)",
+     "url": "http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4yNDoyMS53amVv"
+    },
+    {
+     "label": "Jonathan Edwards Center at Yale: Biography (dismissal of 1750)",
+     "url": "http://edwards.yale.edu/research/about-edwards/biography"
+    }
+   ],
+   "unverified_notes": "The printed title's 'On June 22, 1750' refers to the date of the rejection, not the date the sermon was preached, which was 1 July 1750.",
+   "verification_status": "verified",
+   "verification_note": "The 1 July 1750 manuscript date, the 22 June 1750 council action, 2 Corinthians 1:14 and the 1751 Kneeland title page and preface confirmed in the WJE vol. 25 headnote; key line matches the text."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: clarified that Edwards went to Northampton in 1726 as Stoddard's assistant and became sole pastor on Stoddard's death in February 1729 (WJE vol. 14 Preface); added his Yale undergraduate and graduate dates per the JEC biography; added his mother's name.",
+  "Profile bio: 'stricter qualifications for church membership' reworded to 'admission to the sacraments' to match the JEC biography.",
+  "Profile corpus_note: removed the unsourced claim that Beinecke 'lists over one thousand sermons'; replaced it with the JEC sermon index's statement on manuscript location (Beinecke, GEN MSS 151) and dating from January 1733; attributed the 73 volumes and 1,200+ sermons to Yale News (2008) and the 26 printed volumes (1957–2008) to the JEC volume list.",
+  "Profile sources: added WJE vol. 14 Preface and the JEC Sermon Index.",
+  "Living Peaceably: occasion reworded (sources do not say 'early' in the pastorate); context tightened to match the headnote on the shorthand marks.",
+  "Duty of Charity to the Poor: added the 1788 Edinburgh edition (Internet Archive) as a source and noted that its doctrine wording differs from the WJE manuscript text.",
+  "A Divine and Supernatural Light: the 'unfashionable' remark is now attributed to the WJE editor's summary of the preface, whose own wording is 'unfashionableness of the subject'; title-page wording quoted; CCEL source added.",
+  "Pressing into the Kingdom: summary no longer says seeking 'does not earn grace'; it now follows the text's claim that earnest seeking shows people their helplessness and ends reliance on their own strength and righteousness.",
+  "Peaceable and Faithful: dropped 'that spring' for the meetinghouse dispute, attributed 'feckless' to the editor, and changed 'urges them to avoid' to 'restrain or avoid' to match the headnote.",
+  "Charity and Its Fruits: read_url moved from the WJE text (copy-text first published 1989) to the public-domain 1852 Tryon Edwards edition on the Internet Archive; the key line was replaced with a verbatim line from Lecture II of the 1852 text; noted that the dated booklets run from April to October 1738 and that Tryon Edwards's preface places the series at Northampton.",
+  "Children Ought to Love: 'one of a series of special age-group meetings' changed to match the WJE editors' wording; the Prince letter is now quoted directly.",
+  "Distinguishing Marks: context corrected from 'after Davenport's disruptive preaching in New Haven' to 'a few days after Davenport had left New Haven', as the WJE editor puts it; summary now lists all nine negative signs; WJE vol. 8 source added for the date.",
+  "God Glorified and Sinners: CCEL 1834 Hickman edition added as a source, with the wording differences recorded in unverified_notes (the facts are unchanged)."
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "rows": [
+  {
+   "id": "spurgeon-the-immutability-of-god",
+   "listen_url": "https://hearspurgeon.com/1-2",
+   "listen_label": "Hear Spurgeon reading (Zach Kispert)",
+   "kind": "authorised-reading",
+   "evidence": "The page is titled '1. The Immutability of God — Malachi 3:6'. It embeds Hear Spurgeon's own MP3 (1._The_Immutability_of_God_-_Malachi_3.6_new.mp3), read by the site's human narrator."
+  },
+  {
+   "id": "spurgeon-sovereignty-and-salvation",
+   "listen_url": "https://hearspurgeon.com/60",
+   "listen_label": "Hear Spurgeon reading (Zach Kispert)",
+   "kind": "authorised-reading",
+   "evidence": "The page is titled '60. Sovereignty and Salvation — Isaiah 45:22' and plays Hear Spurgeon's own MP3 'Sovereignty_and_Salvation_Sermon_No._60'. It is sermon No. 60, the same number the Spurgeon Center gives."
+  },
+  {
+   "id": "spurgeon-hatred-without-cause",
+   "listen_url": "https://embed.sermonaudio.com/player/a/2502115548/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'Hatred Without Cause', C. H. Spurgeon, broadcaster Prince of Preachers (Koelsch Broadcasting Productions), with a 37-minute MP3 to play or download. Hear Spurgeon's No. 89 page (John 15:25) embeds this same recording."
+  },
+  {
+   "id": "spurgeon-the-exaltation-of-christ",
+   "listen_url": "https://embed.sermonaudio.com/player/a/4300291757/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'The Exaltation of Christ', C. H. Spurgeon, broadcaster Prince of Preachers, with playable audio. Hear Spurgeon's page for No. 101 (Philippians 2:9–11) embeds this same recording."
+  },
+  {
+   "id": "spurgeon-a-faithful-friend",
+   "listen_url": "https://embed.sermonaudio.com/player/a/WMUU0000000397/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'A Faithful Friend', C. H. Spurgeon, broadcaster Prince of Preachers, with a 39-minute MP3. Spurgeon Gems (Chapel Library) lists the Koelsch recording 'Faithful Friend, A' under Proverbs 18:24, the text of sermon No. 120."
+  },
+  {
+   "id": "spurgeon-fast-day-service",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate human reading was found. The only SermonAudio copy ('Fast-day Service', broadcaster 'Audiobooks by C. H. Spurgeon') is labelled as made with an artificial voice. The sermon is not on Hear Spurgeon, CHSpurgeon.com, LibriVox or the Koelsch/Spurgeon Gems list."
+  },
+  {
+   "id": "spurgeon-compel-them-to-come-in",
+   "listen_url": "https://chspurgeon.com/sermons/compel-them-to-come-in-227",
+   "listen_label": "CHSpurgeon.com reading (Tod Magstadt)",
+   "kind": "authorised-reading",
+   "evidence": "The CHSpurgeon.com page for No. 227 names Luke 14:23 and December 5, 1858. It has a 'Listen Now' player linked to the site's own Buzzsprout episode 'Compel Them to Come In'. The site says the reading is by the late Tod Magstadt and that no AI was used."
+  },
+  {
+   "id": "spurgeon-love",
+   "listen_url": "https://embed.sermonaudio.com/player/a/6270310856/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'Love', C. H. Spurgeon, broadcaster Prince of Preachers, with playable audio. Hear Spurgeon's page for No. 229 (1 John 4:19) embeds this same recording, and Spurgeon Gems lists 'Love' under 1 John 4:19."
+  },
+  {
+   "id": "spurgeon-the-first-sermon-in-the-tabernacle",
+   "listen_url": "https://hearspurgeon.com/369-2",
+   "listen_label": "Hear Spurgeon reading (Zach Kispert)",
+   "kind": "authorised-reading",
+   "evidence": "The page is titled '369. The First Sermon in the Tabernacle — Acts 5:42' and embeds Hear Spurgeon's own MP3 '369._The_First_Sermon_in_the_Tabernacle_-_Acts_5.42.mp3', about 50 minutes long."
+  },
+  {
+   "id": "spurgeon-accidents-not-punishments",
+   "listen_url": "https://embed.sermonaudio.com/player/a/53019314/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'Accidents, Not Punishments', C. H. Spurgeon, broadcaster Prince of Preachers, with playable audio. Hear Spurgeon's page for No. 408 (Luke 13:1–5) embeds this same recording."
+  },
+  {
+   "id": "spurgeon-the-peacemaker",
+   "listen_url": "https://embed.sermonaudio.com/player/a/9406165239/",
+   "listen_label": "Prince of Preachers reading (Koelsch Broadcasting, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'The Peacemaker', C. H. Spurgeon, broadcaster Prince of Preachers, with playable audio. Hear Spurgeon's page for No. 422 (Matthew 5:9) embeds this same recording."
+  },
+  {
+   "id": "spurgeon-baptismal-regeneration",
+   "listen_url": "https://embed.sermonaudio.com/player/a/31017165553/",
+   "listen_label": "Grace Gems reading (Grace Audio Treasures, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'Baptismal Regeneration', C. H. Spurgeon, broadcaster Grace Audio Treasures (Grace Gems), posted in 2017. The 71-minute MP3 is long enough for the full sermon No. 573, and Grace Gems describes its readings as professionally read by human narrators."
+  },
+  {
+   "id": "spurgeon-order-and-argument-in-prayer",
+   "listen_url": "https://embed.sermonaudio.com/player/a/520231255116015/",
+   "listen_label": "The Narrated Puritan reading (T. M. Sullivan, SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player shows 'Order and Argument in Prayer - I would order my cause before Him', C. H. Spurgeon, broadcaster The Narrated Puritan (narrated by T. M. Sullivan). The feed description says 'preached 7/15/1866' and quotes the sermon's Job 23 opening; the audio runs 51 minutes."
+  },
+  {
+   "id": "spurgeon-the-first-cry-from-the-cross",
+   "listen_url": "https://chspurgeon.com/sermons/the-first-cry-from-the-cross-897",
+   "listen_label": "CHSpurgeon.com reading (Tod Magstadt)",
+   "kind": "authorised-reading",
+   "evidence": "The CHSpurgeon.com page for No. 897 names Luke 23:34 and October 24, 1869. It has a 'Listen Now' player linked to the site's own Buzzsprout episode, about 48 minutes, and a note on the page says the sermons were recorded by the late Tod Magstadt with no AI."
+  },
+  {
+   "id": "spurgeon-forgiveness-made-easy",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate human reading was found. The only SermonAudio copy (broadcaster 'Audiobooks by C. H. Spurgeon') is labelled as made with an artificial voice. CHSpurgeon.com shows has_audio false for No. 1448, and the sermon is not on Hear Spurgeon, LibriVox or the Koelsch/Spurgeon Gems list."
+  },
+  {
+   "id": "spurgeon-the-friends-of-jesus",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of sermon No. 1552 was found on LibriVox, Hear Spurgeon, SermonAudio (Prince of Preachers or others), the Spurgeon Gems/Koelsch list, the Gavin Childress podcast or CHSpurgeon.com (has_audio false)."
+  },
+  {
+   "id": "spurgeon-the-friend-of-god",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of sermon No. 1962 (Isaiah 41:8 and James 2:23) was found on LibriVox, Hear Spurgeon, SermonAudio, the Spurgeon Gems/Koelsch list or CHSpurgeon.com (has_audio false)."
+  },
+  {
+   "id": "spurgeon-the-statute-of-david-for-the-sharing-of-the-spoil",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate human reading was found. The only SermonAudio copy (broadcaster 'Audiobooks by C. H. Spurgeon', V.37 series) is labelled as made with an artificial voice. CHSpurgeon.com shows has_audio false for No. 2208, and the Union Publishing page is text only."
+  }
+ ]
+}

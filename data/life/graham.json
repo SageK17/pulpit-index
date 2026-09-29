@@ -1,0 +1,569 @@
+{
+ "id": "graham",
+ "name": "Billy Graham",
+ "born": {
+  "date_iso": "1918-11-07",
+  "date_text": "7 November 1918",
+  "place": "Charlotte, North Carolina, USA"
+ },
+ "died": {
+  "date_iso": "2018-02-21",
+  "date_text": "21 February 2018",
+  "place": "Montreat, North Carolina, USA"
+ },
+ "life_summary": "Billy Graham was born in 1918 and grew up on a dairy farm in Charlotte, North Carolina. In November 1934, aged 15, he committed his life to Christ at a revival led by Mordecai Ham. After a semester at Bob Jones College he studied at the Florida Bible Institute (1937–40), where Peniel Baptist Church in Palatka ordained him in 1939, and then at Wheaton College, graduating in June 1943 and marrying Ruth Bell that August. After pastoring the Village Church of Western Springs, Illinois (1943–45), he became Youth for Christ's first full-time evangelist, and from 1948 to 1952 he was president of Northwestern Schools in Minneapolis. His 1949 Los Angeles campaign brought him national attention, and in 1950 the Billy Graham Evangelistic Association (BGEA) was incorporated; it organised his crusades, including London (1954) and New York (1957), and his broadcasts. From 1977 he also preached in communist Eastern Europe, spoke in Moscow in 1982, visited China in 1988 and North Korea in 1992 and 1994, and he was honorary chairman of the 1974 Lausanne Congress. After Parkinson's disease was announced in 1992, his son Franklin took over the BGEA in 2000–01, and after a last crusade in New York in 2005 Graham lived in retirement at Montreat, where Ruth died in 2007 and he died in 2018, aged 99.",
+ "phases": [
+  {
+   "start_year": 1918,
+   "end_year": 1936,
+   "label": "Charlotte farm boyhood",
+   "summary": "He grew up on his family's dairy farm in Charlotte, North Carolina. In November 1934 he went forward at Mordecai Ham's revival meetings in the city and committed his life to Christ.",
+   "place": "Charlotte, North Carolina",
+   "sources": [
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    },
+    {
+     "label": "Billy Graham Library – When Billy Graham Found Christ",
+     "url": "https://billygrahamlibrary.org/when-billy-graham-found-christ/"
+    }
+   ]
+  },
+  {
+   "start_year": 1936,
+   "end_year": 1943,
+   "label": "Bible college and Wheaton",
+   "summary": "He spent one semester at Bob Jones College in autumn 1936, then from early 1937 studied at the Florida Bible Institute in Temple Terrace near Tampa, where he began preaching, was ordained by Peniel Baptist Church, Palatka, in 1939 and graduated in 1940. At Wheaton College (1940–43) he majored in anthropology and was pastor of the United Gospel Tabernacle while a student.",
+   "place": "Temple Terrace (Tampa), Florida; Wheaton, Illinois",
+   "sources": [
+    {
+     "label": "BGEA Canada – A Look at Billy Graham's Ministry in College",
+     "url": "https://www.billygraham.ca/stories/a-look-at-billy-grahams-ministry-in-college/"
+    },
+    {
+     "label": "Billy Graham Library – Billy Graham and the Florida Bible Institute",
+     "url": "https://billygrahamlibrary.org/blog-billy-graham-and-the-florida-bible-institute/"
+    },
+    {
+     "label": "Wheaton Archives & Special Collections – Billy Graham at Wheaton College (From the Vault)",
+     "url": "https://fromthevault.wheaton.edu/2023/02/15/billy-graham-at-wheaton/"
+    }
+   ]
+  },
+  {
+   "start_year": 1943,
+   "end_year": 1949,
+   "label": "Western Springs and Youth for Christ",
+   "summary": "Newly married, he was pastor of the Village Church of Western Springs, Illinois (1943–45), then in January 1945 left to become Youth for Christ's first full-time evangelist. In 1945 the family moved to Montreat, North Carolina, where daughters Gigi (1945) and Anne (1948) were born; in December 1947 W. B. Riley chose him to lead Northwestern Schools, Minneapolis, which he did from 1948.",
+   "place": "Western Springs, Illinois; Montreat, North Carolina; Minneapolis, Minnesota",
+   "sources": [
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    },
+    {
+     "label": "BGEA Canada – Ruth Bell Graham: A Life Well Lived, Part 2",
+     "url": "https://www.billygraham.ca/stories/ruth-bell-graham-a-life-well-lived-part-2/"
+    },
+    {
+     "label": "University of Northwestern – Northwestern Remembers Billy Graham",
+     "url": "https://www.unwsp.edu/blog/northwestern-remembers-billy-graham/"
+    }
+   ]
+  },
+  {
+   "start_year": 1949,
+   "end_year": 1957,
+   "label": "Breakthrough crusades, BGEA founding",
+   "summary": "His extended 1949 Los Angeles campaign made him nationally known, and in 1950 the BGEA was incorporated in Minnesota and the Hour of Decision broadcast began. He remained president of Northwestern until 1952 and led long crusades in Chattanooga (1953), London (1954) and New York (1957); daughter Ruth (1950) and son Franklin (1952) were born.",
+   "place": "Montreat, North Carolina; Minneapolis; Los Angeles; London; New York",
+   "sources": [
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    },
+    {
+     "label": "Billy Graham Library – This Date in History: Greater Los Angeles Revival",
+     "url": "https://billygrahamlibrary.org/this-date-24sept1949/"
+    },
+    {
+     "label": "Samaritan's Purse – Biography: Graham Children",
+     "url": "https://www.samaritanspurse.org/media/graham-children/"
+    }
+   ]
+  },
+  {
+   "start_year": 1957,
+   "end_year": 1990,
+   "label": "Worldwide crusade ministry",
+   "summary": "With Montreat as home, he held crusades around the world, including Seoul in 1973, and was honorary chairman of the 1974 Lausanne Congress. From 1977 he preached in communist Eastern Europe, spoke at a Moscow peace conference in 1982 and visited China in 1988; his youngest son, Ned, was born in 1958.",
+   "place": "Montreat, North Carolina; international travel",
+   "sources": [
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    },
+    {
+     "label": "Christianity Today – How Billy Graham Killed Communism with Kindness",
+     "url": "https://www.christianitytoday.com/2018/02/how-billy-graham-killed-communism-kindness-iron-curtain/"
+    },
+    {
+     "label": "Billy Graham Library – Photos: Billy Graham in Asia",
+     "url": "https://billygrahamlibrary.org/blog-photos-billy-graham-in-asia/"
+    }
+   ]
+  },
+  {
+   "start_year": 1990,
+   "end_year": 2005,
+   "label": "Final crusades and succession",
+   "summary": "After his Parkinson's disease was announced in 1992 he kept preaching, visited North Korea in 1992 and 1994, handed BGEA leadership to Franklin in 2000–01, and spoke at the 2001 National Cathedral service. He held his final crusade in New York in June 2005.",
+   "place": "Montreat, North Carolina; New York",
+   "sources": [
+    {
+     "label": "Tampa Bay Times archive – Evangelist Graham has Parkinson's disease (3 July 1992)",
+     "url": "https://www.tampabay.com/archive/1992/07/03/evangelist-graham-has-parkinson-s-disease/"
+    },
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    },
+    {
+     "label": "Billy Graham Library – Photos: Billy Graham in Asia",
+     "url": "https://billygrahamlibrary.org/blog-photos-billy-graham-in-asia/"
+    }
+   ]
+  },
+  {
+   "start_year": 2005,
+   "end_year": 2018,
+   "label": "Retirement at Montreat",
+   "summary": "In retirement at Montreat he made a few appearances, including New Orleans in March 2006. The Billy Graham Library in Charlotte was dedicated in May 2007, weeks before Ruth died that June; he gave a last televised message in 2013 and died at home in 2018.",
+   "place": "Montreat, North Carolina",
+   "sources": [
+    {
+     "label": "Billy Graham Memorial – Biography",
+     "url": "https://memorial.billygraham.org/biography/"
+    },
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1918-11-07",
+   "date_text": "7 November 1918",
+   "event": "Born William Franklin Graham Jr. in Charlotte, North Carolina, and raised on his family's dairy farm there.",
+   "sources": [
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    },
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1934-11",
+   "date_text": "November 1934",
+   "event": "Aged 15, at revival meetings led by evangelist Mordecai Ham in Charlotte, he and his friend Grady Wilson went forward and committed their lives to Christ.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – When Billy Graham Found Christ",
+     "url": "https://billygrahamlibrary.org/when-billy-graham-found-christ/"
+    },
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1937-01",
+   "date_text": "late January 1937",
+   "event": "After one autumn semester at Bob Jones College in Tennessee, he arrived at the Florida Bible Institute in Temple Terrace, near Tampa, according to his autobiography.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – Billy Graham and the Florida Bible Institute",
+     "url": "https://billygrahamlibrary.org/blog-billy-graham-and-the-florida-bible-institute/"
+    },
+    {
+     "label": "BGEA Canada – A Look at Billy Graham's Ministry in College",
+     "url": "https://www.billygraham.ca/stories/a-look-at-billy-grahams-ministry-in-college/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1939",
+   "date_text": "1939",
+   "event": "While a student at the Florida Bible Institute, he was ordained to the ministry by Peniel Baptist Church in Palatka, Florida.",
+   "sources": [
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1940-09-19",
+   "date_text": "19 September 1940",
+   "event": "Aged 21 and a Florida Bible Institute graduate, he arrived at Wheaton College, Illinois, where he majored in anthropology and met Ruth Bell.",
+   "sources": [
+    {
+     "label": "Wheaton Archives & Special Collections – Billy Graham at Wheaton College (From the Vault)",
+     "url": "https://fromthevault.wheaton.edu/2023/02/15/billy-graham-at-wheaton/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1941",
+   "date_text": "1941",
+   "event": "While still a Wheaton student, he became pastor of the United Gospel Tabernacle in Wheaton; Wheaton's archives date the pastorate from September 1941 to June 1943.",
+   "sources": [
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    },
+    {
+     "label": "Wheaton Archives & Special Collections – Billy Graham at Wheaton College (From the Vault)",
+     "url": "https://fromthevault.wheaton.edu/2023/02/15/billy-graham-at-wheaton/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1943-06",
+   "date_text": "June 1943",
+   "event": "Graduated from Wheaton College with a B.A., then became pastor of the Village Church of Western Springs, Illinois (1943–45).",
+   "sources": [
+    {
+     "label": "Wheaton Archives & Special Collections – Billy Graham at Wheaton College (From the Vault)",
+     "url": "https://fromthevault.wheaton.edu/2023/02/15/billy-graham-at-wheaton/"
+    },
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1943-08-13",
+   "date_text": "13 August 1943",
+   "event": "Married Ruth McCue Bell, a fellow Wheaton student and daughter of missionaries to China, in Gaither Chapel at Montreat Presbyterian Church, North Carolina.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – This Date in History: August 13, 1943",
+     "url": "https://billygrahamlibrary.org/this-date-in-history-august-13-1943-wedding-day/"
+    },
+    {
+     "label": "BGEA – Ruth Bell Graham biography",
+     "url": "https://billygraham.org/about/biographies/ruth-bell-graham/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1945-01",
+   "date_text": "January 1945",
+   "event": "Left his Western Springs pastorate to become Youth for Christ's first full-time evangelist; he was a charter vice president of Youth for Christ International until 1950.",
+   "sources": [
+    {
+     "label": "BGEA Canada – Ruth Bell Graham: A Life Well Lived, Part 2",
+     "url": "https://www.billygraham.ca/stories/ruth-bell-graham-a-life-well-lived-part-2/"
+    },
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1945",
+   "date_text": "1945",
+   "event": "Shortly before their first child, Virginia (Gigi), was born in September 1945, the Grahams moved to Montreat, North Carolina, living at first with Ruth's parents.",
+   "sources": [
+    {
+     "label": "BGEA Canada – Ruth Bell Graham: A Life Well Lived, Part 2",
+     "url": "https://www.billygraham.ca/stories/ruth-bell-graham-a-life-well-lived-part-2/"
+    },
+    {
+     "label": "Samaritan's Purse – Biography: Graham Children",
+     "url": "https://www.samaritanspurse.org/media/graham-children/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1947-12",
+   "date_text": "December 1947",
+   "event": "W. B. Riley chose Graham, then 29, to succeed him as president of Northwestern Schools in Minneapolis; he served from 1948 until 1952.",
+   "sources": [
+    {
+     "label": "University of Northwestern – Northwestern Remembers Billy Graham",
+     "url": "https://www.unwsp.edu/blog/northwestern-remembers-billy-graham/"
+    },
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1949-09-25",
+   "date_text": "25 September 1949",
+   "event": "Opened the Los Angeles campaign in a downtown tent; extended five times, it ran eight weeks to 20 November and first brought him national media attention.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – This Date in History: Greater Los Angeles Revival",
+     "url": "https://billygrahamlibrary.org/this-date-24sept1949/"
+    },
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1950-09",
+   "date_text": "September 1950",
+   "event": "The Billy Graham Evangelistic Association was incorporated in Minnesota; its weekly Hour of Decision radio programme first aired in November 1950.",
+   "sources": [
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1953-03-15",
+   "date_text": "15 March 1953",
+   "event": "Opened a Chattanooga, Tennessee, crusade (to 14 April), described as his first integrated crusade; he refused to let ushers put back ropes segregating Black listeners.",
+   "sources": [
+    {
+     "label": "Association of Religion Data Archives – Billy Graham Holds First Integrated Crusade",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=36"
+    }
+   ]
+  },
+  {
+   "date_iso": "1954-03-01",
+   "date_text": "1 March 1954",
+   "event": "Opened the Greater London Crusade at Harringay Arena, a series of about three months that ran until 22 May 1954.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – Anniversary of the Greater London Crusade at Harringay",
+     "url": "https://billygrahamlibrary.org/blog-70th-anniversary-greater-london-crusade-at-harringay/"
+    },
+    {
+     "label": "BGEA Media – Billy Graham Biography",
+     "url": "https://media.billygraham.org/billy-graham-biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1957-05-15",
+   "date_text": "15 May 1957",
+   "event": "Began the New York Crusade at Madison Square Garden; it ran 16 weeks to 1 September, and from June ABC broadcast several nights live.",
+   "sources": [
+    {
+     "label": "Association of Religion Data Archives – Billy Graham's New York Crusade",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=37"
+    },
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    }
+   ]
+  },
+  {
+   "date_iso": "1974-07-16",
+   "date_text": "16 July 1974",
+   "event": "The International Congress on World Evangelization opened in Lausanne, Switzerland, with Graham as honorary chairman; he was among the first to sign its Lausanne Covenant.",
+   "sources": [
+    {
+     "label": "Wheaton Archives & Special Collections – Looking Back at the 1974 Lausanne Congress (From the Vault)",
+     "url": "https://fromthevault.wheaton.edu/2024/07/03/for-the-evangelization-of-the-whole-world-looking-back-at-the-1974-lausanne-congress/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1977",
+   "date_text": "1977",
+   "event": "Visited communist Hungary, a trip that opened the Eastern Bloc to his ministry; Poland followed in 1978.",
+   "sources": [
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    },
+    {
+     "label": "Christianity Today – How Billy Graham Killed Communism with Kindness",
+     "url": "https://www.christianitytoday.com/2018/02/how-billy-graham-killed-communism-kindness-iron-curtain/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1982-05-11",
+   "date_text": "11 May 1982",
+   "event": "Addressed a Soviet-sponsored religious peace conference in Moscow; his reported remark that there was \"a measure of religious freedom\" there drew Western criticism.",
+   "sources": [
+    {
+     "label": "Christianity Today – Graham's Mission to Moscow (1982)",
+     "url": "https://www.christianitytoday.com/1982/06/grahams-mission-to-moscow/"
+    },
+    {
+     "label": "Christian Science Monitor – How Billy Graham views his controversial Moscow trip (1982)",
+     "url": "https://www.csmonitor.com/1982/0603/060340.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1992-07",
+   "date_text": "July 1992",
+   "event": "His spokesman announced that Graham, then 73, had been in the early stages of Parkinson's disease for three years, with mild tremors and some difficulty walking.",
+   "sources": [
+    {
+     "label": "Tampa Bay Times archive – Evangelist Graham has Parkinson's disease (3 July 1992)",
+     "url": "https://www.tampabay.com/archive/1992/07/03/evangelist-graham-has-parkinson-s-disease/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2000",
+   "date_text": "2000",
+   "event": "His son Franklin Graham became chief executive officer of the BGEA and, in 2001, its president.",
+   "sources": [
+    {
+     "label": "BGEA – Ministry Timeline",
+     "url": "https://billygraham.org/ministry-timeline"
+    },
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2001-09-14",
+   "date_text": "14 September 2001",
+   "event": "Three days after the September 11 attacks, he gave the address at a national prayer service in Washington National Cathedral.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – Billy Graham's September 11th Story",
+     "url": "https://billygrahamlibrary.org/billy-grahams-september-11th-story/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2002",
+   "date_text": "2002",
+   "event": "After the release of a 1972 Nixon tape recording antisemitic remarks he had made in the Oval Office, Graham publicly apologised.",
+   "sources": [
+    {
+     "label": "Times of Israel – Billy Graham's difficult legacy",
+     "url": "https://www.timesofisrael.com/billy-grahams-difficult-legacy-pro-israel-in-public-deriding-jews-in-private/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2005-06-24",
+   "date_text": "24 June 2005",
+   "event": "Began his final crusade (24–26 June) at Flushing Meadows Corona Park, New York; he was 86, using a walker, with Parkinson's disease and prostate cancer.",
+   "sources": [
+    {
+     "label": "Billy Graham Library – Billy Graham's final Crusade, New York 2005",
+     "url": "https://billygrahamlibrary.org/blog-billy-graham-ny-2005/"
+    },
+    {
+     "label": "ABC News – Billy Graham in New York for Final U.S. Crusade",
+     "url": "https://abcnews.com/US/story?id=871683"
+    }
+   ]
+  },
+  {
+   "date_iso": "2007-06-14",
+   "date_text": "14 June 2007",
+   "event": "His wife Ruth died aged 87 at their home in Montreat, weeks after the Billy Graham Library in Charlotte was dedicated in May 2007.",
+   "sources": [
+    {
+     "label": "Christianity Today – Ruth Bell Graham Dies at 87 (2007)",
+     "url": "https://www.christianitytoday.com/2007/06/ruth-bell-graham-dies-at-87/"
+    },
+    {
+     "label": "Billy Graham Memorial – Biography",
+     "url": "https://memorial.billygraham.org/biography/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2018-02-21",
+   "date_text": "21 February 2018",
+   "event": "Died at 7:46 a.m. at his home in Montreat, North Carolina, aged 99.",
+   "sources": [
+    {
+     "label": "Billy Graham Memorial – Official Obituary",
+     "url": "https://memorial.billygraham.org/official-obituary/"
+    }
+   ]
+  },
+  {
+   "date_iso": "2018-03-02",
+   "date_text": "2 March 2018",
+   "event": "After lying in honor in the U.S. Capitol Rotunda on 28 February, he was buried beside Ruth in the prayer garden of the Billy Graham Library, Charlotte.",
+   "sources": [
+    {
+     "label": "Christianity Today – Billy Graham's funeral (March 2018)",
+     "url": "https://www.christianitytoday.com/2018/03/billy-graham-funeral-last-crusade-charlotte-trump/"
+    },
+    {
+     "label": "U.S. Capitol Police – Reverend Billy Graham to Lie in Honor",
+     "url": "https://www.uscp.gov/media-center/press-releases/reverend-billy-graham-lie-honor-us-capitol-rotunda"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "BGEA Media – Billy Graham Biography",
+   "url": "https://media.billygraham.org/billy-graham-biography/"
+  },
+  {
+   "label": "Billy Graham Memorial – Official Obituary",
+   "url": "https://memorial.billygraham.org/official-obituary/"
+  },
+  {
+   "label": "BGEA – Ministry Timeline",
+   "url": "https://billygraham.org/ministry-timeline"
+  },
+  {
+   "label": "Wheaton Archives & Special Collections – Billy Graham at Wheaton College (From the Vault)",
+   "url": "https://fromthevault.wheaton.edu/2023/02/15/billy-graham-at-wheaton/"
+  },
+  {
+   "label": "Billy Graham Memorial – Biography",
+   "url": "https://memorial.billygraham.org/biography/"
+  }
+ ],
+ "corrections": [
+  "Changed 'dairy farm near Charlotte' to 'dairy farm in Charlotte', following the BGEA biography's wording.",
+  "Added an event for his arrival at the Florida Bible Institute in late January 1937 (Billy Graham Library, quoting his autobiography) to support the 1937 start date.",
+  "United Gospel Tabernacle event: sources disagree (BGEA says 1941, BGEA Canada says spring 1941, Wheaton archives say September 1941), so the date is now '1941' and the Wheaton dates are credited to Wheaton's archives.",
+  "Youth for Christ event dated January 1945 (BGEA Canada, Ruth Bell Graham Part 2) instead of just 1945; dropped the Billy Graham Library YFC page as a source because it gives no date.",
+  "Montreat move: changed from 'September 1945' to '1945'. The source says only that the move came just before Gigi's birth in September 1945, not that the move was in September.",
+  "Northwestern: made clear that Riley chose him in December 1947 and that he served as president from 1948 to 1952 (University of Northwestern).",
+  "Removed the BGEA Media biography as a source for the 1950 BGEA/Hour of Decision event; the facts rest on the BGEA Ministry Timeline.",
+  "New York 1957: said ABC's live broadcasts began in June, per the BGEA timeline.",
+  "Added a 1977 Hungary event (Official Obituary; Christianity Today) to support the start of his Eastern Bloc ministry.",
+  "Moscow 1982 event narrowed from 'May 1982' to 11 May 1982, the date of his address according to Christianity Today; noted that the remark was as reported.",
+  "Parkinson's event reworded: his spokesman announced it in July 1992 and said symptoms had been present for three years (full Tampa Bay Times text checked). Hydrocephalus claim moved out of this event.",
+  "2005 final crusade: removed the unsupported 'preached from a seated pulpit' claim; kept age 86 and the walker, and added Parkinson's and prostate cancer from ABC News.",
+  "Ruth's death event: added the place (their home in Montreat) and a Christianity Today 2007 source, because the memorial pages do not say where she died.",
+  "Life summary: replaced 'preached in ... the Soviet Union' with 'spoke in Moscow in 1982' and dated the China and North Korea visits. No source confirmed a preaching tour of the USSR.",
+  "Life summary: 'helped bring about the Lausanne Congress' now reads 'honorary chairman', per the Wheaton archives; added the 1992 Parkinson's announcement.",
+  "Phase 1936–1943: added the Florida Bible Institute graduation (1940) and the Library FBI source; the Tabernacle pastorate is no longer dated 'from 1941'.",
+  "Phase 1949–1957: added the Chattanooga 1953 crusade. Phase 1957–1990: reworded the communist-country ministry the same way as the life summary.",
+  "Phase 1990–2005: 'reported' changed to 'announced' and the Tampa Bay Times source added. Phase 2005–2018: New Orleans dated March 2006 and the Library dedication dated May 2007 (Memorial Biography)."
+ ]
+}

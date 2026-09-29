@@ -1,0 +1,577 @@
+{
+ "id": "augustine",
+ "name": "Augustine of Hippo",
+ "born": {
+  "date_iso": "0354-11-13",
+  "date_text": "13 November 354",
+  "place": "Thagaste, Numidia, Roman North Africa (modern Souk Ahras, Algeria)"
+ },
+ "died": {
+  "date_iso": "0430-08-28",
+  "date_text": "28 August 430",
+  "place": "Hippo Regius, Numidia, Roman North Africa (modern Annaba, Algeria)"
+ },
+ "life_summary": "Augustine was born in 354 at Thagaste in Roman North Africa to Patricius, a pagan town councillor, and his Christian wife Monica, and was educated at Thagaste, Madauros and Carthage. At Carthage he lived with a partner who bore his son Adeodatus in 372, became a Manichaean hearer for about nine years from c. 373, and taught rhetoric before moving to Rome in 383 and to a professorship at Milan in 384. In Milan, where he heard Bishop Ambrose preach, he converted in 386, gave up his post, and was baptized by Ambrose at Easter 387; his mother died at Ostia later that year. After returning to Africa in 388 he lived in a small religious community at Thagaste, and his son died around 390. In 391 the congregation at Hippo Regius pressed him into ordination as a priest, and in about 395-396 he became bishop there, an office he held for the rest of his life. As bishop he wrote the Confessions, was a leading Catholic spokesman against the Donatists (notably at the Conference of Carthage in 411) and wrote against the Pelagians from 412, and composed The City of God between 413 and 426. In 426 he named the priest Heraclius as his successor, and he died at Hippo on 28 August 430 while the city was under Vandal siege.",
+ "phases": [
+  {
+   "start_year": 354,
+   "end_year": 370,
+   "label": "Thagaste childhood and schooling",
+   "summary": "Grew up in Thagaste as the son of the town councillor Patricius and the Christian Monica. He studied grammar at Thagaste and then at nearby Madauros.",
+   "place": "Thagaste; Madauros",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "start_year": 370,
+   "end_year": 383,
+   "label": "Carthage student and rhetor",
+   "summary": "Studied rhetoric at Carthage from c. 370-371, lived with a partner who bore his son Adeodatus (372), and became a Manichaean hearer (c. 373). After teaching rhetoric at Thagaste (c. 375) he taught rhetoric at Carthage from c. 376 until 383.",
+   "place": "Carthage; Thagaste",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "start_year": 383,
+   "end_year": 387,
+   "label": "Rome and Milan years",
+   "summary": "Taught rhetoric briefly in Rome (383) and then held the professorship of rhetoric at Milan from 384, where he heard Ambrose preach. He converted in 386, withdrew to Cassiciacum, and was baptized by Ambrose at Easter 387; Monica died at Ostia that autumn.",
+   "place": "Rome; Milan; Cassiciacum; Ostia",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ]
+  },
+  {
+   "start_year": 387,
+   "end_year": 391,
+   "label": "Return and Thagaste community",
+   "summary": "After remaining in Italy until after August 388, he returned to Africa and, according to Possidius, lived for almost three years with friends in a community of prayer and study at Thagaste as a baptized layman. His son Adeodatus died during these years.",
+   "place": "Rome; Carthage; Thagaste",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 391,
+   "end_year": 396,
+   "label": "Priest at Hippo",
+   "summary": "Ordained priest at Hippo Regius in 391 at the demand of the congregation, he founded a monastery there and, contrary to African custom, was allowed by Bishop Valerius to preach. On 8 October 393 he addressed the plenary council of African bishops.",
+   "place": "Hippo Regius",
+   "sources": [
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 396,
+   "end_year": 411,
+   "label": "Bishop: Donatist struggle",
+   "summary": "Made coadjutor to the aged Valerius (c. 395) and sole bishop of Hippo on Valerius's death (c. 396), he preached and administered the diocese, wrote the Confessions (c. 397-401), and opposed the Donatist church, culminating in the Conference of Carthage in 411.",
+   "place": "Hippo Regius; Carthage",
+   "sources": [
+    {
+     "label": "Christian History Institute: Augustine's Life and Times",
+     "url": "https://christianhistoryinstitute.org/magazine/article/life-and-times-of-aurelius-augustine"
+    },
+    {
+     "label": "J. J. O'Donnell, An Introduction to Augustine's Confessions",
+     "url": "https://faculty.georgetown.edu/jod/augustine/introconf.html"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): Donatists",
+     "url": "https://www.newadvent.org/cathen/05121a.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 411,
+   "end_year": 426,
+   "label": "Pelagian controversy, City of God",
+   "summary": "As bishop of Hippo he wrote against Pelagian teaching from 412, with African bishops condemning it at Carthage in 418, and composed The City of God (begun 413) in reply to pagans who blamed Christianity for the sack of Rome in 410.",
+   "place": "Hippo Regius; Carthage",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): Pelagius and Pelagianism",
+     "url": "https://www.newadvent.org/cathen/11604a.htm"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): Works of St. Augustine",
+     "url": "https://www.newadvent.org/cathen/02089a.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 426,
+   "end_year": 430,
+   "label": "Final years and Vandal siege",
+   "summary": "In his seventies he designated the priest Heraclius as successor (426) and reviewed his writings in the Retractations. He fell ill and died at Hippo in August 430 during the Vandal siege of the city.",
+   "place": "Hippo Regius",
+   "sources": [
+    {
+     "label": "Augustine, Letter 213 (New Advent)",
+     "url": "https://www.newadvent.org/fathers/1102213.htm"
+    },
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "0354-11-13",
+   "date_text": "13 November 354",
+   "event": "Born at Thagaste in Numidia to Patricius, a pagan member of the town council, and Monica, a Christian.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0365",
+   "date_text": "c. 365",
+   "event": "Sent to school at Madauros, near Thagaste, for grammar and literary studies.",
+   "sources": [
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0370",
+   "date_text": "c. 370-371 (sources differ)",
+   "event": "Moved to Carthage, aged about sixteen or seventeen, to study rhetoric.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0372",
+   "date_text": "372",
+   "event": "His son Adeodatus was born to the unnamed woman he lived with at Carthage; his father Patricius died around this time (c. 371-372, sources differ).",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0373",
+   "date_text": "c. 373",
+   "event": "After reading Cicero's Hortensius, he became a 'hearer' among the Manichaeans, a sect he followed for about nine years.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0383",
+   "date_text": "383",
+   "event": "Aged twenty-nine, left Carthage for Rome with his partner and son, fell seriously ill on arrival, then opened a school of rhetoric.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0384",
+   "date_text": "384",
+   "event": "Appointed professor of rhetoric at Milan with the approval of the prefect Symmachus; there he heard Bishop Ambrose preach.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0385",
+   "date_text": "c. 385",
+   "event": "After Monica joined him in Milan and a marriage was arranged, he sent the mother of Adeodatus away; the boy, then about thirteen, stayed with him.",
+   "sources": [
+    {
+     "label": "Christian History Institute: Augustine's Life and Times",
+     "url": "https://christianhistoryinstitute.org/magazine/article/life-and-times-of-aurelius-augustine"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0386",
+   "date_text": "summer 386 (sources give August or September)",
+   "event": "According to his own account in the Confessions, underwent his conversion in a garden in Milan, aged thirty-one.",
+   "sources": [
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0386",
+   "date_text": "autumn 386",
+   "event": "Gave up his Milan professorship and withdrew with family and friends to the country estate of Verecundus at Cassiciacum to study and write.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-timeline/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0387-04-24",
+   "date_text": "Easter Vigil, night of 24-25 April 387",
+   "event": "Baptized by Ambrose in Milan together with his son Adeodatus and his friend Alypius.",
+   "sources": [
+    {
+     "label": "J. J. O'Donnell, An Introduction to Augustine's Confessions",
+     "url": "https://faculty.georgetown.edu/jod/augustine/introconf.html"
+    },
+    {
+     "label": "Christian History Institute: A Gallery of Augustine's Influences",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-gallery-of-influences"
+    }
+   ]
+  },
+  {
+   "date_iso": "0387",
+   "date_text": "autumn 387 (some sources give 388)",
+   "event": "His mother Monica died at Ostia, aged fifty-six, while the family waited to sail back to Africa.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Augustine, Confessions Book IX (New Advent)",
+     "url": "https://www.newadvent.org/fathers/110109.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0388",
+   "date_text": "388 (after August)",
+   "event": "Returned to Africa after the death of the usurper Maximus and set up a community of shared life and prayer with friends at Thagaste.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    },
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0390",
+   "date_text": "c. 390",
+   "event": "His son Adeodatus died, not yet twenty; Augustine wrote that the dialogue On the Teacher reproduced the boy's thoughts in his sixteenth year.",
+   "sources": [
+    {
+     "label": "Christian History Institute: A Gallery of Augustine's Influences",
+     "url": "https://christianhistoryinstitute.org/magazine/article/augustine-gallery-of-influences"
+    },
+    {
+     "label": "Augustine, Confessions Book IX (New Advent)",
+     "url": "https://www.newadvent.org/fathers/110109.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0391",
+   "date_text": "391",
+   "event": "While visiting Hippo Regius he was seized by the congregation and ordained priest under Bishop Valerius, weeping according to Possidius; he then founded a monastery there.",
+   "sources": [
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    },
+    {
+     "label": "Possidius, Life of St. Augustine: Translator's Introduction",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_01_intro.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0393-10-08",
+   "date_text": "8 October 393",
+   "event": "As a priest, addressed the plenary council of African bishops at their request; the discourse became his treatise On Faith and the Creed.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0396",
+   "date_text": "c. 395-396",
+   "event": "Made coadjutor bishop of Hippo alongside the aged Valerius (c. 395) and became sole bishop on his death (c. 396), remaining bishop there for life.",
+   "sources": [
+    {
+     "label": "Christian History Institute: Augustine's Life and Times",
+     "url": "https://christianhistoryinstitute.org/magazine/article/life-and-times-of-aurelius-augustine"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ]
+  },
+  {
+   "date_iso": "0397",
+   "date_text": "c. 397-401",
+   "event": "Wrote the Confessions, his account of his life up to 387; O'Donnell argues it was probably written entirely in 397.",
+   "sources": [
+    {
+     "label": "J. J. O'Donnell, An Introduction to Augustine's Confessions",
+     "url": "https://faculty.georgetown.edu/jod/augustine/introconf.html"
+    },
+    {
+     "label": "Boston Collaborative Encyclopedia of Western Theology: Augustine",
+     "url": "https://people.bu.edu/wwildman/bce/augustine.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0411-06-01",
+   "date_text": "1, 3 and 8 June 411",
+   "event": "Was one of seven Catholic spokesmen at the Conference of Carthage with the Donatists, attended by 286 Catholic and 279 Donatist bishops, presided over by the imperial commissioner Marcellinus.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): Donatists",
+     "url": "https://www.newadvent.org/cathen/05121a.htm"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0412",
+   "date_text": "412",
+   "event": "Began writing against Pelagian teaching at Marcellinus's urging; the dispute continued until a council of about 200 bishops at Carthage condemned Pelagianism on 1 May 418.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): Pelagius and Pelagianism",
+     "url": "https://www.newadvent.org/cathen/11604a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0413",
+   "date_text": "413",
+   "event": "Began The City of God, answering pagans who blamed Christianity for the sack of Rome in 410; its last books were written in 426.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): Works of St. Augustine",
+     "url": "https://www.newadvent.org/cathen/02089a.htm"
+    },
+    {
+     "label": "Boston Collaborative Encyclopedia of Western Theology: Augustine",
+     "url": "https://people.bu.edu/wwildman/bce/augustine.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0426-09-26",
+   "date_text": "26 September 426",
+   "event": "Aged seventy-one, had clergy and people at Hippo acclaim the priest Heraclius (Eraclius) as his designated successor, to spare the church a disputed succession.",
+   "sources": [
+    {
+     "label": "Augustine, Letter 213 (New Advent)",
+     "url": "https://www.newadvent.org/fathers/1102213.htm"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+     "url": "https://www.newadvent.org/cathen/02084a.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0427",
+   "date_text": "c. 426-428",
+   "event": "Wrote the Retractations, a critical review of his own writings made late in life.",
+   "sources": [
+    {
+     "label": "Catholic Encyclopedia (New Advent): Works of St. Augustine",
+     "url": "https://www.newadvent.org/cathen/02089a.htm"
+    },
+    {
+     "label": "Boston Collaborative Encyclopedia of Western Theology: Augustine",
+     "url": "https://people.bu.edu/wwildman/bce/augustine.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "0430",
+   "date_text": "430",
+   "event": "Vandal forces besieged Hippo; according to Possidius, Augustine fell ill with a fever in the third month of the siege.",
+   "sources": [
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    },
+    {
+     "label": "Christian History Institute: Augustine's Life and Times",
+     "url": "https://christianhistoryinstitute.org/magazine/article/life-and-times-of-aurelius-augustine"
+    }
+   ]
+  },
+  {
+   "date_iso": "0430-08-28",
+   "date_text": "28 August 430",
+   "event": "Died at Hippo aged seventy-five; Possidius records almost forty years as priest and bishop, no will, and his library left to the church.",
+   "sources": [
+    {
+     "label": "Possidius, Life of St. Augustine: Translator's Introduction",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_01_intro.htm"
+    },
+    {
+     "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+     "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Catholic Encyclopedia (New Advent): St. Augustine of Hippo",
+   "url": "https://www.newadvent.org/cathen/02084a.htm"
+  },
+  {
+   "label": "Stanford Encyclopedia of Philosophy: Saint Augustine",
+   "url": "https://plato.stanford.edu/entries/augustine/"
+  },
+  {
+   "label": "Possidius, Life of St. Augustine (tr. Weiskotten, 1919)",
+   "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+  },
+  {
+   "label": "Christian History Institute: Augustine's Life and Times",
+   "url": "https://christianhistoryinstitute.org/magazine/article/life-and-times-of-aurelius-augustine"
+  },
+  {
+   "label": "J. J. O'Donnell, An Introduction to Augustine's Confessions",
+   "url": "https://faculty.georgetown.edu/jod/augustine/introconf.html"
+  }
+ ],
+ "corrections": [
+  "Move to Carthage: changed 'late 370 (some chronologies give 371)' to 'c. 370-371 (sources differ)'; Catholic Encyclopedia gives about 370 and the Christian History timeline gives 371.",
+  "Death of Patricius: now dated 'c. 371-372, sources differ' (Catholic Encyclopedia c. 371, SEP 372) instead of an unqualified 'around this time'.",
+  "Carthage phase summary: added the teaching dates given by the Christian History timeline (Thagaste c. 375, Carthage from c. 376).",
+  "Dismissal of Adeodatus's mother: replaced the Wikipedia citation with Christian History Institute 'Augustine's Life and Times', which gives Adeodatus's age as 13 (hence c. 385); removed the claim that she went back to Africa, which the fetched sources did not state.",
+  "Conversion: date_text now notes that sources give August (O'Donnell) or September (Catholic Encyclopedia) 386; added his age (31).",
+  "Cassiciacum: named the estate as Verecundus's country house, per the Catholic Encyclopedia.",
+  "Monica's death: added Confessions Book IX as a primary source (she died in her 56th year, in Augustine's 33rd), which supports 387.",
+  "Adeodatus's death: removed the unsupported claim that he died 'not long after' writing On the Teacher; now says, citing Confessions IX, that the dialogue reproduced his thoughts in his sixteenth year, and that he died not yet twenty (CHI).",
+  "Ordination 391: replaced the Catholic Encyclopedia citation with the Possidius translator's introduction, which states the year 391; the Possidius text itself gives no year.",
+  "Episcopate: split into coadjutor c. 395 and sole bishop c. 396 on Valerius's death, per Christian History Institute 'Life and Times', replacing the vague 'c. 396 (some sources give 395)'.",
+  "Conference of Carthage: made the date precise (1, 3 and 8 June 411) and said Augustine was one of seven Catholic spokesmen rather than 'leading spokesman'; Marcellinus is now described as the imperial commissioner (cognitor), not an unnamed official. Added the Catholic Encyclopedia article on the Donatists as the source.",
+  "Pelagian event: added that he wrote at Marcellinus's urging, per the Catholic Encyclopedia.",
+  "Heraclius: Letter 213 calls him a presbyter (the Catholic Encyclopedia says deacon); kept 'priest' following the primary letter. The reason is now given as avoiding a disputed succession in the church, not 'the city'.",
+  "Retractations: date changed from 'c. 426-427' to 'c. 426-428' to cover both the Catholic Encyclopedia (426-428) and the Boston encyclopedia (426/7).",
+  "Final years phase: removed the unverified claim about continued writing against Julian of Eclanum.",
+  "Death: 'in his seventy-sixth year' restated as 'aged seventy-five'. Now cited to the Possidius introduction, which gives Prosper's date of 28 August 430, instead of the Catholic Encyclopedia.",
+  "Siege event: replaced the Catholic Encyclopedia with CHI 'Life and Times', which also puts the fever in the third month of the siege.",
+  "Profile sources: dropped the CHI timeline and Letter 213 from the main list and added CHI 'Life and Times' and O'Donnell; Wikipedia is no longer cited anywhere.",
+  "Life summary: updated to say he became bishop c. 395-396, call him 'a leading' (not 'the') Catholic spokesman in 411, and name Heraclius as a priest."
+ ]
+}

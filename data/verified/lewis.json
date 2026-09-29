@@ -1,0 +1,655 @@
+{
+ "preacher": {
+  "id": "lewis",
+  "name": "C. S. Lewis",
+  "lifespan": "1898–1963",
+  "tradition": "Anglican (Church of England) layman",
+  "role": "Literary scholar, lay Anglican apologist and broadcaster",
+  "bio": "Clive Staples Lewis was born in Belfast on 29 November 1898 and died on 22 November 1963. He was elected Tutorial Fellow in English at Magdalen College, Oxford, in 1925 and stayed there until 1954, when he was elected Professor of Medieval and Renaissance Literature at Cambridge and became a Fellow of Magdalene College. His parents were Irish Protestants. He returned to Christian faith in the early 1930s (the BBC's account links this to a night-time conversation with J. R. R. Tolkien and Hugo Dyson on 19 September 1931) and joined the Church of England as a layman. During the Second World War he gave talks to RAF personnel from April 1941 and four series of BBC radio talks (1941–44, later collected as Mere Christianity). He preached occasionally as a lay speaker in Oxford, London, Northampton and Cambridge.",
+  "corpus_note": "The official C.S. Lewis site (cslewis.com, William O'Flaherty, 2014) describes seven sermons with surviving texts, preached between 1939 and 1956, and says he preached at least four other times whose texts do not survive, including an evensong sermon at Headington Quarry on 29 March 1942 that Joel Heck's chronology also records. The surviving texts are gathered mainly in Transposition and Other Addresses (1949; US title The Weight of Glory), its expanded 1980 edition, and God in the Dock (1970). The BBC talks survive as the text of Mere Christianity (1952). The BBC's archived Lewis page says only one broadcast-talk recording survives ('The New Men', 1944).",
+  "archive_links": [
+   {
+    "label": "God in the Dock (Eerdmans, publisher page). Arend Smilde's Lewisiana contents list shows the collection contains 'Miracles', 'The Grand Miracle' and 'Miserable Offenders'",
+    "url": "https://www.eerdmans.com/9780802871831/god-in-the-dock/"
+   },
+   {
+    "label": "Mere Christianity (HarperCollins UK, publisher page): text of the 1941–44 BBC broadcast talks",
+    "url": "https://harpercollins.co.uk/products/mere-christianity-c-s-lewis"
+   },
+   {
+    "label": "The Four Loves (HarperCollins UK, publisher page): book developed from the 1958 recorded talks",
+    "url": "https://harpercollins.co.uk/products/the-four-loves-c-s-lewis"
+   }
+  ],
+  "sources": [
+   {
+    "label": "BBC Religions (archived page): C.S. Lewis",
+    "url": "https://www.bbc.co.uk/religion/religions/christianity/people/cslewis_1.shtml"
+   },
+   {
+    "label": "Magdalen College, Oxford: C. S. Lewis at Magdalen College",
+    "url": "https://www.magd.ox.ac.uk/blog/c-s-lewis-at-magdalen-college/"
+   },
+   {
+    "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+    "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+   },
+   {
+    "label": "Joel D. Heck, Chronologically Lewis (10 Sept. 2026 edition)",
+    "url": "https://joelheck.com/chronologically-lewis/"
+   },
+   {
+    "label": "Arend Smilde, Lewisiana: survey of Lewis's shorter writings",
+    "url": "https://www.lewisiana.nl/cslessays/"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Learning in War-Time",
+   "type": "sermon",
+   "date_text": "22 October 1939",
+   "date_iso": "1939-10-22",
+   "place": "Church of St Mary the Virgin (University Church), Oxford",
+   "occasion": "Sunday evening service early in Michaelmas term, under Student Christian Movement auspices (per Heck)",
+   "scripture": "Deuteronomy 26:5",
+   "published_in": "Transposition and Other Addresses (London: Geoffrey Bles, 1949); US edition The Weight of Glory and Other Addresses (Macmillan, 1949). Earlier printings appeared under other titles (see notes).",
+   "summary": "Lewis asks whether students and scholars can justify pursuing learning and culture while their nation is fighting for its life. He argues that war does not create a new human situation but exposes the permanent one, that no finite cause such as the nation can claim a person's whole life, and that learning honestly pursued can be offered to God as a vocation. He adds that Christians need sound learning, including knowledge of the past, to answer bad philosophy and to resist the unexamined assumptions of their own age.",
+   "context": "Preached about seven weeks after Britain declared war on Germany (3 September 1939), to students and teachers who were asking whether study was worth continuing (cslewis.com). Joel Heck's chronology records that Lewis preached at 8 p.m. on the second Sunday of Michaelmas term at the request of the vicar, T. R. Milford, under the auspices of the Student Christian Movement.",
+   "key_line": "",
+   "primary_category": "reason-truth",
+   "categories": [
+    "reason-truth",
+    "money-work",
+    "justice-society"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "CSLewis.com: Learning in War-Time",
+     "url": "https://www.cslewis.com/learning-in-war-time/"
+    },
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 22 Oct. 1939 and Mar. 1940)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "Arend Smilde, Lewisiana (contents of Transposition and Other Addresses, 1949)",
+     "url": "https://www.lewisiana.nl/cslessays/"
+    }
+   ],
+   "unverified_notes": "Early titles vary between sources. cslewis.com says it was originally titled 'None Other Gods: Culture in War Time' and reprinted for the Student Christian Movement as 'Christian in Danger'. Heck records a March 1940 printing as 'Culture in War-Time' in The Student Movement and its inclusion as 'The Christian in Danger' in Ashley Sampson's Famous English Sermons. The Deuteronomy 26:5 text comes from Heck's chronology.",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, 8 p.m. time, SCM auspices and Deuteronomy 26:5 text confirmed in Heck's chronology and cslewis.com; the summary matches cslewis.com's description of the argument; the 1949 collection confirmed via Heck and Smilde."
+  },
+  {
+   "title": "The Weight of Glory",
+   "type": "sermon",
+   "date_text": "8 June 1941",
+   "date_iso": "1941-06-08",
+   "place": "Church of St Mary the Virgin (University Church), Oxford",
+   "occasion": "Sunday evening service",
+   "scripture": "",
+   "published_in": "Theology 43 (November 1941); SPCK pamphlet (London, 1942); collected in Transposition and Other Addresses / The Weight of Glory and Other Addresses (1949)",
+   "summary": "Lewis argues that desiring the reward God promises is not selfish, because it is the proper fulfilment of what humans were made for, and that the persistent longing no earthly good satisfies points toward it. He interprets glory as being approved and welcomed by God, and as sharing in a brightness we can now see only from outside. He concludes that because every person is destined either for everlasting splendour or for ruin, ordinary dealings with neighbours carry eternal weight and call for serious, costly charity.",
+   "context": "Preached on a Sunday evening in Oxford's University Church, two months after Lewis gave his first RAF talk (9 April 1941) and two months before his first BBC broadcast (Heck). Heck's chronology records a packed church, and that on 17 August 1941 Lewis agreed to Alec Vidler's request to publish the sermon in Theology, where it appeared in November 1941. It was issued as an SPCK pamphlet in 1942 (Wikipedia).",
+   "key_line": "",
+   "primary_category": "heaven-hope",
+   "categories": [
+    "heaven-hope",
+    "love"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 9 Apr., 8 June, 17 Aug. and Nov. 1941)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "C.S. Lewis Institute: Bearing the Weight of Glory",
+     "url": "https://www.cslewisinstitute.org/resources/bearing-the-weight-of-glory-the-cost-of-c-s-lewis-witness/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "Wikipedia: The Weight of Glory and Other Addresses",
+     "url": "https://en.wikipedia.org/wiki/The_Weight_of_Glory_and_Other_Addresses"
+    }
+   ],
+   "unverified_notes": "The Bible text is uncertain. Heck's chronology records Revelation 2:26, 28, and a preaching.com article (not checked here) gives 2 Corinthians 4:16–18, so the field is left blank. Heck says only that the sermon was given in the evening, so the earlier label 'Evensong' has been removed. A widely repeated description of the congregation as one of the largest ever assembled there (attributed to Walter Hooper) could not be confirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, packed church, Theology (Nov. 1941) and SPCK (1942) printings confirmed via Heck, the C.S. Lewis Institute and Wikipedia; the unsourced 'Evensong' label, an unverifiable claim about Lewis's 1949 headnote and the pride-humility category have been removed."
+  },
+  {
+   "title": "Right and Wrong: A Clue to the Meaning of the Universe",
+   "type": "broadcast",
+   "date_text": "6 August – 3 September 1941",
+   "date_iso": "1941",
+   "place": "BBC studios, Great Portland Street, London",
+   "occasion": "BBC radio broadcast talks (first series; five talks)",
+   "scripture": "",
+   "published_in": "Broadcast Talks (London: Geoffrey Bles, 1942; US: The Case for Christianity, 1943); later Book I of Mere Christianity (1952)",
+   "summary": "Lewis starts from the observation that people everywhere appeal to a standard of fair behaviour that they expect others to recognise, and that everyone fails to keep it. He argues that this moral law cannot be explained away as herd instinct or social convention, and that it points to something behind the universe more like a mind concerned with right conduct than anything else. He ends by saying that this conclusion gives cause for unease rather than comfort, since humans have broken that law.",
+   "context": "James Welch, the BBC's Director of Religious Broadcasting, invited Lewis after reading The Problem of Pain (cslewis.com). Heck's chronology records four 15-minute talks from 7:45 to 8:00 p.m. on Wednesdays from 6 to 27 August 1941, given in London, and a fifth on 3 September on listeners' objections; cslewis.com says the fifth was added because listeners had sent questions. The Wade Center blog reports over a million listeners by the end of August.",
+   "key_line": "",
+   "primary_category": "reason-truth",
+   "categories": [
+    "reason-truth",
+    "sin-repentance"
+   ],
+   "read_url": "https://harpercollins.co.uk/products/mere-christianity-c-s-lewis",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "CSLewis.com: Anniversary of Lewis's First Broadcast Talk",
+     "url": "https://www.cslewis.com/anniversary-of-lewiss-first-broadcast-talk/"
+    },
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 6 Aug. – 3 Sept. 1941)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "Wade Center blog: Mere Christianity – An Accidental Classic",
+     "url": "https://wadecenterblog.wordpress.com/2020/06/06/mere-christianity/"
+    },
+    {
+     "label": "Wikipedia: Mere Christianity",
+     "url": "https://en.wikipedia.org/wiki/Mere_Christianity"
+    }
+   ],
+   "unverified_notes": "cslewis.com and Heck give the series title as 'Right and Wrong'; Wikipedia gives 'Right or Wrong'. According to the BBC's archived Lewis page, no recording of this series survives. Individual talk titles and dates come from Heck's chronology, which also records the third talk (20 August) as drawing about 2 million listeners.",
+   "verification_status": "corrected",
+   "verification_note": "Dates, times, Wednesday scheduling, Welch's invitation and the fifth talk on listeners' objections confirmed via Heck, cslewis.com and the Wade Center blog; the studio location (Great Portland Street) added from Heck, and a quoted phrase in the summary replaced with a paraphrase."
+  },
+  {
+   "title": "What Christians Believe",
+   "type": "broadcast",
+   "date_text": "11 January – 15 February 1942",
+   "date_iso": "1942",
+   "place": "BBC studios, London",
+   "occasion": "BBC radio broadcast talks (second series; five Sunday talks)",
+   "scripture": "",
+   "published_in": "Broadcast Talks (London: Geoffrey Bles, 1942); later Book II of Mere Christianity (1952)",
+   "summary": "Lewis sets out basic Christian claims about God, contrasting them with pantheism and with dualism, and describes the world as good creation occupied by a rebel power into which God has come. He argues that Jesus' claims about himself rule out treating him merely as a great moral teacher, and presents Christ's death as the perfect repentance that humans cannot perform for themselves. He closes with how a person comes to share in Christ's life.",
+   "context": "Lewis agreed on 7 September 1941 to a second series, which Heck's chronology records as five Sunday afternoon talks from London between 11 January and 15 February 1942: 'The Rival Conceptions of God', 'The Invasion', 'The Shocking Alternative', 'The Perfect Penitent' and 'The Practical Conclusion'. The BBC's archived Lewis page says he sent part of his text to Anglican, Roman Catholic, Methodist and Presbyterian clergy to make sure it represented common Christian ground. The first two series were printed together as Broadcast Talks on 13 July 1942 (Heck).",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "grace-salvation",
+    "reason-truth"
+   ],
+   "read_url": "https://harpercollins.co.uk/products/mere-christianity-c-s-lewis",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 7 Sept. 1941; 11 Jan. – 15 Feb. and 13 July 1942)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "BBC Religions (archived page): C.S. Lewis",
+     "url": "https://www.bbc.co.uk/religion/religions/christianity/people/cslewis_1.shtml"
+    },
+    {
+     "label": "Wikipedia: Mere Christianity",
+     "url": "https://en.wikipedia.org/wiki/Mere_Christianity"
+    }
+   ],
+   "unverified_notes": "According to the BBC's archived Lewis page, no recording of this series survives. The summary follows the talk titles recorded by Heck (who calls 'The Shocking Alternative' the 'Lord, Liar, or Lunatic' talk) and published descriptions of Book II of Mere Christianity, which Lewis revised for print.",
+   "verification_status": "verified",
+   "verification_note": "Dates, Sunday scheduling, talk titles and the 13 July 1942 Broadcast Talks publication confirmed in Heck's chronology; the consultation with clergy of several denominations confirmed on the BBC's archived page."
+  },
+  {
+   "title": "Miracles",
+   "type": "sermon",
+   "date_text": "27 September 1942",
+   "date_iso": "1942-09-27",
+   "place": "St Jude on the Hill Church, Hampstead Garden Suburb, London",
+   "occasion": "Evening talk after Evensong in the church's 'Voice of the Laity' series of lay speakers (per Heck)",
+   "scripture": "",
+   "published_in": "The Guardian (2 October 1942) and St Jude's Gazette (October 1942); collected in God in the Dock (Grand Rapids: Eerdmans, 1970; UK: Undeceptions, 1971)",
+   "summary": "Lewis discusses the miracles attributed to Christ in the Gospels and argues that they are not arbitrary interruptions of nature. In his account, they are occasions when God does quickly and visibly what he ordinarily does slowly through natural processes, so the miracles point to the same God who is at work in nature.",
+   "context": "Heck's chronology records that Lewis gave the talk after Evensong on 27 September 1942 in the 'Voice of the Laity' series at St Jude on the Hill. The same day he gave his Christian Behaviour broadcast on social morality. The next day he wrote to a listener, Rosamund Rieu, about the divinity of Jesus, the historicity of the New Testament and miracles. The text appeared in The Guardian on 2 October 1942 and in St Jude's Gazette that month (Heck; cslewis.com). cslewis.com says it influenced his book Miracles, published in 1947.",
+   "key_line": "",
+   "primary_category": "reason-truth",
+   "categories": [
+    "reason-truth",
+    "christ-cross"
+   ],
+   "read_url": "https://www.eerdmans.com/9780802871831/god-in-the-dock/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 27–28 Sept., 2 Oct. and 26 Nov. 1942)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "Arend Smilde, Lewisiana: survey of Lewis's shorter writings (dates and collections)",
+     "url": "https://www.lewisiana.nl/cslessays/"
+    }
+   ],
+   "unverified_notes": "Heck notes that William Griffin's biography dates this talk to 26 November 1942 and states that date is incorrect. Smilde's chronology lists the piece under October 1942, probably the month it was printed. Heck calls it a 'talk'; cslewis.com treats it as a sermon. No Bible text is documented. No fetched source described the argument in detail, so the summary is kept general. The often-cited example of the wine at Cana could not be checked against a fetched text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, 'Voice of the Laity' series and October 1942 printing confirmed via Heck and cslewis.com; The Guardian printing of 2 October 1942 added from Heck; the unconfirmed Cana detail removed from the summary; the date-conflict note corrected to cite Heck's rejection of Griffin's 26 November date."
+  },
+  {
+   "title": "Christian Behaviour",
+   "type": "broadcast",
+   "date_text": "20 September – 8 November 1942",
+   "date_iso": "1942",
+   "place": "BBC studios, London",
+   "occasion": "BBC radio broadcast talks (third series; eight Sunday talks)",
+   "scripture": "",
+   "published_in": "Christian Behaviour (London: Geoffrey Bles, 1943); later Book III of Mere Christianity (1952)",
+   "summary": "Lewis presents Christian morality as concerned with fair dealing between people, with order inside each person, and with the purpose of human life, and applies this to social life, psychoanalysis, sexual morality, forgiveness, pride and faith. On forgiveness he argues that loving an enemy means wanting his good in the way one goes on wanting one's own good despite one's faults, hating the wrong without hating the wrongdoer, and that this does not rule out just punishment. He identifies pride, the vice that always competes with others, as the root sin.",
+   "context": "Lewis proposed a series on Christian ethics on 29 June 1942. Heck's chronology records eight Sunday talks from 20 September to 8 November 1942, including 'Forgiveness' (18 October) and 'The Great Sin' on pride (25 October), and says the 'Sexual Morality' talk drew the series' largest audience, about 1.5 million listeners. Wikipedia says the talks were cut from 15 to 10 minutes and that Lewis put the cut material back into the book, which Geoffrey Bles published on 19 April 1943 (Heck).",
+   "key_line": "",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "forgiveness",
+    "hatred-enemies"
+   ],
+   "read_url": "https://harpercollins.co.uk/products/mere-christianity-c-s-lewis",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 29 June and 20 Sept. – 8 Nov. 1942; 19 Apr. 1943)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "Wikipedia: Mere Christianity",
+     "url": "https://en.wikipedia.org/wiki/Mere_Christianity"
+    },
+    {
+     "label": "LitCharts: Mere Christianity, Book 3, Chapter 7 (Forgiveness) summary",
+     "url": "https://www.litcharts.com/lit/mere-christianity/book-3-chapter-7-forgiveness"
+    },
+    {
+     "label": "C.S. Lewis Institute study guide: Christian Behaviour",
+     "url": "https://www.cslewisinstitute.org/wp-content/uploads/3-Christian-Behaviour-Further-Up-and-Further-In.pdf"
+    }
+   ],
+   "unverified_notes": "Talk titles and dates come from Heck's chronology. The book's chapters on the cardinal virtues, Christian marriage, charity and hope are not in Heck's list of broadcast talks, so they appear to have been added for print. No source consulted states this directly. The summary of the forgiveness and pride material relies on the published book text as described by LitCharts and the C.S. Lewis Institute study guide. No recording survives, according to the BBC's archived Lewis page.",
+   "verification_status": "corrected",
+   "verification_note": "Proposal date, the eight Sunday talks, the forgiveness and pride talk dates, the 1.5 million audience and the 19 April 1943 publication confirmed in Heck; the Wikipedia attribution narrowed to what the article says (talks cut from 15 to 10 minutes, cut material restored in the book)."
+  },
+  {
+   "title": "Beyond Personality",
+   "type": "broadcast",
+   "date_text": "22 February – 4 April 1944",
+   "date_iso": "1944",
+   "place": "BBC, London (some talks pre-recorded)",
+   "occasion": "BBC radio broadcast talks (fourth series; seven Tuesday evening talks)",
+   "scripture": "",
+   "published_in": "Beyond Personality: The Christian Idea of God (London: Geoffrey Bles, 9 October 1944); later Book IV of Mere Christianity (1952)",
+   "summary": "Lewis introduces the doctrine of the Trinity for a general audience, distinguishing God's begetting of the Son from his making of creatures, and describes God as three Persons in one Being. He argues that the aim of Christian life is for humans to be drawn into that divine life through Christ, so that created beings become sons of God. The last talk describes this change as a new step in human development, producing new men.",
+   "context": "On 16 June 1943 Lewis accepted the BBC's invitation to talk about doctrines such as the Trinity and the Incarnation. Heck's chronology records seven Tuesday evening talks from 22 February to 4 April 1944. The first went out at 10:30 p.m. after a BBC scheduling change. On 21 March Lewis also recorded talks broadcast on 28 March and 4 April, and The Listener printed the talks two days after broadcast. According to the BBC's archived Lewis page, a recording of 'The New Men', the final talk, is the only surviving recording of his broadcast talks.",
+   "key_line": "",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "christ-cross",
+    "holy-spirit"
+   ],
+   "read_url": "https://harpercollins.co.uk/products/mere-christianity-c-s-lewis",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 16 June 1943; 8 Feb., 22 Feb. – 6 Apr. and 9 Oct. 1944)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "BBC Religions (archived page): C.S. Lewis – audio section",
+     "url": "https://www.bbc.co.uk/religion/religions/christianity/people/cslewis_1.shtml"
+    },
+    {
+     "label": "Wikipedia: Mere Christianity",
+     "url": "https://en.wikipedia.org/wiki/Mere_Christianity"
+    }
+   ],
+   "unverified_notes": "The BBC page dates the surviving recording of 'The New Men' to a broadcast on 21 March 1944 and calls Beyond Personality the 'third series'. Heck records that on 21 March Lewis gave his fifth talk and pre-recorded the last two, and that 'The New Men' was broadcast on 4 April 1944. The BBC page's embedded player used Flash and no longer plays, so no listen_url is given. Unofficial copies of the recording circulate online but are not linked here.",
+   "verification_status": "corrected",
+   "verification_note": "Series dates, Tuesday scheduling, the 10:30 p.m. first talk, pre-recording, Listener printings and the 9 October 1944 publication confirmed via Heck; the surviving recording confirmed on the BBC page; the unverified 'good infection' wording and quotation marks removed from the summary."
+  },
+  {
+   "title": "The Inner Ring",
+   "type": "address",
+   "date_text": "14 December 1944",
+   "date_iso": "1944-12-14",
+   "place": "King's College, University of London",
+   "occasion": "Annual Commemoration Oration to the college's students",
+   "scripture": "",
+   "published_in": "Transposition and Other Addresses (London: Geoffrey Bles, 1949); US: The Weight of Glory and Other Addresses (1949)",
+   "summary": "Speaking to students about to enter adult and professional life, Lewis describes the unwritten inner circles that exist alongside every formal organisation. He argues that the desire to be inside them is among the strongest forces in human conduct, that it can lead people who are not yet bad into doing bad things, and that it is never satisfied, because each circle loses its appeal once one is inside. He recommends aiming instead at good work and real friendship.",
+   "context": "Heck's chronology notes that The Observer of 10 December 1944 announced Lewis would speak during King's College's Commemoration Week (11–16 December), and records that on Thursday 14 December he gave the annual Commemoration Oration. The text was collected in Lewis's 1949 volume.",
+   "key_line": "",
+   "primary_category": "pride-humility",
+   "categories": [
+    "pride-humility",
+    "friendship",
+    "money-work"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 10 and 14 Dec. 1944)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "C.S. Lewis Tour UK: Writings of C.S. Lewis",
+     "url": "https://cslewistour.uk/writings/"
+    },
+    {
+     "label": "C.S. Lewis Institute: Reflections – The Dangers of the Inner Ring (June 2013)",
+     "url": "https://www.cslewisinstitute.org/resources/reflections-june-2013/"
+    },
+    {
+     "label": "Wikipedia: The Weight of Glory and Other Addresses",
+     "url": "https://en.wikipedia.org/wiki/The_Weight_of_Glory_and_Other_Addresses"
+    }
+   ],
+   "unverified_notes": "Some editions and websites call it a 'Memorial Oration' or 'Memorial Lecture'; Heck, cslewistour.uk and Wikipedia call it the Commemoration Oration. The earlier claim that Lewis's 1949 headnote says this was its first appearance in print could not be checked and has been removed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue and occasion confirmed via Heck, cslewistour.uk and Wikipedia; the summary checked against the C.S. Lewis Institute's description; the unverifiable 'first printed in 1949' and headnote claims removed."
+  },
+  {
+   "title": "Membership",
+   "type": "address",
+   "date_text": "10 February 1945",
+   "date_iso": "1945-02-10",
+   "place": "Oxford",
+   "occasion": "Paper read to the Fellowship (Society) of St Alban and St Sergius",
+   "scripture": "",
+   "published_in": "Sobornost (June 1945); collected in Transposition and Other Addresses (1949)",
+   "summary": "Lewis rejects the idea that religion is essentially private, while noting that modern collective life leaves little room for real solitude. He argues that the Church is a body of different, complementary members under Christ, not a collection of identical units. In his view, legal and political equality is a necessary protection in a fallen world but not the deepest truth about persons, and individuals become most fully themselves by taking their place within that body.",
+   "context": "Heck's chronology records that Lewis read the paper on Saturday 10 February 1945 to the Society of St Alban and St Sergius in Oxford at the invitation of Anne Spalding, and that it appeared in Sobornost in June 1945. Wikipedia and cslewistour.uk give the same date and audience.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "pride-humility"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 10 Feb. and 1 June 1945)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "C.S. Lewis Tour UK: Writings of C.S. Lewis",
+     "url": "https://cslewistour.uk/writings/"
+    },
+    {
+     "label": "Wikipedia: The Weight of Glory and Other Addresses",
+     "url": "https://en.wikipedia.org/wiki/The_Weight_of_Glory_and_Other_Addresses"
+    },
+    {
+     "label": "Arend Smilde, Lewisiana (chronology and collections)",
+     "url": "https://www.lewisiana.nl/cslessays/"
+    }
+   ],
+   "unverified_notes": "The Sobornost issue number (no. 31) appeared only in a search summary and is not included. No fetched source gave a detailed description of the argument, so the summary could not be checked against a text or reliable description.",
+   "verification_status": "corrected",
+   "verification_note": "Date, audience, Anne Spalding's invitation and the June 1945 Sobornost printing confirmed via Heck, Wikipedia and cslewistour.uk; the unverifiable claim about Lewis's 1949 headnote replaced with these sources."
+  },
+  {
+   "title": "The Grand Miracle",
+   "type": "sermon",
+   "date_text": "15 April 1945",
+   "date_iso": "1945-04-15",
+   "place": "St Jude on the Hill Church, Hampstead Garden Suburb, London",
+   "occasion": "Evening talk in the church's 'Voice of the Laity' series (per Heck)",
+   "scripture": "",
+   "published_in": "The Guardian, 27 April 1945; collected in God in the Dock (Grand Rapids: Eerdmans, 1970; UK: Undeceptions, 1971)",
+   "summary": "Lewis argues that the Incarnation, God becoming man, is the central miracle of Christianity, and treats it as God entering history at a particular time and place. He pictures it as a dive: God descends into the depths of creation and rises again, bringing human nature up with him. He suggests that this pattern of death and rebirth recurs in nature and in every Christian life.",
+   "context": "Heck's chronology records that Lewis gave the talk on the evening of 15 April 1945 in the 'Voice of the Laity' series at St Jude on the Hill; cslewis.com and essentialcslewis.com give the same date. It was printed in The Guardian on 27 April 1945 (Heck; cslewistour.uk), two weeks after The Guardian ran the last instalment of The Great Divorce on 13 April. Brenton Dickieson places it among the pieces Lewis wrote while developing his book Miracles (1947).",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "reason-truth"
+   ],
+   "read_url": "https://www.eerdmans.com/9780802871831/god-in-the-dock/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 13, 15 and 27 Apr. 1945)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "Essential C.S. Lewis: St. Jude on the Hill Church",
+     "url": "https://essentialcslewis.com/tag/st-jude-on-the-hill-church/"
+    },
+    {
+     "label": "A Pilgrim in Narnia: The Grand Miracle (75th anniversary)",
+     "url": "https://apilgriminnarnia.com/2020/04/12/the-grand-miracle-75/"
+    }
+   ],
+   "unverified_notes": "Brenton Dickieson's blog says the sermon was preached in Holy Week. Heck's chronology records Good Friday 1945 as 30 March, so 15 April fell two weeks after Easter, not in Holy Week. Heck calls it a 'talk'; cslewis.com treats it as a sermon.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, series and The Guardian printing of 27 April 1945 confirmed via Heck, cslewis.com, essentialcslewis.com and cslewistour.uk; the summary checked against A Pilgrim in Narnia's description; the Holy Week conflict resolved with Heck's 1945 calendar."
+  },
+  {
+   "title": "Miserable Offenders: An Interpretation of Prayer Book Language",
+   "type": "sermon",
+   "date_text": "7 April 1946",
+   "date_iso": "1946-04-07",
+   "place": "St Matthew's Church, Northampton",
+   "occasion": "Lenten sermon (per Heck)",
+   "scripture": "",
+   "published_in": "Five Sermons by Laymen (Northampton: St Matthew's Church, April–May 1946); collected in God in the Dock (Grand Rapids: Eerdmans, 1970; UK: Undeceptions, 1971)",
+   "summary": "Lewis explains words from the Book of Common Prayer's confessions, such as 'miserable', 'intolerable' and 'contrite', arguing that they describe a person's real condition before God rather than prescribing particular feelings. He urges people to examine their own sins honestly instead of dwelling on other people's. He presents confession as a relief that leads to forgiveness, not as morbid introspection.",
+   "context": "Heck's chronology describes it as a Lenten sermon preached at St Matthew's Church, Northampton, on 7 April 1946. Heck also records that on 31 March 1946 Lewis preached at Evensong at Holy Trinity, Headington Quarry, a sermon on Prayer Book wording that seems to have been a version of it. cslewis.com says he gave the same message on both occasions, and that St Matthew's Church published it that year in Five Sermons by Laymen.",
+   "key_line": "",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "prayer",
+    "forgiveness"
+   ],
+   "read_url": "https://www.eerdmans.com/9780802871831/god-in-the-dock/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 31 Mar. and 7 Apr. 1946)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "C.S. Lewis Foundation blog: How To Pray, Ch. 6 – Morbid Confession?",
+     "url": "https://www.cslewis.org/blog/c-s-lewiss-how-to-pray-ch-6-morbid-confession/"
+    },
+    {
+     "label": "Essential C.S. Lewis: Miserable Offenders",
+     "url": "https://essentialcslewis.com/tag/miserable-offenders/"
+    }
+   ],
+   "unverified_notes": "essentialcslewis.com dates the sermon to 31 March 1946 at Evensong in Lewis's parish church, which is the Headington Quarry occasion. Heck and cslewis.com give 7 April 1946 for the Northampton sermon.",
+   "verification_status": "corrected",
+   "verification_note": "Northampton date and Lenten occasion, the 31 March Headington Quarry version, and the Five Sermons by Laymen printing confirmed via Heck and cslewis.com; the publisher (St Matthew's Church, per cslewis.com) added; an unsourced note about 1945 or 1958 datings removed."
+  },
+  {
+   "title": "Transposition",
+   "type": "sermon",
+   "date_text": "Whit Sunday (Pentecost), 28 May 1944 or 9 June 1946 – date disputed",
+   "date_iso": "",
+   "place": "Mansfield College chapel, Oxford",
+   "occasion": "Whit Sunday (Pentecost) service in a Congregational college chapel",
+   "scripture": "Acts 2 (the gift of tongues at Pentecost)",
+   "published_in": "Transposition and Other Addresses (London: Geoffrey Bles, 1949); expanded version in They Asked for a Paper (1962), later in Screwtape Proposes a Toast (1965) and The Weight of Glory (1980)",
+   "summary": "Lewis begins from the gift of tongues at Pentecost, which can look the same as ordinary emotional excitement, and asks how spiritual realities can share the same outward forms as natural ones. His answer is transposition: a richer system represented in a poorer medium, so that the lower medium cannot by itself show the higher. He argues that someone who looks only at the lower medium will always find a purely natural explanation, and that spiritual things must be spiritually discerned.",
+   "context": "Preached on Whit Sunday in the chapel of Mansfield College, a Congregational college in Oxford, at the invitation of its principal, Nathaniel Micklem (Heck). The year is disputed. cslewis.com, cslewistour.uk and Wikipedia (following the 1980 edition) give 28 May 1944. Joel Heck's chronology gives 9 June 1946, and Arend Smilde's Lewisiana chronology lists the piece under June 1946.",
+   "key_line": "",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "reason-truth"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 14 Feb. 1944 and 9 June 1946)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "Arend Smilde, Lewisiana: survey of Lewis's shorter writings (dates and collections)",
+     "url": "https://www.lewisiana.nl/cslessays/"
+    },
+    {
+     "label": "Arend Smilde, 'C. S. Lewis's Transposition: Text and Context', Sehnsucht 13 (2019)",
+     "url": "https://digitalcommons.georgefox.edu/cslewisjournal/vol13/iss1/3/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    }
+   ],
+   "unverified_notes": "cslewis.com repeats a story that Lewis broke off mid-sermon, said he was sorry and left before returning to finish. The full text of Smilde's Sehnsucht article, which reportedly discusses the dating and this story, could not be retrieved; its abstract places the sermon near the end of the Second World War. Heck also records, from the Belfast News-Letter of 15 February 1944, that Lewis apparently spoke or preached in the Mansfield College chapel in February 1944. The story is left out of the context. Heck records the text as 'Acts 1-11'; Smilde's abstract says Lewis used the Acts 2 account of speaking in tongues as his framework. The orchestral and drawing analogies often cited from the sermon were not checked against a fetched text and are omitted from the summary.",
+   "verification_status": "corrected",
+   "verification_note": "Venue, Pentecost occasion, Micklem's invitation and the competing 1944/1946 dates confirmed via Heck, Smilde, cslewis.com, cslewistour.uk and Wikipedia; scripture set to Acts 2 from Smilde's abstract and Heck; the unverified heaven-hope category and summary analogies removed."
+  },
+  {
+   "title": "A Slip of the Tongue",
+   "type": "sermon",
+   "date_text": "29 January 1956",
+   "date_iso": "1956-01-29",
+   "place": "Magdalene College chapel, Cambridge",
+   "occasion": "Evensong in the college chapel",
+   "scripture": "",
+   "published_in": "Abbreviated version in The Lion (January 1963); Screwtape Proposes a Toast and Other Pieces (London: Collins, 1965); later in The Weight of Glory (expanded edition, 1980)",
+   "summary": "Starting from a slip he made while praying, Lewis reflects on the temptation to keep God at a safe distance and give him only a measured share of time and attention. He argues that God asks not for a portion of a person's time or attention but for the self.",
+   "context": "Preached at Evensong in Magdalene College, Cambridge, about a year after Lewis took up residence there in January 1955 (Heck). Heck's chronology records a packed house. cslewis.com calls it the last message Lewis is known to have preached and the shortest of his sermons.",
+   "key_line": "",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "prayer"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 7 Jan. 1955 and 29 Jan. 1956)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "CSLewis.com: Lewis as Preacher – A 75th Anniversary Reflection",
+     "url": "https://www.cslewis.com/lewis-as-preacher-a-75th-anniversary-reflection/"
+    },
+    {
+     "label": "Essential C.S. Lewis: A Slip of the Tongue",
+     "url": "https://essentialcslewis.com/tag/a-slip-of-the-tongue/"
+    },
+    {
+     "label": "Arend Smilde, Lewisiana: survey of Lewis's shorter writings (dates and collections)",
+     "url": "https://www.lewisiana.nl/cslessays/"
+    }
+   ],
+   "unverified_notes": "The collect Lewis refers to, and the exact wording of his slip (often described as reversing the phrases about things temporal and things eternal), could not be confirmed from a fetched source, so these details are left out of the summary. cslewis.com mentions the 1963 version in The Lion but does not give the title 'Thoughts of a Cambridge Don', which remains unconfirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Evensong and packed house confirmed via Heck, cslewis.com, essentialcslewis.com and Wikipedia; the abbreviated printing in The Lion (January 1963) confirmed via cslewis.com and added; the unconfirmed temporal/eternal slip detail removed from the summary."
+  },
+  {
+   "title": "The Four Loves",
+   "type": "broadcast",
+   "date_text": "19–20 August 1958 (recorded)",
+   "date_iso": "1958-08",
+   "place": "London (recording studio)",
+   "occasion": "Recorded radio talks for the Episcopal Radio-TV Foundation (Atlanta), for broadcast in the United States",
+   "scripture": "",
+   "published_in": "Developed into the book The Four Loves (London: Geoffrey Bles, 1960)",
+   "summary": "Lewis distinguishes need-love from gift-love and examines three natural loves, affection, friendship and romantic love (eros), together with charity, the gift-love that comes from God. He argues that without charity the natural loves become distorted and can even become dangerous.",
+   "context": "Caroline Rakestraw, founder of the Episcopal Radio-TV Foundation, and Bishop Henry I. Louttit invited Lewis to give radio talks; Lewis agreed on 1 May 1958 and chose the four loves as his subject (Christian History Institute; Heck). Heck records that he taped the talks in a London studio on 19 and 20 August 1958, and cslewistour.uk says he gave an hour to each of the four loves. The Christian History Institute says ten short talks were broadcast in the United States in 1959. Wikipedia reports that they were criticised in the U.S. for Lewis's frankness about sex in the eros talk. Day1 says the recordings were rebroadcast on The Protestant Hour in 1980, its 35th anniversary year.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "friendship"
+   ],
+   "read_url": "https://harpercollins.co.uk/products/the-four-loves-c-s-lewis",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Christian History Institute: 'To love at all is to be vulnerable'",
+     "url": "https://christianhistoryinstitute.org/magazine/article/to-love-at-all-is-to-be-vulnerable"
+    },
+    {
+     "label": "Day1: The History of The Protestant Hour and Day1",
+     "url": "https://day1.org/history"
+    },
+    {
+     "label": "Joel D. Heck, Chronologically Lewis (entries for 1 May, 8–20 Aug. 1958; 28 Mar. 1960)",
+     "url": "https://joelheck.com/chronologically-lewis/"
+    },
+    {
+     "label": "C.S. Lewis Tour UK: Writings of C.S. Lewis",
+     "url": "https://cslewistour.uk/writings/"
+    },
+    {
+     "label": "Wikipedia: The Four Loves",
+     "url": "https://en.wikipedia.org/wiki/The_Four_Loves"
+    }
+   ],
+   "unverified_notes": "Accounts differ. The Christian History Institute says Lewis recorded in a single day (19 August), while Heck and cslewistour.uk give 19–20 August. Heck places the sessions at Recorded Productions Ltd, Morris House, 1 Jermyn Street, but Day1 says a hotel above Paddington station. The summary follows HarperCollins' description of the book, which Lewis developed from the talks. Commercial releases of the recording exist, but no stable official listening page could be verified.",
+   "verification_status": "corrected",
+   "verification_note": "Agreement date, recording dates and studio, Rakestraw and Louttit's roles and the 1960 Bles publication confirmed via Heck, the Christian History Institute and cslewistour.uk; the claim that Day1 says the talks were first heard on The Protestant Hour corrected (Day1 describes a 1980 rebroadcast), and the summary trimmed to the publisher's description."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Preacher bio: reworded Magdalen/Cambridge dates to match Magdalen College's page (elected 1925, stayed until 1954, then elected to the Cambridge chair); 'grew up among Irish Protestants' changed to 'His parents were Irish Protestants' per the BBC page.",
+  "Preacher corpus_note: the 1942 Headington Quarry sermon is now dated 29 March 1942 and credited to cslewis.com as well as Heck; 'lists seven sermons' changed to 'describes seven sermons' with author and year of the cslewis.com article; the collections now include Transposition and Other Addresses (1949).",
+  "Preacher archive_links: the God in the Dock label now credits Smilde's Lewisiana for the contents claim, since the Eerdmans page does not list contents.",
+  "Preacher sources: added Arend Smilde's Lewisiana.",
+  "Learning in War-Time: context wording tied to cslewis.com's actual description; Wikipedia source replaced with Smilde's Lewisiana; Heck citation expanded to include Mar. 1940.",
+  "The Weight of Glory: occasion 'Evensong' changed to 'Sunday evening service' (Heck says only 'in the evening'); removed the unverifiable claim about Lewis's 1949 headnote and credited the SPCK 1942 printing to Wikipedia; context now dates the first RAF talk (9 April 1941); removed the pride-humility category; summary wording adjusted to the sources' description of glory as God's approval and a brightness seen from outside.",
+  "Right and Wrong: place specified as the BBC studios, Great Portland Street (Heck); the quoted phrase 'law of human nature' replaced with a paraphrase; context now cites Heck for the Wednesday times and cslewis.com for the reason for the fifth talk; added Wikipedia as a source.",
+  "Miracles: added The Guardian printing of 2 October 1942 (Heck) to published_in and context; added the Rieu letter and the same-day broadcast; the unverified Cana example removed from the summary; the date-conflict note replaced with Heck's statement that Griffin's 26 November 1942 date is incorrect; removed the unconfirmed attribution of that date to the C.S. Lewis Institute.",
+  "Christian Behaviour: the Wikipedia attribution corrected to what the article says (talks cut from 15 to 10 minutes, cut material restored in the book); the claim about added chapters moved to unverified_notes; added the 29 June 1942 proposal and 19 April 1943 publication dates from Heck.",
+  "Beyond Personality: published_in given the exact date (9 October 1944, Heck); context detail corrected (the first talk at 10:30 p.m., and on 21 March Lewis recorded the talks for 28 March and 4 April); 'good infection' wording and quotation marks removed from the summary; noted that the BBC page mislabels this as the third series.",
+  "The Inner Ring: removed the unverifiable claims that Lewis's 1949 headnote calls it a first printing and that it was first printed in 1949; summary quotation marks removed and wording aligned with the C.S. Lewis Institute's description; added that source and the Commemoration Week dates.",
+  "Membership: occasion names the Fellowship (Society) of St Alban and St Sergius; the unverifiable 1949 headnote claim replaced with Wikipedia and cslewistour.uk; noted that the summary could not be checked against a fetched description.",
+  "The Grand Miracle: context adds the 13 April date of the last Great Divorce instalment; unverified_notes now resolve the Holy Week conflict using Heck (Good Friday 1945 = 30 March); removed the unconfirmed preaching.com date remark.",
+  "Miserable Offenders: published_in and context now name St Matthew's Church as publisher of Five Sermons by Laymen (cslewis.com); removed the unsourced note about 1945 or 1958 dates; added essentialcslewis.com's 31 March 1946 dating to the notes.",
+  "Transposition: scripture set to Acts 2 (Smilde's Sehnsucht abstract; Heck gives 'Acts 1-11'); the 1944 date is credited to cslewis.com, cslewistour.uk and Wikipedia instead of the unverified 'sources that follow Walter Hooper'; Screwtape Proposes a Toast (1965) added to published_in; unverified analogies removed from the summary; heaven-hope category removed; noted the February 1944 Mansfield chapel appearance recorded by Heck.",
+  "A Slip of the Tongue: published_in now includes the abbreviated January 1963 version in The Lion (confirmed by cslewis.com); the unconfirmed detail about reversing 'things temporal' and 'things eternal' removed from the summary; context dates Lewis's arrival at Magdalene to January 1955 and adds cslewis.com's 'shortest sermon' description.",
+  "The Four Loves: context corrected, since Day1 does not say the talks were first heard on The Protestant Hour but describes a 1980 anniversary rebroadcast; Rakestraw and Louttit now described as jointly inviting Lewis (per the Christian History Institute), not Rakestraw asking Louttit; the uncited A Pilgrim in Narnia/Santamaria note removed; the summary trimmed to the HarperCollins description; cslewistour.uk added as a source."
+ ]
+}

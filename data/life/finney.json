@@ -1,0 +1,588 @@
+{
+ "id": "finney",
+ "name": "Charles G. Finney",
+ "born": {
+  "date_iso": "1792-08-29",
+  "date_text": "29 August 1792",
+  "place": "Warren, Litchfield County, Connecticut, United States"
+ },
+ "died": {
+  "date_iso": "1875-08-16",
+  "date_text": "16 August 1875",
+  "place": "Oberlin, Ohio, United States"
+ },
+ "life_summary": "Charles Grandison Finney was born in Warren, Connecticut, in 1792. He grew up in Oneida and Jefferson counties in upstate New York, taught school in New York and New Jersey, and from 1818 worked in Benjamin Wright's law office at Adams, New York. After a conversion experience at Adams on 10 October 1821 he left law, was licensed to preach by the St. Lawrence Presbytery in December 1823, was ordained in 1824, and married Lydia Root Andrews that October. From 1824 to 1832 he led revival campaigns in upstate New York and in Philadelphia, New York City, Rochester and Boston, and ministers opposed to his \"new measures\" debated them with him at New Lebanon in July 1827. He then led New York City congregations at Chatham Street Chapel (1832–36) and the Broadway Tabernacle (1836–37), published Lectures on Revivals of Religion in 1835, and in 1836 left the Presbytery to identify as a Congregationalist. He became professor of theology at Oberlin, Ohio, in 1835, settled there in 1837, was pastor of its First Congregational Church until 1872, served as president of the college from 1851 until he resigned in 1865 (some sources say 1866), and made preaching tours of Britain in 1849–51 and 1858–60. Widowed in 1847 and 1863 and married three times, he taught until July 1875, died at Oberlin on 16 August 1875, and his Memoirs were published in 1876.",
+ "phases": [
+  {
+   "start_year": 1792,
+   "end_year": 1818,
+   "label": "Youth and schoolteaching",
+   "summary": "Born in Warren, Connecticut, he grew up in Hanover (Oneida County), New York, attended Oneida Academy, and taught district school at Henderson from 1808 to 1812. After a stay in Warren, Connecticut, he taught school in New Jersey from 1814, returning to Henderson, Jefferson County, New York, in 1818.",
+   "place": "Warren, Connecticut; Hanover and Henderson, New York; New Jersey",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1818,
+   "end_year": 1824,
+   "label": "Adams law office years",
+   "summary": "He worked in Judge Benjamin Wright's law office at Adams, New York, where he was converted in October 1821. He then prepared for the ministry under the St. Lawrence Presbytery, which licensed him to preach in December 1823.",
+   "place": "Adams, New York",
+   "sources": [
+    {
+     "label": "Christian History Institute – Charles Grandison Finney timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-timeline"
+    },
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1824,
+   "end_year": 1832,
+   "label": "Itinerant revivalist campaigns",
+   "summary": "Ordained in 1824 and newly married, he worked as a missionary in Jefferson County and then led revivals in Oneida County (1826–27), Delaware and Pennsylvania (1827–29), New York City (1829–30), Rochester (1830–31) and Boston (1831–32). His children Helen (1828), Charles (1830) and Frederic (1832) were born in these years.",
+   "place": "Jefferson and Oneida counties, NY; Philadelphia; New York City; Rochester; Boston",
+   "sources": [
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    },
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1832,
+   "end_year": 1837,
+   "label": "New York City pastorates",
+   "summary": "He was pastor of the Second Free Presbyterian Church at Chatham Street Chapel (1832–36) and then of the Broadway Tabernacle (1836–37); cholera in 1832 and a Mediterranean voyage for his health in 1834 interrupted this work. From 1835 he also held the professorship of theology at Oberlin, and his daughter Julia was born in March 1837.",
+   "place": "New York City; Oberlin, Ohio (professorship from 1835)",
+   "sources": [
+    {
+     "label": "Finney, Memoirs, ch. 23 'Labors & Revivals in New York City in 1832, & Onward' (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "start_year": 1837,
+   "end_year": 1851,
+   "label": "Oberlin pastor and professor",
+   "summary": "Settled at Oberlin as pastor of the First Congregational Church and professor of theology, he also preached revivals in Rochester, Boston and Providence (1842) and published Lectures on Systematic Theology (1846–47). His daughter Sarah died in 1843 and his wife Lydia in 1847; he remarried in 1848 and preached in England from November 1849 to 1851.",
+   "place": "Oberlin, Ohio; also Rochester, Boston, Providence and England",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Finney, Memoirs, ch. 29 'Visit to England as an Evangelist in 1849' (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest29.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1851,
+   "end_year": 1865,
+   "label": "Oberlin College presidency",
+   "summary": "As president of Oberlin College he kept his pastorate and teaching, and made a second preaching tour of England and Scotland (1858–60). His daughter Delia died in 1852 and his second wife Elizabeth in 1863.",
+   "place": "Oberlin, Ohio; also England and Scotland",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1865,
+   "end_year": 1875,
+   "label": "Final years at Oberlin",
+   "summary": "After resigning the presidency and marrying Rebecca Allen Rayl in 1865, he stayed on as pastor of the First Congregational Church until 1872, published a book against Freemasonry (1869), began writing his Memoirs (1867), and taught pastoral theology until July 1875. He died at Oberlin in August 1875.",
+   "place": "Oberlin, Ohio",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1792-08-29",
+   "date_text": "29 August 1792",
+   "event": "Born in Warren, Connecticut, to Sylvester and Rebecca Rice Finney; when he was about two, the family moved to Oneida County, New York.",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1818",
+   "date_text": "1818",
+   "event": "Began working in Judge Benjamin Wright's law office at Adams, New York; Oberlin's archives state he was admitted to the bar that year.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Finney timeline",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-timeline"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1821-10-10",
+   "date_text": "10 October 1821",
+   "event": "Underwent a religious conversion at Adams, New York; by his own account it began while he prayed alone in a grove of woods north of the village.",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Finney, Memoirs, ch. 2 'My Conversion to Christ'",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest02.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1823-12-30",
+   "date_text": "30 December 1823",
+   "event": "Licensed to preach by the St. Lawrence Presbytery at Adams, New York.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Christian History Institute – Charles Grandison Finney: Father of American Revivalism",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney"
+    }
+   ]
+  },
+  {
+   "date_iso": "1824-03-17",
+   "date_text": "17 March 1824",
+   "event": "Commissioned by the Female Missionary Society of Western New York as a missionary to Jefferson County, where he preached at Evans Mills, Antwerp and nearby villages.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1824-07",
+   "date_text": "July 1824",
+   "event": "Ordained by the Presbytery of St. Lawrence, according to Oberlin's archives and the Presbyterian Historical Society (one online chronology gives 7 May 1824 instead).",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Presbyterian Historical Society – Guide to the Charles Grandison Finney Papers",
+     "url": "https://pcusa.org/historical-society/collections/research-tools/guides-archival-collections/rg-309"
+    }
+   ]
+  },
+  {
+   "date_iso": "1824-10-05",
+   "date_text": "5 October 1824",
+   "event": "Married Lydia Root Andrews (1804–1847); Oberlin's archives list six children born to the couple between 1828 and 1844.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Finney gallery",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-gallery"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1826-01",
+   "date_text": "January 1826",
+   "event": "Began revivals at Rome, New York, followed by work in Utica during 1826 and early 1827 as part of his Oneida County campaigns.",
+   "sources": [
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1827-07-18",
+   "date_text": "18 July 1827",
+   "event": "A ministers' conference at New Lebanon, New York, organized by Nathan Beman and Lyman Beecher, began debating Finney's 'new measures'; it ended without agreement.",
+   "sources": [
+    {
+     "label": "Christian History Institute – Charles Grandison Finney: Father of American Revivalism",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney"
+    },
+    {
+     "label": "Wikipedia – New Lebanon Conference",
+     "url": "https://en.wikipedia.org/wiki/New_Lebanon_Conference"
+    }
+   ]
+  },
+  {
+   "date_iso": "1830-09",
+   "date_text": "September 1830",
+   "event": "Began a revival campaign in Rochester, New York, which continued until March 1831.",
+   "sources": [
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-04",
+   "date_text": "April 1832",
+   "event": "By his own account, left Boston and began preaching at Chatham Street Chapel, New York, home of the Second Free Presbyterian Church.",
+   "sources": [
+    {
+     "label": "Finney, Memoirs, ch. 23 (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1832-09-28",
+   "date_text": "28 September 1832",
+   "event": "Began his pastorate at Chatham Street Chapel; by his own account he fell ill with cholera during the installation and preached again only toward spring.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Finney, Memoirs, ch. 23 (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1834",
+   "date_text": "1834",
+   "event": "For his health he sailed to the Mediterranean in winter, spending weeks at Malta and Sicily; he recalled being away about six months.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Finney, Memoirs, ch. 23 (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1835",
+   "date_text": "1835",
+   "event": "Accepted the professorship of theology at Oberlin, Ohio; his Lectures on Revivals of Religion, delivered at Chatham Street Chapel, were published the same year.",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1836-04-10",
+   "date_text": "10 April 1836",
+   "event": "Began as pastor of the Broadway Tabernacle, New York; that year he left the Presbytery and thereafter identified as a Congregationalist.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1837-04-06",
+   "date_text": "6 April 1837",
+   "event": "Resigned the Broadway Tabernacle pastorate; that year he settled at Oberlin as pastor of its First Congregational Church, a post he held until 1872.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1842",
+   "date_text": "1842",
+   "event": "Preached revivals in Rochester, at Marlborough Chapel in Boston, and in Providence, Rhode Island.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1847-12-17",
+   "date_text": "17 December 1847",
+   "event": "His first wife, Lydia Andrews Finney, died.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Christian History Institute – Finney gallery",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1848-11-13",
+   "date_text": "13 November 1848",
+   "event": "Married his second wife, Elizabeth Ford Atkinson, a widow.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Christian History Institute – Finney gallery",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1849-11",
+   "date_text": "November 1849",
+   "event": "Arrived at Southampton with his wife for a British preaching tour, starting at Houghton, Huntingdonshire; the tour lasted until early 1851.",
+   "sources": [
+    {
+     "label": "Finney, Memoirs, ch. 29 (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest29.htm"
+    },
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1851-08-26",
+   "date_text": "26 August 1851",
+   "event": "Elected president of Oberlin College, while keeping his pastorate and theology teaching.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1858-12",
+   "date_text": "December 1858",
+   "event": "According to Christian History's chronology, he began a second British tour lasting until August 1860, preaching in England and Scotland; Oberlin's archives date this visit 1859–60.",
+   "sources": [
+    {
+     "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+     "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1863-11-27",
+   "date_text": "27 November 1863",
+   "event": "His second wife, Elizabeth Atkinson Finney, died.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Christian History Institute – Finney gallery",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1865",
+   "date_text": "1865",
+   "event": "Resigned as Oberlin's president (August 1865 per one chronology; some sources date the end of his term to 1866) and in the fall married his third wife, Rebecca Allen Rayl.",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Christian History Institute – Finney gallery",
+     "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney-gallery"
+    }
+   ]
+  },
+  {
+   "date_iso": "1869",
+   "date_text": "1869",
+   "event": "Published The Character, Claims and Practical Workings of Freemasonry.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1872-05",
+   "date_text": "May 1872",
+   "event": "Retired as pastor of Oberlin's First Congregational Church, a post he had held since 1837.",
+   "sources": [
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    },
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    }
+   ]
+  },
+  {
+   "date_iso": "1875-08-16",
+   "date_text": "16 August 1875",
+   "event": "Died at Oberlin after a heart ailment, weeks after teaching his last pastoral theology class in July; his Memoirs, edited by James H. Fairchild, appeared in 1876.",
+   "sources": [
+    {
+     "label": "Oberlin College Archives – Finney Presidential Papers",
+     "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+    },
+    {
+     "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Oberlin College Archives – Charles Grandison Finney Presidential Papers (biographical note)",
+   "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+  },
+  {
+   "label": "Chronology of the Life of Charles Grandison Finney (gospeltruth.net)",
+   "url": "https://www.gospeltruth.net/finneychronology.htm"
+  },
+  {
+   "label": "The Memoirs of Charles G. Finney, restored text (gospeltruth.net)",
+   "url": "https://www.gospeltruth.net/memoirsrestored/memrestindex.htm"
+  },
+  {
+   "label": "Presbyterian Historical Society – Guide to the Charles Grandison Finney Papers",
+   "url": "https://pcusa.org/historical-society/collections/research-tools/guides-archival-collections/rg-309"
+  },
+  {
+   "label": "Christianity Today – Some Places and Dates of Finney's Revivals & Travels",
+   "url": "https://www.christianitytoday.com/history/issues/issue-20/some-places-and-dates-of-finneys-revivals-travels.html"
+  }
+ ],
+ "corrections": [
+  "Ordination event: kept July 1824 (Oberlin, PHS) but noted that the gospeltruth chronology gives 7 May 1824 by Oneida Presbytery; added PHS attribution.",
+  "Marriage to Lydia: removed unsupported 'born 1804' framing as fact beyond sources' 1804–1847 dates; replaced 'later had six children' with Oberlin's list of six children born 1828–1844 (CHI gallery counts five).",
+  "Lydia's death: removed unsupported 'at Oberlin, aged 43'.",
+  "1835 event: removed unsupported claim that Lectures on Revivals were published 'in December'; sources give only 1835.",
+  "Chatham Street April 1832 event: removed unverified description of the chapel as a 'converted theatre'; dated to April 1832 per Finney's Memoirs (Christianity Today gives May 1832).",
+  "28 September 1832 event: reworded to 'began his pastorate' as the chronology states, with installation/cholera attributed to Finney's own account.",
+  "1837 event: added exact resignation date 6 April 1837 from the chronology.",
+  "Phase 1832–1837: removed unverified claim that he spent summers at Oberlin from 1835.",
+  "Phase 1837–1851: replaced unverified 'Boston (1843–44)' with 1842 revivals in Rochester, Boston and Providence per the chronology; added 1842 event.",
+  "Phase 1851–1865: removed unverified claim of revivals in eastern cities through 1857 and the Boston/Rochester/New York place list.",
+  "1865 event: added August 1865 resignation date (chronology) and fall 1865 remarriage (CHI gallery); noted 1866 alternative (CHI timeline, PHS, Wikipedia); the gospeltruth chronology's 1864 marriage date is contradicted by Oberlin and CHI.",
+  "Added 1869 Freemasonry book event (confirmed by chronology).",
+  "Death event: removed unverified 'published in New York'; added Fairchild as editor per Oberlin; July 1875 last class confirmed by chronology.",
+  "New Lebanon event: organizers corrected to Nathan Beman and Lyman Beecher; 18 July 1827 start confirmed by Christian History Institute.",
+  "Rochester 1830 event: dropped Wikipedia as second source (it gives only 1830–1831); Christianity Today confirms Sept 1830–Mar 1831.",
+  "Youth phase: added Oneida Academy and clarified the 1812 stay in Warren, Connecticut, per Oberlin and the chronology.",
+  "Life summary: aligned with verified events (ordination/marriage order, presidency end-date variance, final teaching in July 1875)."
+ ]
+}

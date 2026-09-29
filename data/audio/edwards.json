@@ -1,0 +1,109 @@
+{
+ "rows": [
+  {
+   "id": "edwards-living-peaceably-one-with-another",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate free recording found: the text exists only in the in-copyright Yale Works of Jonathan Edwards edition, and searches of the LibriVox catalogue, Internet Archive and SermonAudio's feed returned no reading of it."
+  },
+  {
+   "id": "edwards-envious-men",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate free recording found: the sermon is published only in the in-copyright Yale WJE volume, and the LibriVox, Internet Archive and SermonAudio keyword searches returned nothing for it."
+  },
+  {
+   "id": "edwards-god-glorified-in-the-work-of-redemption-by-the-greatness-of-",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_11_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive page for LibriVox's 'Select Sermons of Jonathan Edwards' opens its player on track '11 - God Glorified in Man's Dependence', read by TriciaG, with streaming and MP3 download; the printed preface is track 10, 'Advertisement'."
+  },
+  {
+   "id": "edwards-the-duty-of-charity-to-the-poor-explained-and-enforced",
+   "listen_url": "https://embed.sermonaudio.com/player/a/811643431/",
+   "listen_label": "SermonAudio reading (Digital Puritan)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player page is titled 'Christian Charity: The Duty Of Charity To The Poor, Explained and Enforced' (Jonathan Edwards; broadcaster Puritan/Reformed Books and Sermons; 1:55:52) and has play and MP3 download; SermonAudio's feed says 'Narrated by Duane Linn', and the narrator notes he inserted a few comments of his own."
+  },
+  {
+   "id": "edwards-a-divine-and-supernatural-light-immediately-imparted-to-the-",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_03_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive LibriVox item 'Select Sermons of Jonathan Edwards' opens on track '03 - A Divine and Supernatural Light, pt 1', read by TriciaG, with streaming and download; part 2 is track 04."
+  },
+  {
+   "id": "edwards-justification-by-faith-alone",
+   "listen_url": "https://embed.sermonaudio.com/player/a/12152059193755/",
+   "listen_label": "SermonAudio reading (Digital Puritan)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player page is titled 'Justification By Faith Alone (Complete)' (Jonathan Edwards; Puritan/Reformed Books and Sermons; 5:43:46) and has play and MP3 download; the feed calls it 'the complete book' and quotes Edwards's five-part outline of the discourse."
+  },
+  {
+   "id": "edwards-pressing-into-the-kingdom-of-god",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_36_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive LibriVox item 'Select Sermons of Jonathan Edwards' opens on track '36 - Pressing Into the Kingdom of God, pt 1', read by Anna Roberts, with streaming and download; parts 2 and 3 are tracks 37 and 38."
+  },
+  {
+   "id": "edwards-the-excellency-of-christ",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_16_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive page identifies itself as a 'LibriVox recording of Select Sermons of Jonathan Edwards' and opens on track '16 - The Excellency of Christ, pt 1', read by TriciaG, with a player and download link; parts 2 and 3 are tracks 17 and 18."
+  },
+  {
+   "id": "edwards-peaceable-and-faithful-amid-division-and-strife",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate free recording found: the text is available only in the in-copyright Yale WJE edition, and LibriVox, Internet Archive and SermonAudio searches returned no reading."
+  },
+  {
+   "id": "edwards-charity-and-its-fruits",
+   "listen_url": "https://embed.sermonaudio.com/player/a/14231221514904/",
+   "listen_label": "SermonAudio reading (The Narrated Puritan)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player page is titled 'Charity and Its Fruits - 1' (Jonathan Edwards; broadcaster The Narrated Puritan, whose narrator is T M Sullivan; 1:31:15) and has play and download; it is part 1 of a two-part reading, and part 2 (1:29:27) is a separate file."
+  },
+  {
+   "id": "edwards-children-ought-to-love-the-lord-jesus-christ-above-all",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No legitimate free recording found: the sermon was first published in the in-copyright Yale WJE volume 22, and web, LibriVox and SermonAudio searches found no audio of it."
+  },
+  {
+   "id": "edwards-sinners-in-the-hands-of-an-angry-god",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_01_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive LibriVox item 'Select Sermons of Jonathan Edwards' opens on track '01 - Sinners in the Hands of an Angry God, pt 1', read by dexter, with streaming and download; part 2 is track 02."
+  },
+  {
+   "id": "edwards-the-distinguishing-marks-of-a-work-of-the-spirit-of-god",
+   "listen_url": "https://embed.sermonaudio.com/player/a/1206204031/",
+   "listen_label": "SermonAudio reading (Harbor Reformed Baptist Church)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player page is titled 'Distinguishing Marks of the Spirit's Work #1' (Jonathan Edwards; broadcaster Harbor Reformed Baptist Church; 1:13:03) and has play and download; its feed description quotes the aim of The Distinguishing Marks of a Work of the Spirit of God and says part #1 covers the 'Negative Signs', with parts #2 and #3 following."
+  },
+  {
+   "id": "edwards-true-saints-when-absent-from-the-body-are-present-with-the-l",
+   "listen_url": "https://archive.org/details/select_sermons_edwards_0911_librivox/selectsermons_12_edwards_64kb.mp3",
+   "listen_label": "LibriVox reading",
+   "kind": "public-domain-reading",
+   "evidence": "The Internet Archive LibriVox item 'Select Sermons of Jonathan Edwards' opens on track '12 - True Saints, When Absent From The Body, Are Present With The Lord', read by Tyler Mitchell, with streaming and download; part 2 is track 13."
+  },
+  {
+   "id": "edwards-a-farewell-sermon-preached-at-the-first-precinct-in-northamp",
+   "listen_url": "https://embed.sermonaudio.com/player/a/52123134513866/",
+   "listen_label": "SermonAudio reading (The Narrated Puritan)",
+   "kind": "authorised-reading",
+   "evidence": "The SermonAudio player page is titled 'Farewell Sermon After Being Voted Out By His Congregation' (Jonathan Edwards; The Narrated Puritan; 1:04:18) and has play and download; its feed description says it was 'Preached at the First Church in Northampton, MA after being voted out as the Pastor July 1, 1750'."
+  }
+ ]
+}

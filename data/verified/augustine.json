@@ -1,0 +1,494 @@
+{
+ "preacher": {
+  "id": "augustine",
+  "name": "Augustine of Hippo",
+  "lifespan": "354–430",
+  "tradition": "Catholic Church (Latin West); Church Father and Doctor of the Church",
+  "role": "Bishop of Hippo Regius, theologian and preacher",
+  "bio": "Augustine (Aurelius Augustinus) was born at Thagaste in Roman North Africa on 13 November 354 and died on 28 August 430. After about nine years as a Manichaean 'hearer' and a post as a publicly paid professor of rhetoric at Milan, he converted to ascetic Christianity in 386 and was baptized by Ambrose at Easter 387. He was ordained priest at Hippo Regius in 391. His biographer Possidius records that Bishop Valerius let him preach in the bishop's presence, contrary to African custom. He became bishop of Hippo around 396. Possidius says that in the third month of the Vandal siege of the city he fell ill with the fever that led to his death.",
+  "corpus_note": "The chronological table of Augustine's sermons on Augustinus.it lists some 595 entries: the Maurist-numbered Sermones 1–396 plus sermons identified later, such as those edited by Dolbeau. His preached series survive separately, including the Enarrationes in Psalmos (c. 392–422) and the Tractates on John's Gospel (c. 406–420), according to the Stanford Encyclopedia of Philosophy. The Latin texts are on Augustinus.it. English translations of a selection were published in 1888 in the Nicene and Post-Nicene Fathers (NPNF), including 97 sermons on New Testament lessons, and are on New Advent and CCEL.",
+  "archive_links": [
+   {
+    "label": "Augustinus.it – Latin texts of all Sermones",
+    "url": "https://www.augustinus.it/latino/discorsi/index.htm"
+   },
+   {
+    "label": "New Advent – Sermons on New Testament Lessons (NPNF 1888, public domain)",
+    "url": "https://www.newadvent.org/fathers/1603.htm"
+   },
+   {
+    "label": "CCEL – NPNF First Series vol. 6 (Sermons on NT Lessons)",
+    "url": "https://www.ccel.org/ccel/schaff/npnf106.html"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Stanford Encyclopedia of Philosophy – Saint Augustine",
+    "url": "https://plato.stanford.edu/entries/augustine/"
+   },
+   {
+    "label": "Possidius, Life of St Augustine (trans. Weiskotten) – tertullian.org",
+    "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm"
+   },
+   {
+    "label": "Augustinus.it – Tabla cronológica de los sermones",
+    "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+   },
+   {
+    "label": "New Advent – Fathers of the Church index (Augustine)",
+    "url": "https://www.newadvent.org/fathers/"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Ten Homilies on the First Epistle of John (In epistulam Iohannis ad Parthos tractatus decem)",
+   "type": "sermon-series",
+   "date_text": "Easter week, 407 (scholarly date)",
+   "date_iso": "0407",
+   "place": "",
+   "occasion": "Easter week, interrupting his series on John's Gospel",
+   "scripture": "1 John 1:1–5:3",
+   "published_in": "Tractatus decem in epistulam Iohannis ad Parthos; English: H. Browne (trans.), Nicene and Post-Nicene Fathers, First Series, vol. 7 (1888)",
+   "summary": "In ten homilies, Augustine works through 1 John verse by verse and treats charity as the letter's governing theme. He argues that love is the root that separates good deeds from bad even when two acts look the same, identifies God with love, and holds that love must reach past the brethren to enemies. He also charges schismatics with failing to love the brethren and names the Donatists.",
+   "context": "In the prologue Augustine says that the 'solemnity of the holy days', with their fixed Gospel readings, interrupted his running exposition of John's Gospel, so he chose John's Epistle because he could finish it in 'seven or eight days'. The Benedictine editors' note in NPNF identifies these as the days after Easter. The Stanford Encyclopedia of Philosophy dates the series to 407 and calls it Augustine's 'most sustained discussion of Christian love'.",
+   "key_line": "See what we are insisting upon; that the deeds of men are only discerned by the root of charity.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "church-unity"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/1702.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Homily 7 on the First Epistle of John (NPNF)",
+     "url": "https://www.newadvent.org/fathers/170207.htm"
+    },
+    {
+     "label": "CCEL – NPNF1-07, Prologue to the Homilies on 1 John (with Benedictine note)",
+     "url": "https://www.ccel.org/ccel/schaff/npnf107.iv.iii.html"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy – Saint Augustine (date 407)",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ],
+   "unverified_notes": "The place is not stated in the sources consulted. The year 407 follows the Stanford Encyclopedia of Philosophy; other scholarly datings were not checked.",
+   "verification_status": "verified",
+   "verification_note": "Prologue wording and the Benedictine note on the days after Easter confirmed on CCEL, the 407 date and 'most sustained discussion of Christian love' confirmed in the SEP, H. Browne/NPNF vol. 7 (1888) confirmed on New Advent, and the key line found verbatim in Homily 7."
+  },
+  {
+   "title": "Sermon 90 (on Matthew 22:1–14, the wedding garment)",
+   "type": "sermon",
+   "date_text": "411–416 (scholarly estimates differ; one says only 'before 420')",
+   "date_iso": "0411",
+   "place": "Basilica Restituta, Carthage",
+   "occasion": "",
+   "scripture": "Matthew 22:1–14",
+   "published_in": "PL 38, 559–566; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 40",
+   "summary": "Augustine argues that the guest without a wedding garment stands for a whole class of people inside the Church. The garment cannot be baptism, the altar, fasting, church attendance or miracles, because bad people share all of these. It is 'charity out of a pure heart, and of a good conscience, and of faith unfeigned' (1 Timothy 1:5). He urges hearers to extend their love beyond wife and children to enemies and, like Christ and Stephen, to pray for the enmity to end rather than for the enemy to die.",
+   "context": "The NPNF heading describes the sermon as 'against the Donatists, on charity' and says it was 'Delivered at Carthage in the Restituta'. The chronological table on Augustinus.it places it in the Basilica Restituta at Carthage and gives these datings: before 420 (Monceaux), 412–416 (Kunzelmann, Fischer), 411 (La Bonnardière) and summer 413 with a query (Perler).",
+   "key_line": "Extend your love then, and limit it not to your wives and children.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "church-unity"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160340.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 40 (Ben. 90) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160340.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The date is disputed among scholars and no single year is established.",
+   "verification_status": "corrected",
+   "verification_note": "Venue, datings and PL columns confirmed in the Augustinus.it table and the heading, summary and key line confirmed against the NPNF text; context reworded because the NPNF heading says only 'in the Restituta', not 'Restituta basilica'."
+  },
+  {
+   "title": "Sermon 56 (on the Lord's Prayer, Matthew 6:9–13, to the competentes)",
+   "type": "sermon",
+   "date_text": "c. 410 (estimates: before 410, 410, or 410–412)",
+   "date_iso": "0410",
+   "place": "Hippo Regius",
+   "occasion": "Instruction of the competentes (candidates for baptism), a week before Easter",
+   "scripture": "Matthew 6:9–13",
+   "published_in": "PL 38, 377–386; critical ed. Verbraken, Revue Bénédictine 68 (1958), 26–40; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 6",
+   "summary": "Speaking to candidates who have already learned the Creed, Augustine explains the Lord's Prayer petition by petition and argues that belief must come before calling on God. He describes 'forgive us our debts, as we also forgive our debtors' as a daily cleansing for small sins and as a covenant with God. He tells the candidates to forgive everything before baptism, to love their enemies, and to pray against an enemy's malice, not against his life.",
+   "context": "The sermon speaks directly to people 'about to be baptized'. Augustinus.it's chronological table places it at Hippo a week before Easter and records three datings: 410 (Monceaux), 410–412, and before 410 (Verbraken). It is one of four sermons on the Lord's Prayer to the competentes (Sermons 56–59).",
+   "key_line": "In no way can your enemy so hurt you by his violence, as you hurt yourself if you love him not.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "prayer"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160306.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 6 (Ben. 56) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160306.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The exact year is not established.",
+   "verification_status": "verified",
+   "verification_note": "Place, occasion, the three datings and the Verbraken edition confirmed in the Augustinus.it table; the NPNF headings of Sermons 6–9 (Ben. 56–59) all read 'To the Competentes'; summary points and key line confirmed verbatim in the NPNF text."
+  },
+  {
+   "title": "Sermon 211 (In Quadragesima – for Lent, on brotherly concord)",
+   "type": "sermon",
+   "date_text": "Lent; before 410 or c. 412–415 (scholarly estimates differ)",
+   "date_iso": "",
+   "place": "",
+   "occasion": "Lent",
+   "scripture": "Matthew 6:12; Matthew 7:3; 1 John 2:8–9; 1 John 3:15",
+   "published_in": "PL 38, 1054–1058; Sources Chrétiennes 116, 154–172",
+   "summary": "Augustine urges his hearers to settle their quarrels before Easter. He separates anger, which a father may feel in order to correct a son, from hatred, which grows out of anger that is nursed, as a speck grows into a beam, and says the heart of the one who hates is his own prison. He then speaks in turn to those who refuse to forgive, to those whose request for pardon was refused, to those who have wronged others but are ashamed to ask pardon, and to those who were wronged and never asked for pardon. He tells them not to pray for vengeance but for God to destroy the enmity and save the person.",
+   "context": "Augustine opens by saying that the holy days of the Lenten observance prompt him to speak about brotherly concord, so that everyone can celebrate Easter free of quarrels. He also refers to a reading from John's Epistle. Augustinus.it's chronological table records no place and gives two datings: before 410 (Kunzelmann, La Bonnardière) and, with a query, 412–415 (Fischer).",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "forgiveness",
+    "prayer"
+   ],
+   "read_url": "https://www.augustinus.it/latino/discorsi/discorso_267_testo.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Augustinus.it – Sermo 211 (Latin text)",
+     "url": "https://www.augustinus.it/latino/discorsi/discorso_267_testo.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The place is unknown and the date is disputed. No public-domain English translation was found, so the Latin text is linked; the summary is based on the Latin.",
+   "verification_status": "corrected",
+   "verification_note": "Datings, editions and the Lenten occasion confirmed in the Augustinus.it table and Latin text; scripture corrected from 1 John 2:9 to 1 John 2:8–9, and the summary now includes the group who wronged others but are ashamed to ask pardon (section 4)."
+  },
+  {
+   "title": "Sermon 83 (on Matthew 18:21–35, 'How often shall my brother sin against me?')",
+   "type": "sermon",
+   "date_text": "c. 408–409 (scholarly estimate)",
+   "date_iso": "0408",
+   "place": "Possibly Milevis (queried)",
+   "occasion": "",
+   "scripture": "Matthew 18:21–35",
+   "published_in": "PL 38, 514–519; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 33",
+   "summary": "Working from Peter's question and the parable of the unforgiving servant, Augustine teaches that everyone is both God's debtor and someone else's creditor, so the rule 'Forgive, and you shall be forgiven' binds everyone. He reads 'seventy times seven' numerically as covering every sin and insists that forgiveness must come from the heart. He also holds that rebuke and discipline can go together with forgiveness, as a surgeon's knife serves healing.",
+   "context": "Augustine opens by recalling that 'yesterday' the Gospel warned against neglecting the sins of fellow believers (Matthew 18:15), the subject of Sermon 82. The Augustinus.it chronological table dates both sermons c. 408–409 and gives Milevis as their place with a question mark.",
+   "key_line": "Better is it that you should be violent in words, and forgive in the heart, than in words be soft, and in the heart relentless.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160333.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 33 (Ben. 83) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160333.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The place (Milevis) is queried in the source and the year is an estimate. The NPNF heading misprints the text as Matthew 17:21.",
+   "verification_status": "verified",
+   "verification_note": "Date, queried place (Milevi?) and PL columns for Sermons 82 and 83 confirmed in the Augustinus.it table; 'yesterday' opening, the NPNF misprint 'Matthew 17:21', summary points and key line confirmed verbatim in the NPNF text."
+  },
+  {
+   "title": "Sermon 114 (on Luke 17:3–4, on the forgiveness of sins)",
+   "type": "sermon",
+   "date_text": "c. 423 (scholarly estimate)",
+   "date_iso": "0423",
+   "place": "Carthage",
+   "occasion": "Preached in the presence of Count Boniface",
+   "scripture": "Luke 17:3–4",
+   "published_in": "PL 38, 652–654; ed. Verbraken, Revue Bénédictine 73 (1963), 23–28; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 64",
+   "summary": "Augustine reads 'seven times in a day' as meaning always, whenever the offender repents. He argues that anyone who hopes to receive pardon from God must give it to others, following Christ's example, and warns that holding on to enmity corrupts the heart. Going through the Lord's Prayer, he shows that saying 'as we also forgive our debtors' while refusing to forgive is a lie told to God. He ends by pairing forgiving with giving to the poor.",
+   "context": "The NPNF heading records that the sermon was delivered 'at the Table of St. Cyprian, in the presence of Count Boniface'. The Augustinus.it chronological table places it at Carthage in the Basilica of Cyprian (Bas. Cypriani) and dates it c. 423.",
+   "key_line": "For the retaining of enmities more than anything corrupts this heart of ours.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "prayer"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160364.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 64 (Ben. 114) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160364.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The date is a scholarly estimate. The two sources name the venue differently (NPNF: 'the Table of St. Cyprian'; Augustinus.it: Basilica of Cyprian); whether these are the same building was not established, so only Carthage is given as the place.",
+   "verification_status": "corrected",
+   "verification_note": "Date c. 423, Carthage, the Verbraken edition and the NPNF heading (Table of St. Cyprian, Count Boniface) confirmed; place reduced to 'Carthage' because the sources name the venue differently, and the summary reordered to follow the text."
+  },
+  {
+   "title": "Sermon 81 (on Matthew 18:7, the offences of the world)",
+   "type": "sermon",
+   "date_text": "c. 410–411 (scholarly estimate)",
+   "date_iso": "0410",
+   "place": "Hippo Regius",
+   "occasion": "",
+   "scripture": "Matthew 18:7–9",
+   "published_in": "PL 38, 499–506; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 31",
+   "summary": "Augustine separates the hardships of life, which the faithful can endure the way olives endure the press, from true 'offences'. He means the advice of a friend or relative urging someone to sin, which must be 'cut off' by refusing to agree to it. He defines the meek as those who are pleased only by God in the good they do and who are not displeased with God in what they suffer. To those who say Rome is perishing 'in Christian times', he replies that a city is its people and that the world is growing old, as Christ foretold.",
+   "context": "The Augustinus.it chronological table places this sermon at Hippo, c. 410–411, the period after the sack of Rome in 410. Augustine takes up the complaint that Rome is falling in Christian times. He closes by urging hospitality toward the 'concourse of so many strangers, and needy, and suffering people' then present.",
+   "key_line": "For what is Rome, but the Romans?",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "friendship",
+    "holiness"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160331.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 31 (Ben. 81) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160331.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy – Saint Augustine (sack of Rome, 410)",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    }
+   ],
+   "unverified_notes": "The year is a scholarly estimate.",
+   "verification_status": "verified",
+   "verification_note": "Hippo, c. 410–411 and Mt 18:7–9 confirmed in the Augustinus.it table, the 410 sack of Rome confirmed in the SEP, and the olive-press image, the definition of the meek, the old-age-of-the-world passage, the closing appeal and the key line confirmed verbatim in the NPNF text."
+  },
+  {
+   "title": "Sermon 105 (on Luke 11:5–13, the friend at midnight)",
+   "type": "sermon",
+   "date_text": "410–411 (scholarly estimate)",
+   "date_iso": "0410",
+   "place": "Carthage",
+   "occasion": "",
+   "scripture": "Luke 11:5–13",
+   "published_in": "PL 38, 618–625; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 55",
+   "summary": "Augustine reads the parable of the friend at midnight as a call to persistent prayer. He takes the three loaves as the Trinity and matches the loaf, fish and egg of Luke 11:11–12 with charity, faith and hope. He then answers complaints that everything is perishing in Christian times: earthly kingdoms were foretold to pass away, Virgil's promise of endless Roman rule was flattery, and Christians should place their hope in the eternal city.",
+   "context": "The Augustinus.it chronological table places the sermon at Carthage in 410–411. Augustine reports critics saying they wished he would 'hold his tongue about Rome'. He recalls how the pagan Gothic king Radagaisus was defeated a few years earlier and contrasts him with the Goths, 'hostile and opposed to idols', who later took Rome.",
+   "key_line": "Why are you alarmed, because the kingdoms of the earth are perishing?",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "heaven-hope",
+    "suffering"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160355.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 55 (Ben. 105) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160355.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    },
+    {
+     "label": "Augustinus.it – Sermo 105 (Latin text)",
+     "url": "https://www.augustinus.it/latino/discorsi/discorso_134_testo.htm"
+    }
+   ],
+   "unverified_notes": "The year is a scholarly estimate.",
+   "verification_status": "verified",
+   "verification_note": "Carthage, 410–411 and PL columns confirmed in the Augustinus.it table; the loaf/fish/egg reading, the Virgil passage, 'hold his tongue about Rome', the Rhadagaisus episode and the key line confirmed verbatim in the NPNF text; the Latin link resolves to Sermo 105."
+  },
+  {
+   "title": "De excidio urbis Romae (Sermon on the Destruction of the City of Rome)",
+   "type": "sermon",
+   "date_text": "Soon after the sack of Rome in 410 (internal evidence; exact date not documented)",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Daniel 9:20; Genesis 18:23–32",
+   "published_in": "Sermo de excidio urbis Romae, in Corpus Christianorum Series Latina 46 (1969)",
+   "summary": "Augustine starts from Daniel's confession of his own sins to argue that no one can claim to be without sin. He then answers critics who asked why God did not spare Rome for the sake of fifty righteous people (Genesis 18). Rome, he says, was scourged and corrected, not wiped out like Sodom: many fled, survived, or were protected in holy places. He compares its suffering with Job's and with Christ's passion and urges patience under temporal trials.",
+   "context": "The text calls the destruction of Rome 'recent' ('de recenti excidio tantae Urbis'), which places it after the sack of Rome in 410. Augustine also recounts how, a few years earlier under Emperor Arcadius, Constantinople was warned by a fiery cloud and was spared after its people repented and left the city with the emperor. He notes that some of his hearers had been there.",
+   "key_line": "",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "providence",
+    "judgment"
+   ],
+   "read_url": "https://www.augustinus.it/latino/rovina_roma/rovina_roma_libro.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Augustinus.it – De excidio urbis Romae (Latin text)",
+     "url": "https://www.augustinus.it/latino/rovina_roma/rovina_roma_libro.htm"
+    },
+    {
+     "label": "Stanford Encyclopedia of Philosophy – Saint Augustine (sack of Rome, 410)",
+     "url": "https://plato.stanford.edu/entries/augustine/"
+    },
+    {
+     "label": "Brepols – Corpus Christianorum Series Latina list (vol. 46 includes Sermo de excidio urbis Romae)",
+     "url": "https://www.brepols.net/series/CCSL"
+    }
+   ],
+   "unverified_notes": "The exact date and place were not documented in the sources consulted. No public-domain English translation was found, so the Latin text is linked.",
+   "verification_status": "corrected",
+   "verification_note": "Latin text, the 'recent' destruction, the Sodom/Job comparisons and the Constantinople episode confirmed on Augustinus.it; published_in added (CCSL 46, 1969, per Brepols), and the context corrected because Augustine's 'ut dicitur' refers only to the informant being a soldier, not to the whole story."
+  },
+  {
+   "title": "Sermon 272 (In die Pentecostes ad infantes, de sacramento – to the newly baptized, on the sacrament)",
+   "type": "sermon",
+   "date_text": "405–411 (Kunzelmann's estimate)",
+   "date_iso": "0405",
+   "place": "",
+   "occasion": "Addressed to the newly baptized (infantes); titled for Pentecost Day",
+   "scripture": "1 Corinthians 12:27; 1 Corinthians 10:17",
+   "published_in": "PL 38, 1246–1248",
+   "summary": "Augustine tells the newly baptized that the bread and cup they see on the altar are Christ's body and blood. These are called sacraments because one thing is seen and another is understood. Using 'you are the body of Christ' (1 Corinthians 12:27), he says their own mystery lies on the Lord's table and that their 'Amen' is their assent to it. Many grains make one loaf and many grapes one wine, a sign of unity, so anyone who receives this mystery of unity without keeping the bond of peace receives a testimony against himself.",
+   "context": "Augustine speaks to people who had seen the altar 'the previous night' but had not yet been taught its meaning. The Maurist title assigns the sermon to Pentecost. According to Augustinus.it's chronological table, Kunzelmann placed it at Easter, 405–411.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity"
+   ],
+   "read_url": "https://www.augustinus.it/latino/discorsi/discorso_383_testo.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Augustinus.it – Sermo 272 (Latin text)",
+     "url": "https://www.augustinus.it/latino/discorsi/discorso_383_testo.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The occasion is disputed: the Maurist title says Pentecost, while Kunzelmann proposed Easter. The place is unknown. No public-domain English translation was found, so the Latin text is linked.",
+   "verification_status": "verified",
+   "verification_note": "Title, 'transacta nocte', the sacrament definition, 1 Cor 12:27 and 10:17, the grains/grapes image and the 'mysterium unitatis' sentence confirmed in the Latin text; 'Pentecoste (Maur.)' and 'Pasqua 405-411 (K)' confirmed in the Augustinus.it table."
+  },
+  {
+   "title": "Sermon 43 (on Isaiah 7:9, 'Unless you believe, you will not understand', and 2 Peter 1:17–19)",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Isaiah 7:9; 2 Peter 1:17–19",
+   "published_in": "PL 38, 254–258; CCSL 41, 508–512",
+   "summary": "Augustine argues that right faith is the start of a good life. Humans, he says, share existence with stones, life with trees and sensation with animals, and share understanding with angels. He sets up the dispute between 'understand in order to believe' and 'believe in order to understand', lets the prophet (Isaiah 7:9) settle it, and concludes that both hold in part: one understands the preacher's word in order to believe, and believes God's word in order to understand.",
+   "context": "The sermon refers to the Gospel read that day, the father's cry 'I believe; help my unbelief' (Mark 9:23–24). It also explains Peter's phrase 'a more sure word of prophecy' as prophecy that convinces unbelievers who might explain away the voice from heaven as magic. Augustinus.it's chronological table records no date or place.",
+   "key_line": "",
+   "primary_category": "reason-truth",
+   "categories": [
+    "reason-truth",
+    "faith-doubt"
+   ],
+   "read_url": "https://www.augustinus.it/latino/discorsi/discorso_054_testo.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Augustinus.it – Sermo 43 (Latin text)",
+     "url": "https://www.augustinus.it/latino/discorsi/discorso_054_testo.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The date and place are unknown. No public-domain English translation was found, so the Latin text is linked.",
+   "verification_status": "verified",
+   "verification_note": "Latin text confirms the opening on right faith, the stones/trees/beasts/angels passage, the 'intellege ut credas, crede ut intellegas' resolution and the Gospel of the day (Mark 9); the Augustinus.it table confirms no date or place and the PL 38 / CC 41 columns."
+  },
+  {
+   "title": "Sermon 113 (on Luke 16:9, 'Make to yourselves friends of the mammon of iniquity')",
+   "type": "sermon",
+   "date_text": "",
+   "date_iso": "",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 16:9",
+   "published_in": "PL 38, 648–652; English: R. G. MacMullen (trans.), NPNF First Series, vol. 6 (1888), as Sermon 63",
+   "summary": "Augustine rejects the reading that lets people give alms out of plunder or usury: alms should come from honest labour. Those who already hold wealth gained wrongly should stop acquiring it that way and turn it to good use, as Zacchaeus gave half his goods to the poor and promised fourfold restitution. He adds a second reading in which all worldly wealth is 'riches of iniquity' rather than true riches: true riches are those that cannot be lost, and the 'friends' who receive the giver into eternal dwellings are Christ's 'least ones', who left everything to follow him.",
+   "context": "Augustinus.it's chronological table records no date or place for this sermon. In the text, Augustine explains 'mammon' as a Hebrew word related to Punic, in which it means gain ('lucre').",
+   "key_line": "Lose, that you be not lost: give, that you may gain: sow, that you may reap.",
+   "primary_category": "money-work",
+   "categories": [
+    "money-work",
+    "heaven-hope"
+   ],
+   "read_url": "https://www.newadvent.org/fathers/160363.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "New Advent – Sermon 63 (Ben. 113) on NT Lessons (NPNF)",
+     "url": "https://www.newadvent.org/fathers/160363.htm"
+    },
+    {
+     "label": "Augustinus.it – Tabla cronológica de los sermones",
+     "url": "https://www.augustinus.it/spagnolo/discorsi/tavola_discorsi.htm"
+    }
+   ],
+   "unverified_notes": "The date and place are unknown.",
+   "verification_status": "corrected",
+   "verification_note": "No date/place and the PL columns confirmed in the Augustinus.it table, and the mammon/Punic explanation and key line confirmed verbatim in NPNF; the summary was made more precise on Zacchaeus and on the identity of the 'friends' (Christ's 'least ones')."
+  }
+ ],
+ "removed": [
+  {
+   "title": "Sermon 340 (In die ordinationis suae – on the anniversary of his ordination)",
+   "reason": "Attribution not established. The Augustinus.it chronological table, the researcher's own source, marks it 'autenticità dubbia' (doubtful authenticity). The critical edition it cites, CC 104, 919–921, is Corpus Christianorum Series Latina 104, which Brepols lists as Caesarius of Arles, Sermones (ed. Morin, 1953), so the text survives within Caesarius's sermon collection. Lumen Gentium §32 does cite Serm. 340, 1 as Augustine's, but under the library's rule the flagged authenticity doubt means it cannot be presented as proven Augustine."
+  }
+ ],
+ "corrections": [
+  "Preacher bio: 'Possidius says he died in the third month of the Vandal siege' corrected. Possidius (ch. XXIX) says that in the third month of the siege he 'succumbed to fever and began to suffer in his last illness'.",
+  "Sermon 90 context: NPNF heading quoted exactly ('Delivered at Carthage in the Restituta'); 'basilica' is now attributed to the Augustinus.it table (Bas. Restituta).",
+  "Sermon 211 scripture: 1 John 2:9 corrected to 1 John 2:8–9 (Augustine quotes 'Tenebrae transierunt, lux vera iam lucet' before verse 9).",
+  "Sermon 211 summary: added the group Augustine addresses in section 4, those who wronged others but are ashamed to ask pardon.",
+  "Sermon 114 place: 'Table of St Cyprian (Basilica of Cyprian), Carthage' changed to 'Carthage'. NPNF says 'Table of St. Cyprian' and Augustinus.it says 'Bas. Cypriani'; the two are no longer equated, and the difference is explained in the context and unverified_notes.",
+  "Sermon 114 summary: reordered so the warning about retained enmities comes before the Lord's Prayer section, as in the text.",
+  "De excidio urbis Romae published_in: was empty; now 'Sermo de excidio urbis Romae, in CCSL 46 (1969)', per the Brepols CCSL list, with Brepols added as a source.",
+  "De excidio urbis Romae context: removed 'as it is said' from the Constantinople story. In the Latin, 'ut dicitur' refers only to the informant being a soldier. Added that the city left with the emperor.",
+  "Sermon 113 summary: Zacchaeus passage made more precise (half his goods to the poor, fourfold restitution; Augustine tells holders of ill-gotten wealth to turn it to good use). The 'friends' are now identified as Christ's 'least ones' who left everything, as in the text.",
+  "Sermon 340: removed. Augustinus.it flags its authenticity as doubtful, and its cited critical edition (CC 104) is the Caesarius of Arles Sermones volume."
+ ]
+}

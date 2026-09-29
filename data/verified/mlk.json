@@ -1,0 +1,673 @@
+{
+ "preacher": {
+  "id": "mlk",
+  "name": "Martin Luther King Jr.",
+  "lifespan": "1929–1968",
+  "tradition": "Baptist",
+  "role": "Baptist pastor and civil rights leader",
+  "bio": "Martin Luther King Jr. was born in Atlanta on 15 January 1929 and was ordained in February 1948 at Ebenezer Baptist Church, where his father was pastor. He studied at Morehouse College (1944–1948) and Crozer Theological Seminary (1948–1951), and completed a doctorate at Boston University in 1955. He accepted the pastorate of Dexter Avenue Baptist Church in Montgomery, Alabama, in 1954 and led the Montgomery bus boycott, which began in December 1955. He co-founded the Southern Christian Leadership Conference in 1957 and served as its president. In November 1959 he accepted Ebenezer's call to serve as co-pastor with his father, a role he held from 1960 until his death. He received the Nobel Peace Prize in December 1964 and was assassinated at the Lorraine Motel in Memphis, Tennessee, on 4 April 1968.",
+  "corpus_note": "According to the King Papers Project, when it was allowed in 1997 to examine papers stored at the King home, it found King's private sermon file: a box holding over two hundred folders of handwritten outlines, drafts and prayers, along with other papers. The King Papers editorial note on the Strength to Love drafts says that book (Harper & Row, 1963) had seventeen chapters. The Stanford-based King Papers Project plans a fourteen-volume edition of his papers, of which seven volumes have been published; volume 6 is devoted to his preaching and religious writings. Many sermon texts and recordings are catalogued in the Online King Records Access (OKRA) database, run jointly by Stanford, Boston University and the Atlanta University Center's Woodruff Library.",
+  "archive_links": [
+   {
+    "label": "The Martin Luther King, Jr. Papers Project (King Institute, Stanford)",
+    "url": "https://kinginstitute.stanford.edu/king-papers/about-papers-project"
+   },
+   {
+    "label": "Online King Records Access (OKRA), Stanford",
+    "url": "https://okra.stanford.edu/"
+   },
+   {
+    "label": "A Knock at Midnight (1998): King Institute page for the collection of eleven recorded sermons",
+    "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+   }
+  ],
+  "sources": [
+   {
+    "label": "King Institute: Introduction (life summary)",
+    "url": "https://kinginstitute.stanford.edu/introduction"
+   },
+   {
+    "label": "King Institute: Introduction to Papers vol. 1 (birth, ordination)",
+    "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+   },
+   {
+    "label": "King Institute: Ebenezer Baptist Church (ordination; co-pastorate accepted Nov 1959)",
+    "url": "https://kinginstitute.stanford.edu/ebenezer-baptist-church-atlanta-georgia"
+   },
+   {
+    "label": "King Institute: Introduction to Papers vol. 6, Advocate of the Social Gospel (sermon file)",
+    "url": "https://kinginstitute.stanford.edu/introduction-volume-vi-advocate-social-gospel"
+   },
+   {
+    "label": "King Institute: Editorial Note, Strength to Love Drafts (seventeen chapters)",
+    "url": "https://kinginstitute.stanford.edu/king-papers/documents/editorial-note-strength-love-drafts"
+   },
+   {
+    "label": "King Institute: Assassination of Martin Luther King, Jr.",
+    "url": "https://kinginstitute.stanford.edu/assassination-martin-luther-king-jr"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "The Dimensions of a Complete Life",
+   "type": "sermon",
+   "date_text": "24 January 1954",
+   "date_iso": "1954-01-24",
+   "place": "Dexter Avenue Baptist Church, Montgomery, Alabama",
+   "occasion": "Trial sermon, preached while King was a candidate for the pastorate of Dexter Avenue Baptist Church",
+   "scripture": "Revelation 21:16",
+   "published_in": "Later versions appeared in The Measure of a Man (Christian Education Press, 1959) and Strength to Love (1963)",
+   "summary": "King takes the heavenly city, whose length, breadth and height are equal, as a picture of a complete human life. Length is the inward drive to develop one's own powers and calling. Breadth is concern for the welfare of other people and recognition that people depend on one another, and height is the reach upward toward God. He argues that a life is complete only when all three grow together.",
+   "context": "King preached this as his trial sermon at Dexter while he was a candidate for its pastorate; the introduction to volume 6 of the King Papers calls it one of his time-tested sermons. According to the King Papers headnote, Joseph T. Brooks had advised him to plan a sermon that did not depend too much on a manuscript, and local press coverage reported a large and appreciative audience. King accepted Dexter's call on 14 April 1954. The headnote lists other versions, including one at Ebenezer on 6 September 1953 and one at Friendship Baptist Church in Pasadena, California, on 28 February 1960; a version preached at New Covenant Baptist Church, Chicago, on 9 April 1967 is included in A Knock at Midnight (1998).",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "holiness"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/dimensions-complete-life-sermon-dexter-avenue-baptist-church",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'The Dimensions of a Complete Life,' Sermon at Dexter Avenue Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/dimensions-complete-life-sermon-dexter-avenue-baptist-church"
+    },
+    {
+     "label": "King Institute: Autobiography, ch. 6, Dexter Avenue Baptist Church (trial sermon, call accepted 14 April)",
+     "url": "https://kinginstitute.stanford.edu/publications/autobiography-martin-luther-king-jr/chapter-6-dexter-avenue-baptist-church"
+    },
+    {
+     "label": "King Institute: Introduction to Papers vol. 6 (trial sermon)",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-vi-advocate-social-gospel"
+    },
+    {
+     "label": "King Institute: The Measure of a Man",
+     "url": "https://kinginstitute.stanford.edu/measure-man"
+    },
+    {
+     "label": "King Institute: 'The Three Dimensions of a Complete Life,' Friendship Baptist Church, Pasadena, 1960",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/three-dimensions-complete-life-sermon-delivered-friendship-baptist-church"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    }
+   ],
+   "unverified_notes": "The King Papers manuscript and the vol. 6 introduction give the title as 'The Dimensions of a Complete Life'; the King Institute Autobiography timeline calls the trial sermon 'The Three Dimensions of a Complete Life'. Joseph T. Brooks's role at Dexter was not confirmed. A secondary claim that King preached it every year for the rest of his life was not confirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, occasion and Revelation 21:16 confirmed via the King Papers headnote and Autobiography; context corrected (Brooks not confirmed as a deacon, reception attributed to press coverage, earlier 1953 version added) and Strength to Love added to publication history."
+  },
+  {
+   "title": "Rediscovering Lost Values",
+   "type": "sermon",
+   "date_text": "28 February 1954",
+   "date_iso": "1954-02-28",
+   "place": "Second Baptist Church, Detroit, Michigan",
+   "occasion": "Guest sermon at the invitation of the Reverend A. A. Banks, Jr.",
+   "scripture": "Luke 2:41–52",
+   "published_in": "The Papers of Martin Luther King, Jr., vol. 2 (1994); A Knock at Midnight (1998)",
+   "summary": "King argues that modern society's material and scientific means have outrun the moral and spiritual ends they should serve. He takes the account of Mary and Joseph going back to Jerusalem to find the boy Jesus, and says that progress sometimes means going back to recover what was left behind. He names two values to recover: the belief that the universe rests on absolute moral laws, against relativistic and pragmatic ethics, and the practice of putting God, not possessions, at the centre of life.",
+   "context": "King preached at Detroit's Second Baptist Church during a Michigan visit that also included an address to the Lansing NAACP. At the time he had preached his Dexter trial sermon but had not yet accepted Dexter's call. The King Papers text is transcribed from a recording held by the church's historical committee.",
+   "key_line": "",
+   "primary_category": "reason-truth",
+   "categories": [
+    "reason-truth",
+    "money-work"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/rediscovering-lost-values-0",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'Rediscovering Lost Values' (document)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/rediscovering-lost-values-0"
+    },
+    {
+     "label": "King Institute: King preaches 'Rediscovering Lost Values' at Detroit's Second Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-preaches-rediscovering-lost-values-detroits-second-baptist-church"
+    },
+    {
+     "label": "King Institute: The Papers of Martin Luther King, Jr., Volume II (contents list 28 Feb 1954 sermon)",
+     "url": "https://kinginstitute.stanford.edu/publications/papers-martin-luther-king-jr-volume-ii-rediscovering-precious-values-july-1951-november"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, Banks invitation, Luke 2:41–52, recording source and publication in Papers vol. 2 (1994) and A Knock at Midnight confirmed via King Institute pages."
+  },
+  {
+   "title": "The Death of Evil upon the Seashore",
+   "type": "sermon",
+   "date_text": "17 May 1956",
+   "date_iso": "1956-05-17",
+   "place": "Cathedral of St. John the Divine, New York",
+   "occasion": "Service of Prayer and Thanksgiving, an ecumenical service marking the second anniversary of the Supreme Court's Brown v. Board of Education decision",
+   "scripture": "Exodus 14:30",
+   "published_in": "National Baptist Voice (June 1956); a Fellowship of Reconciliation pamphlet; The Papers of Martin Luther King, Jr., vol. 3 (1997); revised version in Strength to Love (1963)",
+   "summary": "King takes the Israelites seeing the Egyptians dead on the shore after crossing the Red Sea, and argues that evil, however persistent, is finally defeated because the moral order of the universe favours good. He compares the Exodus to the end of colonial rule in Asia and Africa and to Black Americans' struggle against segregation, and describes the Brown decision as opening a way through the sea. He urges his hearers to keep faith that God acts to overthrow oppression.",
+   "context": "According to the King Papers headnote, about twelve thousand people attended this ecumenical service at the Episcopal cathedral, and the cathedral's dean, James A. Pike, called it the greatest sermon he had ever heard. The King Institute chronology records that King had earlier preached it at Dexter (24 July 1955) and at Ebenezer (8 January 1956). He later revised it for Strength to Love.",
+   "key_line": "",
+   "primary_category": "providence",
+   "categories": [
+    "providence",
+    "justice-society"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/death-evil-upon-seashore-sermon-delivered-service-prayer-and-thanksgiving",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'The Death of Evil upon the Seashore,' Cathedral of St. John the Divine",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/death-evil-upon-seashore-sermon-delivered-service-prayer-and-thanksgiving"
+    },
+    {
+     "label": "King Institute: Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/king-encyclopedia/chronology"
+    },
+    {
+     "label": "King Institute: The Papers of Martin Luther King, Jr., Volume III (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/papers-martin-luther-king-jr-volume-iii-birth-new-age-december-1955-december-1956"
+    }
+   ],
+   "unverified_notes": "The King Papers headnote says King had preached the sermon at least twice before, 'including once at Dexter in 1954', while the King Institute chronology dates the Dexter delivery to 24 July 1955; the chronology dates are used here.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, occasion, attendance, Pike's remark, Exodus 14:30 and the June 1956 National Baptist Voice printing confirmed via the King Papers headnote; publication in Papers vol. 3 (1997) added and the 1954/1955 discrepancy on the earlier Dexter delivery noted."
+  },
+  {
+   "title": "Paul's Letter to American Christians",
+   "type": "sermon",
+   "date_text": "4 November 1956",
+   "date_iso": "1956-11-04",
+   "place": "Dexter Avenue Baptist Church, Montgomery, Alabama",
+   "occasion": "",
+   "scripture": "",
+   "published_in": "The Papers of Martin Luther King, Jr., vol. 3 (1997); revised version in Strength to Love (1963); A Knock at Midnight (1998)",
+   "summary": "King reads an imagined letter from the apostle Paul to Christians in mid-twentieth-century America. The letter praises the nation's scientific progress but says its moral and spiritual growth has lagged behind. It criticises the concentration of wealth under capitalism, denominational division, and segregation in church and society as contrary to the unity of believers. It urges Christians to obey God before human institutions and to resist injustice through love and without violence, and it ends by presenting love as the highest good.",
+   "context": "The King Papers headnote records that King had given the same sermon at the National Baptist Convention on 7 September 1956. He later published it in revised form in Strength to Love (1963).",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "church-unity",
+    "love"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/pauls-letter-american-christians-sermon-delivered-dexter-avenue-baptist-church",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'Paul's Letter to American Christians,' Sermon Delivered at Dexter Avenue Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/pauls-letter-american-christians-sermon-delivered-dexter-avenue-baptist-church"
+    },
+    {
+     "label": "King Institute: King delivers 'Paul's Letter to American Christians' at Dexter",
+     "url": "https://kinginstitute.stanford.edu/king-delivers-pauls-letter-american-christians-dexter"
+    },
+    {
+     "label": "King Institute: The Papers of Martin Luther King, Jr., Volume III (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/papers-martin-luther-king-jr-volume-iii-birth-new-age-december-1955-december-1956"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    }
+   ],
+   "unverified_notes": "The King Institute's A Knock at Midnight page dates the Dexter delivery to 11 November 1956; the King Papers document, the King Institute event page and the Papers vol. 3 contents all give 4 November 1956, which is used here. The sermon cites many passages rather than one text. A claim that King preached it at least fifteen times was not confirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue and the 7 September National Baptist Convention delivery confirmed via the King Papers headnote; Papers vol. 3 publication year (1997) added and summary wording aligned with the text."
+  },
+  {
+   "title": "The Birth of a New Nation",
+   "type": "sermon",
+   "date_text": "7 April 1957",
+   "date_iso": "1957-04-07",
+   "place": "Dexter Avenue Baptist Church, Montgomery, Alabama",
+   "occasion": "King's first sermon after returning from Ghana's independence celebrations",
+   "scripture": "",
+   "published_in": "The Papers of Martin Luther King, Jr., vol. 4 (2000)",
+   "summary": "King reads Ghana's independence through the Exodus story and argues that the desire for freedom in oppressed peoples eventually breaks out. After tracing the Gold Coast's history under European rule and Kwame Nkrumah's campaign, he draws three lessons. Oppressors do not give up power voluntarily, so freedom requires persistent pressure. Nonviolent struggle leaves room for reconciliation instead of bitterness. And freedom comes only through sacrifice. He applies these lessons to the Montgomery movement.",
+   "context": "On the invitation of Prime Minister Kwame Nkrumah, arranged through Bayard Rustin with help from Bill Sutherland, King and Coretta Scott King travelled to Ghana from 4 to 12 March 1957 and attended the independence ceremony at midnight on 6 March. The Montgomery Improvement Association and Dexter paid for the trip. The King Papers headnote notes that after returning he used several occasions to share his experiences, and that this was his first sermon after his return. The text is transcribed from a recording in the King Estate collection.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "suffering"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/birth-new-nation-sermon-delivered-dexter-avenue-baptist-church",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'The Birth of a New Nation,' Sermon Delivered at Dexter Avenue Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/birth-new-nation-sermon-delivered-dexter-avenue-baptist-church"
+    },
+    {
+     "label": "King Institute: Ghana Trip",
+     "url": "https://kinginstitute.stanford.edu/ghana-trip"
+    },
+    {
+     "label": "King Institute: The Papers of Martin Luther King, Jr., Volume IV (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/papers-martin-luther-king-jr-volume-iv-symbol-movement-january-1957-december-1958"
+    }
+   ],
+   "unverified_notes": "The sermon works from the Exodus narrative and cites several passages rather than one text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, first-sermon-after-return occasion and Ghana trip details confirmed via the King Papers headnote and Ghana Trip entry; placement in Papers vol. 4 (2000) now confirmed from the volume's contents page, replacing the scan-path inference."
+  },
+  {
+   "title": "Loving Your Enemies",
+   "type": "sermon",
+   "date_text": "17 November 1957",
+   "date_iso": "1957-11-17",
+   "place": "Dexter Avenue Baptist Church, Montgomery, Alabama",
+   "occasion": "",
+   "scripture": "Matthew 5:43–45",
+   "published_in": "The Papers of Martin Luther King, Jr., vol. 4 (2000); A Knock at Midnight (1998); Journal of Religious Thought 27 (Summer Supplement 1970): 31–41; a revised version in Strength to Love (1963)",
+   "summary": "King explains how and why to obey Jesus' command to love one's enemies. On how: examine yourself for anything that may have provoked the enmity, look for the good in your opponent, and do not defeat or humiliate the enemy when you have the chance. He distinguishes eros, philia and agape, and says the love commanded here is agape, a redemptive goodwill toward everyone. On why: hate multiplies hate, hate damages the one who hates, and love can redeem and change an opponent. He applies this to race relations and to the Cold War rivalry between nations, and argues for nonviolent resistance.",
+   "context": "The King Papers headnote records that a week earlier King had given a similar version at Andrew Rankin Memorial Chapel in Washington, D.C., at the close of Howard University School of Religion's forty-first annual convocation. In the sermon he says he tries to preach on this passage at least once a year. The King Institute identifies an outline tentatively dated 31 August 1952 as the earliest known version, and a revised text appeared in Strength to Love.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "love",
+    "justice-society"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/loving-your-enemies-sermon-delivered-dexter-avenue-baptist-church",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'Loving Your Enemies,' Sermon Delivered at Dexter Avenue Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/loving-your-enemies-sermon-delivered-dexter-avenue-baptist-church"
+    },
+    {
+     "label": "King Institute: 'Loving Your Enemies' 1952 outline (notes on later versions)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/loving-your-enemies"
+    },
+    {
+     "label": "King Institute: The Papers of Martin Luther King, Jr., Volume IV (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/papers-martin-luther-king-jr-volume-iv-symbol-movement-january-1957-december-1958"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Matthew 5:43–45, the Howard convocation delivery, the once-a-year remark, the Journal of Religious Thought citation and Papers vol. 4 placement confirmed via King Institute pages; chapel name corrected to Andrew Rankin Memorial Chapel and the unsupported statement about audio transcription replaced."
+  },
+  {
+   "title": "A Knock at Midnight",
+   "type": "sermon",
+   "date_text": "11 February 1962",
+   "date_iso": "1962-02-11",
+   "place": "West Hunter Baptist Church, Atlanta, Georgia",
+   "occasion": "Installation service of Ralph Abernathy as pastor of West Hunter Baptist Church",
+   "scripture": "Luke 11:5–6",
+   "published_in": "A revised version appeared as chapter VI of Strength to Love (1963)",
+   "summary": "King takes the parable of a man who knocks on a friend's door at midnight to ask for bread for a traveller. He describes the modern world as living at midnight in social, psychological and moral terms. People come to the church for the bread of faith, hope and love, he argues, and often leave empty-handed, because white churches accommodated segregation and some Black churches became either exclusive social clubs or centres of entertainment. He charges the congregation to keep bread ready, and ends with the conviction that daybreak follows midnight.",
+   "context": "According to the King Papers headnote, King had orchestrated a letter-writing campaign urging West Hunter's congregation to call Abernathy as pastor. A footnote says King based the sermon largely on D. T. Niles's homily 'Evangelism', which Niles later published as 'Summons at Midnight'. The King Papers also holds an outline tentatively dated 14 September 1958 (Chicago), written for the Youth Sunday services of the Woman's Convention Auxiliary of the National Baptist Convention. A revised version became chapter VI of Strength to Love.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "faith-doubt",
+    "justice-society"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/knock-midnight-sermon-delivered-installation-service-ralph-abernathy-west-0",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'A Knock at Midnight,' Installation Service of Ralph Abernathy at West Hunter Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/knock-midnight-sermon-delivered-installation-service-ralph-abernathy-west-0"
+    },
+    {
+     "label": "King Institute: 'A Knock at Midnight' outline, 14 September 1958",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/knock-midnight-0"
+    },
+    {
+     "label": "King Institute: Draft of Chapter VI, 'A Knock at Midnight' (Strength to Love)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-vi-knock-midnight"
+    }
+   ],
+   "unverified_notes": "It was not confirmed whether the 11 February 1962 text is printed in a Papers volume. The year of Niles's original homily was not confirmed on the fetched page. King preached this sermon on several occasions; this entry describes the 1962 text.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, occasion, Luke 11:5–6 and the Niles source confirmed via the King Papers headnote; the 1958 outline is no longer called the earliest known version (the page does not say so), the 1954 Niles date was removed as unconfirmed, and the Strength to Love chapter number (VI) was added."
+  },
+  {
+   "title": "Levels of Love",
+   "type": "sermon",
+   "date_text": "16 September 1962",
+   "date_iso": "1962-09-16",
+   "place": "Ebenezer Baptist Church, Atlanta, Georgia",
+   "occasion": "Part of a sermon series on love at Ebenezer",
+   "scripture": "",
+   "published_in": "",
+   "summary": "King ranks kinds of love from lowest to highest. At the bottom is utilitarian love, which values people for their usefulness. Then come romantic love, a mother's love for a child, and friendship. He praises friendship, in which people stand side by side in a shared concern, but notes that it is limited because we love the people we like, so it cannot reach people one dislikes. Next is humanitarian love for humanity in general, which he calls impersonal. Above them he places agape, a love that seeks nothing in return and extends to everyone, enemies included, and he urges the congregation to rise to it.",
+   "context": "According to the King Papers headnote, this sermon was part of a series on love that included earlier sermons on 'Loving Your Enemies' and 'Love in Action', and a footnote says the same topic had been King's announced sermon subject for 14 August 1960. He refers to a conversation with a white man who said the civil rights movement had cooled his affection for Black people. The text comes from a recording in the King Estate collection.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "friendship",
+    "hatred-enemies"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/levels-love-sermon-delivered-ebenezer-baptist-church",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'Levels of Love,' Sermon Delivered at Ebenezer Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/levels-love-sermon-delivered-ebenezer-baptist-church"
+    },
+    {
+     "label": "King Institute: 'Love in Action' I (headnote linking to Levels of Love)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/love-action-i"
+    }
+   ],
+   "unverified_notes": "Placement in a printed Papers volume (vol. 6 was suggested) was not confirmed, so published_in is blank; the text is available as a King Papers online document. There is no single stated text; the sermon cites Matthew 5:44, Luke 23:34, 1 John 4:7–8 and 1 Corinthians 13:1–3. The transcription places the man King quotes in Albany, Georgia.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, series context and the order of the levels of love confirmed via the King Papers document; the 14 August 1960 item corrected to an announced sermon topic, and the unconfirmed Papers vol. 6 placement removed."
+  },
+  {
+   "title": "Love in Action",
+   "type": "sermon",
+   "date_text": "1963",
+   "date_iso": "1963",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 23:34",
+   "published_in": "Strength to Love (Harper & Row, 1963), chapter IV",
+   "summary": "Starting from Jesus' prayer on the cross asking forgiveness for those crucifying him, King draws two lessons. First, Jesus practised the forgiveness and love of enemies he had taught, closing the gap between word and deed found in most human lives. Second, the crucifiers acted out of blindness, not conscious malice. King argues that sincere ignorance has driven many injustices, including slavery, segregation and war, and that Christians are obliged to be intelligent as well as sincere.",
+   "context": "The King Papers records that, according to a 3 April 1960 Ebenezer program, King preached a sermon called 'Love in Action' that day, and it holds his outline. He revised the material between July 1962 and March 1963 as chapter IV of Strength to Love, which Harper & Row published in 1963.",
+   "key_line": "",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "christ-cross",
+    "justice-society"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-iv-love-action",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: Draft of Chapter IV, 'Love in Action'",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-iv-love-action"
+    },
+    {
+     "label": "King Institute: 'Love in Action' I (1960 outline and Ebenezer program)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/love-action-i"
+    },
+    {
+     "label": "King Institute: Editorial Note, Strength to Love Drafts",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/editorial-note-strength-love-drafts"
+    }
+   ],
+   "unverified_notes": "This entry describes the published 1963 text; no text of the 1960 oral sermon was examined. The read_url is the King Papers transcription of King's draft, not the final printed chapter. Page numbers in Strength to Love were not confirmed.",
+   "verification_status": "corrected",
+   "verification_note": "Chapter IV, the July 1962–March 1963 drafting period and Luke 23:34 confirmed via the King Papers draft and outline pages; unconfirmed page numbers (pp. 25–33) removed and the 1960 delivery tied to the Ebenezer program the King Papers cites."
+  },
+  {
+   "title": "Antidotes for Fear",
+   "type": "sermon",
+   "date_text": "1963",
+   "date_iso": "1963",
+   "place": "",
+   "occasion": "",
+   "scripture": "1 John 4:18; 2 Timothy 1:7",
+   "published_in": "Strength to Love (Harper & Row, 1963), chapter XIV",
+   "summary": "King treats abnormal, paralysing fear as the problem and offers four remedies. The first is facing fears honestly, since many turn out to be imaginary. The second is courage, the self-affirmation that acts in spite of danger. The third is love: he argues that fear, more than hatred, drives war, and that arms races feed fear instead of ending it. The fourth is faith that one lives under God's care, a faith that holds even in the face of death.",
+   "context": "The King Institute records that King preached 'The Mastery of Fear' at Dexter on 21 July 1957. His draft for Strength to Love, written between July 1962 and March 1963, is titled 'The Mastery of Fear or Antidotes for Fear', and it became chapter XIV of that book.",
+   "key_line": "",
+   "primary_category": "fear-courage",
+   "categories": [
+    "fear-courage",
+    "love",
+    "faith-doubt"
+   ],
+   "read_url": "https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-xiv-mastery-fear-or-antidotes-fear",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: Draft of Chapter XIV, 'The Mastery of Fear or Antidotes for Fear'",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-xiv-mastery-fear-or-antidotes-fear"
+    },
+    {
+     "label": "King Institute: King speaks on 'The Mastery of Fear' at Dexter, 21 July 1957",
+     "url": "https://kinginstitute.stanford.edu/king-speaks-mastery-fear-dexter-delivers-going-forward-going-backward-montgomerys-first-baptist"
+    },
+    {
+     "label": "King Institute: Strength to Love",
+     "url": "https://kinginstitute.stanford.edu/strength-love"
+    }
+   ],
+   "unverified_notes": "The text of the 21 July 1957 Dexter sermon was not examined, so the summary follows the King Papers transcription of the Strength to Love draft. The final printed chapter title was confirmed only through the draft's title.",
+   "verification_status": "corrected",
+   "verification_note": "Draft dates, the 21 July 1957 Dexter sermon and the four antidotes confirmed via King Institute pages; scripture expanded to both epigraphs (1 John 4:18 and 2 Timothy 1:7) and chapter number XIV added."
+  },
+  {
+   "title": "Eulogy for the Martyred Children",
+   "type": "sermon",
+   "date_text": "18 September 1963",
+   "date_iso": "1963-09-18",
+   "place": "Sixth Avenue Baptist Church, Birmingham, Alabama",
+   "occasion": "Joint funeral of Addie Mae Collins, Denise McNair and Cynthia Wesley, killed in the bombing of the Sixteenth Street Baptist Church",
+   "scripture": "",
+   "published_in": "",
+   "summary": "King calls the three girls martyrs of a holy crusade for freedom and human dignity. He says their deaths carry a message to ministers who stayed silent, to politicians who fed racial hatred, and to Black citizens who had passively accepted segregation, and he calls for opposition to the system and outlook that produced the murderers. He consoles the families by saying that unmerited suffering is redemptive and that the girls did not die in vain, and he describes death not as the end of life but as a comma that gives it greater meaning.",
+   "context": "On 15 September 1963, Ku Klux Klan members bombed Birmingham's Sixteenth Street Baptist Church and killed four girls. The King Institute records that King delivered the eulogy at the joint funeral of three of them on 18 September. The parents of the fourth girl, Carole Robertson, held a separate service.",
+   "key_line": "",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "suffering",
+    "justice-society"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: Birmingham Campaign (eulogy at 18 September joint funeral)",
+     "url": "https://kinginstitute.stanford.edu/birmingham-campaign"
+    },
+    {
+     "label": "Penn State, The Rhetoric of the Civil Rights Movement: King's 'Eulogy for the Martyred Children' (venue, victims, content)",
+     "url": "https://sites.psu.edu/civilrightsrhetoric/kings-rhetoric-of-holiness-in-his-eulogy-for-the-martyred-children/"
+    },
+    {
+     "label": "What So Proudly We Hail: Eulogy for the Martyred Children (context note)",
+     "url": "https://www.whatsoproudlywehail.org/curriculum/the-american-calendar/eulogy-for-the-martyred-children/"
+    }
+   ],
+   "unverified_notes": "The venue (Sixth Avenue Baptist Church) is confirmed by the Penn State source, not by a King Institute page. The summary's detail that politicians fed racial hatred follows the Penn State description, which says the girls' deaths had messages for politicians. Where the text was first published was not confirmed, and no official online full text was found. It is classed as a sermon because it was a funeral eulogy King gave as a minister.",
+   "verification_status": "corrected",
+   "verification_note": "Date, the three victims, the Klan bombing and the joint funeral confirmed via the King Institute and two independent sources; summary corrected to include the message to politicians and King's image of death as a comma, and an unrechecked note about a 22 September timeline date removed."
+  },
+  {
+   "title": "Why Jesus Called a Man a Fool",
+   "type": "sermon",
+   "date_text": "27 August 1967",
+   "date_iso": "1967-08-27",
+   "place": "Mount Pisgah Missionary Baptist Church, Chicago, Illinois",
+   "occasion": "",
+   "scripture": "Luke 12:13–21",
+   "published_in": "A Knock at Midnight (1998)",
+   "summary": "From the parable of the rich man who planned bigger barns, King argues that Jesus called the man a fool not for being rich, but for three reasons: he let the means by which he lived outweigh the ends for which he lived, he forgot that he depended on other people, and he forgot that he depended on God. The sermon also addresses poverty and the economic conditions facing Black Americans.",
+   "context": "The OKRA database holds a 24-minute recording of this sermon. King had preached earlier versions under the title 'The Man Who Was a Fool', including one at Chicago's Sunday Evening Club on 2 January 1961 and one at the Detroit Council of Churches' noon Lenten services at Central Methodist Church on 6 March 1961; the Detroit version appeared in The Pulpit (June 1961), and a revised version was included in Strength to Love. The 1967 Chicago sermon is included in A Knock at Midnight (1998).",
+   "key_line": "",
+   "primary_category": "money-work",
+   "categories": [
+    "money-work",
+    "pride-humility",
+    "providence"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "OKRA (Stanford): 'Why Jesus Called a Man a Fool,' Mount Pisgah Missionary Baptist Church, 27 Aug 1967 (recording)",
+     "url": "https://okra.stanford.edu/link/document670827-000"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    },
+    {
+     "label": "King Institute: 'The Man Who Was a Fool,' Detroit Council of Churches' Noon Lenten Services (1961)",
+     "url": "https://kinginstitute.stanford.edu/king-papers/documents/man-who-was-fool-sermon-delivered-detroit-council-churches-noon-lenten"
+    }
+   ],
+   "unverified_notes": "No official online full text of the 1967 sermon was found, so read_url is blank. The three reasons are confirmed from the 1961 King Papers version of the same sermon and the OKRA description; the researcher's further details (an opening remark that King came as a preacher rather than to give a civil rights address, and a closing account of a night at his kitchen table during the Montgomery bus boycott) could not be checked against a fetched text and were removed from the summary.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Luke 12:13–21 and the recording confirmed via OKRA, and A Knock at Midnight inclusion via the King Institute; 'since at least 1960' corrected to the documented January 1961 Chicago version, 'first printed' removed, and unverifiable summary details dropped."
+  },
+  {
+   "title": "The Drum Major Instinct",
+   "type": "sermon",
+   "date_text": "4 February 1968",
+   "date_iso": "1968-02-04",
+   "place": "Ebenezer Baptist Church, Atlanta, Georgia",
+   "occasion": "",
+   "scripture": "Mark 10:35–44",
+   "published_in": "A Knock at Midnight (1998)",
+   "summary": "From the request of James and John for the seats of honour beside Jesus, King describes a universal 'drum major instinct', the desire to be out front and to be important. He argues that when it goes unchecked it produces snobbish exclusiveness and race prejudice. Jesus, he says, did not condemn the desire but reordered it, teaching that greatness comes through service. King ends by describing what he would want said at his own funeral: not his honours, but that he tried to give his life serving others.",
+   "context": "The King Institute notes that the sermon adapts the 1952 homily 'Drum-Major Instincts' by the Methodist preacher J. Wallace Hamilton. King preached it two months before his assassination, and excerpts were played at his nationally televised funeral service at Ebenezer on 9 April 1968.",
+   "key_line": "",
+   "primary_category": "pride-humility",
+   "categories": [
+    "pride-humility",
+    "justice-society",
+    "death"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'Drum Major Instinct' (encyclopedia entry)",
+     "url": "https://kinginstitute.stanford.edu/drum-major-instinct"
+    },
+    {
+     "label": "OKRA (Stanford): 'The Drum Major Instinct,' Ebenezer Baptist Church, 4 Feb 1968 (recording)",
+     "url": "https://okra.stanford.edu/link/document680204-000"
+    },
+    {
+     "label": "King Institute: A Knock at Midnight (contents)",
+     "url": "https://kinginstitute.stanford.edu/publications/knock-midnight"
+    }
+   ],
+   "unverified_notes": "No official online full text was found, so read_url is blank. OKRA gives the texts as Mark 10:35–44 and Matthew 25:35–36; other summaries give Mark 10:35–45.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Hamilton source and funeral use confirmed via the King Institute encyclopedia and OKRA; the unconfirmed claim that the sermon links the instinct to rivalry between nations was removed from the summary."
+  },
+  {
+   "title": "Remaining Awake Through a Great Revolution",
+   "type": "sermon",
+   "date_text": "31 March 1968",
+   "date_iso": "1968-03-31",
+   "place": "Washington National Cathedral, Washington, D.C.",
+   "occasion": "Sunday service at the invitation of Dean Francis B. Sayre Jr., ahead of the Poor People's Campaign",
+   "scripture": "",
+   "published_in": "Congressional Record 114 (9 April 1968): 9395–9397; A Knock at Midnight (1998)",
+   "summary": "Using the story of Rip Van Winkle, who slept through the American Revolution, King warns his hearers against sleeping through the revolution of their own time, which he describes as technological, military and a revolution in human rights. He calls on churches and moderates to act against racism and poverty instead of waiting for time to solve them, and he presents the planned Poor People's Campaign as a nonviolent effort. He also condemns the war in Vietnam and warns that in a nuclear age the choice is between nonviolence and nonexistence.",
+   "context": "The King Institute describes this as King's last Sunday sermon; he preached it four days before his assassination. Washington National Cathedral records that Dean Francis B. Sayre Jr. invited him, saying King would hold up the poor of America to the conscience of Christians, and that some people objected to the invitation because of King's position on the Vietnam War. The text was printed in the Congressional Record on 9 April 1968.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "church-unity"
+   ],
+   "read_url": "",
+   "listen_url": "https://soundcloud.com/wncathedral/martin-luther-kings-final-sermon-at-washington-national-cathedral",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "OKRA (Stanford): 'Remaining Awake Through a Great Revolution,' National Cathedral, 31 Mar 1968 (recording)",
+     "url": "https://okra.stanford.edu/link/document680331-000"
+    },
+    {
+     "label": "OKRA (Stanford): published text, Congressional Record 114 (9 April 1968): 9395–9397",
+     "url": "https://okra.stanford.edu/link/document680409-015"
+    },
+    {
+     "label": "King Institute: Vietnam War (calls it King's last Sunday sermon)",
+     "url": "https://kinginstitute.stanford.edu/vietnam-war"
+    },
+    {
+     "label": "Washington National Cathedral: Today in Cathedral History: MLK's Final Sunday Sermon",
+     "url": "https://cathedral.org/blog/today-in-cathedral-history-mlks-final-sunday-sermon/"
+    }
+   ],
+   "unverified_notes": "No single scripture text was confirmed; OKRA lists references including Luke 16:19–31, Matthew 25:42–46, Revelation 21:4 and Job 38:7. The audio link is the one given on Washington National Cathedral's own blog (its SoundCloud account); the SoundCloud page itself could not be rendered by the fetch tool, and whether the King estate licensed the audio was not confirmed. The summary was checked against a reproduction of the text that is not linked here. Crowd-size estimates are left out.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Sayre invitation, last-Sunday-sermon status and Congressional Record citation confirmed via OKRA, the King Institute and the cathedral; the unsupported 'ease tensions' motive and the uncited Washingtonian claim were replaced with what the cathedral page states."
+  },
+  {
+   "title": "I've Been to the Mountaintop",
+   "type": "address",
+   "date_text": "3 April 1968",
+   "date_iso": "1968-04-03",
+   "place": "Bishop Charles Mason Temple, Memphis, Tennessee",
+   "occasion": "Mass meeting in support of the Memphis sanitation workers' strike",
+   "scripture": "",
+   "published_in": "A Call to Conscience, ed. Clayborne Carson and Kris Shepard (2001)",
+   "summary": "King imagines surveying the great periods of history, from Egypt and Rome to the Renaissance and the Civil War, and choosing to live in the second half of the twentieth century. He links the Memphis struggle to that moment and urges support for the striking sanitation workers. He recalls surviving a 1958 stabbing and lists the events of the movement he would have missed had he died, including the sit-ins, the Freedom Rides, the Albany Movement, the March on Washington and Selma. He closes by saying he wants only to do God's will, that he fears no man, and that he has seen the promised land his people will reach even if he does not reach it with them.",
+   "context": "The King Institute records that a 28 March march in Memphis had ended in violence and that King returned to restore nonviolence to the movement. Suffering from a sore throat and slight fever, he asked Ralph Abernathy to speak in his place, but Abernathy persuaded him to come to the meeting. King was fatally shot at the Lorraine Motel the next day.",
+   "key_line": "",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "fear-courage",
+    "death"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "King Institute: 'I've Been to the Mountaintop'",
+     "url": "https://kinginstitute.stanford.edu/ive-been-mountaintop"
+    },
+    {
+     "label": "King Institute: Assassination of Martin Luther King, Jr.",
+     "url": "https://kinginstitute.stanford.edu/assassination-martin-luther-king-jr"
+    }
+   ],
+   "unverified_notes": "No official online full text or authorized audio page was found.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, occasion, Abernathy episode and A Call to Conscience citation confirmed via the King Institute; the unsupported claim that King spoke without a manuscript was removed and Selma added to the events listed."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: co-pastorate corrected to 'accepted Ebenezer's call in November 1959, serving from 1960' (King Institute Ebenezer and Introduction pages); Dexter wording changed to 'accepted the pastorate in 1954'; boycott start dated December 1955; Lorraine Motel added.",
+  "Profile corpus_note: sermon file described as found when the Papers Project examined papers at the King home in 1997; 'seventeen sermons' changed to 'seventeen chapters' attributed to the King Papers editorial note; volume 6 described as devoted to preaching and religious writings; OKRA partner institutions added.",
+  "Profile sources: added Strength to Love editorial note and Assassination entry.",
+  "Dimensions of a Complete Life: 'a deacon advised' changed to Joseph T. Brooks (role unconfirmed); 'congregation received him favourably' changed to local press report of a large and appreciative audience; added 6 Sept 1953 Ebenezer version; replaced unconfirmed-from-headnote 1967 claim with A Knock at Midnight attribution; published_in adds Strength to Love; summary sentence on materialism removed as unconfirmed.",
+  "Death of Evil upon the Seashore: published_in adds FOR pamphlet and Papers vol. 3 (1997); June 1956 National Baptist Voice now confirmed from headnote; unverified_notes records 1954 vs 1955 discrepancy for the earlier Dexter delivery; 'twelve thousand' softened to 'about'.",
+  "Paul's Letter to American Christians: published_in gives Papers vol. 3 year (1997); 'religious arrogance' removed from summary; ending reworded to 'love as the highest good'; Papers vol. 3 contents added as source.",
+  "Birth of a New Nation: Papers vol. 4 (2000) placement confirmed from contents page (scan-path inference note removed); occasion reworded to 'first sermon after returning'; 'warns against complacency' removed from summary; recording source added to context.",
+  "Loving Your Enemies: chapel corrected to Andrew Rankin Memorial Chapel, forty-first annual convocation; 1952 outline date given as tentatively 31 August 1952; audio-transcription statement removed; summary now specifies Cold War rivalry; A Knock at Midnight and Papers vol. 4 contents added.",
+  "A Knock at Midnight: removed claim that the 1958 outline is the earliest known version and the unconfirmed 1954 Niles date; 'substantially' changed to 'largely' per the footnote; Strength to Love chapter VI specified; 'entertainment' wording aligned.",
+  "Levels of Love: published_in cleared (Papers vol. 6 placement unconfirmed); 14 August 1960 corrected to 'announced sermon topic'; summary adjusted (mother's love, friendship limit, humanitarian love impersonal; utilitarian-segregation link removed); location of quoted man noted as Albany, Georgia per transcription.",
+  "Love in Action: removed unconfirmed page numbers pp. 25–33; chapter IV added; 1960 delivery tied to the 3 April 1960 Ebenezer program cited by King Papers.",
+  "Antidotes for Fear: scripture changed from '1 John 4:18' to '1 John 4:18; 2 Timothy 1:7' (both draft epigraphs); chapter XIV added; summary's love and faith points aligned to draft (arms races; God's care).",
+  "Eulogy for the Martyred Children: summary adds message to politicians and replaces 'close of one act' with the comma image; note about a 22 September timeline date removed as not rechecked; venue attribution to Penn State source noted.",
+  "Why Jesus Called a Man a Fool: 'since at least 1960' corrected to documented versions of 2 Jan 1961 (Chicago Sunday Evening Club) and 6 Mar 1961 (Detroit); 'first printed' in A Knock at Midnight changed to 'included'; unverifiable opening-remark and kitchen-table details removed from summary; recording length added.",
+  "The Drum Major Instinct: removed unconfirmed 'rivalry between nations' from summary; 'redirected' changed to 'reordered'; Matthew 25:35–36 noted as additional OKRA reference.",
+  "Remaining Awake Through a Great Revolution: context rewritten to the cathedral's stated reason for the invitation and objections over Vietnam; removed unsupported 'ease tensions' motive and uncited Washingtonian claim; summary adds triple revolution and nonviolence-or-nonexistence point; listen_url confirmed as the link on the cathedral's own page.",
+  "I've Been to the Mountaintop: removed unsupported 'speaking without a manuscript'; added historical periods and Selma; closing reworded to God's will and fearing no man; illness specified as sore throat and slight fever; Lorraine Motel added."
+ ]
+}

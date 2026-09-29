@@ -1,0 +1,95 @@
+{
+ "rows": [
+  {
+   "id": "luther-a-sermon-on-how-to-contemplate-christ-s-holy-sufferings-ein-",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No verified free recording found: LibriVox has no reading of this 1519 sermon; the similar-sounding 'How to Meditate upon and Apply the Death and Sacrifice of Christ' in Select Works Vol 1 turned out to be a Galatians 1:4 extract; and Pastor Wolfmueller's podcast episode 'Introduction to the Meditation on the Passion of Christ' does not name this sermon."
+  },
+  {
+   "id": "luther-a-treatise-concerning-the-blessed-sacrament-of-the-holy-and-",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Searches of the LibriVox catalogue and API, Internet Archive audio and the web turned up text editions only (Gutenberg, Works of Martin Luther Vol. II), with no human-read recording of this 1519 sermon."
+  },
+  {
+   "id": "luther-christmas-day-luke-2-114-the-story-of-the-birth-of-jesus-and",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "The only free readings of Luther on Luke 2 found are Pastor Wolfmueller's House Postil Christmas sermons, which are not this 1521 Church Postil sermon, and a LibriVox track of the Bible text 'Lukas 2, Vers 1-14', which is not a sermon."
+  },
+  {
+   "id": "luther-the-eight-wittenberg-sermons-invocavit-sermons",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Only text versions (CTSFW PDF, godrules.net) and discussion podcasts (Issues, Etc., 1517) turned up; no LibriVox, Internet Archive or ministry reading of the eight Invocavit sermons was found."
+  },
+  {
+   "id": "luther-christian-revenge-epistle-for-the-third-sunday-after-epiphan",
+   "listen_url": "https://librivox.org/epistle-sermons-2-by-martin-luther/",
+   "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 4)",
+   "kind": "public-domain-reading",
+   "evidence": "The LibriVox page for Epistle Sermons, Volume 2 (Lenker translation) lists section 4, 'Third Sunday After Epiphany.—Christian Revenge. Romans 12, 16-21' (read by Brize C, 10:34), with play and MP3 download links."
+  },
+  {
+   "id": "luther-christian-love-and-the-command-to-love-epistle-for-the-fourt",
+   "listen_url": "https://librivox.org/epistle-sermons-2-by-martin-luther/",
+   "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 5)",
+   "kind": "public-domain-reading",
+   "evidence": "The LibriVox page for Epistle Sermons, Volume 2 lists section 5, 'Fourth Sunday After Epiphany.—Christian Love and the Command to Love. Romans 13, 8-10' (read by Laurel Monroe, 54:10), with play and MP3 download links."
+  },
+  {
+   "id": "luther-the-glorious-adornment-of-christians-epistle-for-the-fifth-s",
+   "listen_url": "https://librivox.org/epistle-sermons-2-by-martin-luther/",
+   "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 6)",
+   "kind": "public-domain-reading",
+   "evidence": "The LibriVox page for Epistle Sermons, Volume 2 lists section 6, 'Fifth Sunday After Epiphany.—The Glorious Adornment of Christians. Colossians 3, 12-17' (read by Kazbek, 50:35), with play and MP3 download links."
+  },
+  {
+   "id": "luther-paul-s-praise-of-christian-love-epistle-for-the-sunday-befor",
+   "listen_url": "https://librivox.org/epistle-sermons-2-by-martin-luther/",
+   "listen_label": "LibriVox reading (Epistle Sermons Vol. 2, section 9)",
+   "kind": "public-domain-reading",
+   "evidence": "The LibriVox page for Epistle Sermons, Volume 2 lists section 9, 'Sunday Before Lent.—Paul's Praise of Christian Love. 1 Corinthians 13' (read by Charles Zwick Jr., 40:49), with play and MP3 download links."
+  },
+  {
+   "id": "luther-sermon-on-the-cross-and-suffering",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "The English text is the in-copyright Luther's Works vol. 51 translation, and no free rights-holder or ministry recording of this 1530 Coburg sermon turned up (LCMS and 1517 have articles only)."
+  },
+  {
+   "id": "luther-a-sermon-on-keeping-children-in-school",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "Only text editions (godrules.net, German History Intersections, archive.org scans) turned up; no LibriVox, Internet Archive or ministry audio of this 1530 sermon was found."
+  },
+  {
+   "id": "luther-commentary-on-the-sermon-on-the-mount-sermons-on-matthew-57",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "LibriVox's 'The Sermon on the Mount - Commentary' is Chrysostom's homilies, not Luther's; Hay's translation of Luther exists only as text (archive.org, Monergism), with no free human reading found."
+  },
+  {
+   "id": "luther-exhortation-to-brotherly-love-epistle-for-the-second-sunday-",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "LibriVox has recorded only Epistle Sermons Volume 2 (Epiphany to Pentecost), not Volume 3 (Trinity to Advent), which holds this sermon; Wolfmueller's Trinity 2 episode is the gospel sermon on Luke 14, not this epistle sermon on 1 John 3."
+  },
+  {
+   "id": "luther-the-fourth-sermon-at-eisleben-on-the-gospel-for-st-matthias-",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "The online texts found (Immanuel Lutheran, SermonCentral) reproduce the in-copyright Luther's Works vol. 51 translation as text only, and no free authorised recording of this last Eisleben sermon was found."
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "preacher": {
+  "id": "muller",
+  "name": "George Müller",
+  "lifespan": "1805–1898",
+  "tradition": "Brethren movement (Open Brethren)",
+  "role": "Bristol pastor, orphanage founder, itinerant evangelist",
+  "bio": "Müller was born at Kroppenstedt, Prussia, on 27 September 1805. By his own account he was converted in November 1825, and in 1832 he settled in Bristol, where he and Henry Craik led the congregations at Gideon and Bethesda chapels. He founded the Scriptural Knowledge Institution in 1834 and began taking in orphans in April 1836, later building the orphan houses on Ashley Down. A. T. Pierson quotes the Institution's report for the year ending 26 May 1898, which gives 10,024 orphans cared for since the work began. From 1875 to 1892 he made long preaching tours, which Pierson says covered 42 countries and more than 200,000 miles, and he died in Bristol on 10 March 1898.",
+  "corpus_note": "In the funeral sermon for his wife (1870), as transcribed on georgemuller.org, Müller says he had preached 'many thousands of times' and had never read a sermon. Most surviving texts are reports taken down by listeners. The preface to Jehovah Magnified says its addresses were taken down 'more or less' while he spoke, and the publisher's note in Sermons and Addresses says most of its sermons were 'specially reported' for the publisher. The main printed collections are Jehovah Magnified (preface dated November 1876; 34 items in its table of contents) and Sermons and Addresses (Bristol: W. F. Mack & Co., 1898). The Müllers charity and georgemuller.org host transcriptions, and georgemuller.org offers a 63-sermon collection as a download.",
+  "archive_links": [
+   {
+    "label": "GeorgeMuller.org – sermon transcriptions and 63-sermon collection",
+    "url": "https://www.georgemuller.org/sermons.html"
+   },
+   {
+    "label": "Jehovah Magnified (preface dated 1876) – undated scan on Internet Archive",
+    "url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john"
+   },
+   {
+    "label": "Sermons and Addresses (1898) – scan on Internet Archive",
+    "url": "https://archive.org/details/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis"
+   },
+   {
+    "label": "Müllers (George Müller Charitable Trust) – George Müller's sermons",
+    "url": "https://www.mullers.org/gmsermons"
+   }
+  ],
+  "sources": [
+   {
+    "label": "A. T. Pierson, George Müller of Bristol (1899), Project Gutenberg",
+    "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+   },
+   {
+    "label": "Autobiography of George Müller, comp. G. Fred. Bergin (1905), Internet Archive",
+    "url": "https://archive.org/details/autobiography-of-george-muller"
+   },
+   {
+    "label": "Müllers (George Müller Charitable Trust) – George Müller's sermons",
+    "url": "https://www.mullers.org/gmsermons"
+   },
+   {
+    "label": "GeorgeMuller.org – funeral sermon transcript with the 1870 remark about never reading a sermon",
+    "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/address_on_psalm_119_v_68__sermon_by_george_muller.pdf"
+   },
+   {
+    "label": "Wikipedia – George Müller",
+    "url": "https://en.wikipedia.org/wiki/George_M%C3%BCller"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Love One Another",
+   "type": "address",
+   "date_text": "October 1863",
+   "date_iso": "1863-10",
+   "place": "Clifton, Bristol",
+   "occasion": "Conference of Christians at Clifton (notes of two addresses)",
+   "scripture": "",
+   "published_in": "Jehovah Magnified: Addresses by George Müller (Bristol: Bible and Tract Depôt of the Scriptural Knowledge Institution, 1876), p. 28",
+   "summary": "Müller argues that Christ wants his disciples to love one another and that self-complacency, pride and thinking one knows more than others are the main obstacles. Truth should never be given up for the sake of union, he says, but believers are joined by their shared life in Christ, not by agreeing on every point, so the stronger must bear with the weaker. The second address bases this on salvation by grace and on the believer's final perfection in love.",
+   "context": "Jehovah Magnified prints these as notes of two addresses given at a Conference of Christians at Clifton in October 1863. In the first, Müller says he came only to show sympathy with the meeting and spoke because he was asked. As evidence that Christians who disagree can work together, he points to the sixty teachers and helpers in his three orphan houses and six schools, who came from several denominations.",
+   "key_line": "God is love; and he who loves most is most like God.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "church-unity",
+    "pride-humility"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/love_one_another__notes_of_two_addresses_by_george_muller.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Jehovah Magnified scan, heading on p. 28 (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n19.jpg"
+    },
+    {
+     "label": "Jehovah Magnified scan, pp. 38–39 with the closing sentence (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n24.jpg"
+    },
+    {
+     "label": "GeorgeMuller.org transcription",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/love_one_another__notes_of_two_addresses_by_george_muller.pdf"
+    }
+   ],
+   "unverified_notes": "The printed heading does not give the exact day(s) in October 1863 or the building in Clifton. The text is printed as notes, not a word-for-word transcript. The scanned copy of Jehovah Magnified has an undated title page; 1876 comes from the preface date.",
+   "verification_status": "verified",
+   "verification_note": "Heading (Conference of Christians at Clifton, October 1863), the sixty-helpers passage and the key line were checked against the Jehovah Magnified page scans (pp. 28–39)."
+  },
+  {
+   "title": "On the late Mr. Henry Craik",
+   "type": "address",
+   "date_text": "21 April 1866",
+   "date_iso": "1866-04-21",
+   "place": "Bristol (signed at 21 Paul Street, Kingsdown)",
+   "occasion": "Written introduction to a memorial volume for his co-pastor Henry Craik",
+   "scripture": "",
+   "published_in": "Introduction to Passages from the Diary and Letters of Henry Craik of Bristol, ed. W. Elfe Tayler (1866); reprinted in Jehovah Magnified (Bristol, 1876), pp. 10–19",
+   "summary": "Müller tells how he met Craik at Teignmouth in 1829 and describes their thirty-six-year friendship and shared ministry in Bristol. He says their partnership stayed unbroken because each refused to envy the other's gifts and success and because both meant to live for God rather than themselves. He then lists Craik's qualities, including affection, guilelessness, conscientiousness, humility, sympathy and prayerfulness, and describes his final illness.",
+   "context": "Henry Craik died on 22 January 1866 after a seven-month illness, according to Müller's own record, which calls him his 'intimate friend for thirty-six years'. Müller wrote this introduction for a volume of Craik's diary and letters edited by W. Elfe Tayler. He signed and dated it 21 April 1866, and it was later reprinted in Jehovah Magnified, which labels it an address printed as an introduction. It was written for print, not preached.",
+   "key_line": "There were few, if any, who more truly rejoiced in all the honour which the Lord condescended to put on me than my friend did.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "pride-humility",
+    "death"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/on_the_late_mr_henry_craik__address_by_george_muller.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Jehovah Magnified scan, pp. 18–19 with signature and date (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n14.jpg"
+    },
+    {
+     "label": "Autobiography of George Müller (1905), entry on Craik's death, 22 January 1866",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    },
+    {
+     "label": "Specs Fine Books listing of the 1866 Diary and Letters of Henry Craik (editor, publisher, Müller introduction)",
+     "url": "https://specsfinebooks.com/products/1866-george-muller-diary-and-letters-of-henry-craik-of-bristol-w-albumen-photograph"
+    },
+    {
+     "label": "Wikipedia – Henry Craik (evangelist)",
+     "url": "https://en.wikipedia.org/wiki/Henry_Craik_(evangelist)"
+    }
+   ],
+   "unverified_notes": "This is a written introduction, not an orally delivered sermon. A footnote in Jehovah Magnified names W. Mack of Bristol as publisher of the Craik volume, while a bookseller's listing gives J. F. Shaw & Co., London; the two were not reconciled.",
+   "verification_status": "verified",
+   "verification_note": "Signature and date (21 Paul Street, Kingsdown, 21 April 1866), the July 1829 meeting at Teignmouth, the list of Craik's qualities and the key line were checked on the Jehovah Magnified scan; Craik's death date was confirmed in Bergin's Autobiography."
+  },
+  {
+   "title": "Mrs. Müller's Funeral Sermon (“Thou art good, and doest good”)",
+   "type": "sermon",
+   "date_text": "1870",
+   "date_iso": "1870",
+   "place": "Bethesda Chapel, Great George Street, Bristol",
+   "occasion": "Funeral sermon for his wife, Mary Müller (née Groves)",
+   "scripture": "Psalm 119:68",
+   "published_in": "A Narrative of Some of the Lord's Dealings with George Müller, vol. III, pp. 575–594 (page reference per Pierson); reprinted with some parts omitted in G. Fred. Bergin (comp.), Autobiography of George Müller (1905)",
+   "summary": "Using Psalm 119:68, Müller argues that the Lord was good and did good in giving him his wife, in leaving her with him so long, and in taking her away. He tells how they met and married in 1830, gives advice on choosing a spouse through prayer, and describes her character and her work in the orphan houses. He ends by urging his hearers to trust Christ so that they may meet her again.",
+   "context": "Mary Müller died on 6 February 1870 and was buried on 11 February. Müller's own record says about 1,200 orphans followed the procession and that he preached this sermon once he had recovered from an illness that followed the funeral; Pierson gives the same account. A transcript on georgemuller.org says the sermon was first preached on a Sunday, when upwards of 800 people could not get in, and was repeated on the evening of Thursday 3 March 1870. In remarks before the repeat, Müller says he had never read a sermon before but had written this one out because it was full of dates and incidents.",
+   "key_line": "The depth of my love for her is rejoicing in her joy.",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "providence",
+    "suffering"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/address_on_psalm_119_v_68__sermon_by_george_muller.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Autobiography of George Müller (1905): death and burial of Mrs. Müller; 'Preaches Mrs. Müller's funeral sermon'",
+     "url": "https://archive.org/details/autobiography-of-george-muller"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), on her death, the funeral and the sermon text",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "GeorgeMuller.org transcript with note on the repeat delivery",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/address_on_psalm_119_v_68__sermon_by_george_muller.pdf"
+    },
+    {
+     "label": "Wholesome Words text (from Bergin's Autobiography)",
+     "url": "https://www.wholesomewords.org/biography/bmuller19.html"
+    }
+   ],
+   "unverified_notes": "Müller's own record does not date the first delivery. The georgemuller.org heading places it on the Sunday before Thursday 3 March 1870 (which would be 27 February 1870), but that heading does not name its original source, so no day is given here. The Narrative page reference comes from Pierson and was not checked against the Narrative itself. The sermon has no single standard published title.",
+   "verification_status": "corrected",
+   "verification_note": "Death (6 February 1870), burial (11 February), the 1,200 orphans, the Psalm 119:68 text and the key line were confirmed in Bergin's Autobiography, Pierson and the georgemuller.org transcript; the crowd figure was corrected from 'many hundreds' to the transcript's 'upwards of 800'."
+  },
+  {
+   "title": "Paul's Letter to Philemon",
+   "type": "sermon",
+   "date_text": "2 March 1873",
+   "date_iso": "1873-03-02",
+   "place": "Bethesda Chapel, Bristol",
+   "occasion": "Sunday evening exposition",
+   "scripture": "Philemon",
+   "published_in": "Jehovah Magnified (Bristol, 1876), p. 181",
+   "summary": "Müller works through Paul's letter asking Philemon to take back Onesimus, a runaway slave who had been converted through Paul in Rome. He highlights God's hand in bringing Onesimus to Paul, Paul's refusal to insist on his own rights, and the call to receive a converted wrongdoer as a brother. He urges believers to see Christ in one another and describes them as bound together for eternity. In one passage he claims that first-century slavery generally lacked the cruelties of modern slaveholding.",
+   "context": "Jehovah Magnified prints this as notes of an exposition given at Bethesda Chapel on Sunday evening, 2 March 1873. Near the end Müller speaks directly to 'you dear girls from the Orphan Houses', which shows that orphans were in the congregation.",
+   "key_line": "O beloved in Christ, let us aim after it to see Christ in one another.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "church-unity",
+    "providence"
+   ],
+   "read_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n96/mode/2up",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Jehovah Magnified scan, heading on p. 181 (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n96.jpg"
+    },
+    {
+     "label": "Jehovah Magnified scan, pp. 190–191 with the key line (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n101.jpg"
+    },
+    {
+     "label": "Jehovah Magnified full OCR text (Internet Archive)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/JehovahMagnified-ByGeorgeMuller_djvu.txt"
+    }
+   ],
+   "unverified_notes": "The text is printed as notes of the exposition, not a word-for-word transcript.",
+   "verification_status": "verified",
+   "verification_note": "Heading (Bethesda Chapel, Lord's-day evening, 2 March 1873), the slavery passage, the address to the orphan girls and the key line (p. 191) were checked on the Jehovah Magnified scan and OCR."
+  },
+  {
+   "title": "Account of a Preaching Tour",
+   "type": "address",
+   "date_text": "12 July 1875",
+   "date_iso": "1875-07-12",
+   "place": "Bethesda Chapel, Bristol",
+   "occasion": "Weekly Monday prayer meeting; report on his first preaching tour",
+   "scripture": "",
+   "published_in": "Jehovah Magnified (Bristol, 1876), p. 278",
+   "summary": "Müller explains why, after more than forty-two years of ministry almost entirely in Bristol, he began preaching elsewhere. He points to experiences at Brighton and the Isle of Wight and to a sense of duty to pass on what he had learned. He reports crowded meetings in Brighton, London, Sunderland and Newcastle, says he chose to follow up the evangelist Moody's work among young converts and to speak to ministers, and announces that he plans to travel again.",
+   "context": "Pierson dates the start of this first tour to March 1875 and says it ended on 5 June after seventy public addresses, including one at the Metropolitan Tabernacle at Spurgeon's request. Pierson reports that the tours went on until 1892, reaching 42 countries, and that Müller estimated he had addressed over three million people.",
+   "key_line": "I expected great things from God.",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "faith-doubt",
+    "providence"
+   ],
+   "read_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n145/mode/2up",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Jehovah Magnified scan, p. 278 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n145.jpg"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), chapter on the preaching tours",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ],
+   "unverified_notes": "Pierson's figure of seventy addresses and his 5 June end date were not checked against Müller's Narrative. In the address itself, Müller refers to a 'fifteen weeks' absence' from Bristol. The printed report is partly in the third person, and Müller's preface says the addresses about the preaching tours were printed without his involvement.",
+   "verification_status": "corrected",
+   "verification_note": "Date and venue (Monday 12 July 1875, weekly prayer meeting at Bethesda) and the key line were confirmed on the Jehovah Magnified scan and OCR, and Pierson's tour figures were confirmed; the secondary category holy-spirit was replaced with faith-doubt to match the content."
+  },
+  {
+   "title": "The Forgiving God",
+   "type": "sermon",
+   "date_text": "13 August 1876",
+   "date_iso": "1876-08-13",
+   "place": "The Tabernacle, Penn Street, Bristol",
+   "occasion": "Sunday morning service",
+   "scripture": "Psalm 103:3–5",
+   "published_in": "Jehovah Magnified (Bristol, 1876), p. 306",
+   "summary": "Expounding Psalm 103:3–5, Müller calls the forgiveness of sins the greatest of God's blessings. He says it is received by trusting Christ's atonement and that believers can know now that all their sins are forgiven. He separates the once-for-all forgiveness of salvation from the fatherly forgiveness God's children seek by confessing daily failures. He then covers spiritual healing, redemption and renewal, and urges regular reading of the whole Bible in order.",
+   "context": "Jehovah Magnified prints this as a sermon preached at the Tabernacle, Penn Street, Bristol, on Sunday morning, 13 August 1876. That places it between the end of Müller's second preaching tour, which Pierson says closed in July 1876, and a Continental tour, which Müller mentions in the book's preface of November 1876.",
+   "key_line": "For fifty years I have never had a single minute's doubt about the forgiveness of my sins.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "grace-salvation",
+    "holiness"
+   ],
+   "read_url": "https://archive.org/details/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n159/mode/2up",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Jehovah Magnified scan, p. 306 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/JehovahMagnified-ByGeorgeMuller-Dated1895-BroughtByPeter-john/page/n159.jpg"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), on the 1875–77 tours",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    }
+   ],
+   "unverified_notes": "The sources do not say why Müller preached at the Tabernacle, Penn Street, on this occasion.",
+   "verification_status": "verified",
+   "verification_note": "Heading (Tabernacle, Penn Street, Sunday morning 13 August 1876, Psalm 103:3–5), the key line and Pierson's July 1876 end of the second tour were confirmed on the page scan, the OCR and the Gutenberg text."
+  },
+  {
+   "title": "The Lord's Prayer",
+   "type": "sermon",
+   "date_text": "21 March 1897",
+   "date_iso": "1897-03-21",
+   "place": "Bethesda Chapel, Great George Street, Bristol",
+   "occasion": "Sunday evening service",
+   "scripture": "Matthew 6:5–15",
+   "published_in": "Sermons and Addresses by George Müller (Bristol: W. F. Mack & Co., 1898), p. 25",
+   "summary": "Müller stresses praying in secret and avoiding vain repetition, then explains each petition of the Lord's Prayer; he reads 'daily bread' as the necessities of life, supplied day by day. He teaches that holding an unforgiving spirit toward people who have wronged us blocks answers to prayer and robs us of the sense of our own forgiveness. He ends with the story of his conversion.",
+   "context": "Sermons and Addresses, published in 1898, the year Müller died, dates this sermon to Sunday evening, 21 March 1897 at Bethesda Chapel. In the sermon Müller tells of a soldier in the barracks at Magdeburg who went down into a dark sand-cellar to pray in private.",
+   "key_line": "If anyone has offended us, transgressed against us, behaved improperly towards us, are we ready to forgive?",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "forgiveness"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/muller_lords_prayer.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Sermons and Addresses (1898) scan, p. 25 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis/page/n15.jpg"
+    },
+    {
+     "label": "Sermons and Addresses (1898) title page and publisher's note (Internet Archive page image)",
+     "url": "https://archive.org/download/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis/page/n2.jpg"
+    },
+    {
+     "label": "GeorgeMuller.org transcription",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/muller_lords_prayer.pdf"
+    }
+   ],
+   "unverified_notes": "The publisher's note says most sermons in the volume were specially reported for the publisher, so the text is a report, not Müller's own manuscript.",
+   "verification_status": "corrected",
+   "verification_note": "Heading (Bethesda Chapel, Sunday evening 21 March 1897, Matthew 6:5–15), the sand-cellar story and the key line were confirmed on the scan and the transcript; the publisher was corrected from W. J. Mack & Co. to W. F. Mack & Co."
+  },
+  {
+   "title": "“Behold! What Manner of Love”",
+   "type": "sermon",
+   "date_text": "11 April 1897",
+   "date_iso": "1897-04-11",
+   "place": "Bethesda Chapel, Great George Street, Bristol",
+   "occasion": "Sunday evening service",
+   "scripture": "1 John 3:1–3",
+   "published_in": "Sermons and Addresses by George Müller (Bristol: W. F. Mack & Co., 1898), p. 263",
+   "summary": "Müller argues that God's love goes beyond forgiving sinners: through regeneration he makes believers his own children. He says this is true 'now', in the middle of weakness, pain and spiritual struggle, so they can take every trial to their Father. He describes the glorified body and complete likeness to Christ still to come, says this hope makes believers seek purity, and appeals to the unconverted.",
+   "context": "Sermons and Addresses (1898) dates this sermon to Sunday evening, 11 April 1897 at Bethesda Chapel, and Müller names that date within it. He also dates his own conversion to the beginning of November 1825.",
+   "key_line": "Not merely calls us so, but makes us His very own children.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "new-birth",
+    "heaven-hope"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/behold_-_what_manner_of_love__sermon_by_george_muller.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Sermons and Addresses (1898) scan, p. 263 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis/page/n134.jpg"
+    },
+    {
+     "label": "GeorgeMuller.org transcription",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/behold_-_what_manner_of_love__sermon_by_george_muller.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Heading (Bethesda Chapel, Sunday evening 11 April 1897, 1 John 3:1–3), the in-text date, the November 1825 conversion date and the key line were confirmed on the scan, OCR and transcript; the publisher was corrected from W. J. Mack & Co. to W. F. Mack & Co."
+  },
+  {
+   "title": "“Trust in the Lord”",
+   "type": "sermon",
+   "date_text": "30 May 1897",
+   "date_iso": "1897-05-30",
+   "place": "Bethesda Chapel, Great George Street, Bristol",
+   "occasion": "Sunday evening service",
+   "scripture": "Proverbs 3:5–17",
+   "published_in": "Sermons and Addresses by George Müller (Bristol: W. F. Mack & Co., 1898), p. 144",
+   "summary": "Working through Proverbs 3:5–17, Müller warns against guaranteeing other people's debts and against speculation, and urges bringing every step of business and life to God in prayer. He teaches that giving to the poor and to God's work brings blessing. He says affliction is a sign of the Father's love that should be neither despised nor resented, and that true wisdom is found by trusting Christ.",
+   "context": "Sermons and Addresses (1898) dates this sermon to Sunday evening, 30 May 1897 at Bethesda Chapel. Müller illustrates it with a friend's losses from speculating in tea around 'the first war with China' and with his own breakdown from overwork.",
+   "key_line": "Never begin anything without going to God about it in prayer!",
+   "primary_category": "providence",
+   "categories": [
+    "providence",
+    "money-work",
+    "suffering"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/muller_trust_in_the_lord.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Sermons and Addresses (1898) scan, p. 144 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis/page/n75.jpg"
+    },
+    {
+     "label": "GeorgeMuller.org transcription",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/muller_trust_in_the_lord.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Heading (Bethesda Chapel, Sunday evening 30 May 1897, Proverbs 3:5–17), the tea-speculation and overwork illustrations and the key line were confirmed on the scan, OCR and transcript; the publisher was corrected from W. J. Mack & Co. to W. F. Mack & Co."
+  },
+  {
+   "title": "The Resurrection of the Body",
+   "type": "sermon",
+   "date_text": "3 October 1897",
+   "date_iso": "1897-10-03",
+   "place": "Bethesda Chapel, Great George Street, Bristol",
+   "occasion": "Sunday evening service; identified by georgemuller.org as his last sermon at Bethesda Chapel",
+   "scripture": "2 Corinthians 5:1",
+   "published_in": "Sermons and Addresses by George Müller (Bristol: W. F. Mack & Co., 1898), p. 108",
+   "summary": "Expounding 2 Corinthians 5:1–10, Müller contrasts the present body, a weak 'tent-house', with the glorified body believers will receive when Christ returns, in which they will serve God forever without tiring. He calls the Holy Spirit the guarantee of this hope and says he prays to be allowed to stay longer and keep working. He ends with the judgment seat of Christ and an appeal to those not yet believers.",
+   "context": "The 1898 printed heading dates this sermon to 3 October 1897 at Bethesda Chapel. Pierson states that Müller's last sermon at Bethesda Chapel, after a ministry of sixty-six years, was on 2 Corinthians 5:1, and the georgemuller.org transcript heading calls this sermon his last at Bethesda. Müller died on 10 March 1898.",
+   "key_line": "There will be labouring in eternity.",
+   "primary_category": "heaven-hope",
+   "categories": [
+    "heaven-hope",
+    "death",
+    "judgment"
+   ],
+   "read_url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/the_resurrection_of_the_body__sermon_by_george_muller.pdf",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Sermons and Addresses (1898) scan, p. 108 heading (Internet Archive page image)",
+     "url": "https://archive.org/download/SermonsAndAddressesByGeorgeMullerDated1898BroughtByPeter-johnParisis/page/n57.jpg"
+    },
+    {
+     "label": "A. T. Pierson, George Müller of Bristol (1899), on his last sermon at Bethesda",
+     "url": "https://www.gutenberg.org/files/26522/26522-h/26522-h.htm"
+    },
+    {
+     "label": "GeorgeMuller.org transcription",
+     "url": "https://www.georgemuller.org/uploads/4/8/6/5/48652749/the_resurrection_of_the_body__sermon_by_george_muller.pdf"
+    }
+   ],
+   "unverified_notes": "The 1898 heading says only 'Delivered at Bethesda Chapel... October 3rd, 1897'. 'Sunday evening' and the label 'last sermon' come from the georgemuller.org transcript heading, not the 1898 print. Pierson gives the text but not the date, so the identification of this sermon as the last at Bethesda depends on the matching text. This was his last sermon at Bethesda, not his last anywhere: Pierson records that he spoke at Alma Road Chapel on 6 March 1898.",
+   "verification_status": "corrected",
+   "verification_note": "Heading (Bethesda Chapel, 3 October 1897, 2 Corinthians 5:1), Pierson's statement about the last Bethesda sermon, the Alma Road date and the key line were confirmed; the occasion was reattributed to the georgemuller.org heading because Pierson does not date the sermon, and the publisher was corrected to W. F. Mack & Co."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Sermons and Addresses publisher corrected from 'W. J. Mack & Co.' to 'W. F. Mack & Co.' (publisher's note, Bristol, June 1898, on the Internet Archive scan) for The Lord's Prayer, Behold! What Manner of Love, Trust in the Lord and The Resurrection of the Body.",
+  "Funeral sermon context: 'many hundreds could not get into the first delivery' corrected to the transcript's 'upwards of 800'. Pierson added as a second source for the death, funeral and sermon. Unverified notes now say the transcript implies a first delivery on the Sunday before 3 March 1870 without an original source, so no day is given.",
+  "Resurrection of the Body occasion changed from 'His last sermon at Bethesda Chapel (per Pierson)' to 'Sunday evening service; identified by georgemuller.org as his last sermon at Bethesda Chapel', because Pierson gives only the text, not the date. Context and unverified notes now say that 'Sunday evening' and 'last sermon' come from the transcript heading.",
+  "Account of a Preaching Tour: secondary category 'holy-spirit' replaced with 'faith-doubt', since the address is about expecting great things from God and not the Holy Spirit.",
+  "Lord's Prayer context: the Magdeburg anecdote now says 'a soldier in the barracks at Magdeburg' (the text does not call him Prussian). The awkward 'which dates it' wording was fixed. An unverified note says the text is a publisher's report.",
+  "Preacher bio: '10,024 orphans had been received there by 1898' reworded to say that Pierson quotes the report for the year ending 26 May 1898, giving 10,024 orphans since the work began (the figure includes the years before Ashley Down). The orphan start is now dated April 1836.",
+  "Preacher corpus_note: the 1870 'many thousands of times / never read a sermon' remark is now attributed to the georgemuller.org transcript of the funeral sermon. Added the Sermons and Addresses publisher's note that most sermons were 'specially reported' and the corrected publisher. Jehovah Magnified is now described as having a preface dated November 1876, since the scanned copy's title page is undated.",
+  "Archive link label for Jehovah Magnified changed to show that the scan is undated and the preface is dated 1876. Müllers sermons page added to archive_links. The georgemuller.org funeral-sermon transcript added as a preacher source.",
+  "Added page-image sources for the Love One Another key line (pp. 38–39), the Philemon key line (pp. 190–191) and the Sermons and Addresses title page, publisher's note and contents."
+ ]
+}

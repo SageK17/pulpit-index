@@ -1,0 +1,664 @@
+{
+ "preacher": {
+  "id": "lloyd-jones",
+  "name": "D. Martyn Lloyd-Jones",
+  "lifespan": "1899–1981",
+  "tradition": "Reformed evangelical: began his ministry at a Forward Movement (Calvinistic Methodist) church in Wales, then served Westminster Chapel, London, a church founded as Congregational that left the Congregational Union and joined the FIEC during his pastorate",
+  "role": "Minister of Westminster Chapel, London, 1939–1968",
+  "bio": "David Martyn Lloyd-Jones was born in Cardiff on 20 December 1899 and grew up in Llangeitho, Ceredigion. He trained in medicine at St Bartholomew's Hospital, London, and from 1921 was assistant to the royal physician Sir Thomas Horder. In 1927 he left medicine to become minister of the Bethlehem Forward Movement church, Sandfields, Aberavon (Port Talbot). In 1939 he became associate pastor of Westminster Chapel, London, alongside G. Campbell Morgan. He was sole pastor from Morgan's retirement in 1943 until he retired in 1968 because of illness, which Wikipedia describes as a major operation. He preached for the last time in June 1980 at Barcombe Baptist Chapel and died at his home in Ealing on 1 March 1981.",
+  "corpus_note": "The MLJ Trust says its free online archive holds over 1,600 sermons from his Westminster Chapel ministry (1939–1968). It also says his sermons were not recorded until 1953, so earlier series such as the Sermon on the Mount survive only in print. Many series were edited into books after he retired, including a 14-volume Romans, whose first volume appeared in 1970 according to the Trust. The set is now published by Banner of Truth.",
+  "archive_links": [
+   {
+    "label": "MLJ Trust – complete free sermon audio archive",
+    "url": "https://www.mljtrust.org/sermons/"
+   },
+   {
+    "label": "Sermons of Dr. Martyn Lloyd-Jones (MLJ Trust podcast)",
+    "url": "https://podcasts.apple.com/us/podcast/sermons-of-dr-martyn-lloyd-jones/id888740556"
+   },
+   {
+    "label": "Banner of Truth – author page and published works",
+    "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "MLJ Trust – Meet Dr. Martyn Lloyd-Jones",
+    "url": "https://www.mljtrust.org/meet-mlj/"
+   },
+   {
+    "label": "Banner of Truth – D. Martyn Lloyd-Jones author biography",
+    "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+   },
+   {
+    "label": "MLJ Trust – sermon collection overview",
+    "url": "https://www.mljtrust.org/sermons/"
+   },
+   {
+    "label": "MLJ Trust blog – Sermon on the Mount series (recording began 1953)",
+    "url": "https://www.mljtrust.org/blog/sermon-on-the-mount-lloyd-jones/"
+   },
+   {
+    "label": "Wikipedia – Martyn Lloyd-Jones",
+    "url": "https://en.wikipedia.org/wiki/Martyn_Lloyd-Jones"
+   },
+   {
+    "label": "Wikipedia – Westminster Chapel",
+    "url": "https://en.wikipedia.org/wiki/Westminster_Chapel"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Studies in the Sermon on the Mount",
+   "type": "sermon-series",
+   "date_text": "1950–1951",
+   "date_iso": "1950",
+   "place": "Westminster Chapel, London",
+   "occasion": "",
+   "scripture": "Matthew 5–7",
+   "published_in": "Studies in the Sermon on the Mount, 2 vols. (London: Inter-Varsity Fellowship, 1959–1960)",
+   "summary": "This is an exposition of Christ's Sermon on the Mount (Matthew 5–7), published as sixty studies that go through the passage in order. Lloyd-Jones explains each section and applies it to Christian life and conduct. Because it covers the whole sermon, it includes Christ's teaching on not taking revenge and on loving one's enemies (Matthew 5:38–48).",
+   "context": "According to the MLJ Trust, Lloyd-Jones preached through Matthew 5–7 at Westminster Chapel in 1950–51. His sermons were not recorded until 1953, so no audio of this series survives. Transcripts of the sermons became his first published book (1959–60). Citing Iain Murray, the Trust says publishers had lost interest in printed sermons at the time, and that Lloyd-Jones remarked the book brought him more letters from the United States than anything else he wrote.",
+   "key_line": "",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "hatred-enemies"
+   ],
+   "read_url": "https://www.eerdmans.com/9780802800367/studies-in-the-sermon-on-the-mount/",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust blog – A Spiritual Classic: MLJ's Sermon on the Mount Series",
+     "url": "https://www.mljtrust.org/blog/sermon-on-the-mount-lloyd-jones/"
+    },
+    {
+     "label": "Open Library – Studies in the Sermon on the Mount, vol. 2 (Inter Varsity Fellowship, 1960)",
+     "url": "https://openlibrary.org/books/OL46885693M"
+    },
+    {
+     "label": "Logos – Studies in the Sermon on the Mount (sixty studies)",
+     "url": "https://www.logos.com/product/186456/studies-in-the-sermon-on-the-mount"
+    },
+    {
+     "label": "Eerdmans – Studies in the Sermon on the Mount",
+     "url": "https://www.eerdmans.com/9780802800367/studies-in-the-sermon-on-the-mount/"
+    }
+   ],
+   "unverified_notes": "The dates of individual sermons, and whether they were preached at morning or evening services, are not documented. The 1959 first-edition date of vol. 1 rests on the MLJ Trust's 'first published in 1959-60'. The catalogue record confirms only vol. 2 (IVF, 1960); a catalogue search shows an IVF vol. 1 dated 1962, which may be a reprint. No publisher page showing a table of contents was found, so the mention of Matthew 5:38–48 rests on the series covering all of Matthew 5–7.",
+   "verification_status": "corrected",
+   "verification_note": "Years (1950–51), venue, the 1953 start of recording, the 1959–60 first publication and the sixty studies were confirmed via the MLJ Trust and Logos; the access-restricted Internet Archive scan link was replaced with the Open Library catalogue record."
+  },
+  {
+   "title": "Spiritual Depression: Its Causes and Cure",
+   "type": "sermon-series",
+   "date_text": "1954",
+   "date_iso": "1954",
+   "place": "Westminster Chapel, London",
+   "occasion": "",
+   "scripture": "Psalm 42:5 (opening sermon) and other texts",
+   "published_in": "Spiritual Depression: Its Causes and Cure (Grand Rapids: Eerdmans, 1965), 21 sermons",
+   "summary": "The series asks why Christians lose their joy and assurance and takes the causes one at a time. The opening sermon discusses temperament, physical condition and the devil. Later sermons deal with a particular past sin, vain regrets, fear of the future, and relying on feelings. The opening sermon on Psalm 42:5 traces spiritual depression finally to unbelief. It urges believers to talk to themselves from what God has revealed about himself and his promises, rather than being ruled by their moods.",
+   "context": "The MLJ Trust dates the series to 1954 at Westminster Chapel. It quotes Lloyd-Jones's own account from Iain Murray's biography: while he was dressing one morning, Psalm 42:5 suddenly came to him with outlines for several sermons, and he felt he had to preach them before moving on to Ephesians. The Trust dates the first Ephesians sermon to 3 October 1954. Eerdmans published twenty-one of the sermons in 1965, and the book has been in print ever since.",
+   "key_line": "",
+   "primary_category": "joy",
+   "categories": [
+    "joy",
+    "faith-doubt",
+    "suffering"
+   ],
+   "read_url": "https://www.eerdmans.com/9780802813879/spiritual-depression/",
+   "listen_url": "https://www.mljtrust.org/topic/spiritual-depression/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Spiritual Depression series page",
+     "url": "https://www.mljtrust.org/topic/spiritual-depression/"
+    },
+    {
+     "label": "MLJ Trust blog – Spiritual Depression: Causes and Cure",
+     "url": "https://www.mljtrust.org/blog/Spiritual-Depression-Causes-Cure/"
+    },
+    {
+     "label": "MLJ Trust – General Considerations on Spiritual Depression (SD01, Psalm 42:5)",
+     "url": "https://www.mljtrust.org/sermon/general-consideration/"
+    },
+    {
+     "label": "EerdWord – Enduring Standards: Spiritual Depression",
+     "url": "https://eerdword.com/enduring-standards-spiritual-depression/"
+    },
+    {
+     "label": "MLJ Trust – The Mystery of God (#4001, 3 Oct 1954)",
+     "url": "https://www.mljtrust.org/sermon/the-mystery-of-god/"
+    }
+   ],
+   "unverified_notes": "The MLJ Trust gives no dates for individual sermons. Its series page holds 24 recordings, which it describes as 14 sermons from the book plus 10 further expositions. Eerdmans' own blurb places the sermons only vaguely in 'the first half of the twentieth century'. A UK edition by Pickering & Inglis (1965) is reported but was not confirmed from a fetched page, nor was the claim that they were Sunday-morning sermons. No fetched page gave the full list of book chapters, so the summary names only the causes confirmed by the Trust's sermon titles and descriptions.",
+   "verification_status": "corrected",
+   "verification_note": "The 1954 date, the venue, the Psalm 42:5 origin story, and the 1965 Eerdmans publication of 21 sermons were confirmed via the MLJ Trust, Eerdmans and EerdWord; the unconfirmed cause 'trials' was removed from the summary."
+  },
+  {
+   "title": "Ephesians sermon series",
+   "type": "sermon-series",
+   "date_text": "1954–1962",
+   "date_iso": "1954",
+   "place": "Westminster Chapel, London",
+   "occasion": "Sunday-morning services",
+   "scripture": "Ephesians 1–6",
+   "published_in": "Edited into a multi-volume exposition published from 1972 (e.g. God's Way of Reconciliation on Ephesians 2; Christian Unity on Ephesians 4:1–16; Life in the Spirit in Marriage, Home & Work on Ephesians 5:18–6:9; The Christian Warfare on Ephesians 6:10–13)",
+   "summary": "This is a verse-by-verse exposition of Paul's letter to the Ephesians in over 230 sermons. It starts with the spiritual blessings, election and redemption of chapter 1. It then covers salvation by grace and the reconciliation of Jew and Gentile in chapter 2, and the unity and growth of the church in chapter 4. It ends with Christian conduct in marriage, family and work, the armour of God passage, and prayer in chapter 6.",
+   "context": "The MLJ Trust says the series of 232 sermons was preached on Sunday mornings at Westminster Chapel from 1954 to 1962. Its first recorded sermon is dated 3 October 1954, and 'Praying for All the Saints' on Ephesians 6:18–20 is dated 8 July 1962. The Trust records that in 1959 he interrupted the Ephesians series to preach on revival. It also quotes Iain Murray: after retiring, Lloyd-Jones chose to publish his Romans sermons first, followed by those on Ephesians.",
+   "key_line": "",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "church-unity",
+    "holiness"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/topic/book-of-ephesians/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Ephesians sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-ephesians/"
+    },
+    {
+     "label": "MLJ Trust – The Mystery of God (#4001, 3 Oct 1954)",
+     "url": "https://www.mljtrust.org/sermon/the-mystery-of-god/"
+    },
+    {
+     "label": "MLJ Trust – Praying for All the Saints (#4252, 8 July 1962)",
+     "url": "https://www.mljtrust.org/sermon/praying-for-all-the-saints/"
+    },
+    {
+     "label": "MLJ Trust – Romans series page (Murray on publication order)",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    },
+    {
+     "label": "MLJ Trust – Revival sermons page (Ephesians series interrupted in 1959)",
+     "url": "https://www.mljtrust.org/topic/revival/"
+    }
+   ],
+   "unverified_notes": "The 1972 start of publication comes from Internet Archive catalogue records (God's Way of Reconciliation, 1972) and from Wikipedia, which gives 1972–1982 for the set. The end year, the number of volumes and the original publisher of each were not confirmed from a publisher's page. It was not confirmed that 8 July 1962 was the final sermon of the series.",
+   "verification_status": "corrected",
+   "verification_note": "Sunday-morning services from 1954 to 1962, 232 sermons, and the dates of #4001 (3 Oct 1954) and #4252 (8 July 1962) were confirmed on MLJ Trust pages; published_in was changed from '1972–1982' to 'from 1972' because the end year is unconfirmed."
+  },
+  {
+   "title": "Romans sermon series",
+   "type": "sermon-series",
+   "date_text": "October 1955 – March 1968",
+   "date_iso": "1955-10",
+   "place": "Westminster Chapel, London",
+   "occasion": "Friday-evening meetings",
+   "scripture": "Romans 1:1–14:17",
+   "published_in": "Romans, 14 vols. (first volume 1970; now Edinburgh: Banner of Truth Trust)",
+   "summary": "This is a consecutive exposition of Paul's letter to the Romans in 366 sermons, from Paul's opening self-description in 1:1 to Romans 14:17. Lloyd-Jones regarded Romans as first in importance among the New Testament letters. He works in turn through sin, atonement and justification by faith (3:20–4:25), assurance (chapter 5), the new man (chapter 6), the law's functions and limits (7:1–8:4), sonship and the perseverance of the saints (chapter 8), and the practical teaching of chapters 12–14.",
+   "context": "The MLJ Trust says the sermons were preached on Friday evenings at Westminster Chapel from October 1955 to March 1968. They ran from October to May each year, with breaks at Christmas and Easter. The Trust calls this his longest expository series and says he saw it as his most important work. The first recorded sermon is dated 7 October 1955, and the Trust dates its sermon on Romans 14:17 to 1 March 1968, the year he retired. The Trust quotes Iain Murray that Lloyd-Jones chose these sermons to be published first, and it dates the first volume to 1970.",
+   "key_line": "",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "faith-doubt",
+    "holiness"
+   ],
+   "read_url": "https://banneroftruth.org/us/store/bible-commentaries/romans-14-volume-set/",
+   "listen_url": "https://www.mljtrust.org/topic/book-of-romans/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Romans sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    },
+    {
+     "label": "MLJ Trust – A Man Called Paul (#3003, 7 Oct 1955)",
+     "url": "https://www.mljtrust.org/sermon/a-man-called-paul-2/"
+    },
+    {
+     "label": "MLJ Trust – Peace in the Holy Spirit (#3372, Romans 14:17, 1 Mar 1968)",
+     "url": "https://www.mljtrust.org/sermon/peace-in-the-holy-spirit/"
+    },
+    {
+     "label": "MLJ Trust – Meet Dr. Martyn Lloyd-Jones (first volume 1970)",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    },
+    {
+     "label": "Banner of Truth – Romans 14-volume set",
+     "url": "https://banneroftruth.org/us/store/bible-commentaries/romans-14-volume-set/"
+    }
+   ],
+   "unverified_notes": "The Romans 14:17 sermon page does not itself say it was the last in the series; 14:17 as the end point rests on it being the latest-dated sermon cited with the series' March 1968 end date. The first-volume date of 1970 comes from the MLJ Trust 'Meet MLJ' page. The Banner of Truth store page lists only the current set. The volume subject titles come from Internet Archive catalogue records of early editions, which also show Zondervan US editions from 1971. The original UK publisher of the first volume was not confirmed from a publisher's page.",
+   "verification_status": "corrected",
+   "verification_note": "Friday evenings from October 1955 to March 1968, 366 sermons and the dates of #3003 and #3372 were confirmed via the MLJ Trust; the unsupported 'last sermon' and 'major operation' wording was removed, and Banner of Truth is no longer given as the first volume's publisher."
+  },
+  {
+   "title": "Revival",
+   "type": "sermon-series",
+   "date_text": "1959",
+   "date_iso": "1959",
+   "place": "Westminster Chapel, London",
+   "occasion": "Centenary of the 1859 revival",
+   "scripture": "Mark 9:28–29; Genesis 26:17–18; and other texts",
+   "published_in": "Revival (Westchester, Ill.: Crossway Books, 1987)",
+   "summary": "These sermons argue that the church's powerlessness cannot be cured by apologetics, modern evangelistic techniques, new Bible translations or advertising, but only by the power of God sought in prayer. Lloyd-Jones uses texts such as the disciples' failed exorcism in Mark 9 and Isaac re-digging his father's blocked wells in Genesis 26. He defines revival as a work of the Holy Spirit among God's people and unbelievers. He says false teaching about the Spirit must be cleared away, and calls the whole church to prayer.",
+   "context": "According to the MLJ Trust, the sermons were preached in 1959 to mark the 100th anniversary of what it calls the Welsh Revival of 1859. The Trust says he interrupted his Ephesians series to preach them because he considered the subject urgent. Crossway published them as a book in 1987.",
+   "key_line": "",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "prayer"
+   ],
+   "read_url": "https://www.crossway.org/books/revival-tpb/",
+   "listen_url": "https://www.mljtrust.org/topic/revival/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Revival sermons series page",
+     "url": "https://www.mljtrust.org/topic/revival/"
+    },
+    {
+     "label": "MLJ Trust – Revival Sermon: Diagnosing the Need (RV01, Mark 9:28-29)",
+     "url": "https://www.mljtrust.org/sermon/diagnosing-the-need/"
+    },
+    {
+     "label": "MLJ Trust – Revival Sermon: The Holy Spirit in Revival (RV04, Genesis 26:17-18)",
+     "url": "https://www.mljtrust.org/sermon/the-holy-spirit-in-revival/"
+    },
+    {
+     "label": "Crossway – Revival",
+     "url": "https://www.crossway.org/books/revival-tpb/"
+    }
+   ],
+   "unverified_notes": "The MLJ Trust gives no dates for individual sermons. The figure of 24 sermons in the book comes from secondary descriptions and was not confirmed on the publisher's page. Sources describe the 1859 revival differently: the MLJ Trust calls it Welsh, while Crossway says it began in Wales and spread to England and the United States.",
+   "verification_status": "corrected",
+   "verification_note": "The 1959 centenary occasion, the interruption of the Ephesians series, and the 1987 Crossway publication were confirmed via the MLJ Trust and Crossway; 'organisation' and the unconfirmed phrase 'defective orthodoxy' were removed from the summary."
+  },
+  {
+   "title": "The Cross: God's Way of Salvation",
+   "type": "sermon-series",
+   "date_text": "October–December 1963",
+   "date_iso": "1963-10",
+   "place": "Westminster Chapel, London",
+   "occasion": "",
+   "scripture": "Galatians 6:14",
+   "published_in": "The Cross: God's Way of Salvation, ed. Christopher Catherwood (Westchester, Ill.: Crossway Books, 1986)",
+   "summary": "This is a run of sermons on a single verse, Paul's statement that he will boast only in the cross of Christ. Lloyd-Jones argues that salvation comes only through Christ dying in the place of sinners, received by faith, not through human merit. He says the cross shows up the emptiness of a world run by the lust of the flesh and the pride of life, and that it defeated the devil. He also argues that pride is the root of divisions of race, nation and class, and that the cross removes it by showing everyone to be equally sinful and in need of the same salvation.",
+   "context": "The MLJ Trust dates ten recorded Galatians 6:14 sermons to Sundays from 20 October to 22 December 1963 (nos. 5583–5592). One of them, 'The Middle Wall of Partition' (24 November 1963), deals specifically with human division and enmity. Nine of the sermons, described as preached at Westminster Chapel in autumn 1963, were edited by Christopher Catherwood and published by Crossway in 1986.",
+   "key_line": "",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "grace-salvation",
+    "hatred-enemies"
+   ],
+   "read_url": "https://www.crossway.org/books/the-cross-tpb/",
+   "listen_url": "https://www.mljtrust.org/sermon/the-means-of-salvation/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – The Means of Salvation (#5583, 20 Oct 1963)",
+     "url": "https://www.mljtrust.org/sermon/the-means-of-salvation/"
+    },
+    {
+     "label": "MLJ Trust – The Condition of the World (#5586, 10 Nov 1963)",
+     "url": "https://www.mljtrust.org/sermon/the-condition-of-the-world/"
+    },
+    {
+     "label": "MLJ Trust – Victory Over the Devil (#5587, 17 Nov 1963)",
+     "url": "https://www.mljtrust.org/sermon/victory-over-the-devil/"
+    },
+    {
+     "label": "MLJ Trust – The Middle Wall of Partition (#5588, 24 Nov 1963)",
+     "url": "https://www.mljtrust.org/sermon/the-middle-wall-of-partition/"
+    },
+    {
+     "label": "MLJ Trust – Made in the Likeness of Man (#5592, 22 Dec 1963)",
+     "url": "https://www.mljtrust.org/sermon/made-in-the-likeness-of-man/"
+    },
+    {
+     "label": "Crossway – The Cross: God's Way of Salvation",
+     "url": "https://www.crossway.org/books/the-cross-tpb/"
+    },
+    {
+     "label": "Goodreads – The Cross (nine sermons, autumn 1963)",
+     "url": "https://www.goodreads.com/book/show/822629.The_Cross"
+    }
+   ],
+   "unverified_notes": "The figure of nine sermons and 'autumn 1963' come from Goodreads, not the publisher's page. It was not confirmed which of the ten MLJ Trust recordings are in the book, nor whether the sermons were given at morning or evening services.",
+   "verification_status": "corrected",
+   "verification_note": "The ten Galatians 6:14 sermons dated 20 Oct–22 Dec 1963 (#5583–#5592) were confirmed via the MLJ Trust monthly listings and sermon pages, and the 1986 Crossway publication edited by Catherwood via Crossway; the summary's 'money, power and sex' was replaced with the Trust's 'lust of the flesh and pride of life'."
+  },
+  {
+   "title": "Preaching and Preachers",
+   "type": "lecture",
+   "date_text": "spring 1969",
+   "date_iso": "1969",
+   "place": "Westminster Theological Seminary, Philadelphia",
+   "occasion": "Lectures to students and faculty (16 lectures plus two question-and-answer sessions)",
+   "scripture": "",
+   "published_in": "Preaching and Preachers (1971; US edition Grand Rapids: Zondervan, 1971)",
+   "summary": "These lectures argue that preaching is the church's most urgent need and primary task. Lloyd-Jones attributes its decline to lost belief in the Bible's authority, to treating the sermon as a literary essay, and to reliance on ceremony, entertainment and counselling in its place. Later lectures cover the call to preach, the congregation, the preparation of the preacher and the sermon, the form and shape of the sermon, illustration, eloquence and humour, what to avoid, and altar calls and music in relation to true conversion. He ends by arguing that power in preaching depends on the Holy Spirit's anointing ('unction'), which preachers must seek.",
+   "context": "The MLJ Trust says he gave the series to students and faculty at Westminster Theological Seminary in spring 1969, shortly after retiring from Westminster Chapel. His retirement freed him to accept the seminary's longstanding invitation, which his weekly preaching load had previously prevented. The Trust notes that R. C. Sproul, then a young man, attended and later recalled hearing the lectures.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "holy-spirit",
+    "reason-truth"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/topic/preaching-and-preachers/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Preaching and Preachers series page",
+     "url": "https://www.mljtrust.org/topic/preaching-and-preachers/"
+    },
+    {
+     "label": "MLJ Trust blog – young R. C. Sproul heard Lloyd-Jones preach (spring 1969)",
+     "url": "https://www.mljtrust.org/blog/young-rc-sproul-martyn-lloyd-jones-preach/"
+    },
+    {
+     "label": "MLJ Trust – Primacy of Preaching (PP01)",
+     "url": "https://www.mljtrust.org/sermon/primacy-of-preaching/"
+    },
+    {
+     "label": "MLJ Trust – The Spirit and the Power (PP16)",
+     "url": "https://www.mljtrust.org/sermon/the-spirit-and-the-power/"
+    }
+   ],
+   "unverified_notes": "The 1971 publication year comes from Wikipedia and an Internet Archive catalogue record of the Zondervan edition. The UK publisher of the first edition was not confirmed from a fetched page. Exact lecture dates are not documented. The summary of the middle lectures is based on the lecture titles listed by the MLJ Trust.",
+   "verification_status": "corrected",
+   "verification_note": "Spring 1969 at Westminster Theological Seminary, 16 lectures plus 2 Q&A sessions and the lecture titles were confirmed via the MLJ Trust, and the 1971 Zondervan edition via a catalogue record; 'his objections to altar calls' was changed to a neutral reference to the lecture topic."
+  },
+  {
+   "title": "True Love",
+   "type": "sermon",
+   "date_text": "14 February 1960",
+   "date_iso": "1960-02-14",
+   "place": "Westminster Chapel, London",
+   "occasion": "Sunday-morning Ephesians series",
+   "scripture": "Ephesians 5:25–33",
+   "published_in": "",
+   "summary": "On Paul's command that husbands love their wives as Christ loved the church, Lloyd-Jones separates three Greek words for love: eros (physical desire), phileo (natural affection and fondness), and agape (self-giving love). He argues that a husband's love must be agape, modelled on Christ's devotion to a church that was far from perfect. He insists that a husband's authority must be governed by love and not become tyranny. He also rejects the teaching that the physical side of marriage is inferior to celibacy.",
+   "context": "The MLJ Trust dates this sermon (no. 4165) to Sunday 14 February 1960. Its number falls within the Trust's numbering for his Sunday-morning Ephesians series at Westminster Chapel, which reached Paul's teaching on marriage at this point.",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "holiness"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/true-love/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – True Love (#4165, 14 Feb 1960)",
+     "url": "https://www.mljtrust.org/sermon/true-love/"
+    },
+    {
+     "label": "MLJ Trust – Ephesians sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-ephesians/"
+    }
+   ],
+   "unverified_notes": "The sermon page itself does not name the series. The link to the Ephesians series rests on its passage, date and number (the Ephesians series runs from #4001 in 1954 to #4252 in 1962). This passage is covered in the edited volume Life in the Spirit in Marriage, Home & Work (Ephesians 5:18–6:9), but it was not checked which chapter corresponds to this sermon. The summary is based on the MLJ Trust's description of the sermon, not a transcript.",
+   "verification_status": "corrected",
+   "verification_note": "The number (#4165), date (14 Feb 1960) and scripture (Ephesians 5:25–33) were confirmed on the MLJ Trust page; the summary's point on celibacy was corrected to match the Trust's description."
+  },
+  {
+   "title": "Love Your Neighbour",
+   "type": "sermon",
+   "date_text": "3 March 1967",
+   "date_iso": "1967-03-03",
+   "place": "Westminster Chapel, London",
+   "occasion": "Friday-evening Romans series",
+   "scripture": "Romans 13:8–10",
+   "published_in": "",
+   "summary": "Lloyd-Jones argues that modern people misunderstand love of neighbour. They reduce it to sentiment, and they put it before love for God, reversing the order Jesus taught. He separates the Greek words for love and argues that people made self-centred by sin cannot truly love their neighbour as themselves. Only those who are born again and indwelt by the Holy Spirit can show agape love, so sound doctrine and new birth are the foundation of neighbour-love, not obstacles to it.",
+   "context": "The MLJ Trust dates this sermon (no. 3344) to Friday 3 March 1967, in the Friday-evening Romans series at Westminster Chapel. It is the second of three consecutive Friday sermons on Romans 13:8–10. It comes between 'Love Fulfills the Law' (24 February 1967) and 'Scriptural Love' (10 March 1967).",
+   "key_line": "",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "new-birth"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/love-your-neighbour/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Love Your Neighbour (#3344, 3 Mar 1967)",
+     "url": "https://www.mljtrust.org/sermon/love-your-neighbour/"
+    },
+    {
+     "label": "MLJ Trust – Love Fulfills the Law (#3343, 24 Feb 1967)",
+     "url": "https://www.mljtrust.org/sermons/book-of-romans/love-fulfills-the-law/"
+    },
+    {
+     "label": "MLJ Trust – Scriptural Love (#3345, 10 Mar 1967)",
+     "url": "https://www.mljtrust.org/sermon/scriptural-love/"
+    },
+    {
+     "label": "MLJ Trust – Romans sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    }
+   ],
+   "unverified_notes": "The Banner of Truth Romans volume that contains the edited form of this sermon was not identified from a fetched page. The summary is based on the MLJ Trust's description, not a transcript.",
+   "verification_status": "verified",
+   "verification_note": "The number (#3344), date (3 Mar 1967), scripture, the neighbouring sermons (#3343, #3345) and the summary points were confirmed on MLJ Trust pages."
+  },
+  {
+   "title": "Because He First Loved Us",
+   "type": "sermon",
+   "date_text": "19 September 1954",
+   "date_iso": "1954-09-19",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 7:36–50",
+   "published_in": "",
+   "summary": "On the sinful woman who anointed Jesus' feet in the house of Simon the Pharisee, Lloyd-Jones contrasts two responses to Jesus. Simon kept a cold, formal distance and did not show him the usual courtesies. The woman, aware of her sin, washed his feet with her tears and anointed them. He argues that the measure of a person's love for Christ is their sense of how much they have been forgiven. He says true religion centres on the person of Christ rather than on knowledge about him, and that God's law drives sinners to see their need of the only one who can forgive them.",
+   "context": "The MLJ Trust dates this sermon (no. 5378) to Sunday 19 September 1954 and does not place it in a series. That is two weeks before his Ephesians series began. The page does not name the venue.",
+   "key_line": "",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "love",
+    "sin-repentance"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/because-he-first-loved-us/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Because He First Loved Us (#5378, 19 Sept 1954)",
+     "url": "https://www.mljtrust.org/sermon/because-he-first-loved-us/"
+    },
+    {
+     "label": "MLJ Trust – The Mystery of God (#4001, 3 Oct 1954)",
+     "url": "https://www.mljtrust.org/sermon/the-mystery-of-god/"
+    }
+   ],
+   "unverified_notes": "The venue is not stated, and no print publication was identified. The summary is based on the MLJ Trust's description, not a transcript.",
+   "verification_status": "corrected",
+   "verification_note": "The number (#5378), date (19 Sept 1954) and scripture (Luke 7:36–50) were confirmed on the MLJ Trust page; the unconfirmed 'Other Sermons' filing was removed and the summary was aligned with the Trust's description."
+  },
+  {
+   "title": "Overcoming Evil",
+   "type": "sermon",
+   "date_text": "11 November 1966",
+   "date_iso": "1966-11-11",
+   "place": "Westminster Chapel, London",
+   "occasion": "Friday-evening Romans series",
+   "scripture": "Romans 12:20–21",
+   "published_in": "",
+   "summary": "On Paul's instruction to feed a hungry enemy and to overcome evil with good, Lloyd-Jones argues that Christians must do more than refrain from revenge: they must actively do good to those who wrong them. He urges hearers to see an opponent as a lost person in need of redemption, and to recognise the evil and spiritual forces at work behind him, rather than treating him as a personal rival. He describes three kinds of victory: over evil in oneself, over the adversary, whom kindness may shame into repentance, and over evil itself.",
+   "context": "The MLJ Trust dates this sermon (no. 3331) to Friday 11 November 1966, in the Friday-evening Romans series at Westminster Chapel. It followed 'God's Wrath, Not Man's' on Romans 12:19–20 (4 November 1966). In that sermon, according to the Trust's summary, he argued that vengeance belongs to God and that the ban on personal revenge applies to individuals, not to the state.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "holiness"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/overcoming-evil/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – Overcoming Evil (#3331, 11 Nov 1966)",
+     "url": "https://www.mljtrust.org/sermon/overcoming-evil/"
+    },
+    {
+     "label": "MLJ Trust – God's Wrath, Not Man's (#3330, 4 Nov 1966)",
+     "url": "https://www.mljtrust.org/sermons/book-of-romans/gods-wrath-not-mans/"
+    },
+    {
+     "label": "MLJ Trust – Romans sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    }
+   ],
+   "unverified_notes": "The Banner of Truth Romans volume covering Romans 12 was not identified from a fetched page. The summary is based on the MLJ Trust's description, not a transcript.",
+   "verification_status": "verified",
+   "verification_note": "The numbers and dates of #3331 (11 Nov 1966) and #3330 (4 Nov 1966), the scriptures, and the summary points were confirmed on MLJ Trust pages."
+  },
+  {
+   "title": "He is Our Peace",
+   "type": "sermon",
+   "date_text": "19 February 1956",
+   "date_iso": "1956-02-19",
+   "place": "Westminster Chapel, London",
+   "occasion": "Sunday-morning Ephesians series",
+   "scripture": "Ephesians 2:14–16",
+   "published_in": "",
+   "summary": "On Paul's statement that Christ broke down the dividing wall of hostility between Jew and Gentile, Lloyd-Jones argues that Christ ended that enmity through his death on the cross. He did this by abolishing the ceremonial law that kept the two apart and making them one body. Lloyd-Jones insists that peace between people depends first on peace with God. He says the world's continuing conflicts come from lacking that reconciliation, which cannot be understood without seeing humanity's separation from God.",
+   "context": "The MLJ Trust dates this sermon (no. 4054) to Sunday 19 February 1956, in the Sunday-morning Ephesians series at Westminster Chapel. The next Sunday's sermon, 'Christ's Way of Making Peace' (26 February 1956, Ephesians 2:15), applied the passage, warning that divisions in the church by race, age or nationality contradict Christ's work.",
+   "key_line": "",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "christ-cross",
+    "church-unity"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/he-is-our-peace-2/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – He is Our Peace (#4054, 19 Feb 1956)",
+     "url": "https://www.mljtrust.org/sermon/he-is-our-peace-2/"
+    },
+    {
+     "label": "MLJ Trust – Christ's Way of Making Peace (#4055, 26 Feb 1956)",
+     "url": "https://www.mljtrust.org/sermon/christs-way-of-making-peace/"
+    },
+    {
+     "label": "MLJ Trust – Ephesians sermon series page",
+     "url": "https://www.mljtrust.org/topic/book-of-ephesians/"
+    }
+   ],
+   "unverified_notes": "The Ephesians 2 sermons were edited into the volume God's Way of Reconciliation, but it was not checked which chapter corresponds to this sermon. The summary is based on the MLJ Trust's description, not a transcript.",
+   "verification_status": "verified",
+   "verification_note": "The numbers, dates and scriptures of #4054 (19 Feb 1956) and #4055 (26 Feb 1956) and the summary points were confirmed on MLJ Trust pages."
+  },
+  {
+   "title": "The Fellowship of Believers",
+   "type": "sermon",
+   "date_text": "21 February 1965",
+   "date_iso": "1965-02-21",
+   "place": "Westminster Chapel, London",
+   "occasion": "Sunday-evening Acts series",
+   "scripture": "Acts 2:41–47",
+   "published_in": "",
+   "summary": "From the account of the first converts in Jerusalem, Lloyd-Jones argues that real conversion leads naturally into the fellowship of the church. He rejects the idea of a Christian who has no need of it. He roots this fellowship in a shared new life, outlook, experience and Saviour, which makes believers one family across differences of nationality, temperament and social class. He contrasts the early church's eager daily gathering with modern reluctance to attend.",
+   "context": "The MLJ Trust dates this sermon (no. 2007) to Sunday 21 February 1965. It belongs to his Sunday-evening series on Acts at Westminster Chapel (1965–1968), which the Trust calls his largest collection of evangelistic sermons, preached on the assumption that not everyone in the congregation was converted.",
+   "key_line": "",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "church-unity",
+    "new-birth"
+   ],
+   "read_url": "",
+   "listen_url": "https://www.mljtrust.org/sermon/the-fellowship-of-believers/",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "MLJ Trust – The Fellowship of Believers (#2007, 21 Feb 1965)",
+     "url": "https://www.mljtrust.org/sermon/the-fellowship-of-believers/"
+    },
+    {
+     "label": "MLJ Trust – Book of Acts series page",
+     "url": "https://www.mljtrust.org/topic/book-of-acts/"
+    }
+   ],
+   "unverified_notes": "The printed book containing this sermon was not confirmed from a fetched page. The summary is based on the MLJ Trust's description, not a transcript. No sermon specifically on personal friendship (e.g. John 15) was found in the MLJ Trust listings; this sermon is on Christian fellowship.",
+   "verification_status": "corrected",
+   "verification_note": "The number (#2007), date (21 Feb 1965), scripture and the Acts series details (Sunday evenings, 1965–68, evangelistic) were confirmed via the MLJ Trust; the context wording on the intended audience was aligned with the Trust's text."
+  },
+  {
+   "title": "Address to the National Assembly of Evangelicals",
+   "type": "address",
+   "date_text": "1966",
+   "date_iso": "1966",
+   "place": "",
+   "occasion": "National Assembly of Evangelicals, organised by the Evangelical Alliance; chaired by John Stott",
+   "scripture": "",
+   "published_in": "",
+   "summary": "Lloyd-Jones called on evangelicals to withdraw from 'mixed' denominations in which they were united with people who deny or oppose what he called the essential matters of salvation. The question at issue was whether evangelicals should stay in such denominations or leave them.",
+   "context": "John Stott chaired the meeting. He was not scheduled to speak that evening, but used his position as chairman to disagree publicly, saying Lloyd-Jones's view went against history and the Bible. Wikipedia reports that the clash was widely covered in the Christian press and caused considerable controversy. The Evangelical Alliance's own history says the public disagreement led to the Alliance losing some members.",
+   "key_line": "",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "reason-truth"
+   ],
+   "read_url": "",
+   "listen_url": "",
+   "copyright": "in-copyright",
+   "sources": [
+    {
+     "label": "Evangelical Alliance – Our history (1966 Stott–Lloyd-Jones disagreement)",
+     "url": "https://www.eauk.org/about-us/history"
+    },
+    {
+     "label": "Wikipedia – Martyn Lloyd-Jones (1966 address)",
+     "url": "https://en.wikipedia.org/wiki/Martyn_Lloyd-Jones"
+    },
+    {
+     "label": "Wikipedia – John Stott (1966 National Assembly of Evangelicals)",
+     "url": "https://en.wikipedia.org/wiki/John_Stott"
+    }
+   ],
+   "unverified_notes": "The day, month and venue were not confirmed from a fetched source. They are commonly given as 18 October 1966 at Westminster Central Hall, London, but that is unverified here. The address is commonly identified with 'Evangelical Unity: An Appeal', chapter 13 of Knowing the Times: Addresses Delivered on Various Occasions 1942–1977 (Banner of Truth, 1989). Banner's contents list includes that title but gives no dates, so the identification is unconfirmed. An undated MLJ Trust recording titled 'Evangelical Unity' (#5714) describes a different-sounding address (doctrinal basis of unity, need for revival), and its occasion is not stated, so it is not linked here.",
+   "verification_status": "corrected",
+   "verification_note": "The 1966 Evangelical Alliance event and the public disagreement with Stott were confirmed via the Evangelical Alliance's history page and Wikipedia; unsupported summary claims (a call to unite, and specific doctrines named) were removed."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: 'by 1921 was assistant' changed to 'from 1921', as the MLJ Trust and Wikipedia give it.",
+  "Profile bio: last-sermon date '8 June 1980' changed to 'June 1980 at Barcombe Baptist Chapel' because sources conflict (Banner of Truth and Wikipedia give 8 June; the MLJ Trust gives 7 June 1980).",
+  "Profile bio: retirement reason attributed. Banner of Truth says he retired because of illness; 'major operation' is attributed to Wikipedia.",
+  "Profile bio: death place specified as his home in Ealing (MLJ Trust).",
+  "Profile tradition: removed the unverified claim that he was 'ordained in the Welsh Calvinistic Methodist Forward Movement'. It now says he began at a Forward Movement (Calvinistic Methodist) church, and describes Westminster Chapel as founded Congregational, leaving the Congregational Union for the FIEC during his pastorate (Wikipedia, Westminster Chapel).",
+  "Profile corpus_note: the 1970 first-volume date is now attributed to the MLJ Trust, and Banner of Truth is named as the current publisher rather than the original one.",
+  "Sermon on the Mount: replaced the access-restricted Internet Archive scan record with the Open Library catalogue record for the same IVF 1960 vol. 2; noted that an IVF vol. 1 is catalogued as 1962.",
+  "Spiritual Depression: removed 'trials' from the list of causes (not confirmed from any fetched page), and rewrote the rest of the list to follow the MLJ Trust sermon titles and descriptions.",
+  "Spiritual Depression: the context now reflects what the Trust page says, that he felt he had to preach these before 'moving on to Ephesians'. The October 1954 date is sourced separately to sermon #4001.",
+  "Ephesians: published_in changed from '1972–1982' to 'from 1972', and Life in the Spirit in Marriage, Home & Work added (catalogue records); number of sermons (232) added from MLJ Trust; noted that 8 July 1962 is not confirmed as the final sermon.",
+  "Romans: removed 'after a major operation' from the context. Also changed 'The last, on Romans 14:17' to the Trust dating its Romans 14:17 sermon to 1 March 1968, because the sermon page does not say it was the last. Added the October–May schedule and 'most important work' from the MLJ Trust.",
+  "Romans: published_in changed from 'Edinburgh: Banner of Truth Trust; first volume 1970' to 'first volume 1970; now Banner of Truth', because the original publisher of vol. 1 was not confirmed.",
+  "Revival: removed 'organisation' and the quoted phrase 'defective orthodoxy' from the summary; neither was found in the fetched sermon descriptions. The list now follows RV01: apologetics, modern evangelistic techniques, new translations and advertising.",
+  "Revival: the context now says he interrupted 'his Ephesians series' (the Trust's wording) rather than attributing 'Sunday-morning' to the Revival page.",
+  "The Cross: the summary's 'money, power and sex' is replaced by 'the lust of the flesh and the pride of life', as the Trust describes sermon #5586. Also noted that the cross removes pride as the root of division, per #5588.",
+  "The Cross: the context now confirms ten Galatians 6:14 recordings on Sundays from 20 Oct to 22 Dec 1963 (#5583–#5592) from the MLJ Trust monthly listings. Supporting sermon pages were added as sources.",
+  "Preaching and Preachers: summary's 'his objections to altar calls' changed to a neutral mention of the lecture 'Altar Calls, Music, and True Conversion'. Causes of decline aligned with PP01 (ceremony, entertainment, counselling).",
+  "Preaching and Preachers: added to the context that his weekly preaching load had previously prevented him from accepting the seminary's invitation (MLJ Trust blog).",
+  "True Love: summary corrected from 'celibacy is spiritually higher than marriage' to rejecting the teaching that the physical side of marriage is inferior to celibacy. Also corrected the Greek word glosses to match the Trust's description. The series link is marked as inferred from the sermon's number and date.",
+  "Because He First Loved Us: removed the claim that the Trust files it under 'Other Sermons' (not confirmed); summary revised to follow the Trust description.",
+  "The Fellowship of Believers: the context's 'aimed mainly at the unconverted' changed to the Trust's wording, that he did not assume everyone in the congregation was converted. Removed the unconfirmed 'Volume 1' claim.",
+  "1966 address: added the Evangelical Alliance's own history page as a non-Wikipedia source confirming the 1966 public disagreement and that the Alliance lost some members.",
+  "1966 address: removed the unsupported summary claims that he urged evangelicals to 'unite as evangelicals instead' and that fellowship requires agreement on 'the atonement and the inspiration of Scripture'.",
+  "1966 address: noted that the MLJ Trust 'Evangelical Unity' recording (#5714) describes different content."
+ ]
+}

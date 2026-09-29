@@ -1,0 +1,97 @@
+{
+ "sermons": [
+  {
+   "id": "augustine-ten-homilies-on-the-first-epistle-of-john-in-epistulam-iohan",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he was at this time opposing the Donatist church, a conflict that culminated in the Conference of Carthage in 411. His prologue says he was partway through a running exposition of John's Gospel when the fixed readings of the Easter festival interrupted it, so he took up John's Epistle for those days.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-90-on-matthew-22-114-the-wedding-garment",
+   "preacher_id": "augustine",
+   "life_phase": "Pelagian controversy, City of God",
+   "life_context": "Bishop of Hippo, he preached this in the Basilica Restituta at Carthage. Most proposed dates (411–416) fall in or after the year of the Conference of Carthage (June 411), where he was one of seven Catholic spokesmen against the Donatists; the NPNF heading describes the sermon as against the Donatists. From 412 he was also writing against Pelagian teaching.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-56-on-the-lord-s-prayer-matthew-6-913-to-the-competen",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he gave this at Hippo in the week before Easter, instructing candidates for baptism. The proposed dates (before 410 to 410–412) fall before or around the Conference of Carthage in 411, the culmination of his opposition to the Donatist church.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-211-in-quadragesima-for-lent-on-brotherly-concord",
+   "preacher_id": "augustine",
+   "life_phase": "",
+   "life_context": "Scholars date this Lenten sermon either before 410 or, tentatively, to 412–415, and no place is recorded. On either dating he was bishop of Hippo Regius: the earlier falls in his years of opposing the Donatist church, the later in the period when he was writing against Pelagian teaching and began The City of God (413).",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-83-on-matthew-18-2135-how-often-shall-my-brother-sin-",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he was opposing the Donatist church in the years before the Conference of Carthage (411). The Augustinus.it table places this sermon, and Sermon 82 preached the day before, at Milevis, with a question mark.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-114-on-luke-17-34-on-the-forgiveness-of-sins",
+   "preacher_id": "augustine",
+   "life_phase": "Pelagian controversy, City of God",
+   "life_context": "Still bishop of Hippo, he was at Carthage, where according to the NPNF heading he preached at the Table of St Cyprian with Count Boniface present. The City of God, begun in 413, was not finished until 426, and the Pelagian teaching he had opposed since 412 had been condemned at Carthage in 418.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-81-on-matthew-18-7-the-offences-of-the-world",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he preached this at Hippo in the period after the sack of Rome in 410. The sermon itself takes up the complaint that Rome was falling in Christian times, a charge he later answered at length in The City of God (begun 413), and urges hospitality to the many strangers and needy people then present.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-105-on-luke-11-513-the-friend-at-midnight",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he preached this at Carthage in the period after the sack of Rome in 410. In the sermon he reports that some critics wished he would keep silent about Rome. In 413 he began The City of God, answering pagans who blamed Christianity for the sack.",
+   "sources": []
+  },
+  {
+   "id": "augustine-de-excidio-urbis-romae-sermon-on-the-destruction-of-the-city",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he preached this soon after the sack of Rome in 410; a Les Enluminures manuscript catalogue entry dates it to 410. James O'Donnell counts it among the sermons that make up his public reaction to the sack, a subject he took up at length in The City of God (begun 413). No place is recorded.",
+   "sources": [
+    {
+     "label": "Les Enluminures (textmanuscripts.com), manuscript description including Augustine's De urbis excidio",
+     "url": "https://www.textmanuscripts.com/medieval/augustine-medieval-manuscript-79761"
+    },
+    {
+     "label": "James J. O'Donnell, Augustine, City of God (introduction), Georgetown University",
+     "url": "https://faculty.georgetown.edu/jod/augustine/civ.html"
+    }
+   ]
+  },
+  {
+   "id": "augustine-sermon-272-in-die-pentecostes-ad-infantes-de-sacramento-to-t",
+   "preacher_id": "augustine",
+   "life_phase": "Bishop: Donatist struggle",
+   "life_context": "Bishop of Hippo Regius since c. 396, he was then opposing the Donatist church, a struggle that culminated in the Conference of Carthage in 411. The feast is disputed: the Maurist title assigns the sermon to Pentecost, while Kunzelmann placed it at Easter.",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-43-on-isaiah-7-9-unless-you-believe-you-will-not-unde",
+   "preacher_id": "augustine",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  },
+  {
+   "id": "augustine-sermon-113-on-luke-16-9-make-to-yourselves-friends-of-the-ma",
+   "preacher_id": "augustine",
+   "life_phase": "",
+   "life_context": "",
+   "sources": []
+  }
+ ]
+}

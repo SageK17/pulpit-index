@@ -1,0 +1,732 @@
+{
+ "preacher": {
+  "id": "spurgeon",
+  "name": "Charles Haddon Spurgeon",
+  "lifespan": "1834–1892",
+  "tradition": "Particular Baptist (Calvinistic Nonconformist)",
+  "role": "Pastor of London's Metropolitan Tabernacle congregation",
+  "bio": "Charles Haddon Spurgeon was born at Kelvedon, Essex, on 19 June 1834 and, by his own account, was converted on 6 January 1850 in a Primitive Methodist chapel in Colchester. In 1854, aged 19, he became pastor of New Park Street Chapel, Southwark; as crowds grew his congregation met in Exeter Hall and the Surrey Gardens Music Hall before moving in 1861 into the newly built Metropolitan Tabernacle, where he last preached on 7 June 1891. He founded the Pastors' College (1856) and the Stockwell Orphanage (1867). His 'Down-grade' articles of 1887 in The Sword and the Trowel began a controversy in which Spurgeon withdrew from the Baptist Union and the Metropolitan Tabernacle disaffiliated from it. He died at Menton, France, on 31 January 1892.",
+  "corpus_note": "The Spurgeon Library (Midwestern Baptist Theological Seminary) counts 3,563 published sermons in 63 volumes of the New Park Street Pulpit and Metropolitan Tabernacle Pulpit. According to his Autobiography, regular weekly publication began with the sermon of 7 January 1855; it continued after his death, and CCEL's edition runs to volume 63, dated 1917.",
+  "archive_links": [
+   {
+    "label": "The Spurgeon Library (Spurgeon Center) – full sermon archive",
+    "url": "https://www.spurgeon.org/search?type=sermon"
+   },
+   {
+    "label": "Christian Classics Ethereal Library – Spurgeon's Sermons, vols. 1–63 (1855–1917)",
+    "url": "https://ccel.org/ccel/spurgeon"
+   },
+   {
+    "label": "Spurgeon Gems – sermons as PDF",
+    "url": "https://www.spurgeongems.org/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "The Spurgeon Library – Who Was Charles Spurgeon? (birth, conversion, College, Orphanage, Down-grade, death)",
+    "url": "https://www.spurgeon.org/about"
+   },
+   {
+    "label": "The Spurgeon Library – home page (3,563 sermons, 63 volumes)",
+    "url": "https://www.spurgeon.org/"
+   },
+   {
+    "label": "C. H. Spurgeon's Autobiography, vol. 1 (1899), conversion account and footnote on the date (pp. 106–109)",
+    "url": "https://archive.org/details/autobiographyofc01spur"
+   },
+   {
+    "label": "C. H. Spurgeon's Autobiography, vol. 4 (1899), last sermon at the Tabernacle and death at Mentone",
+    "url": "https://archive.org/details/autobiographyofc04spur"
+   },
+   {
+    "label": "Wikipedia – Charles Spurgeon (Particular Baptist; Tabernacle's disaffiliation from the Baptist Union)",
+    "url": "https://en.wikipedia.org/wiki/Charles_Spurgeon"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "The Immutability of God",
+   "type": "sermon",
+   "date_text": "7 January 1855",
+   "date_iso": "1855-01-07",
+   "place": "New Park Street Chapel, Southwark, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Malachi 3:6",
+   "published_in": "New Park Street Pulpit, vol. 1, no. 1",
+   "summary": "Spurgeon opens by arguing that the proper study of a Christian is God himself, a subject that at once humbles, enlarges and consoles the mind. He then sets out God's unchangeableness in his essence, attributes, plans, promises and threatenings, and argues that this constancy is the reason God's people, 'the sons of Jacob', are not destroyed.",
+   "context": "Spurgeon's Autobiography states that the regular weekly publication of his sermons began with this sermon, preached on the morning of 7 January 1855 at New Park Street Chapel; that series became the New Park Street Pulpit and later the Metropolitan Tabernacle Pulpit. The Autobiography adds that an earlier sermon of 20 August 1854 had already appeared singly in James Paul's Penny Pulpit, which Spurgeon believed was the first of his sermons to be printed.",
+   "key_line": "No subject of contemplation will tend more to humble the mind, than thoughts of God.",
+   "primary_category": "providence",
+   "categories": [
+    "providence",
+    "reason-truth",
+    "faith-doubt"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-immutability-of-god",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Immutability of God (NPSP 1, no. 1)",
+     "url": "https://www.spurgeon.org/sermons/the-immutability-of-god"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), pp. 154–155, on the start of weekly publication",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading on the Spurgeon Library page; the start of weekly publication and the 1854 Penny Pulpit sermon confirmed in the Autobiography, vol. 2; key line found verbatim."
+  },
+  {
+   "title": "Sovereignty and Salvation",
+   "type": "sermon",
+   "date_text": "6 January 1856",
+   "date_iso": "1856-01-06",
+   "place": "New Park Street Chapel, Southwark, London",
+   "occasion": "Sunday morning service on the sixth anniversary of Spurgeon's conversion",
+   "scripture": "Isaiah 45:22",
+   "published_in": "New Park Street Pulpit, vol. 2, no. 60",
+   "summary": "Preaching on the text through which he says he was converted, Spurgeon argues that God has taught idolaters, empires, monarchs, the wise men of the world and even the church that he alone is God. He applies this to salvation: sinners are to look to God rather than to a priest or to themselves, the only means required is simply to look in faith, and the invitation is addressed to 'all the ends of the earth'.",
+   "context": "In the opening Spurgeon says that six years earlier to the day, at about the same hour, he had heard this text preached and 'looked' in faith. The compilers of his Autobiography cite this statement as the evidence fixing his conversion to 6 January 1850, which the Autobiography places in a Primitive Methodist chapel in Colchester.",
+   "key_line": "I shall never forget that day, while memory holds its place; nor can I help repeating this text whenever I remember that hour when first I knew the Lord.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "grace-salvation",
+    "pride-humility"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/sovereignty-and-salvation",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Sovereignty and Salvation (NPSP 2, no. 60)",
+     "url": "https://www.spurgeon.org/sermons/sovereignty-and-salvation"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 1 (1899), pp. 106–109 and footnote on the conversion date",
+     "url": "https://archive.org/details/autobiographyofc01spur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading; the Autobiography footnote citing this sermon for the 6 January 1850 conversion date confirmed; key line found verbatim."
+  },
+  {
+   "title": "Hatred Without Cause",
+   "type": "sermon",
+   "date_text": "29 June 1856",
+   "date_iso": "1856-06-29",
+   "place": "New Park Street Chapel, Southwark, London",
+   "occasion": "Sunday morning service",
+   "scripture": "John 15:25",
+   "published_in": "New Park Street Pulpit, vol. 2, no. 89",
+   "summary": "Spurgeon argues that Jesus, though wholly blameless and lovable, was hated from his birth to the cross, and that hating such a person without cause reveals the depth of human sin. He tells hearers that disliking Christ's followers is hostility to Christ himself, urges believers who once hated him to love him the more, and warns Christians to expect opposition but to make sure it is not provoked by their own faults or temper.",
+   "context": "The printed heading records that it was preached on a Sunday morning at New Park Street Chapel, Southwark, a few months before the congregation held its first service in the Surrey Gardens Music Hall on 19 October 1856 (as recorded in the church book quoted in Spurgeon's Autobiography).",
+   "key_line": "The other lesson is, take care, if the world does hate you, that it hates you without a cause.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "christ-cross",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/hatred-without-cause",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Hatred Without Cause (NPSP 2, no. 89)",
+     "url": "https://www.spurgeon.org/sermons/hatred-without-cause"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), church-book entry for 19 October 1856",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading; summary checked against the text; 19 October 1856 church-book entry confirmed in the Autobiography; key line found verbatim."
+  },
+  {
+   "title": "The Exaltation of Christ",
+   "type": "sermon",
+   "date_text": "2 November 1856",
+   "date_iso": "1856-11-02",
+   "place": "New Park Street Chapel, Southwark, London",
+   "occasion": "Spurgeon's first service after the Surrey Gardens Music Hall disaster",
+   "scripture": "Philippians 2:9–11",
+   "published_in": "New Park Street Pulpit, vol. 2, no. 101",
+   "summary": "Saying he is unable to preach a full sermon, Spurgeon offers a few remarks on a text he says had comforted him. He finds comfort for believers in the fact of Christ's exaltation (because they are united to him), in its reason (his prior humiliation to the death of the cross), and in the one who exalted him (God rather than men, who will likewise crown his people).",
+   "context": "A church-book entry quoted in Spurgeon's Autobiography records that on the evening of 19 October 1856, at the first service in the Surrey Gardens Music Hall, a panic among about 7,000 people left seven dead and 28 taken to hospital seriously injured, and that Spurgeon was prostrated for some days before returning to his own chapel's pulpit on 2 November. In the sermon's opening he said the instigators of the disturbance had his forgiveness.",
+   "key_line": "They have my forgiveness from the depths of my soul.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "suffering",
+    "forgiveness"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-exaltation-of-christ",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Exaltation of Christ (NPSP 2, no. 101)",
+     "url": "https://www.spurgeon.org/sermons/the-exaltation-of-christ"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), pp. 212–214 (church-book entry, prayer and opening of the sermon)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "The opening wording differs between the Spurgeon Library text ('coming back to the same spot again') and the Autobiography's quotation ('coming back to this chapel again'). The statement that the text 'has comforted me' appears in the Autobiography's version of the opening; the Spurgeon Library text says instead that believers' souls found consolation in it.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading; casualty figures and 2 November return confirmed in the church book quoted in the Autobiography, vol. 2; added a note on where the 'comforted me' wording comes from."
+  },
+  {
+   "title": "A Faithful Friend",
+   "type": "sermon",
+   "date_text": "8 March 1857",
+   "date_iso": "1857-03-08",
+   "place": "Music Hall, Royal Surrey Gardens, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Proverbs 18:24",
+   "published_in": "New Park Street Pulpit, vol. 3, no. 120",
+   "summary": "Spurgeon identifies the 'friend that sticketh closer than a brother' as Jesus Christ, contrasting the brittleness of worldly friendship with Christ's constancy. He argues from Christ's own character that his friendship can be relied on, draws the inference that believers will face enemies as persistent as their Friend is faithful, and ends by asking every hearer whether Christ is their friend.",
+   "context": "One of the Sunday-morning services Spurgeon held in the Music Hall of the Royal Surrey Gardens; his Autobiography records that these morning services ran from 23 November 1856 to 11 December 1859, after evening meetings there were abandoned following the October 1856 disaster.",
+   "key_line": "True friendship can only be made between true men.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "love",
+    "christ-cross"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/a-faithful-friend",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – A Faithful Friend (NPSP 3, no. 120)",
+     "url": "https://www.spurgeon.org/sermons/a-faithful-friend"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), on the Music Hall morning services",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, Music Hall venue, text and number confirmed from the printed heading; the 23 November 1856 – 11 December 1859 morning services confirmed in the Autobiography, vol. 2; key line found verbatim."
+  },
+  {
+   "title": "Fast-Day Service",
+   "type": "sermon",
+   "date_text": "7 October 1857",
+   "date_iso": "1857-10-07",
+   "place": "Crystal Palace, Sydenham, London",
+   "occasion": "National day of fast, humiliation and prayer proclaimed in connection with the Indian rebellion of 1857",
+   "scripture": "Micah 6:9",
+   "published_in": "New Park Street Pulpit, vol. 3, nos. 154–155",
+   "summary": "On 'Hear ye the rod, and who hath appointed it', Spurgeon treats the Indian rebellion as a chastening permitted and overruled by God, while warning against reading particular disasters as judgments on those who suffer them. Following the royal proclamation, he names national sins to be confessed, including public vice, the oppression and underpayment of the poor by the rich, the lost integrity of merchants, workers who idle away their paid time, and a sleeping church. He says the rebels must be punished, while saying he does not love war and that a nation should regard inflicting the death penalty as an affliction, and he closes with an appeal to give when the collection box is passed.",
+   "context": "Spurgeon's Autobiography calls this the largest congregation he ever addressed in any building, giving the attendance as 23,654, and says the collection came to nearly £500, to which the Crystal Palace Company added £200. The note printed with the sermon says the collection went to the Indian Relief Fund. Spurgeon also recalled that after the service he slept from the Wednesday night until the Friday morning.",
+   "key_line": "In many a place the average wage of men is far below their value to their masters.",
+   "primary_category": "justice-society",
+   "categories": [
+    "justice-society",
+    "sin-repentance",
+    "suffering"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/fast-day-service",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Fast-Day Service (NPSP 3, nos. 154–155)",
+     "url": "https://www.spurgeon.org/sermons/fast-day-service"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), pp. 239–240, 'The Fast-day Service at the Crystal Palace'",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "The note printed with the sermon says 'upwards of 24,000' were present; the Autobiography gives 23,654. The Autobiography also tells of a workman converted on hearing Spurgeon test the hall's acoustics a day or two earlier; this rests on a report made years later and is not included above.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, proclamation wording and text confirmed from the printed heading, with attendance, collection and sleep account confirmed in the Autobiography, vol. 2; the fund is now attributed to the sermon's printed note (the Autobiography does not name it), and the summary's line on war was corrected."
+  },
+  {
+   "title": "Compel Them to Come In",
+   "type": "sermon",
+   "date_text": "5 December 1858",
+   "date_iso": "1858-12-05",
+   "place": "Music Hall, Royal Surrey Gardens, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Luke 14:23",
+   "published_in": "New Park Street Pulpit, vol. 5, no. 227",
+   "summary": "Setting aside the already converted, Spurgeon states the gospel offer and describes those meant by the 'highways and hedges' of the parable. He then tries to 'compel' his unconverted hearers by command, exhortation, entreaty, warning of judgment, tears and prayer, while acknowledging that only the Spirit of God can finally compel the heart.",
+   "context": "In his Autobiography Spurgeon recalled that the 'violent, rigid school of Hyper-Calvinists' condemned this sermon as Arminian and unsound. He wrote that he thought he never preached another sermon by which so many were converted, as church meetings long continued to testify.",
+   "key_line": "I say again, when words fail us we can give tears—for words and tears are the arms with which gospel ministers compel men to come in.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "grace-salvation",
+    "judgment"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/compel-them-to-come-in",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Compel Them to Come In (NPSP 5, no. 227)",
+     "url": "https://www.spurgeon.org/sermons/compel-them-to-come-in"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), p. 225",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ],
+   "unverified_notes": "The claim about the number of conversions is Spurgeon's own recollection and was not independently checked.",
+   "verification_status": "verified",
+   "verification_note": "Date, Music Hall venue, text and number confirmed from the printed heading; the Hyper-Calvinist criticism and Spurgeon's recollection confirmed on p. 225 of the Autobiography, vol. 2; key line found verbatim."
+  },
+  {
+   "title": "Love",
+   "type": "sermon",
+   "date_text": "19 December 1858",
+   "date_iso": "1858-12-19",
+   "place": "Music Hall, Royal Surrey Gardens, London",
+   "occasion": "Sunday morning service",
+   "scripture": "1 John 4:19",
+   "published_in": "New Park Street Pulpit, vol. 5, no. 229",
+   "summary": "Answering the objection that offering free pardon to the worst sinners would encourage sin, Spurgeon argues that the gospel instead produces love to God. That love has God's prior love as its only source, is kept alive by feeding on that same love, and shows itself in practice; in particular, love for Christ must take the form of love and service to his church and people.",
+   "context": "In the opening Spurgeon says he had spent the previous two Sundays preaching the gospel to the unconverted, a run that included 'Compel Them to Come In' (5 December 1858); he presents this sermon as his answer to whether such preaching promotes morality. The Spurgeon Library featured it as a 'Sermon of the Week' on 24 April 2019.",
+   "key_line": "Surely they are; and if we love Christ, as we think we do, as we pretend we do, we shall love his church and people.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "holiness",
+    "church-unity"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/love",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Love (NPSP 5, no. 229)",
+     "url": "https://www.spurgeon.org/sermons/love"
+    },
+    {
+     "label": "The Spurgeon Library blog – Sermon of the Week: No. 229, 'Love' (24 April 2019)",
+     "url": "https://www.spurgeon.org/blog/sermon-of-the-week-no-229-love"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, Music Hall venue, text and number confirmed from the printed heading; the opening reference to two previous Sundays and the Spurgeon Library blog post confirmed; key line found verbatim."
+  },
+  {
+   "title": "The First Sermon in the Tabernacle",
+   "type": "sermon",
+   "date_text": "25 March 1861",
+   "date_iso": "1861-03-25",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Opening services of the Metropolitan Tabernacle (Monday afternoon)",
+   "scripture": "Acts 5:42",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 7, no. 369",
+   "summary": "Saying he feels unable to preach, Spurgeon offers instead a statement of the truths from which future sermons would be made. He argues that the one subject of apostolic preaching was the person of Jesus Christ, regrets that the church drifted into preaching ceremonies and doctrines about Christ, and proposes that the ministry of the new building should take Christ's person as its subject.",
+   "context": "Spurgeon's Autobiography records that the Tabernacle opened with a prayer meeting on 18 March 1861 and that at three o'clock on Monday 25 March Spurgeon preached the first sermon in the building from Acts 5:42. It adds that the remaining debt was cleared on 29 March and regular Sunday worship began there on 31 March 1861.",
+   "key_line": "Christ was substance to them, I fear he is too often but shadow to us.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "church-unity"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-first-sermon-in-the-tabernacle",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The First Sermon in the Tabernacle",
+     "url": "https://www.spurgeon.org/sermons/the-first-sermon-in-the-tabernacle"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 3 (1899), pp. 4–6, opening services",
+     "url": "https://archive.org/details/autobiographyofc03inspur"
+    },
+    {
+     "label": "CCEL – Sermon 369, The First Sermon in the Tabernacle (printed heading: Monday afternoon, 25 March 1861)",
+     "url": "https://ccel.org/ccel/spurgeon/sermons07/sermons07.vii_1.html"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Date, Monday-afternoon occasion, text and number confirmed via CCEL's printed heading and the Autobiography, vol. 3, pp. 4–6; the CCEL source was changed from the volume contents page to the sermon page itself."
+  },
+  {
+   "title": "Accidents, Not Punishments",
+   "type": "sermon",
+   "date_text": "8 September 1861",
+   "date_iso": "1861-09-08",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service following fatal railway accidents, including the Clayton Tunnel collision",
+   "scripture": "Luke 13:1–5",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 7, no. 408",
+   "summary": "From Jesus' words about the Galileans and the tower of Siloam, Spurgeon argues that those killed in accidents are not greater sinners than others, and he rejects the claim, made even by some ministers, that a Sunday railway collision was God's judgment on Sabbath-breaking. He then urges hearers to use such events for self-examination and as a warning that they too must repent.",
+   "context": "A CCEL editor's note links the sermon to the Clayton Tunnel collision of Sunday 25 August 1861 (23 killed) and a Kentish Town rail crash on 2 September 1861; the sermon itself refers to 'the late deplorable collision' in the Clayton tunnel. In his Autobiography Spurgeon wrote that he owned a copy of this sermon which David Livingstone had carried on his African journeys, marked 'Very good.—D. L.'",
+   "key_line": "I would do anything to stop Sunday labour and sin, but I would not forge a falsehood even to do that.",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "providence",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/accidents-not-punishments",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Accidents, Not Punishments",
+     "url": "https://www.spurgeon.org/sermons/accidents-not-punishments"
+    },
+    {
+     "label": "CCEL – Sermon 408, with editor's note on the 1861 rail disasters",
+     "url": "https://ccel.org/ccel/spurgeon/sermons07/sermons07.xxii_1.html"
+    },
+    {
+     "label": "Spurgeon Gems – Sermon #408 (PDF, printed heading)",
+     "url": "https://www.spurgeongems.org/sermon/chs408.pdf"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 2 (1899), pp. 214–215 (Livingstone's copy)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    },
+    {
+     "label": "Wikipedia – Clayton Tunnel rail crash",
+     "url": "https://en.wikipedia.org/wiki/Clayton_Tunnel_rail_crash"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue and number confirmed from the printed heading (CCEL and Spurgeon Gems); rail-crash details confirmed in CCEL's note and Livingstone's copy in the Autobiography, vol. 2, pp. 214–215; key line found verbatim."
+  },
+  {
+   "title": "The Peacemaker",
+   "type": "sermon",
+   "date_text": "8 December 1861",
+   "date_iso": "1861-12-08",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service; headed 'A Sermon for the Times'",
+   "scripture": "Matthew 5:9",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 7, no. 422",
+   "summary": "Spurgeon describes the peacemaker, 'first pure, then peaceable', in his roles as citizen, private person, neighbour and church member. He speaks against war between 'two Christian nations', with references to America, and urges hearers to forgive their enemies for Christ's sake and to act as peacemakers by bringing others to be reconciled with God. He closes with an appeal to sinners at war with conscience, God's law and God himself.",
+   "context": "Preached a month after the United States Navy, on 8 November 1861, took two Confederate envoys off the British ship Trent. The U.S. State Department's Office of the Historian says this crisis raised the possibility of war between Britain and the United States until Secretary of State Seward agreed to release the envoys in a note of 26 December 1861. The sermon's references to war between two Christian nations and to America fit that moment.",
+   "key_line": "Now, our religion is an unsavoury thing to men: we must put salt with it; and this salt must be our quietness and peace-making disposition.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "justice-society",
+    "forgiveness"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-peacemaker",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Peacemaker (MTP 7, no. 422)",
+     "url": "https://www.spurgeon.org/sermons/the-peacemaker"
+    },
+    {
+     "label": "CCEL – Sermon 422, The Peacemaker",
+     "url": "https://ccel.org/ccel/spurgeon/sermons07/sermons07.lxvi.html"
+    },
+    {
+     "label": "U.S. Department of State, Office of the Historian – The Trent Affair, 1861",
+     "url": "https://history.state.gov/milestones/1861-1865/trent-affair"
+    }
+   ],
+   "unverified_notes": "No source consulted explicitly names the Trent affair as the sermon's occasion; the connection is inferred from the date and from the sermon's references to a threatened war with America.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, 'Sermon for the Times' heading and number confirmed on the Spurgeon Library and CCEL; the summary's 'nation, family and church' was corrected to the sermon's actual divisions, and the Trent dates now come from the State Department's Office of the Historian instead of Wikipedia."
+  },
+  {
+   "title": "Baptismal Regeneration",
+   "type": "sermon",
+   "date_text": "5 June 1864",
+   "date_iso": "1864-06-05",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Mark 16:15–16",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 10, no. 573",
+   "summary": "Spurgeon attacks the teaching that baptism regenerates. He quotes the Church of England's catechism and the Book of Common Prayer's baptismal service, which declares the baptized child regenerate, and argues that clergymen who do not believe the doctrine should not stay in a church that teaches it and give their assent to it. He contends that baptism without faith saves no one and that observation shows it does not regenerate, and he presents baptism as the believer's avowal of and testimony to faith.",
+   "context": "His Autobiography quotes Spurgeon writing that he expected the sermon to ruin the sale of his printed sermons, but sales rose instead; the compilers state that 100,000 copies were quickly sold and that it had reached its 230th thousand. Spurgeon wrote that he withdrew from the Evangelical Alliance after its secretary wrote that he must either retract his language or withdraw, and that he later learned the letter had not been authorized.",
+   "key_line": "I cry out against it because I believe that baptism does not save the soul, and that the preaching of it has a wrong and evil influence upon men.",
+   "primary_category": "church-unity",
+   "categories": [
+    "church-unity",
+    "grace-salvation",
+    "reason-truth"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/baptismal-regeneration",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Baptismal Regeneration (MTP 10, no. 573)",
+     "url": "https://www.spurgeon.org/sermons/baptismal-regeneration"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 3 (1899), pp. 80–87",
+     "url": "https://archive.org/details/autobiographyofc03inspur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading, with sales figures and the Evangelical Alliance withdrawal confirmed in the Autobiography, vol. 3; the summary's claim about 'evangelical clergy' was corrected to match the text, and the page range was corrected to pp. 80–87."
+  },
+  {
+   "title": "Order and Argument in Prayer",
+   "type": "sermon",
+   "date_text": "15 July 1866",
+   "date_iso": "1866-07-15",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Job 23:3–4",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 12, no. 700",
+   "summary": "From Job's longing to find God and plead his cause, Spurgeon teaches that prayer should be ordered: real communion with God, asking distinctly for definite things, with fervency and with submission to God's will. He then urges believers to 'fill their mouths with arguments', not because God needs persuading but because pleading shows how much the mercy is valued and stirs up fervency. He gives examples of pleas drawn from God's attributes and promises, and says such prayer ends in praise.",
+   "context": "The printed heading records that it was preached on a Sunday morning at the Metropolitan Tabernacle; it was published as No. 700 of the Metropolitan Tabernacle Pulpit.",
+   "key_line": "When we come to the gate of mercy forcible arguments are the knocks of the rapper by which the gate is opened.",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "suffering"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/order-and-argument-in-prayer",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Order and Argument in Prayer (MTP 12, no. 700)",
+     "url": "https://www.spurgeon.org/sermons/order-and-argument-in-prayer"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, text and number confirmed from the printed heading on the Spurgeon Library page; summary checked against the text; key line found verbatim."
+  },
+  {
+   "title": "The First Cry from the Cross",
+   "type": "sermon",
+   "date_text": "24 October 1869",
+   "date_iso": "1869-10-24",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Luke 23:34",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 15, no. 897",
+   "summary": "Spurgeon treats Jesus' prayer 'Father, forgive them' as a picture of his continuing intercession: offered while he was being nailed to the cross, for the very people doing it, and pleading their ignorance as the one thing that could be said for them. He then argues that it sets the church's task: to live unselfishly, to seek the forgiveness and salvation of the worst and most hostile people, and to keep at it; he ends with a brief word to the unconverted.",
+   "context": "The printed heading records a Sunday-morning sermon at the Metropolitan Tabernacle on 24 October 1869. Spurgeon says in the sermon that lack of time kept him from developing his final point.",
+   "key_line": "He prayed for his enemies then, he is praying for his enemies now; the past on the cross was an earnest of the present on the throne.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "christ-cross"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-first-cry-from-the-cross",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The First Cry from the Cross",
+     "url": "https://www.spurgeon.org/sermons/the-first-cry-from-the-cross"
+    },
+    {
+     "label": "CCEL – Sermon 897, The First Cry from the Cross",
+     "url": "https://ccel.org/ccel/spurgeon/sermons15/sermons15.ii_1.html"
+    },
+    {
+     "label": "Spurgeon Gems – Sermon #897 (PDF)",
+     "url": "https://www.spurgeongems.org/sermon/chs897.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue and number confirmed from the printed heading reproduced by CCEL and Spurgeon Gems; the 'Time fails me' remark and summary checked against the text; key line found verbatim."
+  },
+  {
+   "title": "Forgiveness Made Easy",
+   "type": "sermon",
+   "date_text": "1878 (year of publication; preaching date not printed)",
+   "date_iso": "1878",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "",
+   "scripture": "Ephesians 4:32",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 24, no. 1448",
+   "summary": "Taking the text word by word, Spurgeon first dwells on God's forgiveness 'for Christ's sake', grounded in the atonement, and on its completeness. He then applies it to believers: they are to forgive one another as God has forgiven them. He adds practical counsel not to provoke, invent, take, exaggerate or repeat offences, and to answer wrongs by doing good to those who do evil.",
+   "context": "Published as No. 1448 in the 1878 volume of the Metropolitan Tabernacle Pulpit; the printed heading names the Metropolitan Tabernacle but gives no date of preaching.",
+   "key_line": "Brother, the most splendid vengeance you can ever have is to do good to them that do you evil, and to speak well of them that speak ill of you.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "love"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/forgiveness-made-easy",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – Forgiveness Made Easy (MTP 24)",
+     "url": "https://www.spurgeon.org/sermons/forgiveness-made-easy"
+    },
+    {
+     "label": "CCEL – Sermon 1448, Forgiveness Made Easy",
+     "url": "https://ccel.org/ccel/spurgeon/sermons24/sermons24.iv_1.html"
+    },
+    {
+     "label": "Spurgeon Gems – Sermon #1448 (PDF)",
+     "url": "https://www.spurgeongems.org/sermon/chs1448.pdf"
+    }
+   ],
+   "unverified_notes": "The exact preaching date is not printed; '1878' is the year of the Metropolitan Tabernacle Pulpit volume, as given by the Spurgeon Library and CCEL.",
+   "verification_status": "corrected",
+   "verification_note": "The undated heading naming the Metropolitan Tabernacle, No. 1448 and the text were confirmed via CCEL and Spurgeon Gems; date_text now says 1878 is only the publication year, and the summary's closing counsel was reworded to match the text."
+  },
+  {
+   "title": "The Friends of Jesus",
+   "type": "sermon",
+   "date_text": "8 August 1880",
+   "date_iso": "1880-08-08",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service",
+   "scripture": "John 15:14",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 26, no. 1552",
+   "summary": "Spurgeon distinguishes Christ being the friend of sinners from believers being his friends, arguing that true friendship must be mutual and that Christ names obedience as its condition. He describes the obedience asked for (practical, careful even in small commands, rendered to Christ personally and in a friendly spirit), argues that those who do not obey are not his friends and those who obey best enjoy the closest communion, and concludes that obeying Christ is the most friendly thing anyone can do for him.",
+   "context": "The printed heading records a Sunday-morning sermon at the Metropolitan Tabernacle on 8 August 1880; it was published as No. 1552.",
+   "key_line": "Friendship cannot be all on one side: one-sided friendship is more fitly called mercy, grace, or benevolence; friendship in its full sense is mutual.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "holiness",
+    "love"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-friends-of-jesus",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Friends of Jesus (MTP 26)",
+     "url": "https://www.spurgeon.org/sermons/the-friends-of-jesus"
+    },
+    {
+     "label": "CCEL – Sermon 1552, The Friends of Jesus",
+     "url": "https://ccel.org/ccel/spurgeon/sermons26/sermons26.xli.html"
+    },
+    {
+     "label": "Spurgeon Gems – Sermon #1552 (PDF)",
+     "url": "https://www.spurgeongems.org/sermon/chs1552.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue and number confirmed from the printed heading reproduced by CCEL and Spurgeon Gems; the four divisions in the summary checked against the text; key line found verbatim."
+  },
+  {
+   "title": "The Friend of God",
+   "type": "sermon",
+   "date_text": "8 May 1887",
+   "date_iso": "1887-05-08",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service",
+   "scripture": "Isaiah 41:8; James 2:23",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 33, no. 1962",
+   "summary": "Spurgeon examines Abraham's title 'the Friend of God' as a wonder of divine condescension, shown in God's visits, disclosed secrets, benefits and constancy toward Abraham and his descendants. He argues that believers may also seek this friendship, which requires reconciliation through Christ, trust without suspicion and the giving of oneself wholly to God, and draws from it both encouragement and a warning to behave tenderly toward such a Friend.",
+   "context": "The printed heading records a Sunday-morning sermon at the Metropolitan Tabernacle on 8 May 1887, taking two texts, Isaiah 41:8 and James 2:23; it was published as No. 1962.",
+   "key_line": "You and I need friendship: we cannot always lead a self-contained and solitary life; we are refreshed by the companionship, sympathy and advice of a like-minded comrade.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "faith-doubt"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-friend-of-god",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Friend of God (MTP 33)",
+     "url": "https://www.spurgeon.org/sermons/the-friend-of-god"
+    },
+    {
+     "label": "CCEL – Sermon 1962, The Friend of God",
+     "url": "https://ccel.org/ccel/spurgeon/sermons33/sermons33.xxv.html"
+    },
+    {
+     "label": "Spurgeon Gems – Sermon #1962 (PDF)",
+     "url": "https://www.spurgeongems.org/sermon/chs1962.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue, both texts and number confirmed from the printed heading reproduced by CCEL and Spurgeon Gems; summary checked against the text; key line found verbatim."
+  },
+  {
+   "title": "The Statute of David for the Sharing of the Spoil",
+   "type": "sermon",
+   "date_text": "7 June 1891",
+   "date_iso": "1891-06-07",
+   "place": "Metropolitan Tabernacle, Newington, London",
+   "occasion": "Sunday morning service; Spurgeon's last sermon at the Metropolitan Tabernacle",
+   "scripture": "1 Samuel 30:21–25",
+   "published_in": "Metropolitan Tabernacle Pulpit, vol. 37, no. 2208",
+   "summary": "From David's ruling that the two hundred men too faint to cross the brook Besor should share the spoil equally with those who fought, Spurgeon offers comfort to weak and weary believers. He argues that the faint are still in Christ's army, that Christ welcomes and defends them, and that the sick, obscure and apparently unsuccessful who serve faithfully will share his reward equally; he ends by urging the unconverted to enlist under Christ.",
+   "context": "Spurgeon's Autobiography records that illness (congestion of the lungs) stopped his preaching in May 1891 and that on the morning of 7 June 1891 he stood 'for the last time' on the Tabernacle platform; it reprints the sermon's closing words as his last words there. In the sermon he says he chose the text partly because, after his illness, he was glad to meet his Lord in public again; he died at Menton on 31 January 1892.",
+   "key_line": "These forty years and more have I served him, blessed be his name! and I have had nothing but love from him.",
+   "primary_category": "suffering",
+   "categories": [
+    "suffering",
+    "church-unity",
+    "grace-salvation"
+   ],
+   "read_url": "https://www.spurgeon.org/sermons/the-statute-of-david-for-the-sharing-of-the-spoil",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "The Spurgeon Library – The Statute of David for the Sharing of the Spoil (MTP 37)",
+     "url": "https://www.spurgeon.org/sermons/the-statute-of-david-for-the-sharing-of-the-spoil"
+    },
+    {
+     "label": "CCEL – Sermon 2208",
+     "url": "https://ccel.org/ccel/spurgeon/sermons37/sermons37.xxvii.html"
+    },
+    {
+     "label": "C. H. Spurgeon's Autobiography, vol. 4 (1899), pp. 355–357",
+     "url": "https://archive.org/details/autobiographyofc04spur"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, venue and number confirmed from the printed heading (CCEL, Spurgeon Gems) and the Autobiography, vol. 4, pp. 355–357, which also confirms the May 1891 illness and the reprinted closing words; the text-choice remark and key line were found verbatim."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Preacher bio: replaced 'the Metropolitan Tabernacle left the Baptist Union' with 'Spurgeon withdrew from the Baptist Union and the Metropolitan Tabernacle disaffiliated from it' (Spurgeon Library about page; Wikipedia), and changed 'preached until June 1891' to 'last preached on 7 June 1891' (Autobiography vol. 4).",
+  "Preacher sources: added Autobiography vol. 4 (last sermon, death at Mentone) so Wikipedia is not the only source for those facts.",
+  "The Immutability of God: context now says Spurgeon believed the August 1854 Penny Pulpit sermon was his first in print (Autobiography wording); added page reference pp. 154–155. No factual change.",
+  "The Exaltation of Christ: casualty wording now says '28 taken to hospital seriously injured' (church book); added an unverified note that the 'text... has comforted me' wording comes from the Autobiography's version of the opening, not the Spurgeon Library text.",
+  "Fast-Day Service: context no longer says the Autobiography named the fund; the 'Indian Relief Fund' is now attributed to the note printed with the sermon.",
+  "Fast-Day Service: summary corrected. It had said Spurgeon called 'war and executions afflictions'; he actually says he does not love war (and that this is not properly a war) and that a nation should see inflicting the death penalty as an affliction. Sins list reworded to match the text (merchants' lost integrity; workers idling away paid time).",
+  "The First Sermon in the Tabernacle: CCEL source changed from the vol. 7 contents page to the sermon page itself (sermons07.vii_1.html), which shows the printed heading 'Monday Afternoon, March 25th, 1861'.",
+  "Accidents, Not Punishments: added Spurgeon Gems PDF #408 as an independent source for the printed heading.",
+  "The Peacemaker: summary corrected from 'calms quarrels in the nation, the family and the church' to the sermon's actual divisions (citizen, private person, neighbour, church member); 'argues at length against war' softened to match the text.",
+  "The Peacemaker: context rewritten. Trent dates (8 November 1861 seizure; Seward's note of 26 December 1861) now come from the U.S. State Department Office of the Historian, which replaces Wikipedia; removed the unsourced 'eleven days after news reached Britain' claim.",
+  "Baptismal Regeneration: summary corrected. The sermon says clergymen who don't believe the doctrine should not stay in and assent to a church that teaches it (not 'evangelical clergy should not use those words'); added the catechism; 'Scripture and experience' changed to 'observation'.",
+  "Baptismal Regeneration: Autobiography page range corrected from pp. 82–86 to pp. 80–87; context adds Spurgeon's statement that the secretary's letter was later found to be unauthorized.",
+  "Order and Argument in Prayer: summary now names promises as well as attributes among the pleas. No factual change.",
+  "The First Cry from the Cross, The Friends of Jesus, The Friend of God: added Spurgeon Gems PDFs as independent confirmation of the printed headings, because the Spurgeon Library pages do not show them.",
+  "Forgiveness Made Easy: date_text changed to '1878 (year of publication; preaching date not printed)'; summary now says 'answer wrongs by doing good' instead of 'never take revenge', and the 'small compared with' clause was removed.",
+  "Love: blog source date given as 24 April 2019 (confirmed on the page).",
+  "The Statute of David: Autobiography page range extended to pp. 355–357 to cover the passage."
+ ]
+}

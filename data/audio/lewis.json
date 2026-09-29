@@ -1,0 +1,102 @@
+{
+ "rows": [
+  {
+   "id": "lewis-learning-in-war-time",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free legitimate recording found: the text is in copyright (so there is no LibriVox recording), HarperAudio's official free excerpt of The Weight of Glory collection covers only the opening of the title sermon, and the other copies online are unofficial or TTS uploads."
+  },
+  {
+   "id": "lewis-the-weight-of-glory",
+   "listen_url": "https://soundcloud.com/harperaudio_us/weightofglory_lewis",
+   "listen_label": "HarperAudio excerpt (read by Julian Rhind-Tutt)",
+   "kind": "authorised-reading",
+   "evidence": "The official HarperAudio US SoundCloud track 'WEIGHT OF GLORY by C. S. Lewis' (5:15, free to stream) starts with the announced title 'The Weight of Glory' and the sermon's opening words 'If you asked twenty good men today what they thought the highest of the virtues...'."
+  },
+  {
+   "id": "lewis-right-and-wrong-a-clue-to-the-meaning-of-the-universe",
+   "listen_url": "https://soundcloud.com/harperaudio_us/lewis_merechristianity",
+   "listen_label": "HarperAudio excerpt, Mere Christianity Book 1 (read by Julian Rhind-Tutt)",
+   "kind": "authorised-reading",
+   "evidence": "The official HarperAudio US SoundCloud track 'MERE CHRISTIANITY by C. S. Lewis' (5:00, free to stream; the description refers to the BBC radio talks) opens by announcing 'Book 1. Right and Wrong as a Clue to the Meaning of the Universe, 1. The Law of Human Nature', which is the published text of this first broadcast series."
+  },
+  {
+   "id": "lewis-what-christians-believe",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's own voice survives for this series, the text is in copyright (no LibriVox), and HarperAudio's free Mere Christianity excerpt covers only Book 1."
+  },
+  {
+   "id": "lewis-miracles",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice exists, and no rights-holder or public-domain reading of this 1942 St Jude talk was found; HarperAudio's free 'Miracles' excerpt is from the 1947 book, not this sermon."
+  },
+  {
+   "id": "lewis-christian-behaviour",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No broadcast recording survives, the text is in copyright (no LibriVox), and HarperAudio's free Mere Christianity excerpt covers only Book 1, not Book 3."
+  },
+  {
+   "id": "lewis-beyond-personality",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "The one surviving recording ('The New Men', 21 March 1944) is listed on the BBC's archived Lewis page, but that page's Flash/RTMP player (UK-only Akamai stream) no longer plays, and every other copy found (Internet Archive community upload, YouTube, fan sites) is an unofficial re-upload."
+  },
+  {
+   "id": "lewis-the-inner-ring",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice exists and the text is in copyright; the only free readings found are AI-voice or unofficial uploads (e.g. an 'Askwho Casts AI' Substack and an Internet Archive user upload)."
+  },
+  {
+   "id": "lewis-membership",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice, public-domain reading or free rights-holder reading of this 1945 paper was found."
+  },
+  {
+   "id": "lewis-the-grand-miracle",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice, public-domain reading or free rights-holder reading of this 1945 St Jude talk was found; HarperAudio has no free God in the Dock excerpt."
+  },
+  {
+   "id": "lewis-miserable-offenders-an-interpretation-of-prayer-book-languag",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice, public-domain reading or free rights-holder reading of this 1946 sermon was found."
+  },
+  {
+   "id": "lewis-transposition",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice exists and the text is in copyright; HarperAudio's free Weight of Glory excerpt covers only the title sermon, not 'Transposition'."
+  },
+  {
+   "id": "lewis-a-slip-of-the-tongue",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of Lewis's voice exists and the text is in copyright; HarperAudio's free Weight of Glory excerpt does not reach this final address."
+  },
+  {
+   "id": "lewis-the-four-loves",
+   "listen_url": "https://cslewisofficial.substack.com/p/the-original-recordings",
+   "listen_label": "Lewis's own voice, excerpt on the Official C.S. Lewis Substack (HarperOne)",
+   "kind": "preacher-voice",
+   "evidence": "The free podcast post 'The Original Recordings: C.S. Lewis on Philia' on the Official C.S. Lewis Substack (run by HarperOne, HarperCollins) plays a 2:33 excerpt that it describes as coming from Lewis's original broadcast recordings for the Episcopal Radio Hour of The Four Loves."
+  }
+ ]
+}

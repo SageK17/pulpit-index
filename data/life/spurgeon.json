@@ -1,0 +1,546 @@
+{
+ "id": "spurgeon",
+ "name": "Charles H. Spurgeon",
+ "born": {
+  "date_iso": "1834-06-19",
+  "date_text": "19 June 1834",
+  "place": "Kelvedon, Essex, England"
+ },
+ "died": {
+  "date_iso": "1892-01-31",
+  "date_text": "31 January 1892",
+  "place": "Hotel Beau-Rivage, Menton (Mentone), France"
+ },
+ "life_summary": "Charles Haddon Spurgeon was born at Kelvedon, Essex, on 19 June 1834, spent much of his early childhood with his grandfather, a Nonconformist minister at Stambourne, and went to school in Colchester, Maidstone and Newmarket. He was converted on 6 January 1850 in a Primitive Methodist chapel in Colchester and baptised in the River Lark at Isleham on 3 May 1850. In August 1850 he moved to Cambridge to assist in a school, began lay preaching in the villages, and from October 1851 preached at the Baptist chapel at Waterbeach, soon becoming its minister. In April 1854, aged 19, he accepted the pastorate of New Park Street Chapel in Southwark, London; crowds took the congregation to Exeter Hall and the Surrey Gardens Music Hall, where a panic on 19 October 1856 killed seven people. In 1856 he married Susannah Thompson, his twin sons were born, and his training of young ministers grew into the Pastors' College. From March 1861 he was pastor of the Metropolitan Tabernacle, where he began The Sword and the Trowel (1865) and the Stockwell Orphanage (1867), while smallpox in 1869 and recurring illness led to regular winter rests at Menton; in 1880 he moved to Westwood, Upper Norwood. After the Down-grade controversy led him to leave the Baptist Union in October 1887, he preached his last Tabernacle sermon on 7 June 1891 and died at Menton on 31 January 1892.",
+ "phases": [
+  {
+   "start_year": 1834,
+   "end_year": 1849,
+   "label": "Childhood in Essex",
+   "summary": "Born at Kelvedon, he spent much of his early childhood at his grandfather's manse in Stambourne, then lived with his parents in Colchester, attending Henry Lewis's school at Stockwell House (taught there by E. S. Leeding from 1845). He then attended school at Maidstone in 1848-49.",
+   "place": "Kelvedon, Stambourne and Colchester (Essex); Maidstone (Kent)",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (1834-1854), compiled by his wife and private secretary (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    }
+   ]
+  },
+  {
+   "start_year": 1849,
+   "end_year": 1851,
+   "label": "Newmarket, conversion and Cambridge",
+   "summary": "From summer 1849 he was an articled pupil and junior assistant (usher) at a school in Newmarket. He was converted in Colchester in January 1850 and baptised that May, then moved to Cambridge in August 1850 as assistant in Mr. Leeding's school and began lay preaching in nearby villages.",
+   "place": "Newmarket, Colchester, Cambridge",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    }
+   ]
+  },
+  {
+   "start_year": 1851,
+   "end_year": 1854,
+   "label": "Waterbeach village pastorate",
+   "summary": "From October 1851 he preached at the small Baptist chapel at Waterbeach, near Cambridge, and was soon its minister. He did this while still living and assisting in a school in Cambridge, until he accepted the call to London in April 1854.",
+   "place": "Waterbeach and Cambridge, Cambridgeshire",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (letters of 15 October and 31 December 1851) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    }
+   ]
+  },
+  {
+   "start_year": 1854,
+   "end_year": 1861,
+   "label": "New Park Street years",
+   "summary": "As pastor of New Park Street Chapel, Southwark, his crowds led to services at Exeter Hall in early 1855 while the chapel was enlarged and to Sunday-morning services at the Surrey Gardens Music Hall (23 November 1856 to 11 December 1859). He married in 1856, began training ministers, and lived in the New Kent Road and, from 1857, in Nightingale Lane, Clapham.",
+   "place": "Southwark and Clapham, London",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (1854-1860) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    },
+    {
+     "label": "Metropolitan Tabernacle, History of the Tabernacle",
+     "url": "https://metropolitantabernacle.org/history/"
+    }
+   ]
+  },
+  {
+   "start_year": 1861,
+   "end_year": 1880,
+   "label": "Tabernacle years at Clapham",
+   "summary": "He was pastor of the new Metropolitan Tabernacle, Newington, while living at Helensburgh House, Nightingale Lane, Clapham. He began The Sword and the Trowel (1865) and the Stockwell Orphanage (1867); he had smallpox in November 1869 and by early 1874 was taking winter rests at Menton.",
+   "place": "Newington and Clapham, London; Menton, France (winters)",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 3 (1856-1878) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc03spur"
+    },
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    }
+   ]
+  },
+  {
+   "start_year": 1880,
+   "end_year": 1887,
+   "label": "Tabernacle years at Westwood",
+   "summary": "In 1880 he moved to 'Westwood', Beulah Hill, Upper Norwood, and continued as pastor of the Tabernacle and head of its college and orphanage. Illness continued and he still spent winters at Menton.",
+   "place": "Upper Norwood and Newington, London; Menton, France (winters)",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (1878-1892) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    },
+    {
+     "label": "Charles Ray, Mrs. C. H. Spurgeon (1905), ch. 13, Last Years of Married Life (Reformed Reader)",
+     "url": "https://www.reformedreader.org/rbb/spurgeon/c.h.spurgeon/ch13lastmarriedyears.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1887,
+   "end_year": 1892,
+   "label": "Down-grade controversy and final illness",
+   "summary": "The 'Down-grade' articles in The Sword and the Trowel from March 1887 led to his withdrawal from the Baptist Union in October 1887 and the Union Council's 'vote of censure' in January 1888. Serious illness from May 1891 ended his Tabernacle preaching in June; he went to Menton in October 1891 and died there in January 1892.",
+   "place": "Upper Norwood and Newington, London; Menton, France",
+   "sources": [
+    {
+     "label": "Christian History Institute, The Down-Grade Controversy",
+     "url": "https://christianhistoryinstitute.org/magazine/article/down-grade-controversy"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    },
+    {
+     "label": "The Spurgeon Library, From Mentone to Norwood: The Final Journey of C. H. Spurgeon",
+     "url": "https://www.spurgeon.org/blog/from-mentone-to-norwood-the-final-journey-of-c-h-spurgeon"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1834-06-19",
+   "date_text": "19 June 1834",
+   "event": "Born at Kelvedon, Essex; much of his early childhood was spent with his grandfather, a Nonconformist minister at Stambourne.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1850-01-06",
+   "date_text": "6 January 1850",
+   "event": "Converted at age 15 in the Primitive Methodist chapel, Artillery Street, Colchester; by his own account a snowstorm drove him there and he heard a sermon on Isaiah 45:22.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1850-05-03",
+   "date_text": "3 May 1850",
+   "event": "Baptised as a believer by W. H. Cantlow at Isleham Ferry on the River Lark, Cambridgeshire, while living at Newmarket.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (diary entry for 3 May 1850) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "CHSpurgeon.com, C. H. Spurgeon's Baptism Remembered",
+     "url": "https://chspurgeon.com/articles/ch-spurgeons-baptism-remembered"
+    }
+   ]
+  },
+  {
+   "date_iso": "1850-08",
+   "date_text": "August 1850",
+   "event": "Moved to Cambridge to assist his former teacher, E. S. Leeding, in a private school while continuing his own studies.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1851",
+   "date_text": "c. winter 1850-51 (aged about 16)",
+   "event": "Preached his first sermon, in a cottage at Teversham near Cambridge; by his own account he began village preaching at about sixteen and a half.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1851-10",
+   "date_text": "October 1851",
+   "event": "Began preaching at the Baptist chapel at Waterbeach, near Cambridge, and was soon invited to continue as its minister while still teaching in Cambridge.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (letter of 15 October 1851) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1853-12-18",
+   "date_text": "18 December 1853",
+   "event": "Preached for the first time at New Park Street Chapel, Southwark, London.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "Metropolitan Tabernacle, History of the Tabernacle",
+     "url": "https://metropolitantabernacle.org/history/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1854-04-28",
+   "date_text": "28 April 1854",
+   "event": "Accepted by letter the unanimous call, voted on 19 April, to become pastor of New Park Street Chapel, at age 19.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc01inspur"
+    },
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1855-01-07",
+   "date_text": "7 January 1855",
+   "event": "His morning sermon at New Park Street on Malachi 3:6 became the first in the regular weekly publication of his sermons.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1855-07",
+   "date_text": "July 1855",
+   "event": "T. W. Medhurst, a young convert, began ministerial training under Rev. C. H. Hosken at Bexley Heath; Spurgeon later dated his single student, the start of the Pastors' College, to 1856.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    },
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    }
+   ]
+  },
+  {
+   "date_iso": "1856-01-08",
+   "date_text": "8 January 1856",
+   "event": "Married Susannah Thompson at New Park Street Chapel; the ceremony was conducted by Dr. Alexander Fletcher of Finsbury Chapel.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    },
+    {
+     "label": "The Spurgeon Library, 3 Things You Didn't Know About Spurgeon's Wife",
+     "url": "https://spurgeon.org/resource-library/blog-entries/3-things-you-didnt-know-about-spurgeons-wife"
+    }
+   ]
+  },
+  {
+   "date_iso": "1856-09-20",
+   "date_text": "20 September 1856",
+   "event": "His twin sons, Charles and Thomas, were born.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1856-10-19",
+   "date_text": "19 October 1856",
+   "event": "At the congregation's first evening service in the Surrey Gardens Music Hall, a panic killed seven people; he was prostrated for days and did not preach again until 2 November.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, Spurgeon Almost Quit",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/spurgeon-almost-quit/"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (church-book entry) (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1857-10-07",
+   "date_text": "7 October 1857",
+   "event": "Preached at the Crystal Palace on the national fast day proclaimed after the Indian Mutiny, to 23,654 people, by his own account his largest congregation in any building.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc02spur"
+    },
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    }
+   ]
+  },
+  {
+   "date_iso": "1861-03-18",
+   "date_text": "18 March 1861",
+   "event": "The Metropolitan Tabernacle, Newington, opened with a prayer meeting; he preached its first sermon on 25 March, and the church entered it free of debt on 31 March.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 3 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc03spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1864-06-05",
+   "date_text": "5 June 1864",
+   "event": "Preached his sermon 'Baptismal Regeneration' at the Tabernacle, criticising the Church of England's teaching on infant baptism and provoking a public controversy.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 3 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc03spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1865",
+   "date_text": "1865",
+   "event": "Launched his monthly magazine, The Sword and the Trowel.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    }
+   ]
+  },
+  {
+   "date_iso": "1867",
+   "date_text": "1867",
+   "event": "Founded the Stockwell Orphanage for fatherless boys, begun with 20,000 pounds offered by Mrs. Hillyard, a clergyman's widow, after his 1866 appeal.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, About Charles Spurgeon",
+     "url": "https://www.spurgeon.org/about"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 3 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc03spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1869-11",
+   "date_text": "November 1869",
+   "event": "Fell ill with smallpox, though not in its worst form, shortly after attending the Lord Mayor's banquet on 9 November.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 3 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc03spur"
+    }
+   ]
+  },
+  {
+   "date_iso": "1880",
+   "date_text": "1880",
+   "event": "Moved from Nightingale Lane, Clapham, to 'Westwood' on Beulah Hill, Upper Norwood, his last home.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    },
+    {
+     "label": "Charles Ray, Mrs. C. H. Spurgeon (1905), ch. 13 (Reformed Reader)",
+     "url": "https://www.reformedreader.org/rbb/spurgeon/c.h.spurgeon/ch13lastmarriedyears.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1887-10-28",
+   "date_text": "28 October 1887",
+   "event": "Sent his letter of withdrawal from the Baptist Union during the Down-grade controversy, which began with articles in The Sword and the Trowel from March 1887.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, Who is Charles Haddon Spurgeon?",
+     "url": "https://www.spurgeon.org/resource-library/blog-entries/who-is-charles-haddon-spurgeon/"
+    },
+    {
+     "label": "Christian History Institute, The Down-Grade Controversy",
+     "url": "https://christianhistoryinstitute.org/magazine/article/down-grade-controversy"
+    }
+   ]
+  },
+  {
+   "date_iso": "1888-01",
+   "date_text": "January 1888",
+   "event": "The Baptist Union Council passed a resolution on his charges that became known as the 'vote of censure'; the April 1888 assembly then adopted a compromise resolution.",
+   "sources": [
+    {
+     "label": "Christian History Institute, The Down-Grade Controversy",
+     "url": "https://christianhistoryinstitute.org/magazine/article/down-grade-controversy"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    }
+   ]
+  },
+  {
+   "date_iso": "1891-06-07",
+   "date_text": "7 June 1891",
+   "event": "Preached his last sermon at the Metropolitan Tabernacle, on 1 Samuel 30:21-25, after illness in May; his illness then became so serious that his death was feared.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    },
+    {
+     "label": "Charles Ray, Mrs. C. H. Spurgeon (1905), ch. 13 (Reformed Reader)",
+     "url": "https://www.reformedreader.org/rbb/spurgeon/c.h.spurgeon/ch13lastmarriedyears.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1891-10-26",
+   "date_text": "26 October 1891",
+   "event": "Left London with his wife, his brother J. A. Spurgeon and others to recover at Menton in southern France, arriving there on 29 October.",
+   "sources": [
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    },
+    {
+     "label": "The Spurgeon Library, From Mentone to Norwood: The Final Journey of C. H. Spurgeon",
+     "url": "https://www.spurgeon.org/blog/from-mentone-to-norwood-the-final-journey-of-c-h-spurgeon"
+    }
+   ]
+  },
+  {
+   "date_iso": "1892-01-31",
+   "date_text": "31 January 1892",
+   "event": "Died aged 57 at the Hotel Beau-Rivage, Menton, at 11.05 on a Sunday night, having been confined to bed since an attack of gout on 20 January.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, From Mentone to Norwood: The Final Journey of C. H. Spurgeon",
+     "url": "https://www.spurgeon.org/blog/from-mentone-to-norwood-the-final-journey-of-c-h-spurgeon"
+    },
+    {
+     "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (Internet Archive)",
+     "url": "https://archive.org/details/autobiographyofc0004vari"
+    }
+   ]
+  },
+  {
+   "date_iso": "1892-02-11",
+   "date_text": "11 February 1892",
+   "event": "Buried at Norwood Cemetery (West Norwood), London, after memorial services at the Metropolitan Tabernacle on 9-10 February.",
+   "sources": [
+    {
+     "label": "The Spurgeon Library, From Mentone to Norwood: The Final Journey of C. H. Spurgeon",
+     "url": "https://www.spurgeon.org/blog/from-mentone-to-norwood-the-final-journey-of-c-h-spurgeon"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Spurgeon Library (Midwestern Seminary), About Charles Spurgeon",
+   "url": "https://www.spurgeon.org/about"
+  },
+  {
+   "label": "The Autobiography of Charles H. Spurgeon, vol. 1 (1834-1854), compiled by his wife and private secretary, 1898 (Internet Archive)",
+   "url": "https://archive.org/details/autobiographyofc01inspur"
+  },
+  {
+   "label": "The Autobiography of Charles H. Spurgeon, vol. 2 (1854-1860) (Internet Archive)",
+   "url": "https://archive.org/details/autobiographyofc02spur"
+  },
+  {
+   "label": "The Autobiography of Charles H. Spurgeon, vol. 4 (1878-1892) (Internet Archive)",
+   "url": "https://archive.org/details/autobiographyofc0004vari"
+  },
+  {
+   "label": "Christian History Institute, The Down-Grade Controversy",
+   "url": "https://christianhistoryinstitute.org/magazine/article/down-grade-controversy"
+  }
+ ],
+ "corrections": [
+  "Died place: corrected hotel spelling to 'Beau-Rivage' as given by The Spurgeon Library.",
+  "Phase 1: replaced 'attended Stockwell House school from 1845' with Autobiography wording (Henry Lewis's school, Stockwell House; taught by Leeding from 1845) and dated Maidstone to 1848-49 per the Autobiography caption; removed specific 'Congregational' label for grandfather (sources say Stambourne meeting-house/Independent; neutral 'Nonconformist minister' used).",
+  "Phase 2: 'From 1849' made precise as 'from summer 1849', articled pupil-assistant, per J. D. Everett's account in the Autobiography.",
+  "Phase 4: Exeter Hall dates changed from 'February-May 1855' to 'early 1855 while the chapel was enlarged' (end month not confirmed); Surrey Gardens morning services dated exactly 23 Nov 1856-11 Dec 1859 per Autobiography vol. 2.",
+  "Phase 5: 'smallpox in 1869' specified as November 1869; Menton winter rests confirmed from letters of early 1874.",
+  "Phase 7: added that Down-grade articles began March 1887 (Christian History Institute); replaced unverified source order.",
+  "Event (first sermon): date_text changed from 'c. 1851 (aged 16)' to 'c. winter 1850-51', per Spurgeon's own statement that he began village preaching at sixteen and a half; removed unverified 'Cambridge lay preachers' association' detail.",
+  "Event (conversion): 'lay preacher' detail removed; snowstorm and text now attributed to his own account.",
+  "Event (Pastors' College, 1856): redated to July 1855 when Medhurst began training at Bexley Heath (Medhurst's account in vol. 2), noting Spurgeon's own dating of the single student to 1856.",
+  "Event (twins): source corrected from vol. 1 'family table' to vol. 2, where Mrs Spurgeon gives Saturday 20 September 1856.",
+  "Event (Surrey Gardens): removed unverified 'carried out faint'; church-book entry says he stayed in the pulpit, was then prostrated for days, and preached again on 2 November.",
+  "Event (orphanage): removed unverified first name 'Anne'; noted the £20,000 was offered after his 1866 appeal.",
+  "Event (New Park Street call): added Spurgeon Library 'Who is' page as independent support.",
+  "Event added: smallpox, November 1869 (Autobiography vol. 3).",
+  "Event (Down-grade withdrawal): reworded as sending his letter of withdrawal on 28 October 1887.",
+  "Event (January 1888 censure): replaced 'the April 1888 assembly confirmed it' with neutral 'adopted a compromise resolution' since sources characterise the April vote differently (CHI vs. Mrs Spurgeon's account).",
+  "Event (last sermon): removed unverified 'laid aside for about three months'; added text 1 Samuel 30:21-25 and that his death was feared (Autobiography vol. 4; Ray).",
+  "Event (departure for Menton): specified companions per Autobiography vol. 4.",
+  "Event (death): added time 11.05 p.m. per Spurgeon Library and Autobiography vol. 4.",
+  "Event (burial): 'West Norwood Cemetery' given as 'Norwood Cemetery (West Norwood)' per source; memorial services dated 9-10 February; removed vol. 4 citation not checked for burial.",
+  "Event (weekly sermons): removed unverified 'continued without a break for decades'.",
+  "Main sources: replaced Metropolitan Tabernacle history page (it gives no opening or death dates) with Christian History Institute Down-Grade article."
+ ]
+}

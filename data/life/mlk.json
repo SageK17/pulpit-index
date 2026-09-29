@@ -1,0 +1,513 @@
+{
+ "id": "mlk",
+ "name": "Martin Luther King Jr.",
+ "born": {
+  "date_iso": "1929-01-15",
+  "date_text": "15 January 1929",
+  "place": "Atlanta, Georgia, United States"
+ },
+ "died": {
+  "date_iso": "1968-04-04",
+  "date_text": "4 April 1968",
+  "place": "Memphis, Tennessee, United States"
+ },
+ "life_summary": "Martin Luther King Jr. was born Michael Luther King Jr. in Atlanta in 1929, the son of Baptist minister Martin Luther King Sr., who became pastor of Ebenezer Baptist Church in 1931. He was licensed to preach at Ebenezer in autumn 1947 and ordained there in February 1948, the year he graduated from Morehouse College. He then earned a Bachelor of Divinity at Crozer Theological Seminary (1951) and a PhD in systematic theology from Boston University (1955); the King Papers Project later found that his student papers and dissertation used sources without adequate attribution. He married Coretta Scott in 1953, and they had four children. As pastor of Dexter Avenue Baptist Church in Montgomery, Alabama (1954–1960), he led the 1955–1956 bus boycott as president of the Montgomery Improvement Association and in 1957 became the leader of what was soon named the Southern Christian Leadership Conference. From 1960 until his death he was co-pastor of Ebenezer with his father in Atlanta while taking part in campaigns in Albany, Birmingham, Selma, Chicago and elsewhere; in these years he was repeatedly jailed, spoke at the 1963 March on Washington, received the 1964 Nobel Peace Prize, publicly opposed the Vietnam War, and was monitored and wiretapped by the FBI. He was shot and killed in Memphis, Tennessee, on 4 April 1968 while supporting striking sanitation workers.",
+ "phases": [
+  {
+   "start_year": 1929,
+   "end_year": 1944,
+   "label": "Atlanta childhood",
+   "summary": "He grew up in the family home at 501 Auburn Avenue in Atlanta, son of the minister who became pastor of Ebenezer Baptist Church in 1931; his and his father's names changed to Martin Luther King around 1934. He attended local schools and entered Booker T. Washington High School in autumn 1942 after skipping ninth grade.",
+   "place": "Atlanta, Georgia",
+   "sources": [
+    {
+     "label": "King Institute, Introduction to Papers Vol. I: Called to Serve",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+    },
+    {
+     "label": "King Institute Encyclopedia: King, Martin Luther, Sr.",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/king-martin-luther-sr"
+    },
+    {
+     "label": "National Park Service: Birth Home",
+     "url": "https://www.nps.gov/malu/planyourvisit/birth-home.htm"
+    }
+   ]
+  },
+  {
+   "start_year": 1944,
+   "end_year": 1951,
+   "label": "Morehouse and Crozer years",
+   "summary": "He studied at Morehouse College in Atlanta from September 1944 to June 1948, was licensed to preach at Ebenezer in autumn 1947 and ordained and made assistant pastor there in February 1948. He then studied for a Bachelor of Divinity at Crozer Theological Seminary near Chester, Pennsylvania (September 1948 to May 1951).",
+   "place": "Atlanta, Georgia; Chester, Pennsylvania",
+   "sources": [
+    {
+     "label": "King Institute, Introduction to Papers Vol. I: Called to Serve",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology 1929–1968",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Crozer Theological Seminary",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/crozer-theological-seminary"
+    }
+   ]
+  },
+  {
+   "start_year": 1951,
+   "end_year": 1954,
+   "label": "Boston University doctoral studies",
+   "summary": "He was a doctoral student in systematic theology at Boston University from September 1951, met Coretta Scott in Boston in early 1952 and married her in June 1953. During breaks he served as associate minister at Ebenezer in Atlanta until early 1954.",
+   "place": "Boston, Massachusetts",
+   "sources": [
+    {
+     "label": "King Institute, Introduction to Papers Vol. II: Rediscovering Precious Values",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-ii-rediscovering-precious-values-0"
+    },
+    {
+     "label": "King Institute Encyclopedia: King, Coretta Scott",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/king-coretta-scott"
+    },
+    {
+     "label": "King Institute Encyclopedia: Ebenezer Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/ebenezer-baptist-church-atlanta-georgia"
+    }
+   ]
+  },
+  {
+   "start_year": 1954,
+   "end_year": 1960,
+   "label": "Dexter Avenue pastorate",
+   "summary": "After a trial sermon in January 1954 he was called by Dexter Avenue Baptist Church in Montgomery on 7 March 1954 and began full-time on 1 September 1954; he received his PhD in June 1955. He led the 1955–1956 bus boycott as MIA president, led SCLC from 1957, and drafted his resignation in November 1959.",
+   "place": "Montgomery, Alabama",
+   "sources": [
+    {
+     "label": "King Institute: Dexter Avenue Baptist Church calls King to its pastorate",
+     "url": "https://kinginstitute.stanford.edu/dexter-avenue-baptist-church-calls-king-its-pastorate"
+    },
+    {
+     "label": "King Institute Encyclopedia: Dexter Avenue Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/dexter-avenue-baptist-church-montgomery-alabama"
+    },
+    {
+     "label": "King Institute Encyclopedia: Montgomery Bus Boycott",
+     "url": "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
+    }
+   ]
+  },
+  {
+   "start_year": 1960,
+   "end_year": 1965,
+   "label": "Ebenezer co-pastorate, southern campaigns",
+   "summary": "From February 1960 he lived in Atlanta as co-pastor of Ebenezer with his father and as SCLC president. He joined or led campaigns in Albany (1961–1962), Birmingham (1963) and Selma (1965), spoke at the 1963 March on Washington and received the Nobel Peace Prize in 1964.",
+   "place": "Atlanta, Georgia (campaigns in Albany, Birmingham, Selma)",
+   "sources": [
+    {
+     "label": "National Park Service: Ebenezer Baptist Church",
+     "url": "https://www.nps.gov/malu/planyourvisit/ebenezer_baptist_church.htm"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology 1929–1968",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Selma to Montgomery March",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march"
+    }
+   ]
+  },
+  {
+   "start_year": 1965,
+   "end_year": 1968,
+   "label": "Chicago, Vietnam, final campaigns",
+   "summary": "While still co-pastor at Ebenezer, he moved into a Chicago apartment in January 1966 for SCLC's housing campaign, opposed the Vietnam War in his April 1967 Riverside Church address and announced the Poor People's Campaign in December 1967. He was killed in Memphis in April 1968 while supporting striking sanitation workers.",
+   "place": "Atlanta, Georgia; Chicago, Illinois; Memphis, Tennessee",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Chicago Campaign",
+     "url": "https://kinginstitute.stanford.edu/chicago-campaign"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology 1929–1968",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Memphis Sanitation Workers' Strike",
+     "url": "https://kinginstitute.stanford.edu/memphis-sanitation-workers-strike"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1929-01-15",
+   "date_text": "15 January 1929",
+   "event": "Born Michael Luther King Jr. at the family home, 501 Auburn Avenue, Atlanta, son of Baptist minister Michael (later Martin Luther) King Sr.",
+   "sources": [
+    {
+     "label": "King Institute, Introduction to Papers Vol. I",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+    },
+    {
+     "label": "National Park Service: Birth Home",
+     "url": "https://www.nps.gov/malu/planyourvisit/birth-home.htm"
+    }
+   ]
+  },
+  {
+   "date_iso": "1948-02-25",
+   "date_text": "25 February 1948",
+   "event": "Licensed to preach after a trial sermon at Ebenezer in autumn 1947, he was ordained and appointed assistant pastor of Ebenezer Baptist Church, Atlanta.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute, Introduction to Papers Vol. I",
+     "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+    }
+   ]
+  },
+  {
+   "date_iso": "1948-09-14",
+   "date_text": "14 September 1948",
+   "event": "After graduating from Morehouse College with a B.A. in sociology on 8 June 1948, he began studying at Crozer Theological Seminary near Chester, Pennsylvania.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Crozer Theological Seminary",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/crozer-theological-seminary"
+    }
+   ]
+  },
+  {
+   "date_iso": "1951-09-13",
+   "date_text": "13 September 1951",
+   "event": "Having graduated from Crozer in May 1951 with a Bachelor of Divinity as class valedictorian, he began doctoral studies in systematic theology at Boston University.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Crozer Theological Seminary",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/crozer-theological-seminary"
+    },
+    {
+     "label": "King Institute, Autobiography Chapter 4: Boston University",
+     "url": "https://kinginstitute.stanford.edu/king-papers/publications/autobiography-martin-luther-king-jr-contents/chapter-4-boston-university"
+    }
+   ]
+  },
+  {
+   "date_iso": "1953-06-18",
+   "date_text": "18 June 1953",
+   "event": "He married Coretta Scott, whom he had met in Boston in early 1952, at the Scott family home near Marion, Alabama.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: King, Coretta Scott",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/king-coretta-scott"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1954-09-01",
+   "date_text": "1 September 1954",
+   "event": "Called by Dexter Avenue Baptist Church on 7 March 1954, he moved to Montgomery and began his full-time pastorate; he was installed on 31 October 1954.",
+   "sources": [
+    {
+     "label": "King Institute: Dexter Avenue Baptist Church calls King to its pastorate",
+     "url": "https://kinginstitute.stanford.edu/dexter-avenue-baptist-church-calls-king-its-pastorate"
+    },
+    {
+     "label": "King Institute: King Sr. preaches at King's Dexter installation service",
+     "url": "https://kinginstitute.stanford.edu/king-sr-preaches-kings-dexter-installation-service-alberta-williams-king-conducts-ebenezer-choir"
+    }
+   ]
+  },
+  {
+   "date_iso": "1955-06-05",
+   "date_text": "5 June 1955",
+   "event": "Boston University awarded his PhD in systematic theology for a dissertation comparing the conceptions of God of Paul Tillich and Henry Nelson Wieman.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute: Dissertation of Martin Luther King, Jr.",
+     "url": "https://kinginstitute.stanford.edu/dissertation-martin-luther-king-jr"
+    }
+   ]
+  },
+  {
+   "date_iso": "1955-11-17",
+   "date_text": "17 November 1955",
+   "event": "His first child, daughter Yolanda Denise King, was born.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1955-12-05",
+   "date_text": "5 December 1955",
+   "event": "Four days after Rosa Parks's arrest, he was elected president of the Montgomery Improvement Association, which led the city's bus boycott.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Montgomery Bus Boycott",
+     "url": "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1956-01-30",
+   "date_text": "30 January 1956",
+   "event": "His Montgomery home was bombed during the boycott; his family was unharmed.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1956-12-21",
+   "date_text": "21 December 1956",
+   "event": "After the Supreme Court affirmed that bus segregation was unconstitutional, he rode an integrated Montgomery bus on the morning after the boycott ended.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Montgomery Bus Boycott",
+     "url": "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
+    }
+   ]
+  },
+  {
+   "date_iso": "1957-01-10",
+   "date_text": "10–11 January 1957",
+   "event": "Ministers meeting at Ebenezer in Atlanta founded the body soon renamed the Southern Christian Leadership Conference, with King as its leader until his death.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Southern Christian Leadership Conference",
+     "url": "https://kinginstitute.stanford.edu/southern-christian-leadership-conference-sclc"
+    },
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1957-10-23",
+   "date_text": "23 October 1957",
+   "event": "His son Martin Luther King III was born.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1958-09-20",
+   "date_text": "20 September 1958",
+   "event": "While signing copies of his book Stride Toward Freedom at Blumstein's department store in Harlem, he was stabbed in the chest by Izola Ware Curry.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Curry, Izola Ware",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/curry-izola-ware"
+    }
+   ]
+  },
+  {
+   "date_iso": "1959-02-03",
+   "date_text": "3 February – 18 March 1959",
+   "event": "He travelled to India with Coretta Scott King and Lawrence Reddick to study Gandhian nonviolence, returning on 18 March 1959.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: India Trip",
+     "url": "https://kinginstitute.stanford.edu/india-trip"
+    }
+   ]
+  },
+  {
+   "date_iso": "1960-02-01",
+   "date_text": "1 February 1960",
+   "event": "Having accepted Ebenezer's call in November 1959 and resigned from Dexter, he moved to Atlanta to serve as co-pastor with his father.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Ebenezer Baptist Church",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/ebenezer-baptist-church-atlanta-georgia"
+    }
+   ]
+  },
+  {
+   "date_iso": "1961-01-31",
+   "date_text": "31 January 1961",
+   "event": "His son Dexter Scott King was born.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1962-07-27",
+   "date_text": "27 July 1962",
+   "event": "He was arrested for a third time in Albany, Georgia, after a prayer vigil; in jail that summer he worked on sermon drafts later published in Strength to Love (1963).",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Albany Movement",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/albany-movement"
+    },
+    {
+     "label": "King Institute Encyclopedia: Strength to Love",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/strength-love"
+    }
+   ]
+  },
+  {
+   "date_iso": "1963-03-28",
+   "date_text": "28 March 1963",
+   "event": "His daughter Bernice Albertine King was born.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    }
+   ]
+  },
+  {
+   "date_iso": "1963-04-12",
+   "date_text": "12 April 1963",
+   "event": "Arrested on Good Friday during the Birmingham campaign, he wrote 'Letter from Birmingham Jail' in custody and was released on 20 April.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Birmingham Campaign",
+     "url": "https://kinginstitute.stanford.edu/birmingham-campaign"
+    }
+   ]
+  },
+  {
+   "date_iso": "1963-08-28",
+   "date_text": "28 August 1963",
+   "event": "He delivered his 'I Have a Dream' speech at the Lincoln Memorial during the March on Washington for Jobs and Freedom.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: March on Washington for Jobs and Freedom",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/march-washington-jobs-and-freedom"
+    }
+   ]
+  },
+  {
+   "date_iso": "1964-12-10",
+   "date_text": "10 December 1964",
+   "event": "He accepted the Nobel Peace Prize in Oslo, having learned of the award on 14 October 1964 in an Atlanta hospital room.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Nobel Peace Prize",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/nobel-peace-prize"
+    }
+   ]
+  },
+  {
+   "date_iso": "1965-03-21",
+   "date_text": "21–25 March 1965",
+   "event": "After joining the Selma voting rights campaign in January 1965, he led the federally protected march from Selma to the Alabama capitol in Montgomery.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Selma to Montgomery March",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/selma-montgomery-march"
+    }
+   ]
+  },
+  {
+   "date_iso": "1966-01-26",
+   "date_text": "26 January 1966",
+   "event": "He moved into an apartment at 1550 South Hamlin Avenue in a Chicago slum neighborhood as SCLC began its Chicago campaign against poor housing conditions.",
+   "sources": [
+    {
+     "label": "King Institute: Major King Events Chronology",
+     "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+    },
+    {
+     "label": "King Institute Encyclopedia: Chicago Campaign",
+     "url": "https://kinginstitute.stanford.edu/chicago-campaign"
+    }
+   ]
+  },
+  {
+   "date_iso": "1968-04-04",
+   "date_text": "4 April 1968",
+   "event": "The day after his final speech at Mason Temple, he was shot on the Lorraine Motel balcony in Memphis and pronounced dead at St. Joseph's Hospital.",
+   "sources": [
+    {
+     "label": "King Institute Encyclopedia: Assassination of Martin Luther King, Jr.",
+     "url": "https://kinginstitute.stanford.edu/encyclopedia/assassination-martin-luther-king-jr"
+    },
+    {
+     "label": "King Institute Encyclopedia: Memphis Sanitation Workers' Strike",
+     "url": "https://kinginstitute.stanford.edu/memphis-sanitation-workers-strike"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "King Institute (Stanford): Major King Events Chronology 1929–1968",
+   "url": "https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968"
+  },
+  {
+   "label": "King Institute (Stanford): Introduction to Papers Vol. I, Called to Serve",
+   "url": "https://kinginstitute.stanford.edu/introduction-volume-i-called-serve"
+  },
+  {
+   "label": "King Institute (Stanford): Introduction to Papers Vol. II, Rediscovering Precious Values",
+   "url": "https://kinginstitute.stanford.edu/introduction-volume-ii-rediscovering-precious-values-0"
+  },
+  {
+   "label": "National Park Service: Ebenezer Baptist Church, MLK Jr. National Historical Park",
+   "url": "https://www.nps.gov/malu/planyourvisit/ebenezer_baptist_church.htm"
+  },
+  {
+   "label": "New Georgia Encyclopedia: Martin Luther King Jr. (1929–1968)",
+   "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/martin-luther-king-jr-1929-1968/"
+  }
+ ],
+ "corrections": [
+  "Dexter call date corrected: the church called King on 7 March 1954 (King Institute), not in April 1954; fixed in the Dexter phase summary and the 1 September 1954 event, and the installation (31 October 1954) is now cited to the King Institute installation-service entry.",
+  "Dexter phase: 'resigned in November 1959' reworded to 'drafted his resignation in November 1959', matching the Dexter encyclopedia (resignation dated 29 November 1959).",
+  "1960 co-pastor event: now states he accepted Ebenezer's call in November 1959 (Ebenezer encyclopedia) and moved on 1 February 1960; the unsupported 'near SCLC headquarters' clause was dropped.",
+  "Albany 1962 event: removed the claim that he was jailed until 10 August (the Albany Movement page gives 10 August as the day he agreed to leave Albany) and the claim that he drafted the 'final' sermons of Strength to Love there (that source says he finished the last sermons in early 1963); the event now says he worked on sermon drafts in jail that summer.",
+  "Birmingham event: removed 'for defying an injunction', which the cited page does not support, and the Chronology citation, which gives a different release date; release on 20 April is kept from the Birmingham Campaign page.",
+  "Home bombing event: removed 'he urged the crowd to remain calm', which no fetched page confirmed; added that the family was unharmed (Chronology).",
+  "SCLC event: 'president' changed to 'leader' (the Chronology says he was named chairman of the founding Southern Negro Leaders Conference).",
+  "Birth event: added the 501 Auburn Avenue address (Chronology, NPS) and replaced the New Georgia Encyclopedia citation with the NPS Birth Home page.",
+  "Morehouse graduation date of 8 June 1948 added from the Chronology.",
+  "Stabbing event: added the store name, Blumstein's (King Institute Curry entry).",
+  "Added an event for the 21–25 March 1965 Selma-to-Montgomery march to fill the 1964–1966 gap (Selma encyclopedia).",
+  "Removed the separate 4 April 1967 'Beyond Vietnam' event to stay within 25 events; the speech remains in the final phase and the life summary, and the criticism from newspapers and the NAACP was confirmed on the Beyond Vietnam page.",
+  "Final phase sources: replaced the Beyond Vietnam page with the Chronology, which also supports the December 1967 Poor People's Campaign announcement.",
+  "Assassination event: now says 'pronounced dead at St. Joseph's Hospital' and 'the day after his final speech at Mason Temple' (Memphis strike page), in place of the unconfirmed speech-title wording.",
+  "Life summary: FBI clause changed to 'monitored and wiretapped by the FBI' (FBI encyclopedia: monitoring from December 1955, wiretaps authorised in October 1963); added that King Sr became Ebenezer pastor in 1931; the plagiarism sentence was merged into the education sentence.",
+  "Childhood phase: the name change is now dated 'around 1934' because the King Sr encyclopedia describes a gradual change rather than a single dated event.",
+  "Note: the King Institute dissertation page says the degree was conferred in May 1955, while the Chronology and the Autobiography chapter give 5 June 1955; the event keeps 5 June 1955."
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "preacher": {
+  "id": "moody",
+  "name": "Dwight L. Moody",
+  "lifespan": "1837–1899",
+  "tradition": "Evangelical Protestant; interdenominational revivalism (converted in a Congregational church)",
+  "role": "Evangelist, revivalist and founder of Christian schools",
+  "bio": "Dwight Lyman Moody was born in Northfield, Massachusetts, on 5 February 1837. While working in his uncle's shoe store in Boston he was converted in 1855 through his Sunday-school teacher Edward Kimball. In 1856 he moved to Chicago, where his mission Sunday school grew into the Illinois Street Church (opened 1864). With the singer Ira D. Sankey he led campaigns in Britain from June 1873 to August 1875 and then in major American cities. He founded Northfield Seminary (1879) and Mount Hermon School (1881), and in 1886, with Emma Dryer and others, the Chicago Evangelization Society, now Moody Bible Institute. He fell ill during a Kansas City campaign in November 1899 and died at Northfield on 22 December 1899.",
+  "corpus_note": "Most published Moody sermons are revised stenographic reports of his campaign meetings. Glad Tidings (1876), for example, prints reports taken for the New York Daily Tribune. They were issued in many collections by Fleming H. Revell and other publishers from the 1870s on. The Moody Center says its D.L. Moody Digital Archive will include more than 200 handwritten sermons. I found no documented total for the sermons he preached or published.",
+  "archive_links": [
+   {
+    "label": "D.L. Moody Digital Archive (Moody Center)",
+    "url": "https://www.moodycenter.org/archives"
+   },
+   {
+    "label": "Project Gutenberg: works by D. L. Moody",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=Moody%2C+Dwight+Lyman"
+   },
+   {
+    "label": "Internet Archive: scanned 19th-century Moody collections",
+    "url": "https://archive.org/search?query=creator%3A%28Moody%2C+Dwight+Lyman%29"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Moody Bible Institute – D. L. Moody's Story",
+    "url": "https://www.moodybible.org/about/d-l-moody/"
+   },
+   {
+    "label": "W. R. Moody, The Life of Dwight L. Moody (1900), Internet Archive",
+    "url": "https://archive.org/details/lifeofdwight00mood"
+   },
+   {
+    "label": "Moody Center – D.L. Moody Digital Archive",
+    "url": "https://www.moodycenter.org/archives"
+   },
+   {
+    "label": "Wikipedia – Dwight L. Moody",
+    "url": "https://en.wikipedia.org/wiki/Dwight_L._Moody"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "What Shall I Do with Jesus? (\"The Fire Sermon\")",
+   "type": "sermon",
+   "date_text": "8 October 1871 (retold 8 October 1893)",
+   "date_iso": "1871-10-08",
+   "place": "Farwell Hall, Chicago",
+   "occasion": "Fifth of six planned Sunday-night addresses on the life of Christ, part of a series on Bible characters; retold on Chicago Day during the 1893 World's Fair",
+   "scripture": "Matthew 27:22",
+   "published_in": "Moody's 1893 retelling is quoted in W. R. Moody, The Life of Dwight L. Moody (1900), ch. XV, and reprinted as \"The Fire Sermon\" in Sermon Classics by Great Preachers, comp. Peter F. Gunther (Chicago: Moody Press, 1982)",
+   "summary": "Moody takes Pilate's question as a test every hearer faces. Each person must decide for themselves what to do with Jesus and cannot hand that decision to a spouse or friend. Pilate failed because political advantage and the crowd outweighed his conscience. In the surviving 1893 version Moody explains why he no longer gives an audience time to put off that decision, and he urges hearers to keep the vows they made to God in times of crisis.",
+   "context": "By Moody's own account, he ended the 8 October 1871 address by asking the congregation to think the question over for a week. That night the Great Chicago Fire began, and his son's 1900 biography records that it destroyed Farwell Hall and Moody's Illinois Street Church. Retelling the story on 8 October 1893, the fire's twenty-second anniversary, Moody said he never saw that congregation again and afterwards always pressed for a decision on the spot.",
+   "key_line": "I have never seen that congregation since.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "christ-cross",
+    "suffering"
+   ],
+   "read_url": "https://www.moodypublishers.com/moody-resource/file_cache/MARKETING/415576F8E38607DDE06340641AAC2A9B.PDF",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), ch. XV 'The Chicago Fire and its Results' – Internet Archive",
+     "url": "https://archive.org/details/lifeofdwight00mood"
+    },
+    {
+     "label": "Moody Publishers excerpt, Sermon Classics by Great Preachers (1982) – 'The Fire Sermon'",
+     "url": "https://www.moodypublishers.com/moody-resource/file_cache/MARKETING/415576F8E38607DDE06340641AAC2A9B.PDF"
+    }
+   ],
+   "unverified_notes": "No text of the 1871 sermon itself survives in the sources checked; the linked text is the 1893 retelling. The linked PDF is the publisher's own sample from a 1982 compilation: Moody's 1893 words are public domain, but the modern headnote is not. The Farwell Hall venue for 8 October 1871 rests on the context in W. R. Moody's ch. XV and on Moody's 1893 retelling. The lead linking 'What Think Ye of Christ?' to the night of the fire is not supported, because Moody's own account gives Matthew 27:22 as that night's text. The modern Moody Publishers headnote places the 1893 meeting in Chicago's (Central) Music Hall. W. R. Moody says only that Moody held meetings in three large central halls that day. The original 1893 printing (newspaper or pamphlet) was not identified.",
+   "verification_status": "corrected",
+   "verification_note": "Date, text, the fire and the 1893 retelling (key line verbatim, p. 145) confirmed in W. R. Moody (1900) ch. XV and the Moody Publishers PDF; occasion reworded to match the biography, and the compilation's 1982 date and publisher added."
+  },
+  {
+   "title": "Sermon on the Death of Mr. P. P. Bliss",
+   "type": "sermon",
+   "date_text": "31 December 1876",
+   "date_iso": "1876-12-31",
+   "place": "Tabernacle, Chicago",
+   "occasion": "Sunday afternoon service on the last day of 1876, after the deaths of Mr. and Mrs. P. P. Bliss",
+   "scripture": "Matthew 24:44",
+   "published_in": "The Gospel Awakening, ed. L. T. Remlap (copyright 1877 by L. T. Palmer & Co.; checked in the 1878 second edition, Chicago: J. Fairbanks & Co., pp. 553–559, as 'On the Death of Mr. P. P. Bliss'); also in the 1883 edition (Chicago: Fairbanks and Palmer), which is the source of the Wholesome Words transcription",
+   "summary": "Death and judgment can come without warning, Moody argues, so every hearer must be ready now for life, death and judgment by accepting Christ before the year closes. He calls the idea that he is trying to frighten them from selfish motives a thought 'from the pit of hell' and says he warns them out of love. He names delay, the belief that there will be time later, as a lying deception.",
+   "context": "Moody says in the sermon that he was taking the place of the gospel singer P. P. Bliss and of D. W. Whittle, who had been expected to lead the service. His son's 1900 biography records that Mr. and Mrs. Bliss were on their way to join Moody's Chicago mission, which had begun in October 1876, when their train went through the Ashtabula bridge in Ohio. The disaster happened on the night of Friday 29 December 1876, two days before the sermon. Moody also says his hearers had heard him preach for the past three months, and he closes by directing them to the inquiry-room.",
+   "key_line": "Now there are three things which every man should be ready for in this world: ready for life, ready for death, and ready for judgment.",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "judgment",
+    "new-birth"
+   ],
+   "read_url": "https://www.wholesomewords.org/etexts/moody/moodybliss.html",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wholesome Words – Sermon on the Death of Mr. P. P. Bliss (from The Gospel Awakening, 1883)",
+     "url": "https://www.wholesomewords.org/etexts/moody/moodybliss.html"
+    },
+    {
+     "label": "The Gospel Awakening (2nd ed., Chicago: J. Fairbanks & Co., 1878; copyright 1877) – Internet Archive",
+     "url": "https://archive.org/details/thegospelawakeni78mood"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), pp. 287–288 – Internet Archive",
+     "url": "https://archive.org/details/lifeofdwight00mood"
+    },
+    {
+     "label": "Wikipedia – Ashtabula River railroad disaster",
+     "url": "https://en.wikipedia.org/wiki/Ashtabula_River_railroad_disaster"
+    }
+   ],
+   "unverified_notes": "The Tabernacle venue comes from the sermon's own words ('this Tabernacle'). The date comes from the Wholesome Words heading, and the text's internal evidence agrees with it: a Sunday afternoon, 'the closing moments of '76', and the train wreck on 'Friday night'. A newspaper first printing was not identified.",
+   "verification_status": "corrected",
+   "verification_note": "Text, key line, Whittle, the three months, the inquiry-room and the Tabernacle confirmed in the Wholesome Words text and the 1878 Gospel Awakening scan; the Bliss deaths confirmed via W. R. Moody (1900); the earlier 1877/78 printing was added, and the summary was tightened to match the sermon's wording."
+  },
+  {
+   "title": "That Gospel Sermon on the Blessed Hope",
+   "type": "sermon",
+   "date_text": "5 January 1877",
+   "date_iso": "1877-01-05",
+   "place": "Chicago Tabernacle",
+   "occasion": "Chicago campaign; according to the tract heading, repeated at the Boston Tabernacle on 29 April",
+   "scripture": "Matthew 24:36–44; 1 Thessalonians 4:13–18",
+   "published_in": "Tract No. 16, The Scriptural Publishing Society (I. C. Wellcome), Yarmouth, Maine",
+   "summary": "Moody argues that the New Testament teaches Christ's personal return as plainly as any doctrine, yet churches seldom preach it. Christians should watch for it at any moment instead of waiting for signs or for a millennium of gradual improvement. He distinguishes the Lord's coming for his church from death and from the final judgment. He also says this hope made him work harder to rescue people, not less.",
+   "context": "The tract's heading records that the sermon was delivered at the Chicago Tabernacle on 5 January 1877 and repeated in the Boston Tabernacle. The Scriptural Publishing Society of Yarmouth, Maine, issued it as No. 16 in a tract series and added a compiler's extracts from other reported Moody sermons on the same theme. One of those extracts is said to come from Glasgow City Hall on 15 March 1874.",
+   "key_line": "I look on this world as a wrecked vessel.",
+   "primary_category": "heaven-hope",
+   "categories": [
+    "heaven-hope",
+    "judgment"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/27316",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – That Gospel Sermon on the Blessed Hope",
+     "url": "https://www.gutenberg.org/ebooks/27316"
+    }
+   ],
+   "unverified_notes": "The sermon announces no single text; the scripture field lists passages it expounds at length. The tract's own publication year is not stated. The year of the Boston repetition is implied (1877) but not printed. No source independent of the tract heading was found for the date and venue.",
+   "verification_status": "verified",
+   "verification_note": "Tract heading (Great Chicago Tabernacle, 5 Jan. 1877; Boston Tabernacle, 29 April), No. 16, Wellcome/Yarmouth imprint, the Glasgow City Hall extract of 15 March 1874, the summary points and the verbatim key line all confirmed in the Gutenberg text."
+  },
+  {
+   "title": "What Think Ye of Christ?",
+   "type": "sermon",
+   "date_text": "Published 1880",
+   "date_iso": "1880",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 22:42",
+   "published_in": "Twelve Select Sermons (Chicago: F. H. Revell, 1880), sermon VI",
+   "summary": "Moody holds a courtroom-style inquiry into who Christ is. He first calls Christ's enemies (the Pharisees, Caiaphas, Pilate and his wife, Judas, the centurion, even the demons), then his friends (John the Baptist, Peter, John, Thomas, Paul, the angels, the redeemed and finally God the Father). He argues that even hostile witnesses testified to Christ's innocence or divine sonship, and he presses hearers to take sides openly and accept him.",
+   "context": "The printed text gives no date or venue. It is the sixth sermon in Twelve Select Sermons, which F. H. Revell entered for U.S. copyright in 1880; the scanned copy is an 1881 printing.",
+   "key_line": "It would be a happy day for Christianity if men would just take sides — if we could know positively who was really for Him, and who was against Him.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "new-birth"
+   ],
+   "read_url": "https://archive.org/details/twelveselectser00moodgoog",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Twelve Select Sermons (Revell, entered 1880; 1881 printing) – Internet Archive",
+     "url": "https://archive.org/details/twelveselectser00moodgoog"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900) – gives Matthew 27:22 as the fire-night text",
+     "url": "https://archive.org/details/lifeofdwight00mood"
+    }
+   ],
+   "unverified_notes": "The date and venue of delivery are not documented. The lead claim that this sermon was preached at Farwell Hall on 8 October 1871 is not supported: Moody's own account gives 'What then shall I do with Jesus which is called Christ?' (Matthew 27:22) as that night's text. The key line was checked against the OCR of the 1881 scan.",
+   "verification_status": "corrected",
+   "verification_note": "Position as sermon VI, 1880 copyright entry, the witness structure and the key line confirmed in the Internet Archive scan; the context claim that the text addresses a British audience ('your noble Queen', 'your prime minister') was removed, because neither phrase appears in the 1880 text."
+  },
+  {
+   "title": "\"Where Art Thou?\"",
+   "type": "sermon",
+   "date_text": "Published 1880",
+   "date_iso": "1880",
+   "place": "",
+   "occasion": "",
+   "scripture": "Genesis 3:9",
+   "published_in": "Twelve Select Sermons (Chicago: F. H. Revell, 1880), sermon I",
+   "summary": "Moody treats God's call to the hiding Adam as the voice of a God who comes looking for the lost, and he puts the question to three groups. Professing Christians should be openly and consistently 'out and out' for Christ and care for their children's souls. Backsliders are promised a welcome home like the prodigal's. The ungodly are told they have no excuse and are urged to seek God that night.",
+   "context": "The printed text speaks of 'London to-day' and recalls Moody's visit to England in 1867, but gives no date of delivery. It opens the collection Twelve Select Sermons, which F. H. Revell entered for copyright in 1880.",
+   "key_line": "It is not what we say so much as how we live.",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "new-birth",
+    "holiness"
+   ],
+   "read_url": "https://archive.org/details/twelveselectser00moodgoog",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Twelve Select Sermons (Revell, entered 1880; 1881 printing) – Internet Archive",
+     "url": "https://archive.org/details/twelveselectser00moodgoog"
+    }
+   ],
+   "unverified_notes": "The date and venue are not documented. The London reference suggests but does not prove where the reported text was taken down.",
+   "verification_status": "verified",
+   "verification_note": "Position as sermon I, the Genesis 3:9 text, the three-class division, the 'London to-day' and 1867 references and the verbatim key line confirmed in the Internet Archive scan of Twelve Select Sermons."
+  },
+  {
+   "title": "Excuses",
+   "type": "sermon",
+   "date_text": "Published 1880",
+   "date_iso": "1880",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 14:18–20",
+   "published_in": "Twelve Select Sermons (Chicago: F. H. Revell, 1880), sermon VII (in two parts)",
+   "summary": "Moody presents the parable of the Great Supper as God's invitation to a royal marriage feast that people turn down with excuses, and he traces excuse-making back to Adam in Eden. He answers several common excuses in turn: that the Bible is too hard to understand, that Christ is a hard master, and that one cannot know whether one is elected. Against all of them he insists the invitation is to 'whosoever will'.",
+   "context": "The printed text closes with an imagined note 'To the King of Heaven' asking to be excused from the marriage supper, with the place and date left as blanks ('July —, 1880'). Moody's final sermon, on Thursday 16 November 1899 at Convention Hall in Kansas City, was on the same parable. His son's 1900 biography quotes its closing appeal, which uses the same note, now dated from Convention Hall, Kansas City, 16 November 1899. J. Wilbur Chapman's biography also says the sermon dealt with the excuses people make for staying out of the Kingdom of God. According to W. R. Moody, Moody left Kansas City ill on 17 November, and he died at Northfield on 22 December 1899.",
+   "key_line": "Yes, it is an easy thing to serve any one we love.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "grace-salvation"
+   ],
+   "read_url": "https://archive.org/details/twelveselectser00moodgoog",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Twelve Select Sermons (Revell, entered 1880; 1881 printing) – Internet Archive",
+     "url": "https://archive.org/details/twelveselectser00moodgoog"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900), ch. 'Within the Gates', pp. 545–549 – Internet Archive",
+     "url": "https://archive.org/details/lifeofdwight00mood"
+    },
+    {
+     "label": "J. Wilbur Chapman, The Life and Work of Dwight Lyman Moody, ch. 18 'The Last Campaign'",
+     "url": "https://www.biblebelievers.com/moody/18.html"
+    }
+   ],
+   "unverified_notes": "The printed 'Excuses' is an earlier version, not a transcript of the Kansas City sermon. It mentions an invitation from 'Queen Victoria of England' but gives no date or venue of delivery; the blank 'July —, 1880' in the closing note does not establish where or when it was preached. Chapman's chapter is inconsistent on when Moody left Kansas City (it describes Friday's events but says the journey began 'Thursday evening'); W. R. Moody's biography gives 17 November.",
+   "verification_status": "corrected",
+   "verification_note": "Sermon VII in two parts, the answers to excuses and the key line confirmed in the 1880/81 scan, and the 16 November 1899 Kansas City appeal confirmed in W. R. Moody (1900) and Chapman; the unsupported 'Her Majesty the Queen' note and an unverified claim about later secondary sources were replaced with what the texts actually show, including the 1880 version of the same 'King of Heaven' appeal."
+  },
+  {
+   "title": "The Prodigal Son",
+   "type": "sermon",
+   "date_text": "February–April 1876",
+   "date_iso": "1876",
+   "place": "Hippodrome, New York",
+   "occasion": "New York campaign",
+   "scripture": "Luke 15:11–32",
+   "published_in": "Glad Tidings: Sermons and Prayer-Meeting Talks Delivered at the N.Y. Hippodrome (New York: E. B. Treat, 1876), pp. 204–214",
+   "summary": "Moody retells the parable to argue that a prodigal may lose his money, friends, food, home and testimony, but never his father's love. The turning point is the decision 'I will arise and go to my father.' He applies this to reconciliation with God, who, like the father in the story, welcomes and forgives the returning son before his confession is finished.",
+   "context": "According to the Tribune's preface, the volume's texts come from stenographic reports taken for the New York Daily Tribune, and the publisher states that all the sermons were delivered at the Hippodrome in February, March and April 1876. Moody closes with the story of his own eldest brother, who left home and returned years later to their waiting mother, who forgave him.",
+   "key_line": "There was one thing that the prodigal never lost; he lost his work, he lost his food, his home, his testimony; but he never lost his father's love.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "love",
+    "sin-repentance"
+   ],
+   "read_url": "https://archive.org/details/gladtidingscompr00mood_0",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Glad Tidings (New York: E. B. Treat, 1876) – Internet Archive",
+     "url": "https://archive.org/details/gladtidingscompr00mood_0"
+    }
+   ],
+   "unverified_notes": "The exact date within the February–April 1876 campaign is not given. The text was read from OCR of the scan; the key line differs from the scan only in spacing before the semicolons.",
+   "verification_status": "verified",
+   "verification_note": "Tribune preface (April 1876), publisher's notice (Hippodrome, February–April 1876), page range, the brother story and the verbatim key line confirmed in the Internet Archive scan of Glad Tidings."
+  },
+  {
+   "title": "True Friendship",
+   "type": "address",
+   "date_text": "February–April 1876",
+   "date_iso": "1876",
+   "place": "Hippodrome, New York",
+   "occasion": "Prayer-meeting talk during the New York campaign",
+   "scripture": "2 Samuel 15:19–21",
+   "published_in": "Glad Tidings: Sermons and Prayer-Meeting Talks Delivered at the N.Y. Hippodrome (New York: E. B. Treat, 1876), 'Prayer Meeting Talks', p. 493",
+   "summary": "Moody contrasts Ittai, a foreigner who insisted on following the exiled King David 'whether in death or life', with Hushai, who went back into the city. He notes that David learned who his friends were only when trouble came. Applying this to the church, he says Christ looks for the same loyal love that leaves everything to follow him. Fellowship with Christ is a partnership in which everything belongs to 'the firm'.",
+   "context": "A short talk printed in the prayer-meeting section of Glad Tidings. The volume's title page and publisher's notice say its contents are Moody's addresses at the New York Hippodrome, taken down by New York Daily Tribune stenographers in February–April 1876.",
+   "key_line": "David did not know who his friends were until trouble came.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "holiness"
+   ],
+   "read_url": "https://archive.org/details/gladtidingscompr00mood_0",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Glad Tidings (New York: E. B. Treat, 1876) – Internet Archive",
+     "url": "https://archive.org/details/gladtidingscompr00mood_0"
+    }
+   ],
+   "unverified_notes": "The talk carries no date or venue of its own; the Hippodrome attribution rests on the book's title page and publisher's notice.",
+   "verification_status": "verified",
+   "verification_note": "Page 493, the Ittai/Hushai contrast, the 'firm' partnership image and the verbatim key line confirmed in the Internet Archive scan of Glad Tidings."
+  },
+  {
+   "title": "\"Love That Passeth Knowledge\"",
+   "type": "address",
+   "date_text": "Published 1884",
+   "date_iso": "1884",
+   "place": "",
+   "occasion": "",
+   "scripture": "Ephesians 3:19",
+   "published_in": "The Way to God and How to Find It (Chicago: F. H. Revell, 1884), ch. I",
+   "summary": "People run from God because they think he hates them, Moody argues, whereas Scripture teaches that God loves sinners while hating sin. He describes God's love as unchanging and unfailing, greater even than a mother's love. It is shown above all at the cross, where Christ died for his enemies and prayed for his murderers.",
+   "context": "In his preface Moody says the book includes parts of addresses given in cities of Great Britain and America, with added material, and that he placed the love of God first as 'the source of all Gifts of Grace'. The chapter opens with his account of the words 'God is Love' lit in gas-jets over the pulpit of a church he had built in Chicago.",
+   "key_line": "It is just because God loves the sinner that He hates sin.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "christ-cross"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/30449",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – The Way to God and How to Find It",
+     "url": "https://www.gutenberg.org/ebooks/30449"
+    }
+   ],
+   "unverified_notes": "The addresses behind this chapter, and their dates and places, are not identified.",
+   "verification_status": "verified",
+   "verification_note": "1884 Revell copyright entry, preface wording, chapter I title and text, the gas-jet account and the verbatim key line confirmed in the Gutenberg text."
+  },
+  {
+   "title": "Forgiveness",
+   "type": "address",
+   "date_text": "Published 1884",
+   "date_iso": "1884",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 6:12–15",
+   "published_in": "Prevailing Prayer: What Hinders It? (Chicago: F. H. Revell, 1884), ch. VI",
+   "summary": "Moody argues that an unforgiving spirit keeps more people from power with God in prayer than anything else, because Christ ties God's forgiveness of us to our forgiveness of others. He urges hearers who know someone holds something against them to go and settle it before they sleep that night. True forgiveness, he says, puts the offence out of memory, just as God promises to remember forgiven sins no more.",
+   "context": "Moody's prefatory note calls the book's chapters 'Addresses', meant to be suggestive rather than exhaustive. He illustrates this one with an inquiry-room case where refusing to forgive kept a woman from peace, and with a story of a Church of England missionary in New Zealand whose convert knelt at communion beside the chief who had killed his father.",
+   "key_line": "The voice of sin may be loud, but the voice of forgiveness is louder.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "prayer"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/61883",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – Prevailing Prayer: What Hinders It?",
+     "url": "https://www.gutenberg.org/ebooks/61883"
+    }
+   ],
+   "unverified_notes": "The book gives no date or place for the underlying address; the anecdotes are as Moody tells them and were not checked independently.",
+   "verification_status": "corrected",
+   "verification_note": "1884 Revell copyright entry, chapter VI, the 'Addresses' preface wording and the verbatim key line confirmed in the Gutenberg text; the summary and context were adjusted to match the text (settling a grievance before sleep; the New Zealand story is told by Moody, not quoted as a missionary's report)."
+  },
+  {
+   "title": "\"Who Is My Neighbor?\"",
+   "type": "address",
+   "date_text": "Published 1884",
+   "date_iso": "1884",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 10:25–37",
+   "published_in": "\"To the Work! To the Work!\" Exhortations to Christians (Chicago: F. H. Revell, 1884), ch. VIII",
+   "summary": "Using the parable of the Good Samaritan, Moody argues that anyone who needs our help, bodily or spiritual, is our neighbour. He contrasts the priest, whose religion 'was in his head' and had never reached his heart, and the Levite with the Samaritan: one of a people the Jews of the time shunned, who helped a wounded Jew without a word of reproach. He urges Christians to win others through sympathy by putting themselves in their places.",
+   "context": "Published by Revell in 1884 in a collection of exhortations to Christians. Moody illustrates sympathy with his own account of burying children of poor families from his Chicago Sunday school and proposing that the school buy its own burial lot. He closes with a Quaker's motto about doing good now because 'I will not pass this way again.'",
+   "key_line": "Dear friends, if you would get into full sympathy with others put yourself in their places.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/33014",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – To The Work! To The Work! Exhortations to Christians",
+     "url": "https://www.gutenberg.org/ebooks/33014"
+    }
+   ],
+   "unverified_notes": "The book gives no date or place for the address.",
+   "verification_status": "corrected",
+   "verification_note": "1884 Revell copyright entry, chapter VIII, the Quaker motto and the verbatim key line confirmed in the Gutenberg text; the summary was corrected ('religion in his head' is said of the priest only) and the burial-lot anecdote restated as Moody tells it."
+  },
+  {
+   "title": "Sowing and Reaping",
+   "type": "sermon-series",
+   "date_text": "Published 1896",
+   "date_iso": "1896",
+   "place": "",
+   "occasion": "",
+   "scripture": "Galatians 6:7–8",
+   "published_in": "Sowing and Reaping (Chicago: Fleming H. Revell, 1896)",
+   "summary": "Across eight chapters Moody expounds Paul's rule that a person reaps what they sow, applying it to individuals, families and nations. People reap the same kind of seed they sow, reap more than they sow, and reap even when they sowed in ignorance. He holds that God forgives sin fully for Christ's sake yet often leaves its earthly consequences in place, and he ends with a chapter of warning to break with sin.",
+   "context": "Issued by Fleming H. Revell in 1896. In the first chapter Moody recalls giving out this text at a meeting where a man stood up to say he did not believe it, and he says he believed it 'a hundred times more' than he had ten years earlier.",
+   "key_line": "I believe that God forgives sin fully and freely for Christ's sake; but He allows certain penalties to remain.",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "judgment",
+    "forgiveness"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/30768",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – Sowing and Reaping (Revell, 1896)",
+     "url": "https://www.gutenberg.org/ebooks/30768"
+    }
+   ],
+   "unverified_notes": "The book does not say when or where its material was preached. It is catalogued as a sermon series because it reads as spoken addresses and refers to Moody preaching the text.",
+   "verification_status": "corrected",
+   "verification_note": "1896 Revell copyright, the eight chapter titles, the 'hundred times more' passage and the verbatim key line confirmed in the Gutenberg text; the summary's ending was corrected to match the closing chapter, 'Warning'."
+  },
+  {
+   "title": "Weighed and Wanting: Addresses on the Ten Commandments",
+   "type": "sermon-series",
+   "date_text": "Published 1898",
+   "date_iso": "1898",
+   "place": "",
+   "occasion": "",
+   "scripture": "Exodus 20:3–17; Daniel 5:27",
+   "published_in": "Weighed and Wanting: Addresses on the Ten Commandments (Chicago: Fleming H. Revell; copyright 1898 by the Bible Institute Colportage Association)",
+   "summary": "Starting from Belshazzar, who was 'weighed in the balances, and found wanting', Moody takes each of the Ten Commandments as a weight by which God measures a life. He argues, for example, that anger and hatred break the command against killing. He concludes that the commandments form one law that everyone has broken, that righteousness comes by faith in Christ, whose cross blots out the charge against sinners, and that love is the fulfilling of the law.",
+   "context": "The book's subtitle calls its chapters 'Addresses on the Ten Commandments'. It was copyrighted in 1898, the year before Moody died.",
+   "key_line": "Every sin we commit opens the door for other sins.",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "holiness",
+    "judgment"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/33340",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – Weighed and Wanting: Addresses on the Ten Commandments",
+     "url": "https://www.gutenberg.org/ebooks/33340"
+    }
+   ],
+   "unverified_notes": "The dates and places where these addresses were given are not documented in the book.",
+   "verification_status": "verified",
+   "verification_note": "1898 Bible Institute Colportage Association copyright, the Revell imprint, the chapter structure ending in 'The Handwriting Blotted Out', the 'one law, not ten' argument and the verbatim key line confirmed in the Gutenberg text."
+  },
+  {
+   "title": "The Blood",
+   "type": "sermon",
+   "date_text": "1873–1875 (first British campaign)",
+   "date_iso": "1873",
+   "place": "",
+   "occasion": "Delivered during Moody and Sankey's first campaign in England, according to the title page of the Pickering & Inglis edition",
+   "scripture": "Hebrews 9:22",
+   "published_in": "Wondrous Love and Other Gospel Addresses (London: Pickering & Inglis; first issued 1876), 'The Blood (Two Addresses)'; a sermon titled 'The Blood' also appears as sermon VIII of Twelve Select Sermons (Chicago: F. H. Revell, 1880)",
+   "summary": "Moody traces the theme of shed blood through Scripture: the garments God made for Adam and Eve, Abel's offering, Noah's altar, the ram offered in Isaac's place and the Passover. He argues that it culminates in Christ's death as a substitute for the guilty, and that forgiveness comes only through that blood. He warns against any religion that makes light of it, calling its preachers 'Cainites', and urges hearers not to leave the meeting without trusting in it.",
+   "context": "The title page of the Pickering & Inglis edition says its addresses were given during Moody and Sankey's first campaign in England. W. R. Moody's biography dates that visit from their arrival at Liverpool on 17 June 1873 to Moody's departure from England on 14 August 1875. The Pickering & Inglis edition notes that the book was first issued in 1876.",
+   "key_line": "One sin is enough to exclude us from heaven, but one drop of Christ's blood is sufficient to cover all our sins.",
+   "primary_category": "christ-cross",
+   "categories": [
+    "christ-cross",
+    "grace-salvation"
+   ],
+   "read_url": "https://www.gutenberg.org/ebooks/33520",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Project Gutenberg – Wondrous Love and Other Gospel Addresses",
+     "url": "https://www.gutenberg.org/ebooks/33520"
+    },
+    {
+     "label": "W. R. Moody, The Life of Dwight L. Moody (1900) – dates of the first British campaign",
+     "url": "https://archive.org/details/lifeofdwight00mood"
+    },
+    {
+     "label": "Twelve Select Sermons (Revell, entered 1880; 1881 printing) – Internet Archive",
+     "url": "https://archive.org/details/twelveselectser00moodgoog"
+    }
+   ],
+   "unverified_notes": "No city or date is given for either address. The Gutenberg text is from a later Pickering & Inglis reprint, and the 1873–1875 dating rests only on its title page. The Twelve Select Sermons version was not compared with it line by line.",
+   "verification_status": "corrected",
+   "verification_note": "Title-page attribution, 'First issued in 1876', the Hebrews 9:22 text, the 'Cainites' passage and the verbatim key line confirmed in the Gutenberg text, and the 17 June 1873 and 14 August 1875 dates confirmed in W. R. Moody (1900); the occasion now follows the title page ('England'), and the 1880 Twelve Select Sermons printing was noted."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Fire Sermon: occasion reworded to match W. R. Moody ch. XV (the fifth of six planned nights on Christ's life, within a series on Bible characters).",
+  "Fire Sermon: published_in now names the compilation's publisher and year (Moody Press, 1982; the year comes from the PDF metadata and Open Library); the source label now gives the chapter title; unverified_notes now say the modern headnote in the linked PDF is not public domain.",
+  "Bliss sermon: published_in now cites the earlier Gospel Awakening printing (copyright 1877, L. T. Palmer & Co.; 1878 second edition, pp. 553–559) alongside the 1883 edition.",
+  "Bliss sermon: context now attributes the Bliss deaths and the October 1876 start of the Chicago mission to W. R. Moody (1900), and dates the disaster to the night of Friday 29 December 1876; added the 1878 scan and W. R. Moody as sources.",
+  "Bliss sermon: summary adjusted to the sermon's own wording ('frighten you from selfish motives'; delay as a 'lying deception').",
+  "What Think Ye of Christ?: removed the context claim that the text addresses a British audience ('your noble Queen', 'your prime minister'); neither phrase appears in the 1880/81 text.",
+  "Excuses: replaced the unsupported 'Her Majesty the Queen' note with the text's actual 'Queen Victoria of England' reference.",
+  "Excuses: added that the 1880 text already closes with the 'To the King of Heaven' excuse note (dated 'July —, 1880'), which Moody reused in Kansas City on 16 November 1899.",
+  "Excuses: removed the unverified claim that only later secondary sources call the 1899 sermon 'Excuses' and that one dates it 23 November.",
+  "Excuses: departure from Kansas City is now attributed to W. R. Moody (17 November), with a note on the inconsistency in Chapman's chapter.",
+  "Forgiveness: the summary now matches the text (going to settle it that night with anyone who holds something against you); the New Zealand anecdote is now described as Moody's story of a Church of England missionary, not a missionary's report.",
+  "Who Is My Neighbor?: the summary no longer applies 'religion was in his head' to the Levite (the text says it of the priest only); the burial-lot anecdote now follows the text (Moody proposed that the Sunday school buy a lot).",
+  "Sowing and Reaping: summary ending corrected to the closing chapter 'Warning'; context now describes the meeting anecdote accurately.",
+  "The Blood: occasion and context now follow the title page's 'first campaign in England'; noted that 'The Blood' also appears as sermon VIII of Twelve Select Sermons (1880) and added that source; clarified that the 14 August 1875 date is Moody's departure from England."
+ ]
+}

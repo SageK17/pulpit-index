@@ -1,0 +1,530 @@
+{
+ "id": "lloyd-jones",
+ "name": "D. Martyn Lloyd-Jones",
+ "born": {
+  "date_iso": "1899-12-20",
+  "date_text": "20 December 1899",
+  "place": "Cardiff, Wales"
+ },
+ "died": {
+  "date_iso": "1981-03-01",
+  "date_text": "1 March 1981",
+  "place": "Ealing, London, England"
+ },
+ "life_summary": "David Martyn Lloyd-Jones was born in Cardiff in 1899. He grew up in Llangeitho, Cardiganshire, and moved with his family to London in 1914. He trained in medicine at St Bartholomew's Hospital, worked from 1921 as an assistant to the royal physician Sir Thomas Horder, and gained an MD in 1923 and the MRCP in 1925 before leaving medicine for the ministry in 1926. He married Dr Bethan Phillips in January 1927 and from February 1927 was minister of the Forward Movement church at Sandfields, Aberavon, where their daughters Elizabeth and Ann were born. In September 1938 he began at Westminster Chapel, London, alongside G. Campbell Morgan, committed to London in April 1939, and became sole minister when Morgan retired in 1943. There he preached long expository series, including Ephesians and Romans, helped start the Puritan Conference in 1950, and in October 1966 publicly urged evangelicals to leave mixed denominations. After major surgery in 1968 he retired from Westminster Chapel and spent his last years editing sermons for publication, lecturing and chairing the trustees of London Theological Seminary, and he died at his home in Ealing on 1 March 1981.",
+ "phases": [
+  {
+   "start_year": 1899,
+   "end_year": 1914,
+   "label": "Childhood in Cardiff, Llangeitho",
+   "summary": "Born in Cardiff, the second of three sons of a grocer. From spring 1906 the family lived in Llangeitho, Cardiganshire, where he attended the village school and Tregaron County School.",
+   "place": "Cardiff; Llangeitho, Cardiganshire, Wales",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "start_year": 1914,
+   "end_year": 1927,
+   "label": "London medical years",
+   "summary": "After the family moved to London he attended Marylebone Grammar School (1914-1917), trained in medicine at St Bartholomew's Hospital, worked from 1921 as assistant to Sir Thomas Horder, and gained an MD (1923) and the MRCP (1925). According to the Dictionary of Welsh Biography he was converted in his early twenties, and in 1926 he left medicine to prepare for the ministry.",
+   "place": "London (Westminster and Barts), England",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "start_year": 1927,
+   "end_year": 1938,
+   "label": "Sandfields, Aberavon pastorate",
+   "summary": "Minister of Bethlehem Forward Movement Church (Sandfields) in Aberavon, Port Talbot, a Presbyterian Church of Wales mission, where he and Bethan raised daughters Elizabeth (born 1927) and Ann (born 1937). In July-August 1932 he preached in Toronto, Canada.",
+   "place": "Aberavon (Port Talbot), Wales",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    }
+   ]
+  },
+  {
+   "start_year": 1938,
+   "end_year": 1943,
+   "label": "Associate at Westminster Chapel",
+   "summary": "Began at Westminster Chapel in September 1938 on a temporary basis, then committed to London in April 1939 as associate minister to G. Campbell Morgan; in 1939 he also became president of the Inter-Varsity Fellowship. During the Blitz the family lived in Haslemere, Surrey, while he continued to minister at the chapel.",
+   "place": "London; Haslemere, Surrey, England",
+   "sources": [
+    {
+     "label": "Historical Port Talbot: Martyn Lloyd-Jones",
+     "url": "https://www.historicalporttalbot.com/martin-lloyd-jones.html"
+    },
+    {
+     "label": "Christian Today: Dr Martyn Lloyd-Jones, champion of expository preaching",
+     "url": "https://www.christiantoday.com/news/dr-martyn-lloyd-jones-the-20th-centurys-great-and-counter-cultural-champion-of-expository-preaching"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "start_year": 1943,
+   "end_year": 1968,
+   "label": "Sole minister, Westminster Chapel",
+   "summary": "As sole minister of Westminster Chapel he preached expository series including Ephesians (Sunday mornings, 1954-1962), Romans (Friday evenings, October 1955 to March 1968) and Acts (Sunday evenings, 1965-1968). The period ended with major surgery in March 1968 and his retirement that year.",
+   "place": "Westminster, London, England",
+   "sources": [
+    {
+     "label": "MLJ Trust: Complete sermon collection (series dates)",
+     "url": "https://www.mljtrust.org/sermons/"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "Christianity Today (1980): Martyn Lloyd-Jones, From Buckingham to Westminster",
+     "url": "https://www.christianitytoday.com/1980/02/martyn-lloyd-jones-from-buckingham-to-westminster/"
+    }
+   ]
+  },
+  {
+   "start_year": 1968,
+   "end_year": 1981,
+   "label": "Retirement and wider ministry",
+   "summary": "After retiring he edited his sermons for publication and spoke at conferences, including 1969 lectures on preaching at Westminster Theological Seminary, Philadelphia; from 1977 he chaired the trustees of London Theological Seminary. He preached for the last time in June 1980 and died at his Ealing home in March 1981.",
+   "place": "London (Ealing), England",
+   "sources": [
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "MLJ Trust: Preaching and Preachers series",
+     "url": "https://www.mljtrust.org/topic/preaching-and-preachers/"
+    },
+    {
+     "label": "Wikipedia: London Seminary",
+     "url": "https://en.wikipedia.org/wiki/London_Seminary"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date_iso": "1899-12-20",
+   "date_text": "20 December 1899",
+   "event": "Born in Cardiff, the second of three sons of grocer Henry Lloyd-Jones and Magdalene (Maggie) Evans.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1906",
+   "date_text": "Spring 1906",
+   "event": "The family moved from Cardiff to Llangeitho, Cardiganshire, where his father ran the village shop.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1910-01-20",
+   "date_text": "20 January 1910",
+   "event": "The family home in Llangeitho burned down; ten-year-old Martyn was thrown from an upstairs window to neighbours, and his father and brother Vincent were also rescued.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1914",
+   "date_text": "1914",
+   "event": "The family moved to London, where his father set up a dairy business in Regency Street, Westminster; Martyn attended Marylebone Grammar School (1914-1917).",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1918",
+   "date_text": "1918",
+   "event": "His elder brother Harold died during the 1918 influenza pandemic.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    },
+    {
+     "label": "Wikipedia: Martyn Lloyd-Jones",
+     "url": "https://en.wikipedia.org/wiki/Martyn_Lloyd-Jones"
+    }
+   ]
+  },
+  {
+   "date_iso": "1921",
+   "date_text": "1921",
+   "event": "Having trained at St Bartholomew's Hospital, he began work as an assistant to the royal physician Sir Thomas Horder.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    },
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1926-09",
+   "date_text": "September 1926",
+   "event": "Sponsored by the London Presbytery of the Presbyterian Church of Wales as a candidate for the ministry, giving up his medical career.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1927-01-08",
+   "date_text": "8 January 1927",
+   "event": "Married Dr Bethan Phillips at Charing Cross Chapel, London.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1927-02-01",
+   "date_text": "1 February 1927",
+   "event": "Arrived at Sandfields, Aberavon (Port Talbot), as minister of Bethlehem Forward Movement Church.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1927",
+   "date_text": "1927",
+   "event": "His first daughter, Elizabeth, was born.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1932",
+   "date_text": "July-August 1932",
+   "event": "Preached in Canada for about nine weeks at Sherbourne Street United Church, Toronto, while still minister at Sandfields.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Wikipedia: Martyn Lloyd-Jones",
+     "url": "https://en.wikipedia.org/wiki/Martyn_Lloyd-Jones"
+    }
+   ]
+  },
+  {
+   "date_iso": "1937",
+   "date_text": "1937",
+   "event": "His second daughter, Ann, was born.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1938-09",
+   "date_text": "September 1938",
+   "event": "Began ministering at Westminster Chapel, London, alongside G. Campbell Morgan, initially on a temporary basis.",
+   "sources": [
+    {
+     "label": "Historical Port Talbot: Martyn Lloyd-Jones",
+     "url": "https://www.historicalporttalbot.com/martin-lloyd-jones.html"
+    },
+    {
+     "label": "Christianity Today (1980): Martyn Lloyd-Jones, From Buckingham to Westminster",
+     "url": "https://www.christianitytoday.com/1980/02/martyn-lloyd-jones-from-buckingham-to-westminster/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1939-04",
+   "date_text": "April 1939",
+   "event": "Chose Westminster Chapel over a proposal to make him principal of the theological college at Bala; the family committed to London and he became associate minister.",
+   "sources": [
+    {
+     "label": "Historical Port Talbot: Martyn Lloyd-Jones",
+     "url": "https://www.historicalporttalbot.com/martin-lloyd-jones.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1939",
+   "date_text": "1939",
+   "event": "Became president of the Inter-Varsity Fellowship of Students.",
+   "sources": [
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1943",
+   "date_text": "1943",
+   "event": "Became sole minister of Westminster Chapel when G. Campbell Morgan retired.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    },
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1944-06",
+   "date_text": "June 1944",
+   "event": "According to his 1980 interview, a flying bomb blew off half the chapel roof, and for fourteen weeks about 150 people met in a borrowed hall.",
+   "sources": [
+    {
+     "label": "Christianity Today (1980): Martyn Lloyd-Jones, From Buckingham to Westminster",
+     "url": "https://www.christianitytoday.com/1980/02/martyn-lloyd-jones-from-buckingham-to-westminster/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1950",
+   "date_text": "1950",
+   "event": "With J. I. Packer and O. Raymond Johnston he began the annual Puritan Conference at Westminster Chapel, later known as the Westminster Conference.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Puritan Conference series",
+     "url": "https://www.mljtrust.org/topic/puritan-conferences/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1955-10",
+   "date_text": "October 1955",
+   "event": "Began his Friday-evening exposition of Romans at Westminster Chapel, a series of 366 sermons that ran until March 1968.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Romans sermon series",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1966-10-18",
+   "date_text": "18 October 1966",
+   "event": "At the National Assembly of Evangelicals in Westminster Central Hall he urged evangelicals to leave mixed denominations; the chairman, John Stott, publicly disagreed.",
+   "sources": [
+    {
+     "label": "Christian Today: Evangelicals and Martyn Lloyd-Jones, fifty years later",
+     "url": "https://www.christiantoday.com/news/evangelicals-and-martin-lloyd-jones-fifty-years-later-the-debate-rages-on"
+    },
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  },
+  {
+   "date_iso": "1968-03",
+   "date_text": "March 1968",
+   "event": "Faced major surgery; by his own account this led him to leave Westminster Chapel, and his Friday-evening Romans series ended that month.",
+   "sources": [
+    {
+     "label": "Christianity Today (1980): Martyn Lloyd-Jones, From Buckingham to Westminster",
+     "url": "https://www.christianitytoday.com/1980/02/martyn-lloyd-jones-from-buckingham-to-westminster/"
+    },
+    {
+     "label": "MLJ Trust: Romans sermon series",
+     "url": "https://www.mljtrust.org/topic/book-of-romans/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1968",
+   "date_text": "1968",
+   "event": "Retired from Westminster Chapel, partly through illness but chiefly, according to the Dictionary of Welsh Biography, to edit his sermons for publication.",
+   "sources": [
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    },
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1969",
+   "date_text": "1969",
+   "event": "Lectured on preaching to students at Westminster Theological Seminary, Philadelphia; the lectures became the book Preaching and Preachers.",
+   "sources": [
+    {
+     "label": "MLJ Trust: Preaching and Preachers series",
+     "url": "https://www.mljtrust.org/topic/preaching-and-preachers/"
+    },
+    {
+     "label": "Evangelical Magazine: A lasting impact (Mark Johnston)",
+     "url": "http://www.evangelicalmagazine.com/article/a-lasting-impact/amp/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1977-10-06",
+   "date_text": "6 October 1977",
+   "event": "Gave the inaugural address of London Theological Seminary, which he helped found and whose trustees he chaired until his death.",
+   "sources": [
+    {
+     "label": "London Seminary: MLJ Inaugural Address, 6 October 1977 (PDF)",
+     "url": "https://www.londonseminary.org/wp-content/uploads/2023/01/MLJ_Inaugural_Address-1977.pdf"
+    },
+    {
+     "label": "Wikipedia: London Seminary",
+     "url": "https://en.wikipedia.org/wiki/London_Seminary"
+    }
+   ]
+  },
+  {
+   "date_iso": "1980-06",
+   "date_text": "June 1980",
+   "event": "Preached his last sermon at Barcombe Baptist Chapel; Banner of Truth gives the date as 8 June, the MLJ Trust as 7 June.",
+   "sources": [
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+     "url": "https://www.mljtrust.org/meet-mlj/"
+    }
+   ]
+  },
+  {
+   "date_iso": "1981-03-01",
+   "date_text": "1 March 1981",
+   "event": "Died in his sleep at his home in Ealing on St David's Day; after a funeral at Bethel Chapel, Newcastle Emlyn, he was buried in Gelli Cemetery there.",
+   "sources": [
+    {
+     "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+     "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+    },
+    {
+     "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn",
+     "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Dictionary of Welsh Biography: Lloyd-Jones, David Martyn (1899-1981)",
+   "url": "https://biography.wales/article/s12-LLOY-MAR-1899.html"
+  },
+  {
+   "label": "MLJ Trust: Meet Dr Martyn Lloyd-Jones",
+   "url": "https://www.mljtrust.org/meet-mlj/"
+  },
+  {
+   "label": "Banner of Truth: D. Martyn Lloyd-Jones author biography",
+   "url": "https://banneroftruth.org/us/about/banner-authors/d-martyn-lloyd-jones/"
+  },
+  {
+   "label": "Christianity Today (February 1980): Martyn Lloyd-Jones, From Buckingham to Westminster",
+   "url": "https://www.christianitytoday.com/1980/02/martyn-lloyd-jones-from-buckingham-to-westminster/"
+  },
+  {
+   "label": "MLJ Trust: Complete sermon collection (series dates)",
+   "url": "https://www.mljtrust.org/sermons/"
+  }
+ ],
+ "corrections": [
+  "June 1944 event: the 1980 interview does not tie the ~300 figure to the bombing; corrected to say the flying bomb blew off half the roof and about 150 people met in a borrowed hall for 14 weeks.",
+  "Horder event: changed 'By 1921' to '1921' (MLJ Trust says he started work as Horder's assistant in 1921) and replaced the Wikipedia source with the Dictionary of Welsh Biography.",
+  "Removed the '30 May 1968 retirement letter' event: the date and wording are supported only by Wikipedia, and no independent source could be found; replaced with a 1968 retirement event sourced to the Dictionary of Welsh Biography and Banner of Truth.",
+  "1932 Toronto event: 'first transatlantic trip' is not stated in any fetched source, so it was removed; dated July-August 1932 per the Dictionary of Welsh Biography. The Evangelical Magazine source (which gives no year) was replaced with DWB.",
+  "Sandfields phase: removed the Evangelical Magazine source and the unconfirmed 'first transatlantic trip' wording.",
+  "Associate phase: Haslemere is now sourced to a fetched Christian Today article instead of the CT 1980 interview, which does not mention Haslemere; wording changed to 'during the Blitz'.",
+  "Fire event: added the detail given by DWB that Martyn was thrown from an upstairs window to neighbours.",
+  "Added a Spring 1906 event for the move to Llangeitho (DWB).",
+  "Marriage event: added the venue, Charing Cross Chapel (DWB).",
+  "1943 event: replaced the Banner of Truth source with DWB, which explicitly dates Morgan's retirement to 1943.",
+  "March 1968 event: reworded to say he faced major surgery that month, which by his own account led him to leave Westminster Chapel, matching the interview.",
+  "Death event: added the funeral at Bethel Chapel, Newcastle Emlyn (DWB).",
+  "Harold: specified 'elder brother', because Martyn was the second of three sons.",
+  "life_summary: added the 1921 Horder date, the April 1939 commitment and the 1950 and October 1966 dates, and removed the unverified 'advising ministers' claim.",
+  "Retirement phase: removed 'counselled ministers, answered letters', which no fetched source supports; named Westminster Theological Seminary."
+ ]
+}

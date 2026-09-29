@@ -1,0 +1,731 @@
+{
+ "preacher": {
+  "id": "wesley",
+  "name": "John Wesley",
+  "lifespan": "1703–1791",
+  "tradition": "Church of England; Methodism (Evangelical Revival)",
+  "role": "Anglican priest, evangelist and leader of Methodism",
+  "bio": "John Wesley was born at Epworth, Lincolnshire, on 17 June 1703 (Old Style; 28 June New Style). He was educated at Charterhouse and Christ Church, Oxford, became a Fellow of Lincoln College in 1726, and was ordained priest in the Church of England in 1728. At Oxford he led the 'Holy Club', whose members were nicknamed Methodists, and in 1735 he sailed to Georgia, where he ministered at Savannah before returning to England in 1738. On 24 May 1738, at a society meeting in Aldersgate Street, London, he recorded that he felt his heart 'strangely warmed'. In 1739 he followed George Whitefield's example of open-air preaching, beginning at Bristol, and he organised Methodist societies, lay preachers and, from 1744, annual conferences. He meant the movement to stay within the Church of England. He died in London on 2 March 1791.",
+  "corpus_note": "The Bicentennial Edition of The Works of John Wesley (Sermons, vols. 1–4, ed. Albert C. Outler; Abingdon, 1984–) numbers the sermon texts 1–151. Its digital branch, the Wesley Works Digitization Project, says it has the texts of all of Wesley's sermons (vols. 1–4) online. Thomas Jackson's 1872 edition of the Works numbers 141 sermons. The Wesley Works Editorial Project's register (compiled by G. P. Van Buskirk, 2016) identifies four of those as by other authors: Charles Wesley, Benjamin Calamy, William Tilly and John Gambold.",
+  "archive_links": [
+   {
+    "label": "Wesley Center Online – The Sermons of John Wesley (1872 Jackson edition, full texts)",
+    "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/"
+   },
+   {
+    "label": "Wesley Works Digitization Project (digital branch of the Wesley Works Editorial Project) – all sermons from Bicentennial Edition vols. 1–4",
+    "url": "https://wesleyworks.ecdsdev.org/"
+   },
+   {
+    "label": "LibriVox public-domain audio: Sermons on Several Occasions, First Series (Internet Archive)",
+    "url": "https://archive.org/details/sermonsfirstseries_1307_librivox"
+   }
+  ],
+  "sources": [
+   {
+    "label": "New Georgia Encyclopedia – John Wesley (1703–1791)",
+    "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/john-wesley-1703-1791/"
+   },
+   {
+    "label": "Wikipedia – John Wesley (Old/New Style birth date, Aldersgate Street, first open-air sermon at Bristol, 2 April 1739)",
+    "url": "https://en.wikipedia.org/wiki/John_Wesley"
+   },
+   {
+    "label": "Wesley Center Online – The Sermons of John Wesley: An Introduction (Ryan N. Danker)",
+    "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/an-introduction/"
+   },
+   {
+    "label": "Wesley Works Editorial Project – John Wesley's Sermons: register of numbers and dates (G. P. Van Buskirk, 2016, PDF)",
+    "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+   },
+   {
+    "label": "Wesley Works Digitization Project – home page",
+    "url": "https://wesleyworks.ecdsdev.org/"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "The Circumcision of the Heart",
+   "type": "sermon",
+   "date_text": "1 January 1733",
+   "date_iso": "1733-01-01",
+   "place": "St Mary's (University Church), Oxford",
+   "occasion": "University sermon on the Feast of the Circumcision",
+   "scripture": "Romans 2:29",
+   "published_in": "Sermons on Several Occasions, vol. 2 (1748), where it opens the volume; Jackson ed. (1872) Sermon 17; Bicentennial Works 1:398–414",
+   "summary": "Wesley defines the 'circumcision of the heart' as the settled disposition Scripture calls holiness: being cleansed from sin and renewed after the mind of Christ. He names its parts as humility, faith, hope and, above all, love of God and neighbour, and calls hearers to make God the single aim of every desire. He then draws reflections from this that serve as a rule by which listeners can judge whether their own hearts have been changed in this way.",
+   "context": "According to the Bicentennial editor, Wesley's diaries show he spent close to thirty hours writing a first draft, then about as much time again consulting others on refining it, including his brother Charles and the Rector of Lincoln, Euseby Isham. The editor records Wesley's note that the sermon found favour with the Rector and the Vice-Chancellor, while Thomas Wilson called it 'enthusiastic'. In a letter to John Newton of 14 May 1765, Wesley said the sermon 'contains all that I now teach concerning salvation from all sin, and loving God with an undivided heart'.",
+   "key_line": "Circumcision of heart implies humility, faith, hope, and charity.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "love",
+    "pride-humility"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-17-the-circumcision-of-the-heart/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_17_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Center Online – Sermon 17 text and headnote",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-17-the-circumcision-of-the-heart/"
+    },
+    {
+     "label": "Wesley Works Digital Edition – Sermon 17 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon017"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The published text is the version revised for the 1748 volume. The Bicentennial editor notes that in 1748 Wesley added a personal confession in the language of his 1738 Aldersgate experience.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, text, Jackson number and 1748 placement confirmed via the Wesley Center headnote, the Bicentennial introduction and register; context on drafting and consultation rephrased to match the Bicentennial account, and the summary's 'tests' reworded."
+  },
+  {
+   "title": "On Love",
+   "type": "sermon",
+   "date_text": "20 February 1737 (1736/37 Old Style)",
+   "date_iso": "1737-02-20",
+   "place": "Savannah, Georgia",
+   "occasion": "Sunday preaching in Savannah; Quinquagesima Sunday, whose Epistle is 1 Corinthians 13",
+   "scripture": "1 Corinthians 13:3",
+   "published_in": "Arminian Magazine XX (1797), 371–78, published after Wesley's death by George Story; Jackson ed. (1872) Sermon 139; Bicentennial Works Sermon 149 (4:378–388)",
+   "summary": "Wesley argues that giving away all one's goods to the poor, or even dying as a martyr, profits nothing without love. He defines that love as love of God for his own sake and of all people for God's sake, and uses Paul's list of love's marks as tests for his hearers. He concludes that without love nothing can make life happy or death comfortable.",
+   "context": "Wesley's manuscript is annotated in his hand 'Preached, Savannah, Feb. 20, 1736/37', during his ministry in Georgia. George Story first printed it in 1797 and admitted adding sentences of his own. According to the Bicentennial editor, the manuscript surfaced again in 1938, but six of its twelve sheets are lost.",
+   "key_line": "And, First, without love nothing can so profit us as to make our lives happy.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "joy",
+    "death"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-139-on-love/",
+   "listen_url": "https://archive.org/download/sermons3to5series_1511_librivox/sermonsseries3to5_31_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 149 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon149"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 139 text and headnote",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-139-on-love/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The Wesley Center headnote gives 'February 20, 1736', the Old Style year. The Bicentennial editor notes that Wesley also preached on 1 Corinthians 13 at Savannah on 7 March 1736 and cannot fully rule out that date, though the manuscript note points to 1737. The Jackson/Wesley Center text follows Story's altered 1797 version, which replaced Wesley's word 'charity' with 'love'.",
+   "verification_status": "verified",
+   "verification_note": "Manuscript dating, Savannah, Quinquagesima, Story's 1797 printing and the 1938 rediscovery confirmed in the Bicentennial introduction; key line matched verbatim in the Jackson text; LibriVox track 31 confirmed as 'On Love'."
+  },
+  {
+   "title": "Salvation by Faith",
+   "type": "sermon",
+   "date_text": "11 June 1738",
+   "date_iso": "1738-06-11",
+   "place": "St Mary's (University Church), Oxford",
+   "occasion": "University sermon before the University of Oxford on the Festival of St Barnabas",
+   "scripture": "Ephesians 2:8",
+   "published_in": "Separate pamphlet, London, 1738; Sermons on Several Occasions, vol. 1 (1746), first sermon; Jackson ed. (1872) Sermon 1; Bicentennial Works 1:109–130",
+   "summary": "Wesley argues that every blessing comes from God's undeserved grace and that sinners are saved through faith. Saving faith is not the belief of a heathen or of the devil, nor the faith the apostles had while Christ was still on earth; it is trust in the merits of Christ's life, death and resurrection. The salvation it brings is present, a deliverance from the guilt and power of sin. He ends by answering objections that the doctrine undermines holiness, breeds pride or despair, is uncomfortable, or should not be preached.",
+   "context": "The Bicentennial editor says Oxford had set this date for Wesley's turn as university preacher soon after his return from Georgia. In the months before, he had tested his message of 'salvation by faith alone' in London churches and, the editor notes, was barred from several pulpits. The sermon came less than three weeks after his Aldersgate experience of 24 May 1738, and the editor calls it his first public evangelical manifesto after Aldersgate. Mark K. Olson notes it was first released in London by the autumn of 1738; it stands first in the first volume of Wesley's Sermons on Several Occasions (1746).",
+   "key_line": "For there is nothing we are, or have, or do, which can deserve the least thing at God's hand.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "faith-doubt"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-1-salvation-by-faith/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_01_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 1 with Bicentennial introductory comment to Sermons 1–4",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon001"
+    },
+    {
+     "label": "Society of Evangelical Arminians – Mark K. Olson on 'Salvation by Faith'",
+     "url": "https://evangelicalarminians.org/mark-k-olson-on-john-wesleys-sermon-salvation-by-faith/"
+    },
+    {
+     "label": "Internet Archive – 'A sermon on salvation by faith' (1738 printing)",
+     "url": "https://archive.org/details/bim_eighteenth-century_a-sermon-on-salvation-by_wesley-john_1738"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The Wesley Center headnote dates the sermon 18 June 1738. The Bicentennial Edition, its register and Olson all give 11 June 1738, which is used here.",
+   "verification_status": "corrected",
+   "verification_note": "Date (11 June 1738), St Barnabas occasion, venue and 1738 printing confirmed via the Bicentennial introduction, register, Olson and the Internet Archive 1738 copy; context reordered so the London preaching is placed before Aldersgate and each claim is attributed."
+  },
+  {
+   "title": "Free Grace",
+   "type": "sermon",
+   "date_text": "29 April 1739",
+   "date_iso": "1739-04-29",
+   "place": "Bristol",
+   "occasion": "",
+   "scripture": "Romans 8:32",
+   "published_in": "Free Grace: A Sermon Preach'd at Bristol (Bristol: S. and F. Farley, 1739); Jackson ed. (1872) Sermon 128; Bicentennial Works Sermon 110 (3:542–563)",
+   "summary": "Wesley argues that God's grace is 'free in all', resting on no human merit, and 'free for all' people. He attacks predestination (unconditional election and reprobation) on several grounds: it makes preaching useless; it weakens holiness, comfort and zeal for good works; it sets Scripture against itself; and it misrepresents the character of Christ and of God. He ends by appealing to God's stated will that no one should perish.",
+   "context": "According to the Bicentennial editor, Wesley drew lots on 26 April 1739 on whether to confine his attack on predestination to preaching, and the lot fell on 'preach and print'. He then published the sermon at Bristol. The editor says it marked a breach with George Whitefield that was never more than partly healed. Whitefield answered it in a public letter dated 24 December 1740. Wesley never put it in his collected Sermons, though it ran to ten or eleven separate editions in his lifetime.",
+   "key_line": "The grace or love of God, whence cometh our salvation, is free in all, and free for all.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "love"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-128-free-grace/",
+   "listen_url": "https://archive.org/download/sermons3to5series_1511_librivox/sermonsseries3to5_20_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 110 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon110"
+    },
+    {
+     "label": "Society of Evangelical Arminians – Mark K. Olson, 'Famous Sermons of John Wesley 3: Free Grace'",
+     "url": "https://evangelicalarminians.org/mark-k-olson-famous-sermons-of-john-wesley-3-free-grace/"
+    },
+    {
+     "label": "Internet Archive – 'Free grace: a sermon preach'd at Bristol' (Bristol: S. and F. Farley, 1739)",
+     "url": "https://archive.org/details/freegracesermonp00wesl"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The Wesley Center headnote reads 'Preached at Bristol, in the year 1740', and the Bicentennial introduction to Sermon 53 also loosely dates the attack to 1740. The Bicentennial register gives 29 April 1739, Olson places Wesley's open declaration against predestination on that day, and the Internet Archive copy of the Bristol printing is dated 1739. The exact venue in Bristol was not found in the sources consulted. The key line follows the Bicentennial text; the Wesley Center (Jackson) text prints 'FREE IN ALL, and FREE FOR ALL' in capitals.",
+   "verification_status": "corrected",
+   "verification_note": "Date, 1739 Farley printing, lot-drawing, Whitefield's 24 December 1740 reply and edition count confirmed via the Bicentennial introduction, register, Olson and the Internet Archive copy; the unsupported claim that Wesley had 'taken over Whitefield's work' at Bristol was removed."
+  },
+  {
+   "title": "The Almost Christian",
+   "type": "sermon",
+   "date_text": "25 July 1741",
+   "date_iso": "1741-07-25",
+   "place": "St Mary's (University Church), Oxford",
+   "occasion": "University sermon before the University of Oxford on the Feast of St James the Apostle",
+   "scripture": "Acts 26:28",
+   "published_in": "First edition, 1741; Sermons on Several Occasions, vol. 1 (1746); Jackson ed. (1872) Sermon 2; Bicentennial Works 1:131–141",
+   "summary": "Wesley contrasts the 'almost Christian', who has outward honesty, religious observance and even sincerity, with the 'altogether Christian'. The second is marked by a love of God that fills the heart, a love of every neighbour including enemies, and the faith from which both spring. He presses his hearers to ask which of the two they are.",
+   "context": "Wesley's Journal records a sermon on the same text at Charles Square, London, on 28 June 1741. The Bicentennial editor says he revised it with an application aimed at Oxford, where he confessed that the 'almost' state had been his own there. John Gambold had warned him that Oxford hearers were prejudiced against him. The editor states that no record of the sermon's reception survives.",
+   "key_line": "Nor may we in any wise except our enemies or the enemies of God and their own souls.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "love",
+    "faith-doubt"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-2-the-almost-christian/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_02_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Bicentennial introductory comment to Sermons 1–4",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon001"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 2 text and headnote",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-2-the-almost-christian/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, St James's Day occasion, Charles Square preaching, Gambold's warning and the absence of reception records confirmed in the Bicentennial introduction and the Wesley Center headnote; published_in corrected to add the first separate edition of 1741."
+  },
+  {
+   "title": "Scriptural Christianity",
+   "type": "sermon",
+   "date_text": "24 August 1744",
+   "date_iso": "1744-08-24",
+   "place": "St Mary's (University Church), Oxford",
+   "occasion": "University sermon before the University of Oxford on St Bartholomew's Day",
+   "scripture": "Acts 4:31",
+   "published_in": "Separate pamphlet, 1744; Sermons on Several Occasions, vol. 1 (1746); Jackson ed. (1872) Sermon 4; Bicentennial Works 1:159–180",
+   "summary": "Wesley argues that the Spirit's lasting gift to all believers is not miraculous powers but the mind of Christ and the fruit of the Spirit. He traces this Christianity as it starts in individuals, spreads from person to person, and will one day fill the earth. In his closing application he asks whether Oxford's magistrates, heads of colleges, fellows and students show this Christianity, and calls them to repentance.",
+   "context": "The Vice-Chancellor sent for Wesley's notes. William Blackstone, in a letter of 28 August 1744, summarised the sermon's charges against the University disapprovingly and said Wesley would be punished 'by a mortifying neglect'. Wesley's Journal for that day reads: 'I preached, I suppose the last time, at St. Mary's.' In 1781 he wrote that the University afterwards paid others to preach in his turn.",
+   "key_line": "It was therefore, for a more excellent purpose than this, that \"they were all filled with the Holy Ghost.\"",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "holiness",
+    "sin-repentance"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-4-scriptural-christianity/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_04_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Bicentennial introductory comment to Sermons 1–4 (quotes Journal, Blackstone and Kennicott)",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon001"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 4 text, headnote and 'To the Reader'",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-4-scriptural-christianity/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "In his 'To the reader', Wesley says he printed the whole sermon because of 'false and scurrilous accounts' of it.",
+   "verification_status": "corrected",
+   "verification_note": "Date, venue, Blackstone letter, Journal entry and 1781 recollection confirmed via the Bicentennial introduction and Wesley Center text; the pamphlet year was established as 1744 (the Bicentennial editor says it was published shortly after delivery in 1744)."
+  },
+  {
+   "title": "Justification by Faith",
+   "type": "sermon",
+   "date_text": "1746 (first published)",
+   "date_iso": "1746",
+   "place": "",
+   "occasion": "",
+   "scripture": "Romans 4:5",
+   "published_in": "Sermons on Several Occasions, vol. 1 (1746); Jackson ed. (1872) Sermon 5; Bicentennial Works 1:181–199",
+   "summary": "Wesley grounds justification in humanity's creation in God's image, its fall in Adam, and its redemption through Christ as the 'Second Adam'. He argues that justification is not being made actually righteous, which is sanctification, but God's pardon: the forgiveness of sins. It is given to the ungodly on the single condition of faith.",
+   "context": "The Journal records Wesley's first oral sermon on this text on 28 May 1738 at the chapel in Long Acre, London. The Bicentennial editor counts at least eight more uses of the text before 8 June 1742, when he preached on it at Epworth. The written sermon was first published in 1746 and was not reprinted separately in his lifetime.",
+   "key_line": "The plain scriptural notion of justification is pardon, the forgiveness of sins.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "grace-salvation",
+    "faith-doubt"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-5-justification-by-faith/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_05_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 5 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon005"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 5 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-5-justification-by-faith/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "This is a written sermon. No specific delivery of this exact text is documented; the date given is its first publication.",
+   "verification_status": "corrected",
+   "verification_note": "1746 publication, Long Acre preaching of 28 May 1738 and the Epworth preaching of 8 June 1742 confirmed via the Bicentennial introduction and register; context reworded because the editor counts eight uses before the Epworth sermon, not including it."
+  },
+  {
+   "title": "Upon Our Lord's Sermon on the Mount, Discourse VI",
+   "type": "sermon",
+   "date_text": "1748 (first published)",
+   "date_iso": "1748",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 6:1–15",
+   "published_in": "Sermons on Several Occasions, vol. 2 (1748); Jackson ed. (1872) Sermon 26; Bicentennial Works 1:572–591",
+   "summary": "Wesley explains that Christ requires a pure intention toward God in works of mercy, such as almsgiving, and works of piety, such as prayer; done to be seen by others, they lose their worth. He then explains the Lord's Prayer petition by petition. On 'forgive us our trespasses', he argues that God forgives us on condition that, and to the degree that, we forgive others from the heart.",
+   "context": "This is the sixth of thirteen discourses on Matthew 5–7 that Wesley published in 1748–1750. The Bicentennial editor describes them as separate sermons drawn from material going back to 1725. He also cites Benjamin Ingham's Journal record that during the voyage to Georgia aboard the Simmonds, Wesley went through the Sermon on the Mount with the ship's company.",
+   "key_line": "All our trespasses and sins are forgiven us, if we forgive, and as we forgive, others.",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "forgiveness",
+    "holiness"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-26-upon-our-lords-sermon-on-the-mount-discourse-six/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_26_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Bicentennial introductory comment to Sermons 21–33 (Sermon 26 page)",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon026"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 26 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-26-upon-our-lords-sermon-on-the-mount-discourse-six/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The volume number is inferred from the Bicentennial date (1748) and the Wesley Center note that volume 2 appeared in 1748. No specific delivery of this written discourse is documented.",
+   "verification_status": "corrected",
+   "verification_note": "1748 date, text, Jackson number and the Ingham record confirmed via the Bicentennial introduction and register; the unsourced voyage years '1735–36' were replaced with the ship's name as given by the editor."
+  },
+  {
+   "title": "Catholic Spirit",
+   "type": "sermon",
+   "date_text": "1750 (first published)",
+   "date_iso": "1750",
+   "place": "",
+   "occasion": "",
+   "scripture": "2 Kings 10:15",
+   "published_in": "Sermons on Several Occasions, vol. 3 (1750); reissued separately in 1755 and 1770; Jackson ed. (1872) Sermon 39; Bicentennial Works 2:79–96",
+   "summary": "Wesley argues that differences of opinion and forms of worship may prevent outward union among Christians but need not prevent union in love. The question 'Is thine heart right?' concerns faith in Christ and love of God and of all people, enemies included, not opinions or ways of worship. 'Give me thine hand' means love me, pray for me, spur me to good works and work alongside me. He separates this 'catholic spirit' from indifference to doctrine, worship or church membership.",
+   "context": "The Bicentennial editor records only three other preachings on 2 Kings 10:15: 23 November 1740, and 8 September and 3 November 1749. The sermon was reissued separately in 1755 and 1770 with Charles Wesley's hymn 'Catholic Love' added. The editor describes it as Wesley's most formal statement of his non-dogmatic approach to Christian unity.",
+   "key_line": "Though we can't think alike, may we not love alike?",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "church-unity"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-39-catholic-spirit/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_39_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 39 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon039"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 39 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-39-catholic-spirit/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The key line follows the Bicentennial text of Wesley's words; the 1872 Jackson text on the Wesley Center page reads 'Though we cannot think alike, may we not love alike' (that site's rendering drops question marks). The volume number is inferred from the Bicentennial date (1750) and the Wesley Center note that volume 3 appeared in 1750.",
+   "verification_status": "verified",
+   "verification_note": "1750 date, text, the three other recorded preachings and the 1755/1770 reissues with 'Catholic Love' confirmed in the Bicentennial introduction and register; key line matched verbatim in the Bicentennial text."
+  },
+  {
+   "title": "The Great Assize",
+   "type": "sermon",
+   "date_text": "10 March 1758",
+   "date_iso": "1758-03-10",
+   "place": "St Paul's Church, Bedford",
+   "occasion": "Assize sermon before Sir Edward Clive, Judge of Common Pleas, arranged by the High Sheriff, William Cole",
+   "scripture": "Romans 14:10",
+   "published_in": "Published separately in 1758 at the request of the High Sheriff, William Cole, and others; added to Sermons on Several Occasions, vol. 1 (1771 edition); Jackson ed. (1872) Sermon 15; Bicentennial Works 1:354–375",
+   "summary": "Using the court before him as a comparison, Wesley describes the events he expected to come before the Last Judgment. He then describes the judgment itself, where every person's deeds, words and even thoughts will be laid open, and what follows: the carrying out of the sentence, the burning of the present earth, and new heavens and a new earth. He applies the theme to the judges and officers present and to the whole assembly, urging them to prepare through repentance and faith.",
+   "context": "Wesley's Journal for 27 February 1758 records that he withdrew to Lewisham to write a sermon for the Bedford assizes. The Journal also says the judge invited him to dine after the sermon, but he declined because he had no time and had to set out. The Bicentennial editor calls it Wesley's only published sermon addressed to a civil court. In 1778 Wesley wrote that he could not write a better sermon on the Great Assize than he had then.",
+   "key_line": "O make proof of his mercy, rather than his justice; of his love, rather than the thunder of his power!",
+   "primary_category": "judgment",
+   "categories": [
+    "judgment",
+    "heaven-hope"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-15-the-great-assize/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_15_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Center Online – Sermon 15 text and title-page headnote",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-15-the-great-assize/"
+    },
+    {
+     "label": "Wesley Works Digital Edition – Sermon 15 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon015"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "",
+   "verification_status": "verified",
+   "verification_note": "Date, St Paul's Bedford, Judge Clive, High Sheriff Cole, 1758 publication and 1771 insertion into SOSO I confirmed via the Wesley Center title-page headnote and the Bicentennial introduction; key line matched verbatim."
+  },
+  {
+   "title": "The Cure of Evil-Speaking",
+   "type": "sermon",
+   "date_text": "1760 (first published)",
+   "date_iso": "1760",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 18:15–17",
+   "published_in": "Sermons on Several Occasions, vol. 4 (1760); Jackson ed. (1872) Sermon 49; Bicentennial Works 2:251–262",
+   "summary": "Wesley defines evil-speaking as telling the real faults of someone who is not present, even when every word is true, and notes how common and well disguised it is. As its cure he sets out Christ's three steps: speak to the offender alone in a spirit of love and humility, then with one or two others, and only then tell the church. He urges Methodists to make 'he censures no man behind his back' their distinguishing mark.",
+   "context": "On 29 January 1752 the Wesley brothers and eleven colleagues signed a compact, written in John's hand, not to listen to or pass on ill reports about one another. The Bicentennial editor records Wesley preaching against evil-speaking at least nine times in 1752. The written sermon's only publication in his lifetime was in the fourth volume of Sermons on Several Occasions.",
+   "key_line": "All a man says may be as true as the Bible; and yet the saying of it is evil-speaking.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "church-unity",
+    "love"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-49-the-cure-of-evil-speaking/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_50_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 49 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon049"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 49 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-49-the-cure-of-evil-speaking/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "This is a written sermon; no specific delivery of this text is documented.",
+   "verification_status": "verified",
+   "verification_note": "1760 date, text, the 29 January 1752 compact, the nine 1752 preachings and the single SOSO IV publication confirmed in the Bicentennial introduction and register; key line and 'distinguishing mark' passage matched in the Jackson text."
+  },
+  {
+   "title": "The Use of Money",
+   "type": "sermon",
+   "date_text": "1760 (first published)",
+   "date_iso": "1760",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 16:9",
+   "published_in": "Sermons on Several Occasions, vol. 4 (1760), closing sermon; Jackson ed. (1872) Sermon 50; Bicentennial Works 2:263–280",
+   "summary": "Wesley treats money as a trust from God, held by stewards, and reduces its right use to three rules. First, gain all you can by honest work without harming your own or your neighbour's body or soul. Second, save all you can by refusing to spend on mere self-gratification. Third, give all you can: provide for yourself and your household, then do good to fellow believers and to all people, since everything belongs to God.",
+   "context": "The Bicentennial editor notes that this sermon completes the set later named in the 1763 Model Deed as 'the first four volumes of sermons'. He also counts at least twenty-seven recorded oral sermons by Wesley on Luke 16:9 between 1741 and 1758. According to the editor, Wesley later complained that his warnings went unheeded as Methodists prospered, and his own people did not follow his rejection of accumulating surplus wealth.",
+   "key_line": "Having, First, gained all you can, and, Secondly saved all you can, Then \"give all you can.\"",
+   "primary_category": "money-work",
+   "categories": [
+    "money-work",
+    "holiness"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-50-the-use-of-money/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_51_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 50 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon050"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 50 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-50-the-use-of-money/"
+    },
+    {
+     "label": "Wesley Center Online – Introduction (volume dates and 1763 Model Deed)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/an-introduction/"
+    }
+   ],
+   "unverified_notes": "This is a written sermon; no specific delivery of this exact text is documented.",
+   "verification_status": "verified",
+   "verification_note": "1760 date, Luke 16:9, the Model Deed link and the twenty-seven oral sermons confirmed in the Bicentennial introduction, register and Wesley Center introduction; key line matched verbatim."
+  },
+  {
+   "title": "The Scripture Way of Salvation",
+   "type": "sermon",
+   "date_text": "1765 (first published)",
+   "date_iso": "1765",
+   "place": "",
+   "occasion": "",
+   "scripture": "Ephesians 2:8",
+   "published_in": "First published 1765; added to Sermons on Several Occasions in the 1771 edition; Jackson ed. (1872) Sermon 43; Bicentennial Works 2:153–169",
+   "summary": "Wesley defines the salvation of Ephesians 2:8 as a present reality. It runs from the first workings of prevenient ('preventing') grace, through justification and sanctification, to entire sanctification. He describes faith as a divine evidence and conviction of things not seen, and argues that it is the only condition immediately necessary for both justification and sanctification, with repentance and its fruits needed only more remotely. He urges believers to expect full sanctification by faith, as they are, and now.",
+   "context": "The Bicentennial editor places the sermon after Wesley's controversy with followers of Robert Sandeman over faith and assurance, at a time of unsettled views among the Methodists. The editor calls it 'the most successful summary of the Wesleyan vision of the ordo salutis in the entire sermon corpus'. He counts forty uses of Ephesians 2:8 in Wesley's oral preaching before 1765 and five further editions in Wesley's lifetime.",
+   "key_line": "The end is, in one word, salvation; the means to attain it, faith.",
+   "primary_category": "grace-salvation",
+   "categories": [
+    "grace-salvation",
+    "faith-doubt",
+    "holiness"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-43-the-scripture-way-of-salvation/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_44_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 43 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon043"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 43 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-43-the-scripture-way-of-salvation/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "No specific delivery of this written sermon is documented. The 1765 date is the Bicentennial date of publication.",
+   "verification_status": "verified",
+   "verification_note": "1765 date, 1771 insertion into SOSO, the Sandeman background, forty prior uses of the text and five further editions confirmed in the Bicentennial introduction and register; summary checked against the Jackson text and key line matched verbatim."
+  },
+  {
+   "title": "On the Death of the Rev. Mr. George Whitefield",
+   "type": "sermon",
+   "date_text": "18 November 1770",
+   "date_iso": "1770-11-18",
+   "place": "Chapel in Tottenham Court Road, London (repeated at the Tabernacle, Moorfields, 23 November 1770)",
+   "occasion": "Funeral sermon for George Whitefield, who died at Newburyport, Massachusetts, on 30 September 1770",
+   "scripture": "Numbers 23:10",
+   "published_in": "Published separately (five editions in two years, per the Bicentennial editor); omitted from Sermons on Several Occasions (1787–88); Jackson ed. (1872) Sermon 53; Bicentennial Works 2:325–347",
+   "summary": "Taking Balaam's wish to 'die the death of the righteous', Wesley outlines Whitefield's life and death, drawing largely on Whitefield's own journals and on excerpts from the Boston Gazette and the London Evening Post. He then describes Whitefield's character, including his capacity for 'the most tender friendship' and his 'catholic love' for all whom he believed to be children of God. He urges hearers to hold to the doctrines Whitefield preached, which he sums up as the new birth and justification by faith, and to share his spirit of love.",
+   "context": "John Gillies's Memoirs of Whitefield records that whenever Whitefield's friend Mr Keen asked who should preach his funeral sermon if he died abroad, Whitefield answered that Wesley was the man. Keen therefore engaged Wesley on 10 November 1770. The Bicentennial editor calls the occasion awkward: three months earlier Wesley's Conference had issued a warning against leaning toward Calvinism, and the breach over 'Free Grace' had never fully healed. Wesley's Journal says most of the congregation appeared deeply affected; at the Tabernacle, where he was due to begin at half past five, the building was full by three, so he began at four.",
+   "key_line": "How few have we known of so kind a temper, of such large and flowing affections!",
+   "primary_category": "death",
+   "categories": [
+    "death",
+    "friendship",
+    "church-unity"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/",
+   "listen_url": "https://archive.org/download/sermonsfirstseries_1307_librivox/sermonsfirstseries_54_wesley_64kb.mp3",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 53 with Bicentennial introductory comment (quotes Gillies and Wesley's Journal)",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon053"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 53 text and headnote (dates and places)",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-53-on-the-death-of-the-rev-mr-george-whitefield/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The year and title page of the first separate printing were not confirmed in the sources consulted.",
+   "verification_status": "corrected",
+   "verification_note": "Dates, both venues, Whitefield's death at Newburyport and Keen's engagement of Wesley confirmed via the Wesley Center headnote and the Bicentennial introduction (quoting Gillies and the Journal); the Tabernacle timing (full 'two hours early') was corrected, the newspaper sources were broadened to include the London Evening Post, and separate publication was added to published_in."
+  },
+  {
+   "title": "On Charity",
+   "type": "sermon",
+   "date_text": "15 October 1784 (dated by Wesley at London)",
+   "date_iso": "1784-10-15",
+   "place": "London (where Wesley dated the text)",
+   "occasion": "",
+   "scripture": "1 Corinthians 13:1–3",
+   "published_in": "Arminian Magazine VIII (1785), 8–16 and 70–76, untitled as 'Sermon XXV'; Sermons on Several Occasions, vol. VII (1788); Jackson ed. (1872) Sermon 91; Bicentennial Works 3:290–307",
+   "summary": "Wesley argues that Paul's Greek word agape means love, and that the 'charity' of 1 Corinthians 13 is love of neighbour flowing from love of God, which itself springs from faith in Christ. He describes its marks and lists what people commonly put in its place: eloquence, knowledge, faith, good works and suffering. He maintains that none of these, alone or together, can supply the want of love.",
+   "context": "The Bicentennial editor notes that Wesley used this text for about a dozen oral sermons in 1784, and again eight times in 1785 and three times in 1787. A hearer's manuscript summary survives in Drew University Library of a 'Charity Sermon' on 1 Corinthians 13:3. Wesley preached it at St John's, Clerkenwell, on 16 December 1787, and the editor says it is close to this written text.",
+   "key_line": "St. Paul's word is agape, exactly answering to the plain English word love.",
+   "primary_category": "love",
+   "categories": [
+    "love"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-91-on-charity/",
+   "listen_url": "https://archive.org/details/sermonssecondseries_1503_librivox",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 91 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon091"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 91 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-91-on-charity/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The date and place are Wesley's own dating of the written text, not a record of delivery. The Wesley Center text writes the Greek word as 'agape'. The listen link goes to the LibriVox Second Series item, where this sermon is track 38; the individual MP3 file returned a server error when checked.",
+   "verification_status": "verified",
+   "verification_note": "London dating of 15 October 1784, Arminian Magazine printing, SOSO VII (1788), the preaching counts and the Clerkenwell précis confirmed in the Bicentennial introduction and register; key line matched verbatim and LibriVox track 38 confirmed as 'On Charity'."
+  },
+  {
+   "title": "On Friendship with the World",
+   "type": "sermon",
+   "date_text": "1 May 1786 (dated by Wesley at Wakefield)",
+   "date_iso": "1786-05-01",
+   "place": "Wakefield (where Wesley finished and dated the text)",
+   "occasion": "",
+   "scripture": "James 4:4",
+   "published_in": "Arminian Magazine IX (August 1786), 404–17, untitled as 'Sermon XXXIII'; Sermons on Several Occasions, vol. VI; Jackson ed. (1872) Sermon 80; Bicentennial Works 3:126–140",
+   "summary": "Wesley reads 'the world' in James 4:4 as the people who neither love nor fear God. Christians should love them, speak kindly of them and do them good, but should not form close friendships with them, least of all through marriage. He argues that such intimacy is a sin in itself and slowly corrupts the believer's heart. He answers common reasons given for it (learning, good nature, usefulness in business, family ties) and calls Methodists to avoid it.",
+   "context": "The Bicentennial editor, drawing on Wesley's Journal and diary, records that Wesley finished the sermon at Wakefield on the morning of 1 May 1786 before leaving for Leeds. It appeared whole in a single issue of the Arminian Magazine, the only Wesley sermon printed that way. The editor notes Wesley had preached on James 4:4 only once before (London, 11 December 1784) and links the sermon's warnings to Methodists' growing respectability and wealth.",
+   "key_line": "Have no friendship with the world.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "holiness"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-80-on-friendship-with-the-world/",
+   "listen_url": "https://archive.org/details/sermonssecondseries_1503_librivox",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 80 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon080"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 80 text",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-80-on-friendship-with-the-world/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The publication year of Sermons on Several Occasions vol. VI was not confirmed in the sources consulted. The listen link goes to the LibriVox Second Series item, where this sermon is track 27; the individual MP3 file returned a server error when checked.",
+   "verification_status": "verified",
+   "verification_note": "Wakefield dating of 1 May 1786, the single-issue Arminian Magazine printing, the one earlier preaching on James 4:4 and the Jackson/Bicentennial numbers confirmed via the Bicentennial introduction and register; summary checked against the Jackson text and LibriVox track 27 confirmed."
+  },
+  {
+   "title": "The Duty of Reproving Our Neighbour",
+   "type": "sermon",
+   "date_text": "28 July 1787 (dated by Wesley at Manchester)",
+   "date_iso": "1787-07-28",
+   "place": "Manchester (where Wesley dated the text)",
+   "occasion": "",
+   "scripture": "Leviticus 19:17",
+   "published_in": "Arminian Magazine XI (January–February 1788), untitled as 'Sermon XLIII'; Sermons on Several Occasions, vol. V; Jackson ed. (1872) Sermon 65; Bicentennial Works 2:511–520",
+   "summary": "Reading Leviticus 19:17 as setting rebuke against hatred, Wesley treats reproving a neighbour's sin as a duty of love owed to everyone, and especially to those to whom it is particularly due, such as parents, spouses, children, other relatives and servants. Reproof should be given in a spirit of love, humility and meekness, with prayer and at suitable times, and rarely over matters that are genuinely open to dispute. He closes by telling Methodists that he never heard or read of any considerable revival of religion that was not attended with a spirit of reproving.",
+   "context": "The Bicentennial editor records that the sermon was written in July 1787 and printed in the Arminian Magazine early in 1788. The only recorded instances of Wesley preaching on Leviticus 19:17 are in 1784 and 1787. The editor links its theme to Puritan precedents, including Richard Baxter and a sermon in the collection edited by Wesley's grandfather Samuel Annesley.",
+   "key_line": "Anger, though it be adorned with the name of zeal, begets anger; not love or holiness.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "holiness"
+   ],
+   "read_url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-65-the-duty-of-reproving-our-neighbour/",
+   "listen_url": "https://archive.org/details/sermonssecondseries_1503_librivox",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Wesley Works Digital Edition – Sermon 65 with Bicentennial introductory comment",
+     "url": "https://wesleyworks.ecdsdev.org/sermons/Sermon065"
+    },
+    {
+     "label": "Wesley Center Online – Sermon 65 text (ends 'Manchester, July 28, 1787')",
+     "url": "https://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/sermon-65-the-duty-of-reproving-our-neighbour/"
+    },
+    {
+     "label": "Wesley Works Editorial Project – sermon register (PDF)",
+     "url": "https://wesleyworks.ecdsdev.org/editorial-docs/201705jw-sermon-lists.pdf"
+    }
+   ],
+   "unverified_notes": "The date and place are Wesley's own dating of the written text, not a record of delivery. The publication year of Sermons on Several Occasions vol. V was not stated in the sources consulted. The listen link goes to the LibriVox Second Series item, where this sermon is track 12; the individual MP3 file returned a server error when checked.",
+   "verification_status": "corrected",
+   "verification_note": "Manchester dating of 28 July 1787, the 1788 Arminian Magazine printing and the Puritan precedents confirmed in the Bicentennial introduction and the Wesley Center text; the summary was tightened to match the text ('rarely' reprove over disputable matters; 'considerable revival'; the list of those to whom reproof is particularly due)."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Profile bio: added 'in 1726' for the Lincoln fellowship and 'in 1738' for the return from Georgia (both from the New Georgia Encyclopedia); changed 'beginning near Bristol' to 'beginning at Bristol' (first open-air sermon at a brickyard in Bristol on 2 April 1739, per Wikipedia); split the final sentence.",
+  "Profile corpus_note: attributed the 'all sermons online' claim to the project's own home page, named the register's compiler (Van Buskirk, 2016), and stated that exactly four Jackson sermons are by other authors.",
+  "Profile archive_links/sources: relabelled the digital site with the name it uses, 'Wesley Works Digitization Project'; added the project home page as a source and noted what Wikipedia supports.",
+  "Circumcision of the Heart: context rephrased. The diaries show about thirty hours of drafting and then about as much time again consulting Charles Wesley, Isham and others before delivery, rather than a later revision. The summary's 'tests' became 'reflections that serve as a rule' to follow Wesley's wording; status set to corrected.",
+  "Salvation by Faith: context reordered because the London preaching and pulpit bans came mostly before Aldersgate. Each claim is now attributed to the Bicentennial editor or Olson, and the 1746 placement is stated separately. 'Is uncomfortable' added to the list of objections, and 'London' added to the 1738 pamphlet in published_in.",
+  "Free Grace: removed the unsupported clause that Wesley 'had taken over George Whitefield's work' at Bristol; clarified what the lot concerned. unverified_notes now mention the Internet Archive 1739 printing and the Bicentennial Sermon 53 introduction's loose 1740 dating.",
+  "The Almost Christian: published_in now lists the first separate edition of 1741; the Bicentennial text is based on it.",
+  "Scriptural Christianity: published_in now dates the separate pamphlet to 1744 (the Bicentennial editor says it appeared shortly after delivery); the unverified note about the pamphlet year was removed.",
+  "Justification by Faith: context corrected. The editor counts at least eight uses of Romans 4:5 before the Epworth preaching of 8 June 1742, not eight uses that include it.",
+  "Sermon on the Mount VI: removed the unsourced voyage years '1735–36'; the context now names the ship Simmonds as the editor does.",
+  "Great Assize: Journal paraphrase adjusted to 'he had no time and had to set out' to match the quoted entry.",
+  "Use of Money: context sentence on Wesley's later complaints reworded to match the editor's statements.",
+  "Death of Whitefield: corrected the Tabernacle timing. The service was due at half past five, the building was full by three and he began at four; this replaces 'two hours early'. Gillies's account is rephrased to its actual form: Keen asked, and Whitefield answered. The summary now names the London Evening Post alongside the Boston Gazette and quotes Wesley's own phrases on friendship and catholic love. published_in adds the separate publication (five editions in two years) and the omission from SOSO 1787–88.",
+  "On Charity: summary's last sentence aligned with Wesley's stated third head ('can supply the want of it'); unverified note updated to record the individual MP3 server error.",
+  "Duty of Reproving Our Neighbour: summary corrected to 'rarely' reprove over disputable matters, to name those to whom reproof is 'particularly due' (parents, spouses, children, relatives, servants), and to quote the 'considerable revival' wording accurately.",
+  "On Friendship with the World and Duty of Reproving: unverified notes now say that the individual LibriVox Second Series MP3s return a server error; the item page resolves and the track numbers (27 and 12) are confirmed from archive.org metadata."
+ ]
+}

@@ -1,0 +1,620 @@
+{
+ "preacher": {
+  "id": "finney",
+  "name": "Charles Grandison Finney",
+  "lifespan": "1792–1875",
+  "tradition": "Presbyterian, later Congregationalist; Second Great Awakening revivalism (Oberlin theology)",
+  "role": "Revivalist, theologian and Oberlin College president",
+  "bio": "Charles Grandison Finney was born in Warren, Connecticut, on 29 August 1792. He was training in law when he experienced a religious conversion at Adams, New York, in October 1821, and he was ordained a Presbyterian minister in 1824. His revival campaigns in New York State, including Rochester in 1830–31, made him a central figure of the Second Great Awakening, and from 1832 he was a pastor in New York City, first at the Chatham Street Chapel and then at the Broadway Tabernacle. In 1835 he became professor of theology at the new Oberlin Collegiate Institute in Ohio, where he later pastored the First Congregational Church, wrote for The Oberlin Evangelist and became president in 1851; he denounced slavery from the pulpit, twice preached at length in Britain, and died at Oberlin on 16 August 1875, his Memoirs appearing in 1876.",
+  "corpus_note": "Many of Finney's sermons were printed in his lifetime: in collections such as Sermons on Important Subjects (1836) and Lectures to Professing Christians (1837), in London's Penny Pulpit (1849–51), and, according to Gospel Truth Ministries, by the hundreds in The Oberlin Evangelist (1839–62), which it describes as the only source for those sermons. The Oberlin College Archives hold over six hundred of his manuscript sermon outlines (1853–75); no documented total count of his sermons was found.",
+  "archive_links": [
+   {
+    "label": "Gospel Truth Ministries: complete index of Finney's sermons and lectures",
+    "url": "https://www.gospeltruth.net/sermindex.htm"
+   },
+   {
+    "label": "Gospel Truth Ministries: The Oberlin Evangelist 1839–1862, main index by year",
+    "url": "https://www.gospeltruth.net/oe/OEmainindex.htm"
+   },
+   {
+    "label": "Christian Classics Ethereal Library: Charles G. Finney",
+    "url": "https://www.ccel.org/ccel/finney"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gospel Truth Ministries: Finney chronology",
+    "url": "https://www.gospeltruth.net/finneychronology.htm"
+   },
+   {
+    "label": "Oberlin College Archives: Charles Grandison Finney Papers",
+    "url": "https://oberlin.libraryhost.com/repositories/2/resources/614"
+   },
+   {
+    "label": "Christian History Institute: Charles Grandison Finney, Father of American Revivalism",
+    "url": "https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney"
+   },
+   {
+    "label": "Finney, Memoirs, chapter 23 (New York City from 1832; his preaching against slavery)",
+    "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+   },
+   {
+    "label": "Wikipedia: Charles Grandison Finney",
+    "url": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney"
+   }
+  ]
+ },
+ "sermons": [
+  {
+   "title": "Sinners Bound to Change Their Own Hearts",
+   "type": "sermon",
+   "date_text": "1834",
+   "date_iso": "1834",
+   "place": "",
+   "occasion": "",
+   "scripture": "Ezekiel 18:31",
+   "published_in": "Sermons on Various Subjects (New York: S. W. Benedict, 1835; copyright entered 1834), Sermon I, there titled 'Sinners Bound to Change Their Own Heart'; reprinted as Sermon I of Sermons on Important Subjects (3rd ed., New York: John S. Taylor, 1836)",
+   "summary": "Finney argues that the 'new heart' commanded in Ezekiel 18:31 is not a new soul, organ or faculty but a change in the mind's governing preference, from pursuing one's own interest to choosing God's glory and kingdom. Because sinners already have every power of moral agency, the command is reasonable; the Bible ascribes conversion to four agencies, the Spirit, the truth, the preacher and the sinner, and Finney illustrates their roles with a man turned back from the edge of Niagara Falls by a warning cry. He concludes that sinners must not wait for God to change them but must turn at once.",
+   "context": "The sermon opened Finney's first sermon collection, whose copyright was entered in 1834 while he was pastor of the Second Free Presbyterian Church in New York, and it was reprinted as the first sermon of the 1836 Sermons on Important Subjects. Obbie Tyler Todd (Journal of the Evangelical Theological Society, 2020) describes it as an 1834 sermon and cites it for Finney's moral-government theology, and The American Yawp Reader reproduces an excerpt to illustrate his emphasis on human choice in salvation. Finney's Memoirs record that during his revival at Wilmington, Delaware, he preached for about two hours from this text on what a new heart was and was not; they do not say whether that sermon is the one later printed.",
+   "key_line": "It is not the appropriate work of God to do what he requires of you.",
+   "primary_category": "new-birth",
+   "categories": [
+    "new-birth",
+    "sin-repentance"
+   ],
+   "read_url": "https://www.gospeltruth.net/1836SOIS/01sois_sinners_bound.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: text in Sermons on Important Subjects (1836)",
+     "url": "https://www.gospeltruth.net/1836SOIS/01sois_sinners_bound.htm"
+    },
+    {
+     "label": "Gospel Truth: Sermons on Various Subjects title page (1835, copyright 1834)",
+     "url": "https://www.gospeltruth.net/1835SOVS/sovs_index.htm"
+    },
+    {
+     "label": "Todd, 'Rethinking Finney', JETS 63.2 (2020)",
+     "url": "https://etsjets.org/wp-content/uploads/2020/06/files_JETS-PDFs_63_63-2_JETS_63.2_332-43_Todd.pdf"
+    },
+    {
+     "label": "The American Yawp Reader: Finney Emphasizes Human Choice in Salvation",
+     "url": "https://www.americanyawp.com/reader/religion-and-reform/revivalist-charles-g-finney-emphasizes-human-choice-in-salvation-1836/"
+    },
+    {
+     "label": "Finney, Memoirs, chapter 18: Revival at Wilmington, Delaware",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest18.htm"
+    }
+   ],
+   "unverified_notes": "The date and place of first delivery are not documented. Gospel Truth's chronology lists it under 1831 without citing evidence, so that date is not used. '1834' is the copyright year of the first printing and the year Todd gives the sermon.",
+   "verification_status": "corrected",
+   "verification_note": "The 1834 copyright and 1835 and 1836 printings, the scripture and the key line were confirmed from the Gospel Truth texts and the Internet Archive scan; the summary was adjusted to Finney's own 'governing preference' and four-agency wording, and the 1835 title variant was noted."
+  },
+  {
+   "title": "Lectures on Revivals of Religion",
+   "type": "sermon-series",
+   "date_text": "1834–1835",
+   "date_iso": "1834",
+   "place": "Chatham Street Chapel, New York City",
+   "occasion": "Weekly Friday-evening lectures to Finney's own congregation, reported in the New York Evangelist by its editor, Joshua Leavitt",
+   "scripture": "",
+   "published_in": "New York Evangelist (weekly reports, 1834–35); book edition Lectures on Revivals of Religion (New York, 1835; revised edition 1868)",
+   "summary": "Across 22 lectures Finney argues that a revival is not a miracle but the result of rightly using the means God has appointed, and he explains when revivals may be expected and how Christians can promote them. The lectures cover prevailing prayer, being filled with the Spirit, dealing with sinners, preaching, a defence of 'new measures' such as anxious meetings, protracted meetings and the anxious seat, hindrances to revival, and instructions for converts.",
+   "context": "Finney delivered the lectures to his Chatham Street Chapel congregation during the winter of 1834–35, and Joshua Leavitt reported them for the New York Evangelist; in his Memoirs Finney says Leavitt had asked for help because the paper's subscriptions were failing. The reporter's advertisement to the book is dated April 1835, and Finney's Memoirs state that twelve thousand copies sold as fast as they could be printed and that the lectures were reprinted in England and France and translated into Welsh.",
+   "key_line": "It is a purely philosophical result of the right use of the constituted means--as much so as any other effect produced by the application of means.",
+   "primary_category": "holy-spirit",
+   "categories": [
+    "holy-spirit",
+    "prayer",
+    "new-birth"
+   ],
+   "read_url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/home68revlec.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: title page (delivered at Chatham Chapel, reported by Joshua Leavitt, printed 1835)",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/home68revlec.htm"
+    },
+    {
+     "label": "Gospel Truth: Lecture I, 'What a Revival of Religion Is' (source of the key line)",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/68revlec01.htm"
+    },
+    {
+     "label": "Gospel Truth: reporter's advertisement (New York, April 1835)",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/rep_adv35revlec.htm"
+    },
+    {
+     "label": "Gospel Truth: Finney's 1835 and 1868 prefaces",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/68revlecpref.htm"
+    },
+    {
+     "label": "Finney, Memoirs, chapter 23 (restored text)",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest23.htm"
+    },
+    {
+     "label": "Bob Pyke, 'Charles G. Finney and the Second Great Awakening', Reformation & Revival 6.1 (1997)",
+     "url": "https://biblicalstudies.org.uk/pdf/ref-rev/06-1/6-1_pyke.pdf"
+    }
+   ],
+   "unverified_notes": "The New York Evangelist dates of individual lectures were not confirmed (secondary web sources say the first appeared on 6 December 1834). The linked text and key line (from Lecture I) are from Finney's revised 1868 edition, in which the last two lectures were replaced with newly written ones.",
+   "verification_status": "corrected",
+   "verification_note": "Delivery at Chatham Street Chapel in winter 1834–35, Leavitt's reporting, the April 1835 advertisement and the Memoirs figures were confirmed; the key line was traced to Lecture I, and that page and the reporter's advertisement were added as sources."
+  },
+  {
+   "title": "Prevailing Prayer (Lecture IV)",
+   "type": "lecture",
+   "date_text": "winter 1834–35",
+   "date_iso": "",
+   "place": "Chatham Street Chapel, New York City",
+   "occasion": "Friday-evening lecture to Finney's congregation, the fourth of his Lectures on Revivals of Religion",
+   "scripture": "James 5:16",
+   "published_in": "New York Evangelist (1834–35); Lectures on Revivals of Religion (New York, 1835), Lecture IV",
+   "summary": "Finney distinguishes two kinds of means in revival: truth, which acts on people, and prayer, which 'moves' God, not by changing God's mind but by bringing those who pray into the state in which God can consistently grant the blessing. He defines prevailing prayer as prayer that obtains what it seeks and lists its conditions: a definite object, agreement with God's revealed will, submission, desire proportionate to the need, right motives, the Spirit's intercession, perseverance, an agony of desire, much praying, the name of Christ, renunciation of sin, and faith.",
+   "context": "This is the fourth of the revival lectures Finney gave to his Chatham Street Chapel congregation in the winter of 1834–35, reported by Joshua Leavitt in the New York Evangelist. In his 1835 preface Finney said he expected that part of the church would not understand or accept what he had taught about prayer.",
+   "key_line": "Prayer is an essential link in the chain of causes that lead to a revival; as much so as truth is.",
+   "primary_category": "prayer",
+   "categories": [
+    "prayer",
+    "holy-spirit"
+   ],
+   "read_url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/68revlec04.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Lecture IV text",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/68revlec04.htm"
+    },
+    {
+     "label": "Gospel Truth: Lectures on Revivals title page",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/home68revlec.htm"
+    },
+    {
+     "label": "Gospel Truth: Finney's 1835 preface",
+     "url": "https://www.gospeltruth.net/1868Lect_on_Rev_of_Rel/68revlecpref.htm"
+    },
+    {
+     "label": "Pyke, Reformation & Revival 6.1 (1997): winter 1834–35 delivery",
+     "url": "https://biblicalstudies.org.uk/pdf/ref-rev/06-1/6-1_pyke.pdf"
+    }
+   ],
+   "unverified_notes": "The exact date of this lecture (and whether it fell in 1834 or 1835) was not found, so date_iso is left blank. Text quoted is the 1868 revised edition.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture, key line and the winter 1834–35 Chatham Street delivery were confirmed; the summary's list of conditions was completed with Finney's point that effectual prayer is offered with an agony of desire."
+  },
+  {
+   "title": "Why Sinners Hate God",
+   "type": "sermon",
+   "date_text": "1836 (published)",
+   "date_iso": "1836",
+   "place": "",
+   "occasion": "",
+   "scripture": "John 15:25",
+   "published_in": "Sermons on Important Subjects (3rd ed., New York: John S. Taylor, 1836), Sermon VI",
+   "summary": "Taking Christ's words 'They have hated me without a cause', Finney argues that sinners' enmity toward God has no just ground in how God made them, in any inherited disposition, in human nature, in humanity's descent from a common ancestor, or in God's moral government. Its real cause is supreme selfishness, which God rightly opposes, so sinners hate God for the very reasons they ought to love him. In his closing remarks he says this shows what a change of heart is, makes their guilt deserving of eternal death, and will leave the saints satisfied with God's justice.",
+   "context": "This is the sixth sermon in Finney's 1836 collection, and it opens by referring back to his 'two former discourses on total depravity', the fourth and fifth sermons of that volume. The edition does not record when or where it was first preached.",
+   "key_line": "They do not hate him because he deserves their hatred, but because he deserves their love.",
+   "primary_category": "hatred-enemies",
+   "categories": [
+    "hatred-enemies",
+    "sin-repentance",
+    "judgment"
+   ],
+   "read_url": "https://www.gospeltruth.net/1836SOIS/06sois_why_sinrs_hate_god.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: text, Sermons on Important Subjects, Sermon VI",
+     "url": "https://www.gospeltruth.net/1836SOIS/06sois_why_sinrs_hate_god.htm"
+    },
+    {
+     "label": "Internet Archive: Sermons on Important Subjects (3rd ed., New York: John S. Taylor, 1836)",
+     "url": "https://archive.org/details/sermonsonimporta00finn"
+    },
+    {
+     "label": "Gospel Truth: index listing the 1836 volume's contents",
+     "url": "https://www.gospeltruth.net/sermindex.htm"
+    }
+   ],
+   "unverified_notes": "Original delivery date and place unknown. Gospel Truth's transcription of the 1835 Sermons on Various Subjects lists only three sermons, and this is not one of them.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture, sermon number and key line were confirmed against the Gospel Truth text and the 1836 Internet Archive scan; the summary wrongly listed God's law and 'the terms of the gospel' among the rejected causes and was corrected to Finney's actual list."
+  },
+  {
+   "title": "Christian Affinity",
+   "type": "sermon",
+   "date_text": "4 March 1827",
+   "date_iso": "1827-03-04",
+   "place": "Presbyterian church, Troy, New York",
+   "occasion": "Preached during Finney's revival labours in Troy, soon after a session of the Presbytery of Troy opened; members of the presbytery then asked for it to be printed",
+   "scripture": "Amos 3:3",
+   "published_in": "First printed as 'Can Two Walk Together Except They Be Agreed?' (Troy, N.Y.: Tuttle and Richards, 1827); reprinted as 'Christian Affinity', Sermon VIII of Sermons on Important Subjects (3rd ed., New York: John S. Taylor, 1836)",
+   "summary": "From Amos 3:3 ('Can two walk together except they be agreed?') Finney argues that people walk together only when their affections, not merely their opinions, agree, and that the same truth pleases or offends depending on the state of the heart. He uses this to explain why Christians of different denominations can share warm fellowship, why young converts seek one another's company, and why revivals convulse churches and why visiting ministers sometimes object to them. He concludes that sinners must be born again before they can share the company of the holy.",
+   "context": "The 1827 Troy printing says the sermon was preached in the Presbyterian church at Troy on 4 March 1827. It includes a letter dated 20 March 1827 from fifteen members of the Presbytery of Troy, among them Nathan S. S. Beman, asking for a copy for the press. In his reply of 30 March, Finney says the sermon had been preached extemporaneously and that he had since hastily written down its main points. His Memoirs record that he spent the autumn and winter of 1826–27 working in a revival with Beman's church at Troy. The sermon quotes Jonathan Edwards at length on ministers who oppose a work of revival, and it was reprinted almost unchanged under the title 'Christian Affinity' in 1836.",
+   "key_line": "Their differences are in a great measure lost or forgotten, while they fall in with each other's state of feeling; they will walk together while in heart they are agreed.",
+   "primary_category": "friendship",
+   "categories": [
+    "friendship",
+    "church-unity",
+    "holy-spirit"
+   ],
+   "read_url": "https://www.gospeltruth.net/1836SOIS/08sois_christian_affinity.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: 1827 Troy printing, 'A Sermon Preached in the Presbyterian Church at Troy, March 4, 1827'",
+     "url": "https://www.gospeltruth.net/1827c2wt.htm"
+    },
+    {
+     "label": "Gospel Truth: text, Sermons on Important Subjects, Sermon VIII",
+     "url": "https://www.gospeltruth.net/1836SOIS/08sois_christian_affinity.htm"
+    },
+    {
+     "label": "Finney, Memoirs, chapter 16: Revival at Troy",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest16.htm"
+    },
+    {
+     "label": "Internet Archive: Sermons on Important Subjects (1836)",
+     "url": "https://archive.org/details/sermonsonimporta00finn"
+    }
+   ],
+   "unverified_notes": "Gospel Truth's chronology dates a Troy sermon on this text to January 1826; the 1827 title page, which gives 4 March 1827, is followed instead. The title page does not name the church beyond 'the Presbyterian Church at Troy'.",
+   "verification_status": "corrected",
+   "verification_note": "The researcher missed that this is the 1827 Troy sermon 'Can Two Walk Together Except They Be Agreed?', reprinted in 1836; date, place, occasion, first printing and context were added from the 1827 title page, the presbytery letter and Memoirs chapter 16, and the key line was confirmed in both printings."
+  },
+  {
+   "title": "Stewardship",
+   "type": "sermon",
+   "date_text": "1836 (published)",
+   "date_iso": "1836",
+   "place": "",
+   "occasion": "",
+   "scripture": "Luke 16:2",
+   "published_in": "Sermons on Important Subjects (3rd ed., New York: John S. Taylor, 1836), Sermon IX",
+   "summary": "Drawing on the parable of the unjust steward, Finney argues that God owns everything and that every person is his steward, accountable for their time, mental powers, influence, property, their own soul, the souls of others, the opinions they hold and spread, and their opportunities to do good. He presses the point with the analogy of a dishonest business agent and insists that wealth earned by one's own industry still belongs to God and must be used for the happiness and salvation of others.",
+   "context": "This is the ninth sermon in Finney's 1836 collection, and its text addresses the 'reader' directly several times. No delivery date or place is recorded.",
+   "key_line": "Men are mere stewards, employed by him for the transaction of his business, and required to do all they do for his glory.",
+   "primary_category": "money-work",
+   "categories": [
+    "money-work",
+    "holiness",
+    "judgment"
+   ],
+   "read_url": "https://www.gospeltruth.net/1836SOIS/09sois_stewardship.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: text, Sermons on Important Subjects, Sermon IX",
+     "url": "https://www.gospeltruth.net/1836SOIS/09sois_stewardship.htm"
+    },
+    {
+     "label": "Internet Archive: Sermons on Important Subjects (1836)",
+     "url": "https://archive.org/details/sermonsonimporta00finn"
+    }
+   ],
+   "unverified_notes": "Original delivery date and place unknown.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture, sermon number and key line were confirmed; the unsupported claim that the direct address to readers is 'unlike most of the volume' was removed."
+  },
+  {
+   "title": "Selfishness Not True Religion",
+   "type": "lecture",
+   "date_text": "1837",
+   "date_iso": "1837",
+   "place": "New York City",
+   "occasion": "One of Finney's Lectures to Professing Christians, reported by the editor of the New-York Evangelist",
+   "scripture": "1 Corinthians 13:5",
+   "published_in": "Lectures to Professing Christians (New York: John S. Taylor, 1837); Lecture III of the 1837 series",
+   "summary": "Taking 'charity seeketh not her own' as his text, Finney argues that making one's own happiness the supreme aim is incompatible with true religion. He grants that a due regard for one's own welfare, according to its real value, is lawful. He then argues that supreme self-regard is contrary to the example of God and the spirit of Christ, to the law and the gospel, to conscience, reason and common sense, to the way the mind is made, and to the experience of saints. He concludes that such self-regard is selfishness, and that those who hold it while believing themselves religious are deceived.",
+   "context": "In the lecture Finney says he had assumed the point was uncontroversial but had since learned that many professing Christians held a supreme regard for one's own happiness to be true religion. The Lectures to Professing Christians were delivered in New York City in 1836 and 1837. They were published in 1837 from the Evangelist editor's notes, which Finney's preface says recorded little more than a full skeleton of what he said.",
+   "key_line": "He came on an errand of pure benevolence, to benefit the kingdom of God, not to benefit himself.",
+   "primary_category": "holiness",
+   "categories": [
+    "holiness",
+    "love"
+   ],
+   "read_url": "https://www.gospeltruth.net/1837LTPC/lptc03_selfshns_not_religo.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: lecture text",
+     "url": "https://www.gospeltruth.net/1837LTPC/lptc03_selfshns_not_religo.htm"
+    },
+    {
+     "label": "Gospel Truth: title page and Finney's preface (New York, 16 March 1837)",
+     "url": "https://www.gospeltruth.net/1836LTPC/ltpc_preface.htm"
+    },
+    {
+     "label": "Gospel Truth: sermon index listing the 1836 and 1837 lectures",
+     "url": "https://www.gospeltruth.net/sermindex.htm"
+    }
+   ],
+   "unverified_notes": "The year 1837 follows Gospel Truth's labelling of this lecture; the 1837 title page says only that the lectures were delivered in New York in 1836 and 1837. Gospel Truth's chronology places the series at the Broadway Tabernacle, but the venue is not named in the book.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture, key line and the 1837 title page and preface were confirmed; the summary was expanded to reflect the lecture's actual line of argument beyond the examples of God and Christ."
+  },
+  {
+   "title": "Love the Whole of Religion",
+   "type": "lecture",
+   "date_text": "1837",
+   "date_iso": "1837",
+   "place": "New York City",
+   "occasion": "One of Finney's Lectures to Professing Christians, reported by the editor of the New-York Evangelist",
+   "scripture": "Romans 13:10",
+   "published_in": "Lectures to Professing Christians (New York: John S. Taylor, 1837); Lecture XII of the 1837 series",
+   "summary": "Finney argues that everything God requires of people is love in its various forms, distinguishing benevolence (good will toward all) from complacency (approval of good character), and love as a voluntary affection from love as an emotion. He describes what perfect love includes, such as freedom from malice and envy, supreme and disinterested love to God, and equal regard for a neighbour's interests, and what it produces, such as delight in self-denial. His closing remarks say that religious knowledge and zeal without love make people censorious and proud, and that zeal with love is not sectarian or given to controversy.",
+   "context": "This lecture was delivered in New York City as part of the Lectures to Professing Christians and printed in 1837 from notes by the editor of the New-York Evangelist. In its closing remarks Finney contrasts love with church controversy, describing ministers dividing into parties at ecclesiastical meetings.",
+   "key_line": "In other words, all that is required of man by God consists in love, in various modifications and results.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "holiness"
+   ],
+   "read_url": "https://www.gospeltruth.net/1837LTPC/ltpc12_love_whole_religon.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: lecture text",
+     "url": "https://www.gospeltruth.net/1837LTPC/ltpc12_love_whole_religon.htm"
+    },
+    {
+     "label": "Gospel Truth: title page and Finney's preface (1837)",
+     "url": "https://www.gospeltruth.net/1836LTPC/ltpc_preface.htm"
+    }
+   ],
+   "unverified_notes": "Year per Gospel Truth's labelling; exact delivery date and venue not recorded.",
+   "verification_status": "corrected",
+   "verification_note": "Text, scripture, key line and closing remarks on ministers dividing into parties were confirmed; the summary's wording on zeal without love was brought into line with the text, which says 'censorious, proud' and 'not sectarian' rather than 'quarrelsome'."
+  },
+  {
+   "title": "Mutual Confession of Faults, and Mutual Prayer",
+   "type": "sermon",
+   "date_text": "17 January 1849 (published)",
+   "date_iso": "1849-01-17",
+   "place": "",
+   "occasion": "",
+   "scripture": "James 5:16",
+   "published_in": "The Oberlin Evangelist, 17 January 1849",
+   "summary": "Finney teaches that James 5:16 chiefly requires Christians to confess wrongs to the people they have injured. It also covers sharing besetting sins with trusted Christian friends so as to gain their prayers, and he rejects the view that it supports confession to priests. True confession, he argues, involves conviction, repentance, humility, readiness to make restitution and fullness. It is necessary for justice to the injured and for peace with God, with one's own conscience, with the injured person and with all the just and good. Praying for those who confess, he says, requires a real spirit of forgiveness.",
+   "context": "The sermon was printed as 'Sermon by Prof. C.G. Finney. Reported by The Editor.' An editorial note says a sermon on the same text had appeared in the Evangelist's second volume and that this one was prepared independently. Gospel Truth has Finney's 'Confession of Faults' on that text from the Evangelist of 4 November 1840.",
+   "key_line": "Confession is indispensable to peace with those whom we have injured.",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "forgiveness",
+    "friendship"
+   ],
+   "read_url": "https://www.gospeltruth.net/1849OE/490117_conf_of_faults.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Oberlin Evangelist text, 17 January 1849",
+     "url": "https://www.gospeltruth.net/1849OE/490117_conf_of_faults.htm"
+    },
+    {
+     "label": "Gospel Truth: 'Confession of Faults', Oberlin Evangelist, 4 November 1840",
+     "url": "https://www.gospeltruth.net/1840OE/401104_fault_confession.htm"
+    }
+   ],
+   "unverified_notes": "The Evangelist gives only its issue date; the date and place of delivery are not recorded.",
+   "verification_status": "corrected",
+   "verification_note": "Issue date, scripture, editorial note and key line were confirmed; the summary's claims that confession helps the injured person forgive and moves others to pray were not found in that form and were replaced with the sermon's stated reasons."
+  },
+  {
+   "title": "The Wonderful Love of God",
+   "type": "sermon",
+   "date_text": "22 December 1850",
+   "date_iso": "1850-12-22",
+   "place": "The Tabernacle, Moorfields, London",
+   "occasion": "Sunday morning service during Finney's preaching visit to England",
+   "scripture": "John 3:16",
+   "published_in": "The Penny Pulpit (London)",
+   "summary": "Finney argues that God's love in giving his Son was directed to the whole human race as sinners and enemies, not to a favoured part of it. He describes this love not as approval of their character or mere emotion but as a voluntary, reasonable and unselfish good will that valued human souls, and he conveys its intensity by asking parents to imagine giving up an only child for their enemies. He then explains why such a gift was necessary and what faith is needed to receive it.",
+   "context": "Finney preached this during his 1849–51 visit to England. In his Memoirs he recalls about nine months of preaching at the Tabernacle, Moorfields, a building he said held somewhat more than three thousand people, and the sermon was printed in The Penny Pulpit, a London series of sermons by various ministers.",
+   "key_line": "It is plain that it was good-will, because it produced good action.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "christ-cross"
+   ],
+   "read_url": "https://www.gospeltruth.net/1849-51Penny_Pulpit/501222pp_wonderful_loveofg.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Penny Pulpit text (delivered 22 December 1850 at the Tabernacle, Moorfields)",
+     "url": "https://www.gospeltruth.net/1849-51Penny_Pulpit/501222pp_wonderful_loveofg.htm"
+    },
+    {
+     "label": "Gospel Truth: index of Finney's Penny Pulpit sermons, 1849–1851",
+     "url": "https://www.gospeltruth.net/1849-51Penny_Pulpit/indexpp.htm"
+    },
+    {
+     "label": "Finney, Memoirs, chapter 30: Labors in the Tabernacle, Moorfields",
+     "url": "https://www.gospeltruth.net/memoirsrestored/memrest30.htm"
+    }
+   ],
+   "unverified_notes": "The Penny Pulpit issue number and printing date were not found.",
+   "verification_status": "verified",
+   "verification_note": "Date, Sunday-morning delivery and venue were confirmed from the printed heading, the Penny Pulpit listing, and the Memoirs' nine months and 'somewhat more than three thousand' capacity; the key line was confirmed verbatim."
+  },
+  {
+   "title": "Repentance Before Prayer for Forgiveness",
+   "type": "sermon",
+   "date_text": "19 November 1851 (published)",
+   "date_iso": "1851-11-19",
+   "place": "",
+   "occasion": "",
+   "scripture": "Acts 8:22–23",
+   "published_in": "The Oberlin Evangelist, 19 November 1851",
+   "summary": "Using Peter's words to Simon Magus, Finney argues that repentance is not conviction or feeling but a change of mind and will from selfishness to benevolence. It includes honesty toward God and people, confession and restitution to those who have been wronged, giving up sinful kinds and methods of business, and trust in Christ. He insists that sinners must repent before they ask for pardon. He criticises advice that tells the unrepentant to pray for repentance or for the Holy Spirit, or to wait for more conviction.",
+   "context": "The sermon was printed in The Oberlin Evangelist as 'By Rev. C.G. Finney. Reported by The Editor.' It appeared after Finney's return from preaching in England (which ended in April 1851) and his election as president of Oberlin College in August 1851.",
+   "key_line": "Repentance is simply and precisely a change of mind.",
+   "primary_category": "sin-repentance",
+   "categories": [
+    "sin-repentance",
+    "forgiveness"
+   ],
+   "read_url": "https://www.gospeltruth.net/1851OE/511119_repentance.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Oberlin Evangelist text, 19 November 1851",
+     "url": "https://www.gospeltruth.net/1851OE/511119_repentance.htm"
+    },
+    {
+     "label": "Gospel Truth: Finney chronology",
+     "url": "https://www.gospeltruth.net/finneychronology.htm"
+    }
+   ],
+   "unverified_notes": "The Evangelist gives only its issue date; the date and place of delivery are not recorded.",
+   "verification_status": "corrected",
+   "verification_note": "Issue date, scripture, key line and the April 1851 and August 1851 chronology points were confirmed; the primary category was changed from forgiveness to sin-repentance, since the sermon is mainly about repentance."
+  },
+  {
+   "title": "God's Love for a Sinning World",
+   "type": "sermon",
+   "date_text": "22 June 1853 (published)",
+   "date_iso": "1853-06-22",
+   "place": "",
+   "occasion": "",
+   "scripture": "John 3:16",
+   "published_in": "The Oberlin Evangelist, 22 June 1853",
+   "summary": "Finney begins from the cost of sin under God's moral government and presents the gift of Christ as a costly, voluntary sacrifice through which God could save sinners while upholding his law. He argues that the atonement was made for the whole human race. He describes God's love not as approval of sinners or mere emotion but as a paternal, disinterested, zealous, self-denying and patient benevolence, and he sets it against what he calls the Universalist idea of mere good nature. He closes by warning that sinners may forfeit their birthright and put themselves beyond the reach of mercy.",
+   "context": "The sermon was printed in The Oberlin Evangelist as 'By President Finney. Reported by The Editor', and an illustration in it refers to 'residents of Oberlin'. Finney had preached on the same verse in London in December 1850 ('The Wonderful Love of God').",
+   "key_line": "Sin is the most expensive thing in the universe.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "christ-cross",
+    "grace-salvation"
+   ],
+   "read_url": "https://www.gospeltruth.net/1853OE/530622_gods_love.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Oberlin Evangelist text, 22 June 1853",
+     "url": "https://www.gospeltruth.net/1853OE/530622_gods_love.htm"
+    },
+    {
+     "label": "Gospel Truth: 'The Wonderful Love of God' (London, 22 December 1850)",
+     "url": "https://www.gospeltruth.net/1849-51Penny_Pulpit/501222pp_wonderful_loveofg.htm"
+    }
+   ],
+   "unverified_notes": "The Evangelist gives only its issue date; the date and place of delivery are not recorded, though the text's reference to Oberlin suggests an Oberlin audience.",
+   "verification_status": "corrected",
+   "verification_note": "Issue date, byline, scripture, the Oberlin and Universalist references and the key line were confirmed; the summary was completed with the sermon's closing warning."
+  },
+  {
+   "title": "The Blessedness of the Merciful",
+   "type": "sermon",
+   "date_text": "18 August 1858 (published)",
+   "date_iso": "1858-08-18",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 5:7",
+   "published_in": "The Oberlin Evangelist, 18 August 1858",
+   "summary": "Finney defines mercy as treating the guilty better than they deserve. He argues that God as ruler must uphold justice, but individuals are left free to forgive their enemies and seek their good, and may not take revenge. He distinguishes this from a kind of compassion that excuses sin and shields offenders from punishment, which he links with Universalists. He insists that anyone who has not forgiven everyone from the heart is not forgiven by God. He illustrates this with a dying Black man ('a poor colored man') who at first refused to forgive those who had robbed him of his liberty and labour for most of his life, and who later said he now loved his enemies.",
+   "context": "The sermon was printed in The Oberlin Evangelist ('By President Finney. Reported by The Editor') as one of a run of sermons on the Beatitudes, followed by 'Blessedness of the Pure in Heart' (1 September 1858) and 'The Blessedness of the Persecuted' (15 September 1858).",
+   "key_line": "Those who have not from their hearts forgiven all men are not themselves forgiven.",
+   "primary_category": "forgiveness",
+   "categories": [
+    "forgiveness",
+    "hatred-enemies",
+    "love"
+   ],
+   "read_url": "https://www.gospeltruth.net/1858OE/580818_merciful_blessed.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Oberlin Evangelist text, 18 August 1858",
+     "url": "https://www.gospeltruth.net/1858OE/580818_merciful_blessed.htm"
+    },
+    {
+     "label": "Gospel Truth: 'Blessedness of the Pure in Heart', 1 September 1858",
+     "url": "https://www.gospeltruth.net/1858OE/580901_pure_blessed.htm"
+    },
+    {
+     "label": "Gospel Truth: 'The Blessedness of the Persecuted', 15 September 1858",
+     "url": "https://www.gospeltruth.net/1858OE/580915_persecuted_blesse.htm"
+    }
+   ],
+   "unverified_notes": "The Evangelist gives only its issue date; the date and place of delivery are not recorded. The man in Finney's illustration is not named.",
+   "verification_status": "corrected",
+   "verification_note": "Issue date, scripture, key line and the dates of the two following Beatitude sermons were confirmed from their pages; the summary was tightened to the text's wording on compassion that apologizes for sin and on the dying man."
+  },
+  {
+   "title": "On Love to Our Neighbor",
+   "type": "sermon",
+   "date_text": "4 July 1860 (published)",
+   "date_iso": "1860-07-04",
+   "place": "",
+   "occasion": "",
+   "scripture": "Matthew 22:39",
+   "published_in": "The Oberlin Evangelist, 4 July 1860",
+   "summary": "Finney defines the love owed to a neighbour as a voluntary, constant good will that values others' interests as one's own, and argues that it must reach enemies as well as friends. He treats it as the test of true humanity and true morality and as necessary for salvation and heaven. He stresses mutual obligations between God and people, children and parents, pupils and teachers, and the college and its founders and donors. In closing he applies the golden rule to slavery, asking hearers to imagine themselves and their families enslaved when deciding how to vote.",
+   "context": "The sermon was printed in The Oberlin Evangelist ('By President Finney. Reported by The Editor') two weeks after 'On Loving God' (20 June 1860). It refers back to what Finney had said 'before' about the love required towards God, and its remarks address 'this Institution' and its students. The Evangelist of 1860 was also reporting Finney's preaching in England, at Bolton from December 1859 to April 1860 and in Manchester that spring and early summer, so the sermon was evidently delivered before it was printed.",
+   "key_line": "Again, no man loves his friends in the sense that pleases God, unless he also truly loves his enemies.",
+   "primary_category": "love",
+   "categories": [
+    "love",
+    "hatred-enemies",
+    "justice-society"
+   ],
+   "read_url": "https://www.gospeltruth.net/1860OE/600704_love_2_neighbor.htm",
+   "listen_url": "",
+   "copyright": "public-domain",
+   "sources": [
+    {
+     "label": "Gospel Truth: Oberlin Evangelist text, 4 July 1860",
+     "url": "https://www.gospeltruth.net/1860OE/600704_love_2_neighbor.htm"
+    },
+    {
+     "label": "Gospel Truth: 'On Loving God', Oberlin Evangelist, 20 June 1860",
+     "url": "https://www.gospeltruth.net/1860OE/600620_on_loving_god.htm"
+    },
+    {
+     "label": "Oberlin Evangelist, 23 May 1860: Pres. Finney's Labors in Bolton, England",
+     "url": "https://www.gospeltruth.net/1860OE/60_lets_art/600523_bolton_reports.htm"
+    },
+    {
+     "label": "Oberlin Evangelist, 15 August 1860: Pres. Finney in England",
+     "url": "https://www.gospeltruth.net/1860OE/60_lets_art/600815_england_reports.htm"
+    }
+   ],
+   "unverified_notes": "The Evangelist gives only its issue date; the date and place of delivery are not recorded, though the reference to 'this Institution' suggests an Oberlin College audience before Finney left for Britain (Oberlin College Archives date that visit 1859–60).",
+   "verification_status": "corrected",
+   "verification_note": "Issue date, scripture, key line and the 20 June 1860 date of 'On Loving God' were confirmed; the claim that the sermon notes an approaching election was removed because the election appears only inside a hypothetical, and a sourced note was added that Finney was in England when it was printed."
+  }
+ ],
+ "removed": [],
+ "corrections": [
+  "Preacher: archive link label for the Oberlin Evangelist index changed from 'index to about 5,000 original pages' (figure not stated on the page) to 'main index by year'.",
+  "Preacher: added Finney's Memoirs ch. 23 as a source for his denouncing slavery in his preaching; all other bio facts confirmed via Oberlin College Archives, Gospel Truth chronology and Christian History Institute.",
+  "Sinners Bound: summary reworded to Finney's 'governing preference' and the four agencies (Spirit, truth, preacher, sinner); noted the 1835 printing's title 'Sinners Bound to Change Their Own Heart'; Yawp described as reproducing an excerpt; added attributed Memoirs note on the Wilmington sermon on the same text; unverified note now states that the 1831 date comes from Gospel Truth's unsourced chronology.",
+  "Lectures on Revivals: key line traced to Lecture I; added Lecture I and the reporter's April 1835 advertisement as sources; summary now names anxious meetings and protracted meetings along with the anxious seat.",
+  "Prevailing Prayer: added the omitted condition 'an agony of desire' to the summary's list.",
+  "Why Sinners Hate God: summary corrected, since Finney's rejected causes are creation, inherited disposition, a faculty of mind, human nature, descent from a common ancestor and God's moral government, not 'God's law or the terms of the gospel'; the closing remarks were added; the unverified note was resolved because the 1835 volume has only three sermons.",
+  "Christian Affinity: identified as the 1827 Troy sermon 'Can Two Walk Together Except They Be Agreed?'; date set to 4 March 1827 (date_iso 1827-03-04), place to the Presbyterian church at Troy, NY, and occasion, published_in (Troy: Tuttle and Richards, 1827) and context added from the 1827 title page, the presbytery letter, Finney's reply and Memoirs ch. 16; summary wording on revivals and visiting ministers adjusted.",
+  "Stewardship: removed the unsupported comparison 'unlike most of the volume'; 'relief and salvation' changed to 'happiness and salvation' to match the text.",
+  "Selfishness Not True Religion: summary expanded to cover the lecture's arguments from law, gospel, conscience, reason and experience and its conclusion; added the Gospel Truth index as a source.",
+  "Love the Whole of Religion: closing-remarks summary corrected to 'censorious and proud' and 'not sectarian', replacing 'quarrelsome'; removed the internal note about the lead's title.",
+  "Mutual Confession of Faults: summary's reasons rewritten to match section III (justice, peace with God, conscience, the injured and all the just); dropped the unsupported claim that confession 'helps the injured person forgive'.",
+  "Repentance Before Prayer for Forgiveness: primary category changed from forgiveness to sin-repentance; summary adds trust in Christ, changing methods of business, and the warning against telling sinners to pray for the Holy Spirit.",
+  "God's Love for a Sinning World: summary adds 'paternal' and 'not mere emotion' and the closing warning about forfeiting mercy.",
+  "Blessedness of the Merciful: summary corrected to the text's 'compassion which apologizes for sin' tied to Universalists, and the illustration described as the text gives it; added the 1 and 15 September 1858 pages as sources, and corrected the second title to 'The Blessedness of the Persecuted' as printed.",
+  "On Love to Our Neighbor: removed the claim that the sermon notes an approaching election (it is part of a hypothetical); corrected the reciprocal relations to 'pupils and teachers' and 'the college and its founders and donors'; added the 'On Loving God' page and 1860 Evangelist reports showing Finney was in England, so delivery came before printing."
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "rows": [
+  {
+   "id": "graham-we-need-revival",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "BGEA's audio archive has more than 50 recordings from the Los Angeles campaign of 1949, but none is titled 'We Need Revival' or dated to the opening meeting on 25 September 1949. No official or public-domain recording of this sermon could be confirmed."
+  },
+  {
+   "id": "graham-sermon-at-yankee-stadium-new-york-crusade-untitled-named-by-",
+   "listen_url": "https://www.youtube.com/watch?v=1aZoqIwHsdM",
+   "listen_label": "BGEA video",
+   "kind": "preacher-voice",
+   "evidence": "This video is on the official BGEA YouTube channel (@billygraham) under the title 'Billy Graham's 1957 New York Crusade Sermon at Yankee Stadium'. Its description reads 'On July 20, 1957, Billy Graham preached to 100,000 at Yankee Stadium', and it runs about 50 minutes."
+  },
+  {
+   "id": "graham-easter-sunday-sermon-at-legion-field-birmingham-untitled-nam",
+   "listen_url": "https://www.facebook.com/BillyGrahamEvangelisticAssociation/videos/10159796926355328/",
+   "listen_label": "BGEA video (Facebook)",
+   "kind": "preacher-voice",
+   "evidence": "This public video is on BGEA's official Facebook page under the title 'Easter in Birmingham: Billy Graham Makes History'. Its description says 'Watch Billy Graham's sermon to his largest integrated audience in Birmingham, Alabama... more than 4,000 individuals responded.'"
+  },
+  {
+   "id": "graham-sermon-on-social-injustice-the-hour-of-decision-descriptive-",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "BGEA Canada posts only the text of this sermon, with no audio. BGEA's audio archive has several Hour of Decision messages from 1967, such as 'The Real Role of the Church' and 'Rioting, Looting and Crime', but none has a transcript or description that proves it is this sermon."
+  },
+  {
+   "id": "graham-sermon-at-yoido-plaza-seoul-published-by-bgea-as-billy-graha",
+   "listen_url": "https://billygraham.org/sermons/the-love-of-god",
+   "listen_label": "BGEA audio archive",
+   "kind": "preacher-voice",
+   "evidence": "The BGEA page titled 'The Love of God' has a 26:12 audio player and download labelled \"Billy Graham's message from Seoul, SOUTH KOREA – 1973\". That matches BGEA's published title for the Yoido Plaza sermon of 3 June 1973."
+  },
+  {
+   "id": "graham-the-cradle-the-cross-and-the-crown",
+   "listen_url": "https://billygraham.org/sermons/the-cradle-the-cross-and-the-crown",
+   "listen_label": "BGEA audio archive",
+   "kind": "preacher-voice",
+   "evidence": "The BGEA page titled 'The Cradle, The Cross and the Crown' has a 20:36 audio player labelled \"Billy Graham's message from Washington, DC, USA – 1973\". Other versions with similar titles are dated 1963 and 1985."
+  },
+  {
+   "id": "graham-building-relationships",
+   "listen_url": "https://billygraham.org/classics/building-relationships",
+   "listen_label": "BGEA Classics video",
+   "kind": "preacher-voice",
+   "evidence": "This BGEA Classics page, titled 'Building Relationships', embeds a BGEA video player (Kaltura) and describes the video as a 1983 message from Tacoma, Washington. BGEA's audio archive also has a 32:01 audio recording at /sermons/building-relationships."
+  },
+  {
+   "id": "graham-loneliness",
+   "listen_url": "https://billygraham.org/classics/loneliness",
+   "listen_label": "BGEA Classics video",
+   "kind": "preacher-voice",
+   "evidence": "This BGEA Classics page, titled 'Loneliness', embeds a BGEA video player (Kaltura) and describes the video as a 1987 message from Denver, Colorado."
+  },
+  {
+   "id": "graham-the-love-of-god",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "BGEA posts only a PDF transcript of 'The Love of God' (Philadelphia, 1992). Its audio archive has other messages from Philadelphia in 1992, but none titled 'The Love of God', and the only YouTube copies found were not BGEA uploads."
+  },
+  {
+   "id": "graham-the-power-of-forgiveness",
+   "listen_url": "https://billygraham.org/classics/the-power-of-forgiveness",
+   "listen_label": "BGEA Classics video",
+   "kind": "preacher-voice",
+   "evidence": "This BGEA Classics page, titled 'The Power of Forgiveness', embeds a BGEA video player (Kaltura) and describes the video as a 1993 message from Pittsburgh, Pennsylvania."
+  },
+  {
+   "id": "graham-address-at-the-oklahoma-city-prayer-service-untitled-named-b",
+   "listen_url": "https://billygraham.org/sermon-clips/hope-amid-suffering-after-oklahoma-city-bombing",
+   "listen_label": "BGEA video clip (excerpt)",
+   "kind": "preacher-voice",
+   "evidence": "This BGEA sermon-clip page, titled 'Hope Amid Suffering After Oklahoma City Bombing', embeds a BGEA video player. It describes the video as Graham's message at the statewide prayer service at the Oklahoma State Fair on 23 April 1995. It is an excerpt, not the full address."
+  },
+  {
+   "id": "graham-address-at-the-national-day-of-prayer-and-remembrance-publis",
+   "listen_url": "https://billygraham.org/sermons/address-at-natl-day-of-prayer-and-remembrance",
+   "listen_label": "BGEA audio archive",
+   "kind": "preacher-voice",
+   "evidence": "The BGEA page titled \"Billy Graham's 9/11 Message from the Washington National Cathedral\" has a 10:53 audio player and a download link. It is labelled as his message to America after the September 11, 2001 attacks, given in Washington, DC."
+  },
+  {
+   "id": "graham-friday-evening-sermon-greater-new-york-crusade-untitled-name",
+   "listen_url": "https://billygraham.org/sermons/nicodemus-part-1",
+   "listen_label": "BGEA audio archive (Part 1 of 2)",
+   "kind": "preacher-voice",
+   "evidence": "The BGEA page 'Nicodemus (Part 1)' has a 12:36 audio player labelled \"Billy Graham's message from New York, NY, USA – 2005\" and links to Part 2. The Billy Graham Library blog and Ship of Fools both report that on Friday 24 June 2005 Graham preached on Nicodemus and 'you must be born again'."
+  },
+  {
+   "id": "graham-the-cross",
+   "listen_url": "https://www.youtube.com/watch?v=lMZLPa-wCIA",
+   "listen_label": "BGEA video",
+   "kind": "preacher-voice",
+   "evidence": "This video is on the official BGEA YouTube channel (@billygraham) under the title 'The Cross | Billy Graham TV Special' and runs about 28 minutes. Its description calls it one of the evangelist's final recordings, with testimonies from Jim Munroe and Lacey Sturm."
+  }
+ ]
+}

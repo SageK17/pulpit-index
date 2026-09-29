@@ -1,0 +1,74 @@
+{
+ "rows": [
+  {
+   "id": "sunday-booze-also-published-as-get-on-the-water-wagon",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No recording of this sermon was found: the only surviving recordings of Sunday's voice are short prohibition-era clips on SermonAudio and SermonIndex. The SermonAudio clip 'Billy Sunday Preaches Against Booze' is his 1930s speech against repeal ('America didn't need repeal'), and the 'Hawaii to Hoboken' lines in 'Anti-Booze Efforts' are not in the Booze sermon text. SermonIndex's 'Booze' page is text only, LibriVox has no Sunday author entry, and the only reading found is a Spanish translation, so it was not used."
+  },
+  {
+   "id": "sunday-mother",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: SermonIndex's 'Motherhood' page is text only (no MP3), LibriVox has no Sunday or Ellis (1914) recording, and the only audio of 'Mother' found was a paid Audible title, so it was excluded."
+  },
+  {
+   "id": "sunday-the-unpardonable-sin",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found on SermonAudio's Billy Sunday feed (47 items), SermonIndex's 26 Billy Sunday items, the Internet Archive or LibriVox, which has no Sunday or William T. Ellis audiobook."
+  },
+  {
+   "id": "sunday-what-shall-i-do-with-jesus",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: SermonIndex's 'Billy Sunday Collection' has 'What Shall I Do Then With Jesus' as .txt and .pdf only, with no audio, and nothing matched on SermonAudio, LibriVox or the Internet Archive."
+  },
+  {
+   "id": "sunday-real-manhood",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: this 1914 University of Pennsylvania address survives only as text in Ellis's book (Project Gutenberg #50586), and no reading or voice recording turned up on SermonAudio, SermonIndex, LibriVox or the Internet Archive."
+  },
+  {
+   "id": "sunday-the-devil-s-boomerangs-also-titled-hot-cakes-off-the-griddle",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: SermonIndex's 'The Devil's Boomerangs' page and the other copies online (preaching.com, jesus-is-savior.com, Bible Blender) are text only, and nothing matched on SermonAudio, LibriVox or the Internet Archive."
+  },
+  {
+   "id": "sunday-the-three-groups",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: LibriVox has no recording of Elijah P. Brown's 'The Real Billy Sunday', and no audio for 'The Three Groups' turned up on SermonAudio, SermonIndex or the Internet Archive."
+  },
+  {
+   "id": "sunday-atonement",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: SermonIndex's 'Atonement Through the Blood of Jesus' page is text only (no MP3), and no reading turned up on SermonAudio, LibriVox or the Internet Archive."
+  },
+  {
+   "id": "sunday-teach-us-to-pray",
+   "listen_url": "https://www.sermonaudio.com/sermons/826071519157/",
+   "listen_label": "SermonIndex reading (SermonAudio)",
+   "kind": "authorised-reading",
+   "evidence": "SermonAudio item 826071519157 is titled 'Teach Us to Pray - by Billy Sunday' and was posted by SermonIndex Audio Sermons; it runs 17:29 with a free MP3. Its captions open 'Teach us to pray, by Billy Sunday. If you are a stranger to prayer...', match Ellis's 1914 text, and end by crediting 'Billy Sunday, the Man and His Message, 1914'. The reader paraphrases slightly, which suggests a human rather than a TTS voice. The main page blocks automated fetches, so this was confirmed through SermonAudio's embed player, feed and direct MP3."
+  },
+  {
+   "id": "sunday-heaven",
+   "listen_url": "",
+   "listen_label": "",
+   "kind": "none",
+   "evidence": "No free recording found: 'Heaven' survives only as text in Ellis (1914), and no reading or voice recording turned up on SermonAudio, SermonIndex, LibriVox or the Internet Archive."
+  }
+ ]
+}
