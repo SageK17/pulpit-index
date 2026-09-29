@@ -1883,47 +1883,71 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
       if (changed) socialRender();
     });
   }
+  var socialSubs = [];
+  function track(u) { if (typeof u === "function") socialSubs.push(u); return u; }
+  function teardownSocial() {
+    socialSubs.concat(S.friendSubs).forEach(function (u) { try { u(); } catch (e) {} });
+    socialSubs = []; S.friendSubs = []; S.friendKey = ""; S.friendDocs = {};
+    S.on = false; S.me = null; S.member = undefined; S.links = null; S.incoming = []; S.people = [];
+  }
+  function startSocial(db, user, me) {
+    S.db = db; S.user = user; S.me = me; S.on = true; S.loading = false;
+    var err = function () { if (S.member === undefined) S.member = null; socialRender(); };
+    track(db.doc("members/" + me.id).onSnapshot(function (snap) { S.member = snap.exists ? snap.data() : null; socialChanged(); }, err));
+    track(db.doc("links/" + me.id).onSnapshot(function (snap) { S.links = snap.exists ? snap.data() : null; socialChanged(); }, err));
+    track(db.collection("links").where("friends", "array-contains", me.id).onSnapshot(function (q) {
+      S.incoming = q.docs.filter(function (d) { var x = d.data(); return x && x.owner === d.id && d.id !== me.id; }).map(function (d) { return d.id; });
+      socialChanged();
+    }, err));
+    track(db.collection("members").where("findable", "==", true).limit(300).onSnapshot(function (q) {
+      S.people = q.docs.filter(function (d) { var x = d.data(); return x && x.owner === d.id && d.id !== me.id; }).map(function (d) { return d.id; });
+      socialChanged();
+    }, err));
+    track(db.doc("shared/" + me.id).onSnapshot(mergeMyShared, function () {}));
+    socialChanged();
+  }
   function initSocial() {
-    if (!window.claude || typeof window.claude.use !== "function") { S.loading = false; socialRender(); return; }
-    Promise.all([window.claude.use("db"), window.claude.use("user")]).then(function (r) {
-      var db = r[0], user = r[1];
-      if (!db || !user) { S.loading = false; socialRender(); return; }
-      return user.me().then(function (me) {
-        S.loading = false;
-        if (!me || !me.id) { socialRender(); return; }
-        S.db = db; S.user = user; S.me = me; S.on = true;
-        var err = function () { if (S.member === undefined) S.member = null; socialRender(); };
-        db.doc("members/" + me.id).onSnapshot(function (snap) { S.member = snap.exists ? snap.data() : null; socialChanged(); }, err);
-        db.doc("links/" + me.id).onSnapshot(function (snap) { S.links = snap.exists ? snap.data() : null; socialChanged(); }, err);
-        db.collection("links").where("friends", "array-contains", me.id).onSnapshot(function (q) {
-          S.incoming = q.docs.filter(function (d) { var x = d.data(); return x && x.owner === d.id && d.id !== me.id; }).map(function (d) { return d.id; });
-          socialChanged();
-        }, err);
-        db.collection("members").where("findable", "==", true).limit(300).onSnapshot(function (q) {
-          S.people = q.docs.filter(function (d) { var x = d.data(); return x && x.owner === d.id && d.id !== me.id; }).map(function (d) { return d.id; });
-          socialChanged();
-        }, err);
-        db.doc("shared/" + me.id).onSnapshot(mergeMyShared, err);
-        socialChanged();
-      });
-    }).catch(function () { S.loading = false; socialRender(); });
+    if (window.claude && typeof window.claude.use === "function") {
+      S.backend = "claude";
+      Promise.all([window.claude.use("db"), window.claude.use("user")]).then(function (r) {
+        var db = r[0], user = r[1];
+        if (!db || !user) { S.loading = false; socialRender(); return; }
+        return user.me().then(function (me) {
+          if (!me || !me.id) { S.loading = false; socialRender(); return; }
+          startSocial(db, user, me);
+        });
+      }).catch(function () { S.loading = false; socialRender(); });
+    } else if (window.PULPIT_BACKEND_READY) {
+      S.backend = "firebase";
+      window.PULPIT_BACKEND_READY.then(function (fb) {
+        S.fb = fb;
+        fb.onUser(function (me) {
+          teardownSocial();
+          S.loading = false; S.needSignIn = !me;
+          if (me) startSocial(fb.db, fb, me); else socialRender();
+        });
+      }, function () { S.loading = false; S.backendDown = true; socialRender(); });
+    } else { S.loading = false; socialRender(); }
   }
   function refreshFriendSubs() {
-    var ids = friendIds().slice().sort(), key = ids.join(",");
+    var ids = friendIds().slice().sort().slice(0, 60), key = ids.join(",");
     if (key === S.friendKey) return;
     S.friendKey = key;
     S.friendSubs.forEach(function (u) { try { u(); } catch (e) {} });
     S.friendSubs = [];
     Object.keys(S.friendDocs).forEach(function (id) { if (ids.indexOf(id) < 0) delete S.friendDocs[id]; });
-    for (var i = 0; i < ids.length; i += 30) {
-      (function (chunk) {
-        S.friendSubs.push(S.db.collection("shared").where("owner", "in", chunk).onSnapshot(function (q) {
-          chunk.forEach(function (id) { delete S.friendDocs[id]; });
-          q.docs.forEach(function (d) { var x = d.data(); if (x && x.owner === d.id && chunk.indexOf(d.id) >= 0 && x.notes && typeof x.notes === "object") S.friendDocs[d.id] = x.notes; });
-          resolveProfiles(); socialRender();
-        }, function () {}));
-      })(ids.slice(i, i + 30));
-    }
+    ids.forEach(function (id) { subscribeFriend(id, 0); });
+  }
+  function subscribeFriend(id, tries) {
+    var u = S.db.doc("shared/" + id).onSnapshot(function (d) {
+      var x = d.exists ? d.data() : null;
+      if (x && x.owner === d.id && x.notes && typeof x.notes === "object") S.friendDocs[id] = x.notes; else delete S.friendDocs[id];
+      resolveProfiles(); socialRender();
+    }, function () {
+      // a brand-new friendship can reach the server a moment after this view sees it: retry a few times
+      if (tries < 3) setTimeout(function () { if (S.on && friendIds().indexOf(id) >= 0) subscribeFriend(id, tries + 1); }, 4000 * (tries + 1));
+    });
+    S.friendSubs.push(u);
   }
   function socialChanged() { if (S.on) refreshFriendSubs(); resolveProfiles(); socialRender(); }
   function socialRender() {
@@ -2000,6 +2024,8 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     return queueWrite(function () { return S.db.doc("links/" + S.me.id).set(next); });
   }
   function friendAction(act, el) {
+    if (act === "signin" && S.fb) { S.fb.signIn().catch(function (e) { toast(e && e.code === "auth/unauthorized-domain" ? "Sign-in isn’t set up for this address yet" : "Sign-in didn’t finish. Try again."); }); return; }
+    if (act === "signout" && S.fb) { S.fb.signOut(); toast("Signed out"); return; }
     if (!S.on) return;
     var parts = act.split(":"), a = parts[0], id = parts[1];
     if (a === "enable") {
@@ -2008,7 +2034,9 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         var code = genCode();
         return S.db.collection("members").where("code", "==", code).limit(1).get().then(function (q) {
           if (!q.empty) code = genCode();
-          return S.db.doc("members/" + S.me.id).set({ owner: S.me.id, code: code, findable: false, joined: Date.now() });
+          var card = { owner: S.me.id, code: code, findable: false, joined: Date.now() };
+          if (S.backend === "firebase") { card.name = (S.me.name || "").slice(0, 60); if (/^https:\/\//.test(S.me.avatarUrl || "")) card.photo = S.me.avatarUrl.slice(0, 600); }
+          return S.db.doc("members/" + S.me.id).set(card);
         }).then(function () { if (!S.links) return S.db.doc("links/" + S.me.id).set({ owner: S.me.id, friends: [], hidden: [], t: Date.now() }); })
           .then(function () { toast("Friends turned on"); syncShared(); });
       });
@@ -2047,12 +2075,19 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   function fillFriends() {
     var el = document.getElementById("friends-body"); if (!el) return;
     if (S.loading || (S.on && S.member === undefined)) { el.innerHTML = '<div class="empty" style="margin-top:22px"><b>Connecting…</b>Checking who is signed in.</div>'; return; }
-    if (!S.on) { el.innerHTML = '<div class="empty" style="margin-top:22px"><b>Friends work on the published page</b>Open this page through its claude.ai link while signed in to add friends and share notes. Your own highlights and notes still work on this device.</div>'; return; }
+    if (S.needSignIn) {
+      el.innerHTML = '<div class="panel" style="margin-top:22px;max-width:620px"><h3>Sign in to read with friends</h3><p>Sign in with your Google account to get a friend code, add friends and share notes that appear beside the verse in their reader.</p>' +
+        '<p><button class="fbtn" type="button" data-f="signin">' + icon("friends") + 'Sign in with Google</button></p><p class="fine">Your highlights and notes keep working on this device without signing in.</p></div>';
+      return;
+    }
+    if (!S.on) { el.innerHTML = '<div class="empty" style="margin-top:22px"><b>' + (S.backendDown ? "Friends couldn’t connect" : window.PULPIT_PAGES ? "Friends are coming to this version soon" : "Friends work on the online site") + '</b>' + (S.backendDown ? "Check your connection and reload the page." : window.PULPIT_PAGES ? "Adding friends and sharing notes is being set up here. Your highlights, notes and bookmarks already work and stay on this device." : "Open the site online (on GitHub Pages or claude.ai) to add friends and share notes. Your own highlights and notes still work on this device.") + '</div>'; return; }
     if (!S.member) {
       el.innerHTML = '<div class="panel" style="margin-top:22px;max-width:660px"><h3>Turn on friends</h3>' +
         '<p>You’ll get a friend code to give to people you want to read with. Once you’ve added each other, notes you choose to share appear in each other’s reader, beside the verse.</p>' +
         '<ul><li>Only notes you switch to “Share with friends” leave this device. Highlights and other notes stay private.</li>' +
-        '<li>Shared notes and friend lists are stored with this page, so people who can open the page could see them. Share what you’d be comfortable with them reading.</li>' +
+        (S.backend === "firebase"
+          ? '<li>Shared notes can be read only by people you and they have both added as friends. Your name, photo, friend code and friend list are visible to other signed-in people on this site.</li>'
+          : '<li>Shared notes and friend lists are stored with this page, so people who can open the page could see them. Share what you’d be comfortable with them reading.</li>') +
         '<li>You can stop sharing a note, remove a friend or hide yourself at any time.</li></ul>' +
         '<p style="margin-top:14px"><button class="fbtn" type="button" data-f="enable">' + icon("friends") + 'Turn on friends</button></p>' +
         (S.denied ? '<p class="fine">This page didn’t let you save. Ask the owner to share it with you with edit access (Contributor or Editor).</p>' : '') + '</div>';
@@ -2079,7 +2114,8 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         return '<button type="button" class="fnote" data-open="' + esc(f.sid) + '" data-key="' + esc(f.key) + '"><span class="top">' + pimg(f.fid, "") + '<b>' + esc(pname(f.fid)) + '</b><span>on ' + esc(s.title) + ' · v. ' + esc(f.n.ref) + '</span></span><span class="txt">' + esc(f.n.text) + '</span>' + (f.n.snip ? '<q>' + esc(f.n.snip) + '</q>' : '') + '</button>';
       }).join("") + '</div>' : '<p class="fine" style="margin:0">When friends share notes, they appear here and beside the verse in the reader.</p>') + '</div>' +
       '<div class="panel"><h3>You’re sharing</h3><p style="margin:0">' + plural(mine, "note") + '. Switch “Share with friends” on or off in any note.</p>' +
-      '<p class="fine">Shared notes and friend lists are stored with this page; people who can open it could see them.</p></div></div>';
+      '<p class="fine">' + (S.backend === "firebase" ? "Only mutual friends can read your shared notes." : "Shared notes and friend lists are stored with this page; people who can open it could see them.") + '</p>' +
+      (S.backend === "firebase" ? '<p class="fine">Signed in as ' + esc(S.me.name || "you") + ' · <button type="button" data-f="signout" style="text-decoration:underline">Sign out</button></p>' : '') + '</div></div>';
     var focused = document.activeElement && document.activeElement.id === "f-code", typed = focused ? document.activeElement.value : "";
     el.innerHTML = '<div class="fgrid">' + left + right + '</div>';
     if (focused) { var ni = document.getElementById("f-code"); ni.value = typed; ni.focus(); }

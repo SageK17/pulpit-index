@@ -500,6 +500,36 @@ def main():
     )
     open(args.out, "w").write(standalone)
 
+    # GitHub Pages build (docs/): same app, Friends backed by Firebase instead of claude.ai capabilities
+    fb_cfg = os.path.join(HERE, "firebase-config.json")
+    if not is_sample:
+        cfg = json.load(open(fb_cfg)) if os.path.exists(fb_cfg) else None
+        adapter = open(os.path.join(HERE, "firebase-adapter.js")).read()
+        docs = os.path.join(HERE, "docs")
+        if os.path.isdir(os.path.join(docs, "texts")):
+            shutil.rmtree(os.path.join(docs, "texts"))
+        os.makedirs(os.path.join(docs, "texts"), exist_ok=True)
+        for pid, b in bundles.items():
+            json.dump(b, open(os.path.join(docs, "texts", pid + ".json"), "w"), ensure_ascii=False, separators=(",", ":"))
+        desc = ("Sermons of 15 great preachers, from Augustine to Billy Graham, sorted by subject, with sourced context, "
+                "where the preacher was in life, and full public-domain texts to read, mark and listen to.")
+        head = (
+            '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+            f'<meta name="description" content="{desc}">\n'
+            '<meta property="og:title" content="The Pulpit Index">\n'
+            f'<meta property="og:description" content="{desc}">\n'
+            "<style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>\n"
+            + ("<script>window.PULPIT_PAGES=true;window.PULPIT_FIREBASE=" + json.dumps(cfg) + ";"
+               "window.PULPIT_BACKEND_READY=new Promise(function(res,rej){window.PULPIT_BACKEND_RESOLVE=res;window.PULPIT_BACKEND_REJECT=rej;"
+               "setTimeout(function(){rej(new Error('timeout'))},15000);});</script>\n"
+               '<script type="module">\n' + adapter + "\n</script>\n" if cfg else "<script>window.PULPIT_PAGES=true;</script>\n")
+            + "</head>\n<body>\n"
+        )
+        open(os.path.join(docs, "index.html"), "w").write(head + page.replace("/*__TEXTS__*/", "null") + "\n</body>\n</html>\n")
+        open(os.path.join(docs, ".nojekyll"), "w").write("")
+        print(f"GitHub Pages build -> docs/index.html (+{len(bundles)} text bundles, friends {'on' if cfg else 'off until firebase-config.json exists'})")
+
     counts = {c: 0 for c in CAT_IDS}
     for t in sermons:
         for c in t["categories"]:

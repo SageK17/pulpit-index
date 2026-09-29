@@ -2,7 +2,8 @@
 
 Sermons of fifteen great preachers, from Augustine to Billy Graham, sorted by subject (love, friendship, hatred and enemies, forgiveness and 20 more). Each sermon has sourced context, a note on where the preacher was in life when they gave it, and, where the text is in the public domain, the full sermon to read, mark verse by verse and listen to.
 
-- **Live site:** https://claude.ai/artifact/Qo3GgniXbejRK2Rptypo3S (private; share it from the page's Share menu)
+- **Public site (GitHub Pages):** https://sagek17.github.io/pulpit-index/
+- **claude.ai version:** https://claude.ai/artifact/Qo3GgniXbejRK2Rptypo3S (private; share it from the page's Share menu)
 - **Offline copy:** open `dist/index.html` in any browser. Everything is inside that one file, including the full texts. Friends and shared notes only work on the live site.
 
 ## What's in it
@@ -44,7 +45,12 @@ data/texts-raw/      verbatim public-domain texts, one file per sermon
 data/sermons.json    the merged dataset (generated)
 dist/index.html      standalone site with texts inlined (generated)
 dist/index.artifact.html + dist/texts/   the version published to claude.ai (generated)
+docs/                GitHub Pages build (generated); Friends there use Firebase
+firebase-adapter.js  Friends backend for the GitHub Pages build (Google sign-in + Firestore)
+firestore.rules      Firestore security rules: shared notes readable only by mutual friends
 ```
+
+Friends on GitHub Pages switch on when `firebase-config.json` (the Firebase web app config, which is public by design) is present at build time. The claude.ai build uses the page's own database and sign-in instead.
 
 ## Rebuild
 

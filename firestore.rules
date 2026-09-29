@@ -1,0 +1,51 @@
+rules_version = '2';
+// Friends for the GitHub Pages build of The Pulpit Index.
+//   members/{uid}  friend card: code, findable, display name, photo  (signed-in people can read)
+//   links/{uid}    the people {uid} has added (a friendship = both list each other)
+//   shared/{uid}   notes {uid} chose to share: readable ONLY by {uid} and mutual friends
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function isMe(uid) { return signedIn() && request.auth.uid == uid; }
+    function listsMe(uid) {
+      return exists(/databases/$(database)/documents/links/$(uid))
+        && request.auth.uid in get(/databases/$(database)/documents/links/$(uid)).data.friends;
+    }
+    function iList(uid) {
+      return exists(/databases/$(database)/documents/links/$(request.auth.uid))
+        && uid in get(/databases/$(database)/documents/links/$(request.auth.uid)).data.friends;
+    }
+
+    match /members/{uid} {
+      allow read: if signedIn();
+      allow create, update: if isMe(uid)
+        && request.resource.data.keys().hasOnly(['owner', 'code', 'findable', 'joined', 'name', 'photo'])
+        && request.resource.data.owner == uid
+        && request.resource.data.code is string && request.resource.data.code.size() == 6
+        && request.resource.data.findable is bool
+        && (!('name' in request.resource.data) || (request.resource.data.name is string && request.resource.data.name.size() <= 60))
+        && (!('photo' in request.resource.data) || (request.resource.data.photo is string && request.resource.data.photo.size() <= 600));
+      allow delete: if isMe(uid);
+    }
+
+    match /links/{uid} {
+      allow read: if signedIn();
+      allow create, update: if isMe(uid)
+        && request.resource.data.keys().hasOnly(['owner', 'friends', 'hidden', 't'])
+        && request.resource.data.owner == uid
+        && request.resource.data.friends is list && request.resource.data.friends.size() <= 500
+        && request.resource.data.hidden is list && request.resource.data.hidden.size() <= 500;
+      allow delete: if isMe(uid);
+    }
+
+    match /shared/{uid} {
+      allow get: if isMe(uid) || (signedIn() && listsMe(uid) && iList(uid));
+      allow list: if false;
+      allow create, update: if isMe(uid)
+        && request.resource.data.keys().hasOnly(['owner', 'notes', 't'])
+        && request.resource.data.owner == uid
+        && request.resource.data.notes is map;
+      allow delete: if isMe(uid);
+    }
+  }
+}
