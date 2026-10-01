@@ -38,6 +38,11 @@ service cloud.firestore {
       allow delete: if isMe(uid);
     }
 
+    // each person's own highlights, notes, bookmarks and reading position (synced between their devices)
+    match /data/users/{uid}/{doc} {
+      allow read, write: if isMe(uid);
+    }
+
     match /shared/{uid} {
       allow get: if isMe(uid) || (signedIn() && listsMe(uid) && iList(uid));
       allow list: if false;

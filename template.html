@@ -953,7 +953,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   /* ---------- storage: per-viewer conveniences only ---------- */
   var store = {
     get: function (k, d) { try { var v = localStorage.getItem("pulpit:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
-    set: function (k, v) { try { localStorage.setItem("pulpit:" + k, JSON.stringify(v)); } catch (e) {} }
+    set: function (k, v) { try { localStorage.setItem("pulpit:" + k, JSON.stringify(v)); } catch (e) {} if (SYNC_KINDS[k]) syncDirty(k); }
   };
   var rs = Object.assign({ size: 19, theme: "auto", font: "serif", lh: "normal", vnum: true }, store.get("reader2", {}));
   var marks = store.get("marks", {});
@@ -1183,7 +1183,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
 
   var savedTab = "marks";
   VIEWS.saved = function () {
-    return '<p class="eyebrow">Saved</p><h1 class="page-title">Your highlights and notes</h1><p class="page-lede">Kept in this browser only, on this device.</p>' +
+    return '<p class="eyebrow">Saved</p><h1 class="page-title">Your highlights and notes</h1><p class="page-lede" id="sync-line">' + esc(syncLine()) + '</p>' +
       '<div class="toolbar"><div class="seg" id="saved-tabs"><button type="button" data-stab="marks">Highlights</button><button type="button" data-stab="notes">Notes</button><button type="button" data-stab="bookmarks">Bookmarks</button></div></div><div id="saved-body" class="cards"></div>';
   };
   function keyCmp(a, b) { var x = a.split(".").map(Number), y = b.split(".").map(Number); return x[0] - y[0] || x[1] - y[1]; }
@@ -1575,7 +1575,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         el.classList.add("hl-" + c);
         el.classList.remove("sweep"); void el.offsetWidth; el.classList.add("sweep");
         (function (x) { setTimeout(function () { x.classList.remove("sweep"); }, 700); })(el);
-      } else delete m[k];
+      } else { delete m[k]; addTomb("marks", R.id + "|" + k); }
     });
     if (!Object.keys(m).length) delete marks[R.id];
     store.set("marks", marks);
@@ -1619,7 +1619,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     var share = !shEl.hidden && shEl.getAttribute("aria-checked") === "true";
     var wasShared = !!(nt[noteEditing.key] && nt[noteEditing.key].shared);
     if (!shEl.hidden) store.set("shareDefault", share);
-    if (removed) delete nt[noteEditing.key];
+    if (removed) { delete nt[noteEditing.key]; addTomb("notes", R.id + "|" + noteEditing.key); }
     else nt[noteEditing.key] = { text: text, keys: noteEditing.keys, ref: noteEditing.ref, snip: noteEditing.snip.length > 200 ? noteEditing.snip.slice(0, 197) + "…" : noteEditing.snip, t: Date.now(), shared: share };
     if (share || wasShared) syncShared();
     if (!Object.keys(nt).length) delete notes[R.id];
@@ -1630,7 +1630,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   }
   function toggleBookmark() {
     if (!R.id) return;
-    if (bookmarks[R.id]) delete bookmarks[R.id]; else bookmarks[R.id] = Date.now();
+    if (bookmarks[R.id]) { delete bookmarks[R.id]; addTomb("bookmarks", R.id); } else bookmarks[R.id] = Date.now();
     store.set("bookmarks", bookmarks);
     var bb = document.getElementById("r-bookmark");
     bb.setAttribute("aria-pressed", String(!!bookmarks[R.id]));
@@ -1925,6 +1925,125 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   ["wheel", "touchmove"].forEach(function (ev) { addEventListener(ev, function () { Lx.userScroll = Date.now(); }, { passive: true }); });
   addEventListener("keydown", function (e) { if (["PageDown", "PageUp", "ArrowDown", "ArrowUp", " "].indexOf(e.key) >= 0) Lx.userScroll = Date.now(); });
 
+  /* ================= SYNC: highlights, notes, bookmarks and reading position follow your account ================= */
+  var SYNC_KINDS = { marks: 1, notes: 1, bookmarks: 1, progress: 1 };
+  var SYNC = { on: false, db: null, uid: null, subs: [], timers: {}, q: Promise.resolve(), applying: false, last: 0, denied: false };
+  var tombs = store.get("tombs", {});
+  ["marks", "notes", "bookmarks", "progress"].forEach(function (k) { tombs[k] = tombs[k] || {}; });
+  function kindData(kind) { return kind === "marks" ? marks : kind === "notes" ? notes : kind === "bookmarks" ? bookmarks : progress; }
+  function addTomb(kind, fk) { tombs[kind][fk] = Date.now(); try { localStorage.setItem("pulpit:tombs", JSON.stringify(tombs)); } catch (e) {} }
+  function flatOf(kind) {
+    var src = kindData(kind), out = {};
+    Object.keys(src).forEach(function (sid) {
+      if (kind === "bookmarks") out[sid] = { t: +src[sid] || 0 };
+      else if (kind === "progress") out[sid] = src[sid];
+      else Object.keys(src[sid] || {}).forEach(function (k) { out[sid + "|" + k] = src[sid][k]; });
+    });
+    return out;
+  }
+  function setItem(kind, fk, v) {
+    if (kind === "bookmarks") { if (v) bookmarks[fk] = v.t; else delete bookmarks[fk]; return; }
+    if (kind === "progress") { if (v) progress[fk] = v; else delete progress[fk]; return; }
+    var i = fk.indexOf("|"), sid = fk.slice(0, i), k = fk.slice(i + 1), src = kindData(kind);
+    if (v) (src[sid] = src[sid] || {})[k] = v;
+    else if (src[sid]) { delete src[sid][k]; if (!Object.keys(src[sid]).length) delete src[sid]; }
+  }
+  // remote data is the viewer's own, but check its shape before it touches the page
+  function cleanItem(kind, fk, v) {
+    if (!v || typeof v !== "object" || !(+v.t > 0)) return null;
+    var sid = kind === "bookmarks" || kind === "progress" ? fk : fk.slice(0, fk.indexOf("|"));
+    if (!sermonById[sid]) return null;
+    if (kind === "bookmarks") return { t: +v.t };
+    if (kind === "progress") return { k: typeof v.k === "string" && /^\d{1,3}\.\d{1,5}$/.test(v.k) ? v.k : null, pct: Math.max(0, Math.min(1, +v.pct || 0)), t: +v.t };
+    var k = fk.slice(fk.indexOf("|") + 1);
+    if (!/^\d{1,3}\.\d{1,5}$/.test(k)) return null;
+    if (kind === "marks") return /^[ygbpo]$/.test(v.c) ? { c: v.c, n: String(v.n || "").slice(0, 60), snip: String(v.snip || "").slice(0, 260), t: +v.t } : null;
+    var keys = validKeys(v.keys);
+    return keys && typeof v.text === "string" ? { text: v.text.slice(0, 4000), keys: keys, ref: String(v.ref || "").slice(0, 60), snip: String(v.snip || "").slice(0, 260), t: +v.t, shared: !!v.shared } : null;
+  }
+  function mergeKind(kind, remote) {
+    var local = flatOf(kind), lt = tombs[kind], ri = (remote && remote.items) || {}, rt = (remote && remote.tombs) || {};
+    var keys = {}, changed = false, newer = false;
+    [local, lt, ri, rt].forEach(function (m) { Object.keys(m).forEach(function (k) { keys[k] = 1; }); });
+    Object.keys(keys).forEach(function (fk) {
+      var a = local[fk], aT = a ? +a.t || 0 : 0, at = +lt[fk] || 0;
+      var b = cleanItem(kind, fk, ri[fk]), bT = b ? b.t : 0, bt = +rt[fk] || 0;
+      var best = Math.max(aT, at, bT, bt);
+      if (!best) return;
+      if (b && bT === best && bT > aT && bT > at) { setItem(kind, fk, b); delete lt[fk]; changed = true; }
+      else if (bt === best && bt > aT && bt > bT) { if (a) { setItem(kind, fk, null); changed = true; } if (at < bt) lt[fk] = bt; }
+      if ((a && aT === best && aT > bT && aT > bt) || (at === best && at > bT && at > bt)) newer = true;
+    });
+    return { changed: changed, newer: newer };
+  }
+  function pushKind(kind) {
+    var items = flatOf(kind), tm = tombs[kind], cutoff = Date.now() - 120 * 864e5;
+    Object.keys(tm).forEach(function (k) { if (tm[k] < cutoff || (items[k] && (+items[k].t || 0) > tm[k])) delete tm[k]; });
+    var body = { items: items, tombs: tm, t: Date.now() };
+    SYNC.q = SYNC.q.then(function () {
+      if (!SYNC.on) return;
+      return SYNC.db.doc("data/users/" + SYNC.uid + "/" + kind).set(body).then(function () { SYNC.last = Date.now(); syncShow(); });
+    }).catch(function (e) {
+      if (e && e.code === "invalid_argument" && !SYNC.denied) { SYNC.denied = true; toast("Saving to your account isn’t allowed on this page; your marks stay on this device"); syncShow(); }
+    });
+  }
+  function syncDirty(kind) {
+    if (!SYNC.on || SYNC.applying || SYNC.denied) return;
+    clearTimeout(SYNC.timers[kind]);
+    SYNC.timers[kind] = setTimeout(function () { pushKind(kind); }, kind === "progress" ? 8000 : 1200);
+  }
+  function startSync(db, uid) {
+    if (SYNC.on && SYNC.uid === uid) return;
+    stopSync();
+    SYNC.on = true; SYNC.db = db; SYNC.uid = uid; SYNC.denied = false;
+    ["marks", "notes", "bookmarks", "progress"].forEach(function (kind) {
+      var first = true;
+      SYNC.subs.push(db.doc("data/users/" + uid + "/" + kind).onSnapshot(function (snap) {
+        var r = mergeKind(kind, snap.exists ? snap.data() : null);
+        if (r.changed) {
+          SYNC.applying = true;
+          store.set(kind, kindData(kind));
+          try { localStorage.setItem("pulpit:tombs", JSON.stringify(tombs)); } catch (e) {}
+          SYNC.applying = false;
+          syncApplied(kind);
+        }
+        if (r.newer || (first && !snap.exists && Object.keys(flatOf(kind)).length)) syncDirty(kind);
+        if (first && kind === "marks" && !store.get("syncTold", false) && (r.changed || Object.keys(flatOf("marks")).length)) { store.set("syncTold", true); toast("Your highlights and notes now sync to your account"); }
+        first = false;
+        SYNC.last = Date.now(); syncShow();
+      }, function () {}));
+    });
+  }
+  function stopSync() {
+    SYNC.subs.forEach(function (u) { try { u(); } catch (e) {} });
+    SYNC.subs = []; SYNC.on = false; SYNC.uid = null; syncShow();
+  }
+  function syncApplied(kind) {
+    refreshSavedCount();
+    var v = parse(location.hash).v;
+    if (!document.body.classList.contains("reading")) {
+      if (v === "saved") fillSaved();
+      if (v === "home" && kind === "progress") { var y = scrollY; document.getElementById("view").innerHTML = VIEWS.home(); scrollTo(0, y); }
+    } else if (R.id && R.text && (kind === "marks" || kind === "notes")) {
+      if (kind === "marks") {
+        var m = marks[R.id] || {};
+        each("#r-body .v", function (el) {
+          var k = el.getAttribute("data-k"), c = m[k] && m[k].c;
+          ["y", "g", "b", "p", "o"].forEach(function (x) { el.classList.toggle("hl-" + x, c === x); });
+        });
+      } else { var yy = scrollY; renderChapter(R.chap); scrollTo(0, yy); }
+    }
+    if (R.id) document.getElementById("r-bookmark").setAttribute("aria-pressed", String(!!bookmarks[R.id]));
+  }
+  function syncLine() {
+    if (SYNC.on && !SYNC.denied) return "Synced to your account, so they follow you to every device where you’re signed in. Only you can see them.";
+    if (SYNC.denied) return "Saved on this device. This page doesn’t let you save to your account.";
+    if (S.backend === "firebase" || S.needSignIn) return "Saved on this device. Sign in with Google (on the Friends page) to sync them across your devices.";
+    if (window.PULPIT_PAGES) return "Saved on this device. Syncing between devices on this site is being set up; on the claude.ai version of the site it already works.";
+    return "Saved on this device. Open the online version while signed in to sync them across your devices.";
+  }
+  function syncShow() { var el = document.getElementById("sync-line"); if (el) el.textContent = syncLine(); }
+
   /* ================= FRIENDS (db + user capabilities) ================= */
   var S = { on: false, loading: true, db: null, user: null, me: null, member: undefined, links: null, incoming: [], people: [], friendDocs: {}, profiles: {}, friendKey: "", friendSubs: [], denied: false, msg: "" };
   function uniq(a) { var o = []; a.forEach(function (x) { if (typeof x === "string" && o.indexOf(x) < 0) o.push(x); }); return o; }
@@ -1996,6 +2115,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         if (!db || !user) { S.loading = false; socialRender(); return; }
         return user.me().then(function (me) {
           if (!me || !me.id) { S.loading = false; socialRender(); return; }
+          startSync(db, me.id);
           startSocial(db, user, me);
         });
       }).catch(function () { S.loading = false; socialRender(); });
@@ -2006,7 +2126,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
         fb.onUser(function (me) {
           teardownSocial();
           S.loading = false; S.needSignIn = !me;
-          if (me) startSocial(fb.db, fb, me); else socialRender();
+          if (me) { startSync(fb.db, me.id); startSocial(fb.db, fb, me); } else { stopSync(); socialRender(); }
         });
       }, function () { S.loading = false; S.backendDown = true; socialRender(); });
     } else { S.loading = false; socialRender(); }
@@ -2073,7 +2193,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     });
     Object.keys(notes).forEach(function (sid) { Object.keys(notes[sid]).forEach(function (k) {
       var n = notes[sid][k];
-      if (n.shared && !(rn[sid] && rn[sid][k]) && n.t < remoteT) { delete notes[sid][k]; changed = true; }
+      if (n.shared && !(rn[sid] && rn[sid][k]) && n.t < remoteT) { delete notes[sid][k]; addTomb("notes", sid + "|" + k); changed = true; }
     }); if (!Object.keys(notes[sid]).length) delete notes[sid]; });
     if (changed) { store.set("notes", notes); refreshSavedCount(); if (R.id && R.text) { var y = scrollY; renderChapter(R.chap); scrollTo(0, y); } }
   }
