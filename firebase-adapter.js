@@ -2,7 +2,7 @@
 // Exposes the same small surface the app already uses: db.doc(path) / db.collection(path).where().limit(),
 // with get / set / update / onSnapshot, plus profiles(ids), onUser(cb), signIn(), signOut().
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
-import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
 import { getFirestore, doc, collection, query, where, limit, onSnapshot, getDoc, getDocs, setDoc, updateDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
 try {
@@ -64,10 +64,9 @@ try {
     db,
     profiles,
     onUser: (cb) => onAuthStateChanged(auth, (u) => cb(u ? { id: u.uid, name: u.displayName || "", avatarUrl: u.photoURL || "", email: null } : null)),
-    signIn: () => signInWithPopup(auth, provider).catch((e) => {
-      if (e && (e.code === "auth/popup-blocked" || e.code === "auth/operation-not-supported-in-this-environment")) return signInWithRedirect(auth, provider);
-      throw e;
-    }),
+    // Popup only: the redirect flow breaks in browsers that partition storage (Safari, in-app browsers),
+    // because this page (github.io) and the auth helper (firebaseapp.com) are different sites.
+    signIn: () => signInWithPopup(auth, provider),
     signOut: () => signOut(auth),
   });
 } catch (e) {
