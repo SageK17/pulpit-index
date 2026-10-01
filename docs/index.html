@@ -1273,7 +1273,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
 
   var savedTab = "marks";
   VIEWS.saved = function () {
-    return '<p class="eyebrow">Saved</p><h1 class="page-title">Your highlights and notes</h1><p class="page-lede" id="sync-line">' + esc(syncLine()) + '</p>' +
+    return '<p class="eyebrow">Saved</p><h1 class="page-title">Your highlights and notes</h1><p class="page-lede" id="sync-line">' + esc(syncLine()) + '</p><p id="sync-cta" style="margin:14px 0 0"' + (S.needSignIn ? '' : ' hidden') + '><button class="fbtn" type="button" data-f="signin">' + icon("friends") + 'Sign in with Google to sync</button></p>' +
       '<div class="toolbar"><div class="seg" id="saved-tabs"><button type="button" data-stab="marks">Highlights</button><button type="button" data-stab="notes">Notes</button><button type="button" data-stab="bookmarks">Bookmarks</button></div></div><div id="saved-body" class="cards"></div>';
   };
   function keyCmp(a, b) { var x = a.split(".").map(Number), y = b.split(".").map(Number); return x[0] - y[0] || x[1] - y[1]; }
@@ -2128,11 +2128,15 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   function syncLine() {
     if (SYNC.on && !SYNC.denied) return "Synced to your account, so they follow you to every device where you’re signed in. Only you can see them.";
     if (SYNC.denied) return "Saved on this device. This page doesn’t let you save to your account.";
-    if (S.backend === "firebase" || S.needSignIn) return "Saved on this device. Sign in with Google (on the Friends page) to sync them across your devices.";
+    if (S.needSignIn) return "Saved on this device. Sign in with Google to keep them in sync on your phone and computer.";
+    if (S.backend === "firebase") return "Connecting to your account…";
     if (window.PULPIT_PAGES) return "Saved on this device. Syncing between devices on this site is being set up; on the claude.ai version of the site it already works.";
     return "Saved on this device. Open the online version while signed in to sync them across your devices.";
   }
-  function syncShow() { var el = document.getElementById("sync-line"); if (el) el.textContent = syncLine(); }
+  function syncShow() {
+    var el = document.getElementById("sync-line"); if (el) el.textContent = syncLine();
+    var cta = document.getElementById("sync-cta"); if (cta) cta.hidden = !S.needSignIn || SYNC.on;
+  }
 
   /* ================= FRIENDS (db + user capabilities) ================= */
   var S = { on: false, loading: true, db: null, user: null, me: null, member: undefined, links: null, incoming: [], people: [], friendDocs: {}, profiles: {}, friendKey: "", friendSubs: [], denied: false, msg: "" };
@@ -2243,6 +2247,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   }
   function socialChanged() { if (S.on) refreshFriendSubs(); resolveProfiles(); socialRender(); }
   function socialRender() {
+    syncShow();
     var n = S.on ? requestsIn().length : 0;
     ["b-friends", "b-friends-m"].forEach(function (id) { var b = document.getElementById(id); if (b) { b.hidden = !n; b.textContent = n; } });
     if (!document.body.classList.contains("reading") && parse(location.hash).v === "friends") fillFriends();
