@@ -2,7 +2,7 @@
 // Exposes the same small surface the app already uses: db.doc(path) / db.collection(path).where().limit(),
 // with get / set / update / onSnapshot, plus profiles(ids), onUser(cb), signIn(), signOut().
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
-import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, getRedirectResult, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
 import { getFirestore, doc, collection, query, where, limit, onSnapshot, getDoc, getDocs, setDoc, updateDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
 try {
@@ -59,14 +59,25 @@ try {
   };
 
   const provider = new GoogleAuthProvider();
+  const sameSite = location.hostname === window.PULPIT_FIREBASE.authDomain;
+  const standalone = (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+  if (sameSite) getRedirectResult(auth).catch((e) => console.warn("sign-in redirect:", e && e.code));
   window.PULPIT_BACKEND_RESOLVE({
     kind: "firebase",
     db,
     profiles,
     onUser: (cb) => onAuthStateChanged(auth, (u) => cb(u ? { id: u.uid, name: u.displayName || "", avatarUrl: u.photoURL || "", email: null } : null)),
-    // Popup only: the redirect flow breaks in browsers that partition storage (Safari, in-app browsers),
-    // because this page (github.io) and the auth helper (firebaseapp.com) are different sites.
-    signIn: () => signInWithPopup(auth, provider),
+    // Redirect sign-in only works where this page and the auth helper share a site (the copy hosted on
+    // firebaseapp.com). On github.io the redirect breaks in Safari and in-app browsers, so use the popup there.
+    sameSite,
+    standalone,
+    signIn: () => {
+      if (sameSite && standalone) return signInWithRedirect(auth, provider);
+      return signInWithPopup(auth, provider).catch((e) => {
+        if (sameSite && e && (e.code === "auth/popup-blocked" || e.code === "auth/operation-not-supported-in-this-environment")) return signInWithRedirect(auth, provider);
+        throw e;
+      });
+    },
     signOut: () => signOut(auth),
   });
 } catch (e) {

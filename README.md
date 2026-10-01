@@ -2,6 +2,7 @@
 
 Sermons of fifteen great preachers, from Augustine to Billy Graham, sorted by subject (love, friendship, hatred and enemies, forgiveness and 20 more). Each sermon has sourced context, a note on where the preacher was in life when they gave it, and, where the text is in the public domain, the full sermon to read, mark verse by verse and listen to.
 
+- **Web app (install on your phone):** https://pulpit-index-sk17.firebaseapp.com (Safari → Share → Add to Home Screen; sign-in works inside the installed app here)
 - **Public site (GitHub Pages):** https://sagek17.github.io/pulpit-index/
 - **claude.ai version:** https://claude.ai/artifact/Qo3GgniXbejRK2Rptypo3S (private; share it from the page's Share menu)
 - **Offline copy:** open `dist/index.html` in any browser. Everything is inside that one file, including the full texts. Friends and shared notes only work on the live site.
@@ -56,6 +57,8 @@ Friends on GitHub Pages switch on when `firebase-config.json` (the Firebase web 
 
 ```bash
 python3 build.py
+firebase deploy --only hosting --project pulpit-index-sk17   # update the web app
+git push                                                   # update GitHub Pages
 ```
 
 Then open `dist/index.html`, or serve `dist/` to test the published layout:

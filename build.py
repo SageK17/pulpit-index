@@ -663,6 +663,12 @@ def main():
             f'<meta name="description" content="{desc}">\n'
             '<meta property="og:title" content="The Pulpit Index">\n'
             f'<meta property="og:description" content="{desc}">\n'
+            '<link rel="manifest" href="manifest.webmanifest">\n<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">\n'
+            '<link rel="icon" type="image/png" href="icons/icon-192.png">\n'
+            '<meta name="theme-color" content="#f5f5f2" media="(prefers-color-scheme: light)">\n'
+            '<meta name="theme-color" content="#0b0b0d" media="(prefers-color-scheme: dark)">\n'
+            '<meta name="apple-mobile-web-app-capable" content="yes">\n<meta name="mobile-web-app-capable" content="yes">\n'
+            '<meta name="apple-mobile-web-app-title" content="Pulpit">\n<meta name="apple-mobile-web-app-status-bar-style" content="default">\n'
             "<style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>\n"
             + ("<script>window.PULPIT_PAGES=true;window.PULPIT_FIREBASE=" + json.dumps(cfg) + ";"
                "window.PULPIT_BACKEND_READY=new Promise(function(res,rej){window.PULPIT_BACKEND_RESOLVE=res;window.PULPIT_BACKEND_REJECT=rej;"
@@ -672,6 +678,19 @@ def main():
         )
         open(os.path.join(docs, "index.html"), "w").write(head + page.replace("/*__TEXTS__*/", "null") + "\n</body>\n</html>\n")
         open(os.path.join(docs, ".nojekyll"), "w").write("")
+        # installable web app: manifest, icons, offline service worker (cache name changes with each build)
+        manifest = {"name": "The Pulpit Index", "short_name": "Pulpit", "description": desc, "start_url": "./", "scope": "./",
+                    "display": "standalone", "background_color": "#0b0b0d", "theme_color": "#141417",
+                    "icons": [{"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+                              {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+                              {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}]}
+        json.dump(manifest, open(os.path.join(docs, "manifest.webmanifest"), "w"), indent=1)
+        if os.path.isdir(os.path.join(docs, "icons")):
+            shutil.rmtree(os.path.join(docs, "icons"))
+        shutil.copytree(os.path.join(HERE, "icons"), os.path.join(docs, "icons"))
+        import hashlib
+        stamp = hashlib.sha1(open(os.path.join(docs, "index.html"), "rb").read()).hexdigest()[:10]
+        open(os.path.join(docs, "sw.js"), "w").write(open(os.path.join(HERE, "sw.js")).read().replace("__BUILD__", stamp))
         print(f"GitHub Pages build -> docs/index.html (+{len(bundles)} text bundles, friends {'on' if cfg else 'off until firebase-config.json exists'})")
 
     counts = {c: 0 for c in CAT_IDS}

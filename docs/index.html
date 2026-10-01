@@ -6,6 +6,15 @@
 <meta name="description" content="Sermons of 15 great preachers, from Augustine to Billy Graham, sorted by subject, with sourced context, where the preacher was in life, and full public-domain texts to read, mark and listen to.">
 <meta property="og:title" content="The Pulpit Index">
 <meta property="og:description" content="Sermons of 15 great preachers, from Augustine to Billy Graham, sorted by subject, with sourced context, where the preacher was in life, and full public-domain texts to read, mark and listen to.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<meta name="theme-color" content="#f5f5f2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b0b0d" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Pulpit">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>
 <script>window.PULPIT_PAGES=true;window.PULPIT_FIREBASE={"apiKey": "AIzaSyCPTxXjbNXtC1_sa9tBD2_s_hVCRie0k70", "authDomain": "pulpit-index-sk17.firebaseapp.com", "projectId": "pulpit-index-sk17", "storageBucket": "pulpit-index-sk17.firebasestorage.app", "messagingSenderId": "524475580579", "appId": "1:524475580579:web:2b79bddd8504f4d7427f16"};window.PULPIT_BACKEND_READY=new Promise(function(res,rej){window.PULPIT_BACKEND_RESOLVE=res;window.PULPIT_BACKEND_REJECT=rej;setTimeout(function(){rej(new Error('timeout'))},15000);});</script>
 <script type="module">
@@ -13,7 +22,7 @@
 // Exposes the same small surface the app already uses: db.doc(path) / db.collection(path).where().limit(),
 // with get / set / update / onSnapshot, plus profiles(ids), onUser(cb), signIn(), signOut().
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
-import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, getRedirectResult, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
 import { getFirestore, doc, collection, query, where, limit, onSnapshot, getDoc, getDocs, setDoc, updateDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
 try {
@@ -70,14 +79,25 @@ try {
   };
 
   const provider = new GoogleAuthProvider();
+  const sameSite = location.hostname === window.PULPIT_FIREBASE.authDomain;
+  const standalone = (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+  if (sameSite) getRedirectResult(auth).catch((e) => console.warn("sign-in redirect:", e && e.code));
   window.PULPIT_BACKEND_RESOLVE({
     kind: "firebase",
     db,
     profiles,
     onUser: (cb) => onAuthStateChanged(auth, (u) => cb(u ? { id: u.uid, name: u.displayName || "", avatarUrl: u.photoURL || "", email: null } : null)),
-    // Popup only: the redirect flow breaks in browsers that partition storage (Safari, in-app browsers),
-    // because this page (github.io) and the auth helper (firebaseapp.com) are different sites.
-    signIn: () => signInWithPopup(auth, provider),
+    // Redirect sign-in only works where this page and the auth helper share a site (the copy hosted on
+    // firebaseapp.com). On github.io the redirect breaks in Safari and in-app browsers, so use the popup there.
+    sameSite,
+    standalone,
+    signIn: () => {
+      if (sameSite && standalone) return signInWithRedirect(auth, provider);
+      return signInWithPopup(auth, provider).catch((e) => {
+        if (sameSite && e && (e.code === "auth/popup-blocked" || e.code === "auth/operation-not-supported-in-this-environment")) return signInWithRedirect(auth, provider);
+        throw e;
+      });
+    },
     signOut: () => signOut(auth),
   });
 } catch (e) {
@@ -2135,7 +2155,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   function syncShow() {
     var el = document.getElementById("sync-line"); if (el) el.textContent = syncLine();
     var cta = document.getElementById("sync-cta"); if (cta) cta.hidden = !S.needSignIn || SYNC.on;
-    var hn = document.getElementById("sync-hint"); if (hn) hn.innerHTML = S.signinHint ? '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>This browser blocked the sign-in window.</b> That happens in browsers inside apps (Claude, WhatsApp, Instagram…). Open this page in <b>Safari</b> or <b>Chrome</b> and sign in there: tap the compass or ⋯ menu and choose “Open in Safari/browser”, or copy the link. <button type="button" class="fbtn ghost small" data-f="copylink" style="margin-top:8px">Copy link</button></div>' : "";
+    var hn = document.getElementById("sync-hint"); if (hn) hn.innerHTML = S.signinHint ? (S.fb && S.fb.standalone && !S.fb.sameSite ? '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>Sign-in doesn’t work in a home-screen app installed from this address.</b> Install the app from <b>pulpit-index-sk17.firebaseapp.com</b> instead: open it in Safari, tap Share, then “Add to Home Screen”. Your data syncs between both.</div>' : '') + '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>This browser blocked the sign-in window.</b> That happens in browsers inside apps (Claude, WhatsApp, Instagram…). Open this page in <b>Safari</b> or <b>Chrome</b> and sign in there: tap the compass or ⋯ menu and choose “Open in Safari/browser”, or copy the link. <button type="button" class="fbtn ghost small" data-f="copylink" style="margin-top:8px">Copy link</button></div>' : "";
   }
 
   /* ================= FRIENDS (db + user capabilities) ================= */
@@ -2388,7 +2408,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
     if (S.loading || (S.on && S.member === undefined)) { el.innerHTML = '<div class="empty" style="margin-top:22px"><b>Connecting…</b>Checking who is signed in.</div>'; return; }
     if (S.needSignIn) {
       el.innerHTML = '<div class="panel" style="margin-top:22px;max-width:620px"><h3>Sign in to read with friends</h3><p>Sign in with your Google account to get a friend code, add friends and share notes that appear beside the verse in their reader.</p>' +
-        '<p><button class="fbtn" type="button" data-f="signin">' + icon("friends") + 'Sign in with Google</button></p>' + (S.signinHint ? '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>This browser blocked the sign-in window.</b> That happens in browsers inside apps (Claude, WhatsApp, Instagram…). Open this page in <b>Safari</b> or <b>Chrome</b> and sign in there: tap the compass or ⋯ menu and choose “Open in Safari/browser”, or copy the link. <button type="button" class="fbtn ghost small" data-f="copylink" style="margin-top:8px">Copy link</button></div>' : '') + '<p class="fine">Your highlights and notes keep working on this device without signing in.</p></div>';
+        '<p><button class="fbtn" type="button" data-f="signin">' + icon("friends") + 'Sign in with Google</button></p>' + (S.signinHint ? (S.fb && S.fb.standalone && !S.fb.sameSite ? '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>Sign-in doesn’t work in a home-screen app installed from this address.</b> Install the app from <b>pulpit-index-sk17.firebaseapp.com</b> instead: open it in Safari, tap Share, then “Add to Home Screen”. Your data syncs between both.</div>' : '') + '<div class="notest" style="margin-top:12px;font-family:var(--f-ui)"><b>This browser blocked the sign-in window.</b> That happens in browsers inside apps (Claude, WhatsApp, Instagram…). Open this page in <b>Safari</b> or <b>Chrome</b> and sign in there: tap the compass or ⋯ menu and choose “Open in Safari/browser”, or copy the link. <button type="button" class="fbtn ghost small" data-f="copylink" style="margin-top:8px">Copy link</button></div>' : '') + '<p class="fine">Your highlights and notes keep working on this device without signing in.</p></div>';
       return;
     }
     if (!S.on) { el.innerHTML = '<div class="empty" style="margin-top:22px"><b>' + (S.backendDown ? "Friends couldn’t connect" : window.PULPIT_PAGES ? "Friends are coming to this version soon" : "Friends work on the online site") + '</b>' + (S.backendDown ? "Check your connection and reload the page." : window.PULPIT_PAGES ? "Adding friends and sharing notes is being set up here. Your highlights, notes and bookmarks already work and stay on this device." : "Open the site online (on GitHub Pages or claude.ai) to add friends and share notes. Your own highlights and notes still work on this device.") + '</div>'; return; }
@@ -2448,6 +2468,7 @@ a.tile:active, .card:active, .pcard:active, .pmini:active { scale: .985; }
   try { if (!history.state) history.replaceState({ d: 0 }, "", location.hash || "#home"); } catch (e) {}
   render(false);
   initSocial();
+  if (window.PULPIT_PAGES && "serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {});
 })();
 </script>
 
